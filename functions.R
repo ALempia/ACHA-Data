@@ -374,8 +374,8 @@ get_ratings <- function(A, p, date){
     
     exit <- list()
     exit[["ratings"]] <- ratings
-    exit[["intercept"]] <- (p$intercept*p$n + fit$state[1]*n)/(p$n + n)
-    exit[["homeEF"]] <- (p$homeEF*p$n + fit$state[2]*n)/(p$n + n)
+    exit[["intercept"]] <- fit$state[1]
+    exit[["homeEF"]] <- fit$state[2]
     exit[["mean_hG"]] <- (b/(b + n))*(a_H/b) + (n/(n + b))*mean_Hgoals
     exit[["mean_aG"]] <- (b/(b + n))*(a_A/b) + (n/(n + b))*mean_Agoals
     exit
