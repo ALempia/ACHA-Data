@@ -1,7 +1,8 @@
 on:
   schedule:
     - cron: '0 11 * * *'
-
+permissions:
+  contents: write
 jobs:
   daily-update:
     runs-on: macos-latest
@@ -21,7 +22,7 @@ jobs:
             any::bpr
 
       - name: Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
 
       - name: Run script
         run: Rscript -e 'source("Daily_script.R")'
@@ -30,6 +31,6 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add .
+          git add -A
           git commit -m 'Daily Update' 
           git push origin main
