@@ -33,7 +33,4 @@ jobs:
           git config --local user.name "GitHub Actions"
           git add -A
           git commit -m 'Daily Update' 
-          git push
-        env:
-        REPO_KEY: ${{secrets.Update_Token}}
-        username: github-actions
+          git push origin main
