@@ -404,13 +404,19 @@ power_Rank <- function(ratings_list, date){
                Off_rating, Def_rating) %>% arrange(Rank)
 }
 
-edit_sched_ratings <- function(lg, date){
+update_schedule <- function(lg, date){
   require(tidyverse)
   # Get Schedule
   live <- read_data(lg, 24) %>% mutate(game_id = as.numeric(game_id))
   
   # Update Schedule
   write_csv(live, paste0("Data/schedule/schedule_", lg, ".csv"))
+}
+
+update_ratings <- function(lg, date){
+  # Get Schedule
+  live <- read_data(lg, 24) %>% mutate(game_id = as.numeric(game_id))
+  
   # Update Ratings
   p <- read_rds(paste0("Data/prior/prior_", lg, ".rds"))
   m <- get_ratings(live, p, date = date)
