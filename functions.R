@@ -444,7 +444,7 @@ get_W_Su <- function(date){
     read_csv(paste0("Data/schedule/schedule_", lg, ".csv")) %>% 
       filter(prop_date > date & prop_date <= sunday) %>% 
       mutate(`Lg.` = lg, Day = wday(prop_date, label = T, week_start = 1)) %>% 
-      select(`Lg.`, Day, Home, Away)
+      select(`Lg.`, Day, home, away) %>% transmute(`Lg.` = `Lg.`, Day = Day, Home = home, Away = away)
   }
   weekend <- map(.x = c("M1", "W1", "M2", "M3", "W2"), f) %>% bind_rows()
   write_csv(weekend, "Data/weekend.csv")
