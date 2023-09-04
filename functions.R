@@ -263,7 +263,7 @@ get_ratings <- function(A, p, date){
       value = 0, var = 0
     ) 
     
-    # set prior to 0 or 90% of rating & variance 
+    # set prior to 0 or 80% of rating & variance 
     for(i in 1:nrow(prior)){
       team_i <- prior$Team[i]
       prior$value[i] <- ifelse(str_remove(team_i, ".1") %in% new_teams, 0,
@@ -273,8 +273,8 @@ get_ratings <- function(A, p, date){
       ))
       prior$var[i] <- ifelse(str_remove(team_i, ".1") %in% new_teams, 0.3^2,
         ifelse(str_remove(team_i, ".1") %in% returning_teams & !str_detect(team_i, ".1"), 
-          (1.3*p$ratings$sd_o[which(p$ratings$Team == team_i)])^2,
-          (1.3*p$ratings$sd_d[which(p$ratings$Team == str_remove(team_i, ".1"))])^2
+          (p$ratings$sd_o[which(p$ratings$Team == team_i)])^2,
+          (p$ratings$sd_d[which(p$ratings$Team == str_remove(team_i, ".1"))])^2
       ))
     }
     
@@ -323,10 +323,15 @@ get_ratings <- function(A, p, date){
     # Remove last team
     A <- A[,1:ncol(A) - 1]
     
+    off_offset <- prior$value[(nrow(prior)/2 + 1)]
+    def_offset <- prior$value[nrow(prior)]
+    
     # Re-set prior to be relative to last team
     prior$value[3:(nrow(prior)/2 + 1)] <- prior$value[3:(nrow(prior)/2 + 1)] - prior$value[(nrow(prior)/2 + 1)]
     prior$value[(nrow(prior)/2 + 2):nrow(prior)] <- prior$value[(nrow(prior)/2 + 2):nrow(prior)] - 
       prior$value[nrow(prior)]
+    
+
     
     # cut out last team from prior
     prior <- prior %>% filter(!str_detect(Team, last))
@@ -350,18 +355,19 @@ get_ratings <- function(A, p, date){
                                    B = diag(2*nteams+2)*prior$var))
     
     # Pull coefficients
-    ratings <- data.frame(Team = str_remove(names(fit$state)[3:(nteams+2)], "X"), 
-                          off = fit$state[3:(nteams+2)], def = fit$state[(nteams+3):(2+nteams*2)])
+    coefs <- summary(fit)$coefficients[,1] %>% as.numeric()
+    ratings <- data.frame(Team = prior$Team[3:(nteams+2)], 
+                          off = coefs[3:(nteams+2)], def = coefs[(nteams+3):(2+nteams*2)])
     rownames(ratings) <- NULL
     # Re-reference the mean
     ratings <- bind_rows(ratings, data.frame(Team = last, off = 0, def = 0)) %>% mutate(
-      Off_adjed = off - mean(off), Def_adjed = def - mean(def)
+      Off_adjed = off - mean(off) + off_offset, Def_adjed = def - mean(def) + def_offset
     )
     
     #ADD MISSING TEAMS USING PRIOR -- Unjoined teams are new and set to average
     missing_ratings <- data.frame(Team = excluded_teams)
     missing_ratings <- missing_ratings %>% left_join(p$ratings, by = "Team") %>% 
-      select(Team, Off_adjed, Def_adjed)
+      select(Team, Off_adjed, Def_adjed) %>% mutate(Off_adjed = 0.8*Off_adjed, Def_adjed = 0.8*Def_adjed)
     missing_ratings[is.na(missing_ratings)] <- 0
     
     # Combine
@@ -374,8 +380,8 @@ get_ratings <- function(A, p, date){
     
     exit <- list()
     exit[["ratings"]] <- ratings
-    exit[["intercept"]] <- fit$state[1]
-    exit[["homeEF"]] <- fit$state[2]
+    exit[["intercept"]] <- coefs[1]
+    exit[["homeEF"]] <- coefs[2]
     exit[["mean_hG"]] <- (b/(b + n))*(a_H/b) + (n/(n + b))*mean_Hgoals
     exit[["mean_aG"]] <- (b/(b + n))*(a_A/b) + (n/(n + b))*mean_Agoals
     exit
