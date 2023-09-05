@@ -95,7 +95,9 @@ read_data <- function(lg = c("M1", "M2", "M3", "W1", "W2"), season, include_manu
         home = str_replace_all(home, c(" " = "_", "-" = "_")),
         away = str_replace_all(away, c(" " = "_", "-" = "_")),
        
-      ) 
+      ) %>% filter(
+        home != "TBD" & away != "TBD"
+      )
 
   return(data)
 }
