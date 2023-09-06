@@ -259,7 +259,7 @@ make_wknd_tbl <- function(leagues, day, DATA, cur_date){
     day == "Sunday" ~ c("Sun", "", "", "")
   )
   
-  end_date <- cur_date + days(7 - today - 1)
+  end_date <- cur_date + days(7 - today)
   start_date <- case_when(
     day == "Thursday" ~ end_date - days(3),
     day == "Friday" ~ end_date - days(2),
@@ -270,7 +270,9 @@ make_wknd_tbl <- function(leagues, day, DATA, cur_date){
   form_start_date <- paste0(day, ", ", month(start_date, label = T, abbr = F), " ", day(start_date))
   form_end_date <- paste0("Sunday", ", ", month(end_date, label = T, abbr = F), " ", day(end_date))
   
-  if(today < 3 | nrow(DATA$WKND) == 0){
+  wknd <- DATA$WKND %>% filter(Day %in% wkdys & `Lg.` %in% lgs_active)
+  
+  if(today < 3 | nrow(wknd) == 0){
     data.frame(
       `Lg.` = c("."), Day = c("."), Awaytm = c("."), AwayxG = c("."),
       Awaypct = c("."), Hometm = c("."), HomexG = c("."), Homepct = c(".")
@@ -295,7 +297,6 @@ make_wknd_tbl <- function(leagues, day, DATA, cur_date){
       )
   }
   else{
-  wknd <- DATA$WKND %>% filter(Day %in% wkdys & `Lg.` %in% leagues)
   
   wknd$AG = rep(0, nrow(wknd)); wknd$HG <- wknd$AG; wknd$Apct <- wknd$AG; wknd$Hpct <- wknd$AG
   
@@ -312,7 +313,7 @@ make_wknd_tbl <- function(leagues, day, DATA, cur_date){
                           AG = round(AG, 2), HG = round(HG, 2),
                           Apct = round(100*Apct, 1), Hpct = round(100*Hpct, 1)
                             ) %>% 
-    arrange(factor(Day, levels = wkdys), factor(`Lg.`, levels = lgs))
+    arrange(factor(Day, levels = wkdys[wkdys != ""]), factor(`Lg.`, levels = lgs))
   
   y <- wknd %>% transmute(
     `Lg.` = factor(`Lg.`, levels = lgs), Day = Day, `Away xGoals` = AG, Awaytm = Away, `Away %` = Apct, 
