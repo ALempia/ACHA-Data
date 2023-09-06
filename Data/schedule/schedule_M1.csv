@@ -1,6 +1,4 @@
 game_id,homeG,awayG,status,home,away,phase,prop_date
-15352,-,-,7:00 pm EDT,Kent_State_University,TBD,Regular,2023-9-8
-15353,-,-,5:00 pm EDT,Kent_State_University,TBD,Regular,2023-9-9
 12700,-,-,7:00 pm CDT,McKendree_University,Maryville_University,Regular,2023-9-14
 13344,-,-,7:30 pm EDT,Oswego_State_University,Villanova_University,Regular,2023-9-15
 12577,-,-,7:00 pm CDT,Waldorf_University,University_of_Oklahoma,Regular,2023-9-15
@@ -667,8 +665,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14158,-,-,8:30 pm EST,Stony_Brook_University,Niagara_University,Regular,2024-1-6
 13491,-,-,8:55 pm EST,Oakland_University,University_of_Toledo,Regular,2024-1-6
 13621,-,-,7:00 pm MST,Grand_Canyon_University,Arizona_State_University,Regular,2024-1-6
+15356,-,-,7:45 pm MST,Colorado_State_University,University_of_Mary,Regular,2024-1-6
 12625,-,-,8:00 pm PST,University_of_Nevada_Las_Vegas,Minot_State_University,Regular,2024-1-6
 14159,-,-,1:30 pm EST,Stony_Brook_University,Niagara_University,Regular,2024-1-7
+15357,-,-,12:30 pm MST,Colorado_State_University,University_of_Mary,Regular,2024-1-7
 13121,-,-,8:30 pm EST,University_of_Delaware,University_of_Pittsburgh,Regular,2024-1-7
 13872,-,-,7:00 pm CST,Minot_State_University,University_of_Mary,Regular,2024-1-10
 14128,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Davenport_University,Regular,2024-1-11
@@ -782,10 +782,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12627,-,-,7:30 pm PST,University_of_Nevada_Las_Vegas,Arizona_State_University,Regular,2024-1-20
 13890,-,-,11:59 pm EST,Liberty_University,Syracuse_University,Regular,2024-1-20
 12514,-,-,2:00 pm CST,University_of_Mary,Illinois_State_University,Regular,2024-1-21
-15354,-,-,3:00 pm EST,Mercyhurst_University,TBD,Regular,2024-1-21
 13975,-,-,3:30 pm EST,The_College_of_New_Jersey,Rutgers_University,Regular,2024-1-21
 13123,-,-,6:15 pm EST,University_of_Delaware,Drexel_University,Regular,2024-1-21
-15355,-,-,8:00 pm EST,Mercyhurst_University,TBD,Regular,2024-1-22
 12515,-,-,7:00 pm CST,University_of_Mary,Minot_State_University,Regular,2024-1-24
 13602,-,-,8:30 pm EST,Western_Michigan_University,Davenport_University,Regular,2024-1-24
 13033,-,-,7:30 pm EST,Adrian_College,Calvin_University,Regular,2024-1-25
@@ -857,7 +855,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13977,-,-,3:30 pm EST,The_College_of_New_Jersey,William_Paterson_University,Regular,2024-1-28
 13172,-,-,9:00 pm MST,Arizona_State_University,Grand_Canyon_University,Regular,2024-2-1
 15236,-,-,12:01 am EST,Rochester_University,Cleary_University,Regular,2024-2-2
-15159,-,-,5:00 pm EST,Lawrence_Tech,TBD,Regular,2024-2-2
 13844,-,-,7:00 pm EST,United_States_Naval_Academy,Villanova_University,Regular,2024-2-2
 14132,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Indiana_Tech,Regular,2024-2-2
 12854,-,-,7:00 pm EST,University_of_Rhode_Island,Stony_Brook_University,Regular,2024-2-2
@@ -886,7 +883,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12498,-,-,8:00 pm PST,San_Diego_State_University,University_of_Colorado,Regular,2024-2-2
 13892,-,-,1:00 pm EST,Liberty_University,Adrian_College,Regular,2024-2-3
 14621,-,-,2:00 pm EST,Rutgers_University,William_Paterson_University,Regular,2024-2-3
-15160,-,-,2:30 pm EST,Lawrence_Tech,TBD,Regular,2024-2-3
 12594,-,-,2:00 pm CST,Waldorf_University,Minot_State_University,Regular,2024-2-3
 13929,-,-,2:00 pm CST,University_of_Alabama,University_of_Oklahoma,Regular,2024-2-3
 12855,-,-,4:00 pm EST,University_of_Rhode_Island,Stony_Brook_University,Regular,2024-2-3
@@ -928,6 +924,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13034,-,-,7:30 pm EST,Adrian_College,Grand_Valley_State_University,Regular,2024-2-8
 12610,-,-,7:30 pm CST,University_of_Central_Oklahoma,University_of_Utah,Regular,2024-2-8
 12672,-,-,8:15 pm CST,Maryville_University,University_of_Arizona,Regular,2024-2-8
+15358,-,-,8:30 pm MST,Colorado_State_University,Arizona_State_University,Regular,2024-2-8
 15329,-,-,5:10 pm EST,Villanova_University,William_Paterson_University,Regular,2024-2-9
 12490,-,-,4:15 pm CST,University_of_Oklahoma,University_of_Utah,Regular,2024-2-9
 13846,-,-,5:30 pm EST,Towson_University,The_College_of_New_Jersey,Regular,2024-2-9
