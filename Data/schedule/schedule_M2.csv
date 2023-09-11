@@ -1,13 +1,13 @@
 game_id,homeG,awayG,status,home,away,phase,prop_date
 14795,6,0,Final,University_of_Iowa,Bradley_University,Regular,2023-9-1
 14796,7,1,Final,University_of_Iowa,Bradley_University,Regular,2023-9-2
-14829,-,-,7:30 pm EDT,University_of_Michigan,Central_Michigan_University,Regular,2023-9-8
+14829,16,1,Final,University_of_Michigan,Central_Michigan_University,Regular,2023-9-8
 15110,17,3,Final,North_Carolina_State_University,East_Carolina_University,Regular,2023-9-8
-15284,-,-,8:45 pm EDT,Southern_Methodist_University,University_of_Texas,Regular,2023-9-8
-13443,-,-,9:00 pm CDT,University_of_Wisconsin_Milwaukee,University_of_Louisville,Regular,2023-9-8
-14797,-,-,9:00 pm CDT,University_of_Iowa,Southern_Illinois_University_Edwardsville,Regular,2023-9-8
+15284,8,2,Final,Southern_Methodist_University,University_of_Texas,Regular,2023-9-8
+13443,0,3,01:03 2nd,University_of_Wisconsin_Milwaukee,University_of_Louisville,Regular,2023-9-8
+14797,7,2,Final,University_of_Iowa,Southern_Illinois_University_Edwardsville,Regular,2023-9-8
 13444,-,-,1:00 pm CDT,University_of_Wisconsin_Milwaukee,University_of_Louisville,Regular,2023-9-9
-14798,-,-,1:00 pm CDT,University_of_Iowa,Southern_Illinois_University_Edwardsville,Regular,2023-9-9
+14798,3,1,Final,University_of_Iowa,Southern_Illinois_University_Edwardsville,Regular,2023-9-9
 15285,-,-,7:30 pm EDT,Southern_Methodist_University,University_of_Texas,Regular,2023-9-9
 13521,-,-,5:00 pm EDT,Army_(West_Point),Central_Connecticut_State_University,Regular,2023-9-10
 13419,-,-,7:00 pm CDT,Oklahoma_State_University,Drury_University,Regular,2023-9-14
