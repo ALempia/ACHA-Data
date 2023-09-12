@@ -498,6 +498,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13815,-,-,8:00 pm EST,George_Mason_University,William_Paterson_University,Regular,2023-11-17
 14142,-,-,8:10 pm EST,John_Carroll_University,Kent_State_University,Regular,2023-11-17
 13634,-,-,7:20 pm CST,Roosevelt_University,University_of_Toledo,Regular,2023-11-17
+12639,-,-,7:30 pm CST,Midland_University,Iowa_State_University,Regular,2023-11-17
 13383,-,-,8:35 pm EST,Robert_Morris_University,Duquesne_University,Regular,2023-11-17
 15204,-,-,8:35 pm EST,Davenport_University,Adrian_College,Regular,2023-11-17
 13463,-,-,8:40 pm EST,Temple_University,United_States_Naval_Academy,Regular,2023-11-17
@@ -531,7 +532,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13236,-,-,7:00 pm CST,Purdue_University_Northwest,Western_Michigan_University,Regular,2023-11-18
 13799,-,-,6:00 pm MST,University_of_Colorado,Missouri_State_University,Regular,2023-11-18
 13635,-,-,7:30 pm CST,Roosevelt_University,University_of_Toledo,Regular,2023-11-18
-12639,-,-,7:30 pm CST,Midland_University,Iowa_State_University,Regular,2023-11-18
 13340,-,-,7:40 pm CST,Illinois_State_University,University_of_Alabama,Regular,2023-11-18
 15767,-,-,7:45 pm CST,Iowa_State_University,Midland_University,Regular,2023-11-18
 13784,-,-,7:30 pm MST,University_of_Utah,University_of_Arizona,Regular,2023-11-18
@@ -698,6 +698,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14541,-,-,8:00 pm EST,William_Paterson_University,Rochester_Institute_of_Technology,Regular,2024-1-12
 12529,-,-,7:00 pm CST,University_of_Jamestown,McKendree_University,Regular,2024-1-12
 13640,-,-,7:20 pm CST,Roosevelt_University,University_of_Illinois,Regular,2024-1-12
+13318,-,-,7:30 pm CST,Midland_University,Iowa_State_University,Regular,2024-1-12
 12606,-,-,7:30 pm CST,University_of_Central_Oklahoma,University_of_Colorado,Regular,2024-1-12
 14319,-,-,8:30 pm EST,Concordia_University_Ann_Arbor,Cleary_University,Regular,2024-1-12
 15208,-,-,8:35 pm EST,Davenport_University,University_of_Michigan_Dearborn,Regular,2024-1-12
@@ -729,7 +730,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12511,-,-,7:00 pm CST,University_of_Mary,Northern_Illinois_University,Regular,2024-1-13
 14057,-,-,7:00 pm CST,University_of_Illinois,Roosevelt_University,Regular,2024-1-13
 12530,-,-,7:00 pm CST,University_of_Jamestown,McKendree_University,Regular,2024-1-13
-13318,-,-,7:30 pm CST,Midland_University,Iowa_State_University,Regular,2024-1-13
 13793,-,-,7:30 pm CST,University_of_Oklahoma,Missouri_State_University,Regular,2024-1-13
 15769,-,-,7:45 pm CST,Iowa_State_University,Midland_University,Regular,2024-1-13
 13183,-,-,7:00 pm MST,Arizona_State_University,Grand_Canyon_University,Regular,2024-1-13
