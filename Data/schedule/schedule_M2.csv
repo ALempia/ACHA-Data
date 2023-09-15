@@ -9,7 +9,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13444,4,6,Final,University_of_Wisconsin_Milwaukee,University_of_Louisville,Regular,2023-9-9
 14798,3,1,Final,University_of_Iowa,Southern_Illinois_University_Edwardsville,Regular,2023-9-9
 15285,6,2,Final,Southern_Methodist_University,University_of_Texas,Regular,2023-9-9
-13521,-,-,5:00 pm EDT,Army_(West_Point),Central_Connecticut_State_University,Regular,2023-9-10
+13521,9,4,Final,Army_(West_Point),Central_Connecticut_State_University,Regular,2023-9-10
 13419,-,-,7:00 pm CDT,Oklahoma_State_University,Drury_University,Regular,2023-9-14
 13184,-,-,6:00 pm CDT,Illinois_State_University,Bradley_University,Regular,2023-9-15
 14830,-,-,7:30 pm EDT,University_of_Michigan,Michigan_State_University,Regular,2023-9-15
@@ -84,6 +84,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13979,-,-,8:00 pm PDT,Washington_State_University,University_of_Idaho,Regular,2023-9-23
 14281,-,-,8:30 pm PDT,University_of_Southern_California,California_State_University_Fullerton,Regular,2023-9-23
 15622,-,-,10:00 am EDT,Davenport_University,Denison_University,Regular,2023-9-24
+16003,-,-,12:30 pm EDT,Michigan_State_University,University_of_Wisconsin,Regular,2023-9-24
 13060,-,-,2:30 pm EDT,Central_Michigan_University,University_of_Michigan,Regular,2023-9-24
 14282,-,-,2:00 pm PDT,University_of_Southern_California,California_State_University_Fullerton,Regular,2023-9-24
 15860,-,-,5:00 pm EDT,George_Washington_University,Georgetown_University,Regular,2023-9-24
