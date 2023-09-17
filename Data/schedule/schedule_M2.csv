@@ -21,7 +21,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13043,-,-,7:00 pm CDT,East_Texas_Baptist_University,University_of_Texas,Regular,2023-9-15
 15858,-,-,8:10 pm EDT,George_Washington_University,University_of_Richmond,Regular,2023-9-15
 16118,-,-,8:00 pm CDT,Texas_Christian_University,Texas_A&M_University,Regular,2023-9-15
-15571,-,-,7:15 pm MDT,Weber_State_University,University_of_Utah,Regular,2023-9-15
+15571,4,0,Final,Weber_State_University,University_of_Utah,Regular,2023-9-15
 13709,-,-,8:30 pm CDT,DePaul_University,Miami_University,Regular,2023-9-15
 14028,-,-,8:30 pm CDT,University_of_Wisconsin,Ohio_State_University,Regular,2023-9-15
 16082,-,-,7:30 pm MDT,University_of_Wyoming,Park_University,Regular,2023-9-15
@@ -30,14 +30,14 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15748,-,-,11:59 pm EDT,University_of_Kentucky,Boston_University,Regular,2023-9-15
 14029,-,-,9:45 am CDT,University_of_Wisconsin,Ohio_State_University,Regular,2023-9-16
 15563,-,-,12:00 pm EDT,Michigan_Technological_University,Lake_Superior_State_University,Regular,2023-9-16
-15915,-,-,2:00 pm EDT,University_of_Cincinnati,Denison_University,Regular,2023-9-16
+15915,0,6,Final,University_of_Cincinnati,Denison_University,Regular,2023-9-16
 16119,-,-,1:15 pm CDT,Texas_Christian_University,Texas_A&M_University,Regular,2023-9-16
 15020,-,-,2:30 pm EDT,University_of_Louisville,Southern_Illinois_University_Edwardsville,Regular,2023-9-16
 13044,-,-,2:00 pm CDT,East_Texas_Baptist_University,University_of_Texas,Regular,2023-9-16
-14445,-,-,2:30 pm CDT,Bradley_University,University_of_Illinois,Regular,2023-9-16
+14445,6,5,2:30 pm CDT,Bradley_University,University_of_Illinois,Regular,2023-9-16
 13710,-,-,6:30 pm CDT,DePaul_University,Miami_University,Regular,2023-9-16
 14515,-,-,5:50 pm PDT,Loyola_Marymount_University,California_State_University_Fullerton,Regular,2023-9-16
-15306,-,-,7:00 pm MDT,Utah_Valley_University,University_of_Utah,Regular,2023-9-16
+15306,2,7,04:44 3rd,Utah_Valley_University,University_of_Utah,Regular,2023-9-16
 15572,-,-,7:15 pm MDT,Weber_State_University,Utah_State_University_,Regular,2023-9-16
 16083,-,-,7:30 pm MDT,University_of_Wyoming,Park_University,Regular,2023-9-16
 13080,-,-,10:00 pm EDT,University_of_North_Carolina_Wilmington,Millersville_University,Regular,2023-9-16
