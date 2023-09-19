@@ -3,11 +3,11 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13344,-,-,7:30 pm EDT,Oswego_State_University,Villanova_University,Regular,2023-9-15
 12577,3,4,Final,Waldorf_University,University_of_Oklahoma,Regular,2023-9-15
 14248,5,3,Final,West_Chester_University,West_Virginia_University,Regular,2023-9-15
-14529,-,-,8:00 pm EDT,William_Paterson_University,Canisius_University,Regular,2023-9-15
-13808,8,2,Unofficial Final,George_Mason_University,Towson_University,Regular,2023-9-15
+14529,5,1,Final,William_Paterson_University,Canisius_University,Regular,2023-9-15
+13808,8,2,Final,George_Mason_University,Towson_University,Regular,2023-9-15
 12534,2,4,Final,Missouri_State_University,Illinois_State_University,Regular,2023-9-15
 14134,5,2,Final,John_Carroll_University,Western_Michigan_University,Regular,2023-9-15
-14947,-,-,8:20 pm EDT,Duquesne_University,University_of_Pittsburgh,Regular,2023-9-15
+14947,0,5,Final,Duquesne_University,University_of_Pittsburgh,Regular,2023-9-15
 12565,2,8,Final,Northern_Illinois_University,Kent_State_University,Regular,2023-9-15
 12595,11,1,Final,University_of_Central_Oklahoma,University_of_Alabama,Regular,2023-9-15
 12656,12,2,Final,Maryville_University,McKendree_University,Regular,2023-9-15
@@ -21,7 +21,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14973,1,2,Final,Towson_University,George_Mason_University,Regular,2023-9-16
 13457,4,2,Final,Temple_University,The_College_of_New_Jersey,Regular,2023-9-16
 14326,-,-,7:50 pm EDT,University_of_Pittsburgh,Duquesne_University,Regular,2023-9-16
-14530,-,-,8:00 pm EDT,William_Paterson_University,Canisius_University,Regular,2023-9-16
+14530,7,4,Final,William_Paterson_University,Canisius_University,Regular,2023-9-16
 12596,13,1,Final,University_of_Central_Oklahoma,University_of_Alabama,Regular,2023-9-16
 15197,-,-,9:35 pm EDT,Davenport_University,Western_Michigan_University,Regular,2023-9-19
 14609,-,-,7:00 pm EDT,Rutgers_University,Oswego_State_University,Regular,2023-9-22
