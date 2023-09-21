@@ -133,6 +133,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14571,-,-,1:00 pm EST,Lake_Superior_State_University,Niagara_University,Regular,2023-11-5
 12768,-,-,1:00 pm CST,University_of_Jamestown,Maryville_University,Regular,2023-11-5
 15772,-,-,1:00 pm EST,Lindenwood_University,University_of_Michigan,Regular,2023-11-10
+16522,-,-,1:00 pm CST,Lindenwood_University,University_of_Michigan,Regular,2023-11-10
 13681,-,-,3:50 pm EST,University_of_Massachusetts_Amherst,University_of_Utah,Regular,2023-11-10
 12789,-,-,4:30 pm EST,Indiana_Tech,Miami_University,Regular,2023-11-10
 12752,-,-,3:45 pm CST,Minot_State_University,Midland_University,Regular,2023-11-10
@@ -217,7 +218,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12733,-,-,5:30 pm EST,Concordia_University_Ann_Arbor,Grand_Valley_State_University,Regular,2024-1-12
 13009,-,-,7:00 pm EST,University_of_Michigan_Dearborn,University_of_Rhode_Island,Regular,2024-1-12
 14777,-,-,7:30 pm EST,Aquinas_College,Indiana_Tech,Regular,2024-1-12
-13559,-,-,7:30 pm CST,McKendree_University,Michigan_State_University,Regular,2024-1-12
+13559,-,-,7:45 pm CST,McKendree_University,Michigan_State_University,Regular,2024-1-12
 13010,-,-,3:00 pm EST,University_of_Michigan_Dearborn,University_of_Rhode_Island,Regular,2024-1-13
 12795,-,-,3:30 pm EST,Indiana_Tech,Aquinas_College,Regular,2024-1-13
 12755,-,-,3:45 pm CST,Minot_State_University,University_of_Jamestown,Regular,2024-1-13
@@ -234,6 +235,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13106,-,-,3:00 pm EST,Niagara_University,Penn_State_University,Regular,2024-1-14
 14915,-,-,4:00 pm EST,University_of_Michigan,University_of_Rhode_Island,Regular,2024-1-14
 15548,-,-,8:50 pm CST,Lindenwood_University,Michigan_State_University,Regular,2024-1-14
+16523,-,-,10:30 am CST,Lindenwood_University,Arizona_State_University,Regular,2024-1-15
 12722,-,-,2:00 pm CST,Maryville_University,Lindenwood_University,Regular,2024-1-19
 14673,-,-,1:30 pm MST,University_of_Utah,Montana_State_University,Regular,2024-1-19
 12796,-,-,4:00 pm EST,Indiana_Tech,University_of_Massachusetts_Amherst,Regular,2024-1-19

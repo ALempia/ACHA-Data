@@ -3,7 +3,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13072,9,0,Final,Creighton_University,Drake_University,Regular,2023-9-9
 16287,11,5,Final,University_of_Notre_Dame,Butler_University,Regular,2023-9-15
 14424,-,-,7:30 pm EDT,Davenport_University,Lake_Superior_State_University,Regular,2023-9-15
-14236,-,-,7:20 pm CDT,University_of_Kansas,Dordt_University,Regular,2023-9-15
+14236,6,2,Final,University_of_Kansas,Dordt_University,Regular,2023-9-15
 12885,4,10,Unofficial Final,Drake_University,University_of_Nebraska_at_Omaha,Regular,2023-9-15
 13197,0,10,Final,Illinois_State_University,University_of_Missouri,Regular,2023-9-15
 12800,7,3,Final,Missouri_State_University,East_Texas_Baptist_University,Regular,2023-9-15
@@ -11,7 +11,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14425,-,-,1:30 pm EDT,Davenport_University,Lake_Superior_State_University,Regular,2023-9-16
 13198,2,7,Final,Illinois_State_University,University_of_Missouri,Regular,2023-9-16
 12801,10,1,Final,Missouri_State_University,East_Texas_Baptist_University,Regular,2023-9-16
-14237,-,-,2:00 pm CDT,University_of_Kansas,Dordt_University,Regular,2023-9-16
+14237,4,8,Final,University_of_Kansas,Dordt_University,Regular,2023-9-16
 16288,-,-,7:30 pm EDT,University_of_Notre_Dame,Calvin_University,Regular,2023-9-21
 14426,-,-,2:00 pm EDT,Grand_Valley_State_University,Miami_University,Regular,2023-9-22
 13199,-,-,1:00 pm CDT,Illinois_State_University,Maryville_University,Regular,2023-9-22
@@ -443,7 +443,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15412,-,-,3:00 pm EST,United_States_Coast_Guard_Academy,University_of_Massachusetts,Regular,2023-12-3
 13477,-,-,4:00 pm EST,Adrian_College,Marian_University,Regular,2023-12-3
 16377,-,-,4:20 pm EST,Curry_College,University_of_Connecticut,Regular,2023-12-3
-16431,-,-,7:45 pm EST,United_States_Coast_Guard_Academy,Thomas_College,Regular,2023-12-3
 16283,-,-,8:30 pm EST,New_Jersey_Institute_of_Technology,Merchant_Marine_Academy,Regular,2023-12-3
 16018,-,-,8:00 pm EST,Thomas_College,Colby_College,Regular,2023-12-7
 13700,-,-,7:30 pm CST,University_of_Arkansas,Saginaw_Valley_State_University,Regular,2023-12-7
@@ -632,6 +631,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15968,-,-,7:30 pm EST,Ferris_State_University,Hope_College,Regular,2024-2-3
 14469,-,-,7:30 pm EST,Kent_State_University,Robert_Morris_University,Regular,2024-2-3
 16329,-,-,7:30 pm EST,Grand_Valley_State_University,Michigan_State_University,Regular,2024-2-3
+16431,-,-,7:45 pm EST,United_States_Coast_Guard_Academy,Thomas_College,Regular,2024-2-3
 14396,-,-,8:00 pm EST,Saint_Thomas_Aquinas_College,Sacred_Heart_University,Regular,2024-2-3
 16298,-,-,9:00 pm EST,University_of_Notre_Dame,Purdue_University,Regular,2024-2-3
 12963,-,-,8:20 pm CST,University_of_Nebraska_at_Omaha,University_of_Kansas,Regular,2024-2-3
