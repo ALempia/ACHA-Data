@@ -2,6 +2,7 @@ require(httr)
 require(stringr)
 require(tidyverse)
 require(jsonlite)
+require(bpr)
 
 pull_url <-function(code){
   require(httr)
@@ -363,7 +364,7 @@ get_ratings <- function(A, p, date){
     rownames(ratings) <- NULL
     # Re-reference the mean
     ratings <- bind_rows(ratings, data.frame(Team = last, off = 0, def = 0)) %>% mutate(
-      Off_adjed = off - mean(off) + off_offset, Def_adjed = def - mean(def) + def_offset
+      Off_adjed = off + off_offset, Def_adjed = def + def_offset
     )
     
     #ADD MISSING TEAMS USING PRIOR -- Unjoined teams are new and set to average
@@ -374,6 +375,10 @@ get_ratings <- function(A, p, date){
     
     # Combine
     ratings <- bind_rows(ratings, missing_ratings)
+    # Adjust Mean
+    ratings <- ratings %>% mutate(
+      Off_adjed = Off_adjed - mean(Off_adjed), Def_adjed = Def_adjed - mean(Def_adjed)
+    )
     
     # Update values of relevant numbers
     a_H <- p$n * p$mean_hG; b <- p$n
