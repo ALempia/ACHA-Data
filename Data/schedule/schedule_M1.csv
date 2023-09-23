@@ -27,23 +27,23 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14609,-,-,7:00 pm EDT,Rutgers_University,Oswego_State_University,Regular,2023-9-22
 14622,-,-,7:00 pm EDT,Niagara_University,Rochester_Institute_of_Technology,Regular,2023-9-22
 14102,-,-,7:30 pm EDT,Kent_State_University,Rochester_University,Regular,2023-9-22
-14309,-,-,7:30 pm EDT,Concordia_University_Ann_Arbor,Duquesne_University,Regular,2023-9-22
-15162,-,-,7:40 pm EDT,Aquinas_College,Roosevelt_University,Regular,2023-9-22
+14309,3,1,Final,Concordia_University_Ann_Arbor,Duquesne_University,Regular,2023-9-22
+15162,7,3,Final,Aquinas_College,Roosevelt_University,Regular,2023-9-22
 13482,-,-,7:40 pm EDT,Oakland_University,University_of_Michigan_Dearborn,Regular,2023-9-22
 15242,-,-,7:45 pm EDT,Lehigh_University,The_College_of_New_Jersey,Regular,2023-9-22
 14593,-,-,8:00 pm EDT,Indiana_University_of_Pennsylvania,West_Chester_University,Regular,2023-9-22
 12579,-,-,7:00 pm CDT,Waldorf_University,Colorado_State_University,Regular,2023-9-22
-13920,-,-,7:00 pm CDT,University_of_Alabama,Missouri_State_University,Regular,2023-9-22
+13920,3,6,Final,University_of_Alabama,Missouri_State_University,Regular,2023-9-22
 13155,-,-,7:00 pm CDT,Illinois_State_University,Maryville_University,Regular,2023-9-22
 13226,-,-,7:00 pm CDT,Purdue_University_Northwest,Lawrence_Tech,Regular,2023-9-22
 14051,-,-,7:00 pm CDT,University_of_Illinois,Northern_Illinois_University,Regular,2023-9-22
-13458,-,-,8:10 pm EDT,Temple_University,William_Paterson_University,Regular,2023-9-22
+13458,3,6,Final,Temple_University,William_Paterson_University,Regular,2023-9-22
 14327,-,-,8:20 pm EDT,University_of_Pittsburgh,United_States_Naval_Academy,Regular,2023-9-22
 15181,-,-,8:30 pm EDT,Calvin_University,Cleary_University,Regular,2023-9-22
 14959,-,-,8:30 pm EDT,Grand_Valley_State_University,John_Carroll_University,Regular,2023-9-22
 13376,-,-,9:00 pm EDT,Robert_Morris_University,Canisius_University,Regular,2023-9-22
 13794,-,-,8:00 pm MDT,University_of_Colorado,San_Diego_State_University,Regular,2023-9-22
-13877,-,-,11:59 pm EDT,Liberty_University,Minot_State_University,Regular,2023-9-22
+13877,2,4,Final,Liberty_University,Minot_State_University,Regular,2023-9-22
 14610,-,-,2:00 pm EDT,Rutgers_University,Oswego_State_University,Regular,2023-9-23
 14328,-,-,2:20 pm EDT,University_of_Pittsburgh,United_States_Naval_Academy,Regular,2023-9-23
 14960,-,-,2:30 pm EDT,Grand_Valley_State_University,John_Carroll_University,Regular,2023-9-23
