@@ -1,7 +1,7 @@
 game_id,homeG,awayG,status,home,away,phase,prop_date
-13532,-,-,3:00 pm EDT,University_of_Michigan_Dearborn,Concordia_University_Ann_Arbor,Regular,2023-9-22
-13551,-,-,7:30 pm CDT,McKendree_University,Maryville_University,Regular,2023-9-22
-12713,-,-,5:30 pm CDT,Maryville_University,McKendree_University,Regular,2023-9-23
+13532,5,2,Final,University_of_Michigan_Dearborn,Concordia_University_Ann_Arbor,Regular,2023-9-22
+13551,3,2,Final,McKendree_University,Maryville_University,Regular,2023-9-22
+12713,5,4,Final,Maryville_University,McKendree_University,Regular,2023-9-23
 15072,-,-,9:15 pm MDT,Arizona_State_University,Maryville_University,Regular,2023-9-28
 12783,-,-,4:00 pm EDT,Indiana_Tech,Lake_Superior_State_University,Regular,2023-9-29
 13658,-,-,5:00 pm CDT,Midland_University,Minot_State_University,Regular,2023-9-29
@@ -341,14 +341,12 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14728,-,-,6:35 pm EST,Michigan_State_University,Adrian_College,Regular,2024-2-16
 14920,-,-,7:00 pm EST,University_of_Michigan,University_of_Michigan_Dearborn,Regular,2024-2-16
 14780,-,-,7:30 pm EST,Aquinas_College,Miami_University,Regular,2024-2-16
-15552,-,-,9:30 pm CST,Lindenwood_University,Davenport_University,Regular,2024-2-16
 13688,-,-,11:20 am EST,University_of_Massachusetts_Amherst,Concordia_University_Ann_Arbor,Regular,2024-2-17
 14496,-,-,11:00 am MST,University_of_Colorado,Colorado_State_University,Regular,2024-2-17
 14781,-,-,4:30 pm EST,Aquinas_College,Miami_University,Regular,2024-2-17
 12763,-,-,3:45 pm CST,Minot_State_University,University_of_Jamestown,Regular,2024-2-17
 13672,-,-,4:00 pm CST,Midland_University,University_of_Utah,Regular,2024-2-17
 14921,-,-,7:30 pm EST,University_of_Michigan,Lake_Superior_State_University,Regular,2024-2-17
-13568,-,-,7:00 pm CST,McKendree_University,Davenport_University,Regular,2024-2-17
 15662,-,-,10:30 am EST,University_of_Rhode_Island,Concordia_University_Ann_Arbor,Regular,2024-2-18
 14691,-,-,11:00 am EST,Davenport_University,Miami_University,Regular,2024-2-18
 13550,-,-,1:00 pm EST,Adrian_College,Michigan_State_University,Regular,2024-2-18
