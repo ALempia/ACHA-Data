@@ -4,9 +4,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15878,-,-,12:25 pm EDT,Miami_University,Northern_Michigan_University,Regular,2023-9-23
 16254,11,1,Final,Villanova_University,University_of_Pittsburgh,Regular,2023-9-23
 14100,-,-,10:10 pm EDT,George_Washington_University,University_of_Pennsylvania,Regular,2023-9-23
-16255,-,-,11:00 am EDT,Villanova_University,University_of_Pittsburgh,Regular,2023-9-24
-13124,-,-,3:15 pm EDT,University_of_Delaware,West_Chester_University,Regular,2023-9-24
-16065,-,-,6:00 pm EDT,University_of_Maryland,Rowan_University,Regular,2023-9-24
+16255,8,0,Final,Villanova_University,University_of_Pittsburgh,Regular,2023-9-24
+13124,15,0,Final,University_of_Delaware,West_Chester_University,Regular,2023-9-24
+16065,2,3,Final,University_of_Maryland,Rowan_University,Regular,2023-9-24
+16652,-,-,7:00 pm EDT,Saint_Anselm_College,College_of_the_Holy_Cross,Regular,2023-9-24
 15879,-,-,8:35 pm EDT,Miami_University,Bowling_Green_State_University,Regular,2023-9-28
 14356,-,-,1:00 pm EDT,Liberty_University,Rowan_University,Regular,2023-9-29
 15880,-,-,6:45 pm EDT,Miami_University,Bowling_Green_State_University,Regular,2023-9-29
@@ -68,6 +69,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15814,-,-,10:35 pm EDT,Georgetown_University,University_of_Virginia,Regular,2023-10-20
 16230,-,-,11:00 am EDT,United_States_Naval_Academy,United_States_Air_Force_Academy,Regular,2023-10-21
 13127,-,-,1:00 pm EDT,University_of_Delaware,Liberty_University,Regular,2023-10-21
+16653,-,-,1:00 pm EDT,Saint_Anselm_College,Sacred_Heart_University,Regular,2023-10-21
 14217,-,-,1:10 pm EDT,West_Virginia_University_,University_of_Maryland,Regular,2023-10-21
 16432,-,-,4:30 pm EDT,Bowling_Green_State_University,Adrian_College,Regular,2023-10-21
 14293,-,-,4:50 pm EDT,Montclair_State_University,University_of_Pennsylvania,Regular,2023-10-21
@@ -87,6 +89,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15260,-,-,1:15 pm CDT,Maryville_University,University_of_Wisconsin_LaCrosse,Regular,2023-10-22
 13128,-,-,2:45 pm EDT,University_of_Delaware,Liberty_University,Regular,2023-10-22
 15937,-,-,3:00 pm EDT,University_of_New_Hampshire,University_of_Vermont,Regular,2023-10-22
+16654,-,-,5:30 pm EDT,Saint_Anselm_College,Merrimack_College,Regular,2023-10-22
 16515,-,-,7:00 pm EDT,University_at_Buffalo,Niagara_University,Regular,2023-10-22
 15896,-,-,8:00 pm EDT,Sacred_Heart_University,College_of_the_Holy_Cross,Regular,2023-10-22
 13035,-,-,7:00 pm EDT,Brockport_State_University,West_Virginia_University_,Regular,2023-10-27
