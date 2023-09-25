@@ -2,7 +2,6 @@ require(httr)
 require(stringr)
 require(tidyverse)
 require(jsonlite)
-require(bpr)
 
 pull_url <-function(code){
   require(httr)
@@ -348,6 +347,8 @@ get_ratings <- function(A, p, date){
                          rbind(matrix(0,length(SH), ncol(A), dimnames = 
                                         list(NULL, colnames(A))), A)))
     POISmatrix <- cbind(c(SH, SA), X) %>% data.frame() 
+    
+    print(dim(POISmatrix)); print(nteams); print(nrow(prior))
     
     # Formula and Fit
     fmla <- as.formula(paste("V1 ~ ", paste(colnames(POISmatrix)[2:ncol(POISmatrix)], collapse= "+")))
