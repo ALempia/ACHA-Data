@@ -13,7 +13,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16219,3,4,Final,University_of_Illinois,Bradley_University,Regular,2023-9-14
 13419,0,11,Final,Oklahoma_State_University,Drury_University,Regular,2023-9-14
 16021,-,-,6:15 pm EDT,University_of_Delaware,University_of_North_Carolina_Chapel_Hill,Regular,2023-9-15
-16757,-,-,7:00 pm EDT,Bowling_Green_State_University,Indiana_University,Regular,2023-9-15
+16757,2,6,Final,Bowling_Green_State_University,Indiana_University,Regular,2023-9-15
 13184,3,6,Final,Illinois_State_University,Bradley_University,Regular,2023-9-15
 16674,-,-,7:30 pm EDT,Virginia_Tech,Wake_Forest_University,Regular,2023-9-15
 14830,5,3,Final,University_of_Michigan,Michigan_State_University,Regular,2023-9-15
@@ -40,14 +40,14 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15915,8,6,Final,University_of_Cincinnati,Denison_University,Regular,2023-9-16
 16119,6,12,Final,Texas_Christian_University,Texas_A&M_University,Regular,2023-9-16
 15020,5,3,Final,University_of_Louisville,Southern_Illinois_University_Edwardsville,Regular,2023-9-16
-16758,-,-,3:00 pm EDT,Bowling_Green_State_University,Indiana_University,Regular,2023-9-16
+16758,5,3,Final,Bowling_Green_State_University,Indiana_University,Regular,2023-9-16
 13044,3,2,Final OT,East_Texas_Baptist_University,University_of_Texas,Regular,2023-9-16
 16507,-,-,2:00 pm CDT,Baylor_University,University_of_Houston,Regular,2023-9-16
 14445,6,5,Final,Bradley_University,University_of_Illinois,Regular,2023-9-16
 16640,-,-,5:00 pm EDT,Saint_Josephs_University,Bryn_Athyn_College,Regular,2023-9-16
 16300,-,-,7:30 pm EDT,Rowan_University,University_of_North_Carolina_Chapel_Hill,Regular,2023-9-16
 13710,2,5,Unofficial Final,DePaul_University,Miami_University,Regular,2023-9-16
-14515,-,-,5:50 pm PDT,Loyola_Marymount_University,California_State_University_Fullerton,Regular,2023-9-16
+14515,13,1,Final,Loyola_Marymount_University,California_State_University_Fullerton,Regular,2023-9-16
 15306,2,7,Final,Utah_Valley_University,University_of_Utah,Regular,2023-9-16
 15572,3,2,Final,Weber_State_University,Utah_State_University_,Regular,2023-9-16
 16083,9,2,Final,University_of_Wyoming,Park_University,Regular,2023-9-16
@@ -66,7 +66,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14446,7,5,Final,Bradley_University,Roosevelt_University,Regular,2023-9-22
 15422,5,1,Final,Liberty_University,University_of_Delaware,Regular,2023-9-22
 13522,-,-,7:00 pm EDT,Army_(West_Point),Rowan_University,Regular,2023-9-22
-16759,-,-,7:00 pm EDT,Bowling_Green_State_University,Lake_Superior_State_University,Regular,2023-9-22
+16759,5,4,Final SO,Bowling_Green_State_University,Lake_Superior_State_University,Regular,2023-9-22
 16073,2,3,Final,University_of_Colorado,University_of_Denver,Regular,2023-9-22
 15672,-,-,7:30 pm EDT,Rider_University,Seton_Hall_University,Regular,2023-9-22
 15620,-,-,7:30 pm EDT,Davenport_University,University_of_Wisconsin,Regular,2023-9-22
@@ -97,7 +97,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13059,-,-,1:30 pm EDT,Central_Michigan_University,Concordia_University_Ann_Arbor,Regular,2023-9-23
 15695,4,6,Final,Milwaukee_School_of_Engineering,University_of_Wisconsin_LaCrosse,Regular,2023-9-23
 16092,6,3,Final,University_of_Denver,University_of_Colorado,Regular,2023-9-23
-16760,-,-,3:00 pm EDT,Bowling_Green_State_University,Lake_Superior_State_University,Regular,2023-9-23
+16760,2,6,Final,Bowling_Green_State_University,Lake_Superior_State_University,Regular,2023-9-23
 13046,4,1,Final,East_Texas_Baptist_University,Texas_A&M_University,Regular,2023-9-23
 14447,-,-,2:30 pm CDT,Bradley_University,Roosevelt_University,Regular,2023-9-23
 16390,5,3,Final,University_of_Minnesota_Duluth,Michigan_Technological_University,Regular,2023-9-23
@@ -107,7 +107,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15621,-,-,5:00 pm EDT,Davenport_University,Adrian_College,Regular,2023-9-23
 15587,-,-,5:45 pm EDT,University_of_North_Carolina_Chapel_Hill,University_of_Kentucky,Regular,2023-9-23
 14853,3,4,Final,Concordia_University_of_Wisconsin,Indiana_University,Regular,2023-9-23
-15021,-,-,7:30 pm EDT,University_of_Louisville,Miami_University,Regular,2023-9-23
+15021,2,3,Final,University_of_Louisville,Miami_University,Regular,2023-9-23
 16566,-,-,7:30 pm EDT,University_of_Wisconsin,Denison_University,Regular,2023-9-23
 14089,6,0,Final,Montclair_State_University,Eastern_Connecticut_State_University,Regular,2023-9-23
 15525,-,-,7:00 pm CDT,University_of_Texas,University_of_North_Texas,Regular,2023-9-23
@@ -128,7 +128,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15860,-,-,5:00 pm EDT,George_Washington_University,Georgetown_University,Regular,2023-9-24
 14282,7,6,Final,University_of_Southern_California,California_State_University_Fullerton,Regular,2023-9-24
 16642,-,-,5:15 pm EDT,Saint_Josephs_University,Rider_University,Regular,2023-9-24
-12677,-,-,8:15 pm CDT,Maryville_University,Lindenwood_University,Regular,2023-9-26
+12677,1,7,Final,Maryville_University,Lindenwood_University,Regular,2023-9-26
 14412,-,-,7:45 pm MDT,Boise_State_University,University_of_Providence,Regular,2023-9-28
 14194,-,-,4:30 pm EDT,James_Madison_University,University_of_Virginia,Regular,2023-9-29
 16667,-,-,6:00 pm EDT,Keene_State_College,Siena_College,Regular,2023-9-29
@@ -166,7 +166,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16041,-,-,7:00 pm PDT,Eastern_Washington_University,University_of_Idaho,Regular,2023-9-29
 14580,-,-,7:50 pm PDT,University_of_Washington,Washington_State_University,Regular,2023-9-29
 16878,-,-,8:15 pm PDT,San_Jose_State_University,University_of_California_Berkeley,Regular,2023-9-29
-14518,-,-,8:45 pm PDT,Loyola_Marymount_University,California_State_University_Long_Beach,Regular,2023-9-29
+14518,-,-,Postponed,Loyola_Marymount_University,California_State_University_Long_Beach,Regular,2023-9-29
 15750,-,-,11:59 pm EDT,University_of_Kentucky,University_of_Louisville,Regular,2023-9-29
 16054,-,-,9:00 pm PDT,California_State_University_Fullerton,University_of_California_Los_Angeles,Regular,2023-9-29
 16942,-,-,10:30 pm PDT,Western_Washington_University,University_of_Southern_California,Regular,2023-9-29
