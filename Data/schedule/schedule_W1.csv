@@ -3,21 +3,21 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13551,3,2,Final,McKendree_University,Maryville_University,Regular,2023-9-22
 12713,5,4,Final,Maryville_University,McKendree_University,Regular,2023-9-23
 15072,2,5,Final,Arizona_State_University,Maryville_University,Regular,2023-9-28
-12783,6,2,Final,Indiana_Tech,Lake_Superior_State_University,Regular,2023-9-29
+12783,6,2,00:00 3rd,Indiana_Tech,Lake_Superior_State_University,Regular,2023-9-29
 13658,3,1,Final,Midland_University,Minot_State_University,Regular,2023-9-29
 13675,-,-,6:20 pm EDT,University_of_Massachusetts_Amherst,Penn_State_University,Regular,2023-9-29
 12728,2,5,Final,Concordia_University_Ann_Arbor,University_of_Michigan,Regular,2023-9-29
-15073,-,-,6:55 pm MDT,Arizona_State_University,Maryville_University,Regular,2023-9-29
-14923,-,-,8:30 pm MDT,University_of_Denver,Colorado_State_University,Regular,2023-9-29
-12738,-,-,9:45 pm MDT,Montana_State_University,University_of_Utah,Regular,2023-9-29
+15073,2,1,Final,Arizona_State_University,Maryville_University,Regular,2023-9-29
+14923,5,1,Final,University_of_Denver,Colorado_State_University,Regular,2023-9-29
+12738,0,4,Final,Montana_State_University,University_of_Utah,Regular,2023-9-29
 13676,-,-,11:20 am EDT,University_of_Massachusetts_Amherst,Penn_State_University,Regular,2023-9-30
-12784,-,-,1:00 pm EDT,Indiana_Tech,Lake_Superior_State_University,Regular,2023-9-30
-14912,-,-,2:00 pm EDT,University_of_Michigan,Michigan_State_University,Regular,2023-9-30
-13659,-,-,4:00 pm CDT,Midland_University,Minot_State_University,Regular,2023-9-30
+12784,5,1,Final,Indiana_Tech,Lake_Superior_State_University,Regular,2023-9-30
+14912,3,1,Final,University_of_Michigan,Michigan_State_University,Regular,2023-9-30
+13659,4,0,Final,Midland_University,Minot_State_University,Regular,2023-9-30
 15102,-,-,4:00 pm MDT,Grand_Canyon_University,Maryville_University,Regular,2023-9-30
-13533,-,-,7:00 pm EDT,Adrian_College,Lindenwood_University,Regular,2023-9-30
+13533,9,0,Final,Adrian_College,Lindenwood_University,Regular,2023-9-30
 14820,-,-,7:40 pm EDT,Miami_University,Niagara_University,Regular,2023-9-30
-15081,-,-,6:30 pm MDT,Colorado_State_University,University_of_Denver,Regular,2023-9-30
+15081,5,1,Final,Colorado_State_University,University_of_Denver,Regular,2023-9-30
 12739,-,-,7:15 pm MDT,Montana_State_University,University_of_Utah,Regular,2023-9-30
 14821,-,-,1:30 pm EDT,Miami_University,Niagara_University,Regular,2023-10-1
 15103,-,-,12:00 pm MDT,Grand_Canyon_University,Maryville_University,Regular,2023-10-1
@@ -240,19 +240,19 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14673,-,-,1:30 pm MST,University_of_Utah,Montana_State_University,Regular,2024-1-19
 12796,-,-,4:00 pm EST,Indiana_Tech,University_of_Massachusetts_Amherst,Regular,2024-1-19
 12734,-,-,6:00 pm EST,Concordia_University_Ann_Arbor,Lake_Superior_State_University,Regular,2024-1-19
+17053,-,-,6:35 pm EST,Michigan_State_University,Aquinas_College,Regular,2024-1-19
 14655,-,-,7:00 pm EST,University_of_Michigan_Dearborn,University_of_Michigan,Regular,2024-1-19
 14687,-,-,8:30 pm EST,Davenport_University,Grand_Valley_State_University,Regular,2024-1-19
 12757,-,-,7:30 pm CST,Minot_State_University,Midland_University,Regular,2024-1-19
 15058,-,-,9:15 pm EST,Penn_State_University,Miami_University,Regular,2024-1-19
 15077,-,-,9:35 pm MST,Arizona_State_University,University_of_Denver,Regular,2024-1-19
-14726,-,-,1:00 am EST,Michigan_State_University,University_of_Michigan,Regular,2024-1-20
 15059,-,-,8:30 am EST,Penn_State_University,Miami_University,Regular,2024-1-20
 15098,-,-,1:00 pm CST,University_of_Minnesota,University_of_Colorado,Regular,2024-1-20
 12797,-,-,2:00 pm EST,Indiana_Tech,University_of_Massachusetts_Amherst,Regular,2024-1-20
 12723,-,-,1:30 pm CST,Maryville_University,Lindenwood_University,Regular,2024-1-20
-14916,-,-,3:30 pm EST,University_of_Michigan,Michigan_State_University,Regular,2024-1-20
 12735,-,-,3:30 pm EST,Concordia_University_Ann_Arbor,Lake_Superior_State_University,Regular,2024-1-20
 14674,-,-,1:30 pm MST,University_of_Utah,Montana_State_University,Regular,2024-1-20
+14726,-,-,3:35 pm EST,Michigan_State_University,University_of_Michigan,Regular,2024-1-20
 15108,-,-,1:45 pm MST,Grand_Canyon_University,University_of_Denver,Regular,2024-1-20
 14871,-,-,4:30 pm EST,Grand_Valley_State_University,Davenport_University,Regular,2024-1-20
 13545,-,-,7:00 pm EST,Adrian_College,Niagara_University,Regular,2024-1-20
