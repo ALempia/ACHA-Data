@@ -18,13 +18,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16158,-,-,3:30 pm AT,Northeastern_University,Saint_Anselm_College,Regular,2023-9-30
 15665,-,-,3:30 pm EDT,Boston_University,Merrimack_College,Regular,2023-9-30
 14215,-,-,3:55 pm EDT,West_Virginia_University_,University_of_Pittsburgh,Regular,2023-9-30
-12831,-,-,7:00 pm EDT,Central_Michigan_University,Northern_Michigan_University,Regular,2023-9-30
+12831,3,1,Final,Central_Michigan_University,Northern_Michigan_University,Regular,2023-9-30
 13255,-,-,12:00 pm EDT,SUNY_Cortland,Niagara_University,Regular,2023-10-1
-12832,-,-,1:00 pm EDT,Central_Michigan_University,Northern_Michigan_University,Regular,2023-10-1
-16912,-,-,1:30 pm EDT,Harvard_University,Assumption_University,Regular,2023-10-1
+12832,6,4,Final,Central_Michigan_University,Northern_Michigan_University,Regular,2023-10-1
+16912,2,4,Final,Harvard_University,Assumption_University,Regular,2023-10-1
 16228,-,-,2:00 pm EDT,United_States_Naval_Academy,University_of_Pennsylvania,Regular,2023-10-1
-13125,-,-,3:15 pm EDT,University_of_Delaware,Villanova_University,Regular,2023-10-1
-15927,-,-,3:45 pm EDT,College_of_the_Holy_Cross,Boston_University,Regular,2023-10-1
+13125,3,4,Final,University_of_Delaware,Villanova_University,Regular,2023-10-1
+15927,2,8,Final,College_of_the_Holy_Cross,Boston_University,Regular,2023-10-1
 15904,-,-,8:00 pm EDT,Providence_College,University_Of_Connecticut,Regular,2023-10-1
 16582,-,-,6:30 pm EDT,Michigan_State_University,Central_Michigan_University,Regular,2023-10-6
 15881,-,-,7:00 pm EDT,Miami_University,Maryville_University,Regular,2023-10-6
