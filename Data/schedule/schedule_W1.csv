@@ -3,7 +3,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13551,3,2,Final,McKendree_University,Maryville_University,Regular,2023-9-22
 12713,5,4,Final,Maryville_University,McKendree_University,Regular,2023-9-23
 15072,2,5,Final,Arizona_State_University,Maryville_University,Regular,2023-9-28
-12783,6,2,00:00 3rd,Indiana_Tech,Lake_Superior_State_University,Regular,2023-9-29
+12783,6,2,Final,Indiana_Tech,Lake_Superior_State_University,Regular,2023-9-29
 13658,3,1,Final,Midland_University,Minot_State_University,Regular,2023-9-29
 13675,-,-,6:20 pm EDT,University_of_Massachusetts_Amherst,Penn_State_University,Regular,2023-9-29
 12728,2,5,Final,Concordia_University_Ann_Arbor,University_of_Michigan,Regular,2023-9-29
@@ -16,10 +16,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13659,4,0,Final,Midland_University,Minot_State_University,Regular,2023-9-30
 15102,-,-,4:00 pm MDT,Grand_Canyon_University,Maryville_University,Regular,2023-9-30
 13533,9,0,Final,Adrian_College,Lindenwood_University,Regular,2023-9-30
-14820,-,-,7:40 pm EDT,Miami_University,Niagara_University,Regular,2023-9-30
+14820,0,4,Final,Miami_University,Niagara_University,Regular,2023-9-30
 15081,5,1,Final,Colorado_State_University,University_of_Denver,Regular,2023-9-30
 12739,1,13,Final,Montana_State_University,University_of_Utah,Regular,2023-9-30
-14821,-,-,1:30 pm EDT,Miami_University,Niagara_University,Regular,2023-10-1
+14821,3,4,Final OT,Miami_University,Niagara_University,Regular,2023-10-1
 15103,-,-,12:00 pm MDT,Grand_Canyon_University,Maryville_University,Regular,2023-10-1
 13534,9,0,Final,Adrian_College,Lindenwood_University,Regular,2023-10-1
 13660,-,-,8:30 pm CDT,Midland_University,University_of_Jamestown,Regular,2023-10-5
@@ -35,8 +35,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14823,-,-,1:00 pm EDT,Miami_University,Maryville_University,Regular,2023-10-7
 15053,-,-,1:00 pm EDT,Penn_State_University,University_of_Rhode_Island,Regular,2023-10-7
 14936,-,-,1:30 pm EDT,Liberty_University,McKendree_University,Regular,2023-10-7
-12785,-,-,2:30 pm EDT,Indiana_Tech,Davenport_University,Regular,2023-10-7
 14926,-,-,12:30 pm MDT,University_of_Denver,Montana_State_University,Regular,2023-10-7
+12785,-,-,3:30 pm EDT,Indiana_Tech,Davenport_University,Regular,2023-10-7
 13661,-,-,4:00 pm CDT,Midland_University,Grand_Canyon_University,Regular,2023-10-7
 13403,-,-,3:30 pm MDT,University_of_Wyoming,Colorado_State_University,Regular,2023-10-7
 14487,-,-,4:00 pm MDT,University_of_Colorado,Michigan_State_University,Regular,2023-10-7
