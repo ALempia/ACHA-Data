@@ -10,7 +10,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15073,2,1,Final,Arizona_State_University,Maryville_University,Regular,2023-9-29
 14923,5,1,Final,University_of_Denver,Colorado_State_University,Regular,2023-9-29
 12738,0,4,Final,Montana_State_University,University_of_Utah,Regular,2023-9-29
-13676,-,-,11:20 am EDT,University_of_Massachusetts_Amherst,Penn_State_University,Regular,2023-9-30
+13676,2,0,Final,University_of_Massachusetts_Amherst,Penn_State_University,Regular,2023-9-30
 12784,5,1,Final,Indiana_Tech,Lake_Superior_State_University,Regular,2023-9-30
 14912,3,1,Final,University_of_Michigan,Michigan_State_University,Regular,2023-9-30
 13659,4,0,Final,Midland_University,Minot_State_University,Regular,2023-9-30
@@ -47,7 +47,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14569,-,-,1:00 pm EDT,Lake_Superior_State_University,University_of_Michigan,Regular,2023-10-8
 14824,-,-,1:00 pm EDT,Miami_University,McKendree_University,Regular,2023-10-8
 13662,-,-,12:00 pm CDT,Midland_University,Grand_Canyon_University,Regular,2023-10-8
-15649,-,-,7:00 pm EDT,University_of_Rhode_Island,Midland_University,Regular,2023-10-12
+15649,-,-,3:00 pm EDT,University_of_Rhode_Island,Midland_University,Regular,2023-10-12
 13552,-,-,2:00 pm CDT,McKendree_University,University_of_Michigan_Dearborn,Regular,2023-10-13
 12746,-,-,3:45 pm CDT,Minot_State_University,Liberty_University,Regular,2023-10-13
 13677,-,-,6:20 pm EDT,University_of_Massachusetts_Amherst,Midland_University,Regular,2023-10-13
