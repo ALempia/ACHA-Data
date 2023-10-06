@@ -125,9 +125,9 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12495,0,1,Final,San_Diego_State_University,Arizona_State_University,Regular,2023-9-30
 16970,-,-,2:30 pm EDT,Canisius_University,The_College_of_New_Jersey,Regular,2023-10-1
 12657,2,1,Final,Maryville_University,Midland_University,Regular,2023-10-1
-15198,-,-,8:35 pm EDT,Davenport_University,Aquinas_College,Regular,2023-10-4
+15198,4,3,Final,Davenport_University,Aquinas_College,Regular,2023-10-4
 15215,-,-,8:30 pm EDT,University_of_Toledo,Davenport_University,Regular,2023-10-5
-13173,-,-,8:40 pm MDT,Arizona_State_University,University_of_Nevada_Las_Vegas,Regular,2023-10-5
+13173,5,3,Final,Arizona_State_University,University_of_Nevada_Las_Vegas,Regular,2023-10-5
 13174,-,-,3:00 pm MDT,Arizona_State_University,University_of_Nevada_Las_Vegas,Regular,2023-10-6
 13485,-,-,6:30 pm EDT,Oakland_University,Duquesne_University,Regular,2023-10-6
 16971,-,-,6:30 pm EDT,Canisius_University,Indiana_University_of_Pennsylvania,Regular,2023-10-6
@@ -239,10 +239,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12483,-,-,7:00 pm CDT,University_of_Oklahoma,University_of_Colorado,Regular,2023-10-14
 13160,-,-,7:00 pm CDT,Illinois_State_University,Grand_Valley_State_University,Regular,2023-10-14
 14948,-,-,8:00 pm EDT,Duquesne_University,Mercyhurst_University,Regular,2023-10-14
+16973,-,-,8:00 pm EDT,Canisius_University,Oswego_State_University,Regular,2023-10-14
 15765,-,-,7:30 pm CDT,Iowa_State_University,University_of_Illinois,Regular,2023-10-14
 13864,-,-,7:30 pm CDT,Minot_State_University,Waldorf_University,Regular,2023-10-14
 13629,-,-,7:30 pm CDT,Roosevelt_University,Oakland_University,Regular,2023-10-14
-16973,-,-,9:15 pm EDT,Canisius_University,Oswego_State_University,Regular,2023-10-14
 14300,-,-,7:45 pm MDT,Colorado_State_University,Midland_University,Regular,2023-10-14
 12615,-,-,7:30 pm PDT,University_of_Nevada_Las_Vegas,Grand_Canyon_University,Regular,2023-10-14
 13176,-,-,10:00 pm MDT,Arizona_State_University,San_Diego_State_University,Regular,2023-10-14
@@ -769,7 +769,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12608,-,-,7:05 pm CST,University_of_Central_Oklahoma,Colorado_State_University,Regular,2024-1-19
 14190,-,-,8:30 pm EST,Cleary_University,University_of_Michigan_Dearborn,Regular,2024-1-19
 17086,-,-,8:30 pm EST,University_of_Delaware,University_of_Rhode_Island,Regular,2024-1-19
-13607,-,-,7:30 pm CST,Midland_University,Minot_State_University,Regular,2024-1-19
 15209,-,-,8:35 pm EST,Davenport_University,Grand_Valley_State_University,Regular,2024-1-19
 13386,-,-,8:45 pm EST,Robert_Morris_University,West_Chester_University,Regular,2024-1-19
 13489,-,-,8:50 pm EST,Oakland_University,Purdue_University_Northwest,Regular,2024-1-19
