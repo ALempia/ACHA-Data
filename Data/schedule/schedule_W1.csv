@@ -31,17 +31,17 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14681,1,8,Final,Davenport_University,Indiana_Tech,Regular,2023-10-6
 14864,1,0,Final,Grand_Valley_State_University,Adrian_College,Regular,2023-10-6
 15082,3,3,Final OT,Colorado_State_University,Michigan_State_University,Regular,2023-10-6
-14925,-,-,8:30 pm MDT,University_of_Denver,Montana_State_University,Regular,2023-10-6
-14823,-,-,1:00 pm EDT,Miami_University,Maryville_University,Regular,2023-10-7
-15053,-,-,1:00 pm EDT,Penn_State_University,University_of_Rhode_Island,Regular,2023-10-7
-14936,-,-,1:30 pm EDT,Liberty_University,McKendree_University,Regular,2023-10-7
-14926,-,-,12:30 pm MDT,University_of_Denver,Montana_State_University,Regular,2023-10-7
-12785,-,-,3:30 pm EDT,Indiana_Tech,Davenport_University,Regular,2023-10-7
-13661,-,-,4:00 pm CDT,Midland_University,Grand_Canyon_University,Regular,2023-10-7
-13403,-,-,3:30 pm MDT,University_of_Wyoming,Colorado_State_University,Regular,2023-10-7
-14487,-,-,4:00 pm MDT,University_of_Colorado,Michigan_State_University,Regular,2023-10-7
-14568,-,-,7:00 pm EDT,Lake_Superior_State_University,University_of_Michigan,Regular,2023-10-7
-13535,-,-,7:00 pm EDT,Adrian_College,Grand_Valley_State_University,Regular,2023-10-7
+14925,5,3,Final,University_of_Denver,Montana_State_University,Regular,2023-10-6
+14823,1,2,Final,Miami_University,Maryville_University,Regular,2023-10-7
+15053,5,3,Final,Penn_State_University,University_of_Rhode_Island,Regular,2023-10-7
+14936,7,0,Final,Liberty_University,McKendree_University,Regular,2023-10-7
+14926,10,3,Final,University_of_Denver,Montana_State_University,Regular,2023-10-7
+12785,13,1,Final,Indiana_Tech,Davenport_University,Regular,2023-10-7
+13661,11,0,Final,Midland_University,Grand_Canyon_University,Regular,2023-10-7
+13403,0,12,Final,University_of_Wyoming,Colorado_State_University,Regular,2023-10-7
+14487,0,3,Final,University_of_Colorado,Michigan_State_University,Regular,2023-10-7
+14568,1,4,Final,Lake_Superior_State_University,University_of_Michigan,Regular,2023-10-7
+13535,7,1,Final,Adrian_College,Grand_Valley_State_University,Regular,2023-10-7
 14488,-,-,9:00 am MDT,University_of_Colorado,Montana_State_University,Regular,2023-10-8
 13404,-,-,10:00 am MDT,University_of_Wyoming,Colorado_State_University,Regular,2023-10-8
 14569,-,-,1:00 pm EDT,Lake_Superior_State_University,University_of_Michigan,Regular,2023-10-8

@@ -28,18 +28,18 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15927,2,8,Final,College_of_the_Holy_Cross,Boston_University,Regular,2023-10-1
 15904,-,-,8:00 pm EDT,Providence_College,University_Of_Connecticut,Regular,2023-10-1
 16582,-,-,6:30 pm EDT,Michigan_State_University,Central_Michigan_University,Regular,2023-10-6
-15881,-,-,7:00 pm EDT,Miami_University,Maryville_University,Regular,2023-10-6
+15881,1,1,Final OT,Miami_University,Maryville_University,Regular,2023-10-6
 16410,-,-,7:30 pm EDT,Boston_College,University_of_New_Hampshire,Regular,2023-10-6
-15666,-,-,1:00 pm EDT,Boston_University,Harvard_University,Regular,2023-10-7
-13256,-,-,2:30 pm EDT,SUNY_Cortland,Oswego_State_University,Regular,2023-10-7
+15666,7,3,Final,Boston_University,Harvard_University,Regular,2023-10-7
+13256,13,1,Final,SUNY_Cortland,Oswego_State_University,Regular,2023-10-7
 14292,-,-,4:50 pm EDT,Montclair_State_University,West_Chester_University,Regular,2023-10-7
-15882,-,-,5:15 pm EDT,Miami_University,Maryville_University,Regular,2023-10-7
+15882,1,2,Final OT,Miami_University,Maryville_University,Regular,2023-10-7
 16127,-,-,5:00 pm CDT,University_of_Wisconsin_Eau_Claire,University_of_Nebraska,Regular,2023-10-7
-17155,-,-,6:40 pm EDT,University_Of_Connecticut,University_of_New_Hampshire,Regular,2023-10-7
+17155,4,2,03:48 3rd,University_Of_Connecticut,University_of_New_Hampshire,Regular,2023-10-7
 12833,-,-,7:00 pm EDT,Central_Michigan_University,Michigan_State_University,Regular,2023-10-7
-17106,-,-,6:45 pm CDT,University_of_Minnesota_Duluth,North_Dakota_State_University,Regular,2023-10-7
+17106,2,1,Final,University_of_Minnesota_Duluth,North_Dakota_State_University,Regular,2023-10-7
 17235,-,-,9:00 pm EDT,University_of_Notre_Dame,Adrian_College,Regular,2023-10-7
-14358,-,-,9:45 pm EDT,Liberty_University,University_of_Maryland,Regular,2023-10-7
+14358,4,0,00:00 3rd,Liberty_University,University_of_Maryland,Regular,2023-10-7
 17107,-,-,8:00 am CDT,University_of_Minnesota_Duluth,North_Dakota_State_University,Regular,2023-10-8
 16128,-,-,10:00 am CDT,University_of_Wisconsin_Eau_Claire,University_of_Nebraska,Regular,2023-10-8
 14359,-,-,1:00 pm EDT,Liberty_University,University_of_Maryland,Regular,2023-10-8
@@ -298,6 +298,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16827,-,-,6:30 pm EST,Sault_College,Assiniboine_Community_College,Regular,2024-1-19
 14372,-,-,9:00 pm EST,University_of_Pittsburgh,Robert_Morris_University,Regular,2024-1-19
 16828,-,-,9:30 am EST,Sault_College,Dakota_College_at_Bottineau,Regular,2024-1-20
+17307,-,-,12:00 pm CST,Assiniboine_Community_College,Lawrence_Technological_University,Regular,2024-1-20
 14363,-,-,1:00 pm EST,Liberty_University,United_States_Naval_Academy,Regular,2024-1-20
 14220,-,-,3:55 pm EST,West_Virginia_University_,Robert_Morris_University,Regular,2024-1-20
 16829,-,-,8:30 pm EST,Sault_College,Assiniboine_Community_College,Regular,2024-1-20
