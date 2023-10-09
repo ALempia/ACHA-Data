@@ -94,14 +94,14 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16932,-,-,9:00 am MDT,United_States_Air_Force_Academy,Colorado_Mesa_University,Regular,2023-10-2
 12945,-,-,9:00 pm CDT,University_of_Nebraska_at_Omaha,Dallas_Baptist_University,Regular,2023-10-5
 16596,-,-,6:00 pm EDT,Michigan_State_University,Central_Michigan_University,Regular,2023-10-6
-15833,-,-,6:00 pm EDT,Indiana_University,Trine_University,Regular,2023-10-6
-16608,-,-,6:30 pm EDT,Calvin_University,Lawrence_Tech,Regular,2023-10-6
+15833,8,3,Final,Indiana_University,Trine_University,Regular,2023-10-6
+16608,3,1,Final,Calvin_University,Lawrence_Tech,Regular,2023-10-6
 15957,1,5,Final,Ferris_State_University,Saginaw_Valley_State_University,Regular,2023-10-6
 14462,-,-,7:30 pm EDT,Kent_State_University,Duquesne_University,Regular,2023-10-6
 16450,-,-,7:30 pm EDT,Butler_University,Hope_College,Regular,2023-10-6
 14559,-,-,8:00 pm EDT,Indiana_University_of_Pennsylvania,PennWest_California,Regular,2023-10-6
 13951,3,2,Final OT,University_of_Michigan_Flint,University_of_Pittsburgh_Johnstown,Regular,2023-10-6
-14240,-,-,7:20 pm CDT,University_of_Kansas,University_of_Nebraska_at_Omaha,Regular,2023-10-6
+14240,3,2,Final OT,University_of_Kansas,University_of_Nebraska_at_Omaha,Regular,2023-10-6
 14435,-,-,8:30 pm EDT,Davenport_University,Western_Michigan_University,Regular,2023-10-6
 16188,4,7,Final,Stevens_Institute_of_Technology,Saint_Thomas_Aquinas_College,Regular,2023-10-6
 13692,-,-,7:30 pm CDT,University_of_Arkansas,Illinois_State_University,Regular,2023-10-6
@@ -118,27 +118,27 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13050,-,-,10:30 pm CDT,East_Texas_Baptist_University,Texas_Tech_University,Regular,2023-10-6
 16451,-,-,11:50 am EDT,Butler_University,Hope_College,Regular,2023-10-7
 12890,3,6,Final,Drake_University,Olivet_Nazarene_University,Regular,2023-10-7
-15834,-,-,1:30 pm EDT,Indiana_University,Trine_University,Regular,2023-10-7
+15834,10,2,Final,Indiana_University,Trine_University,Regular,2023-10-7
 13051,-,-,2:00 pm CDT,East_Texas_Baptist_University,Texas_Tech_University,Regular,2023-10-7
 12551,4,2,Final,Missouri_State_University,Dordt_University,Regular,2023-10-7
-14241,-,-,2:00 pm CDT,University_of_Kansas,University_of_Nebraska_at_Omaha,Regular,2023-10-7
+14241,7,3,Final,University_of_Kansas,University_of_Nebraska_at_Omaha,Regular,2023-10-7
 14733,2,1,Final OT,Oakland_University,University_of_Notre_Dame,Regular,2023-10-7
 16961,-,-,3:40 pm EDT,University_of_Akron,Duquesne_University,Regular,2023-10-7
 13693,-,-,3:15 pm CDT,University_of_Arkansas,Illinois_State_University,Regular,2023-10-7
 14989,4,2,Final,University_of_Nebraska,Dallas_Baptist_University,Regular,2023-10-7
-16350,-,-,4:30 pm EDT,Central_Michigan_University,Michigan_State_University,Regular,2023-10-7
+16350,0,1,Final,Central_Michigan_University,Michigan_State_University,Regular,2023-10-7
 14807,-,-,5:00 pm EDT,Lawrence_Tech,Calvin_University,Regular,2023-10-7
 17054,-,-,5:00 pm EDT,University_of_Michigan,Adrian_College,Regular,2023-10-7
 13952,3,4,Final,University_of_Michigan_Flint,University_of_Pittsburgh_Johnstown,Regular,2023-10-7
 16364,-,-,5:30 pm EDT,Western_Michigan_University,Davenport_University,Regular,2023-10-7
 16900,-,-,5:40 pm EDT,PennWest_California,Rowan_University,Regular,2023-10-7
 17309,1,11,Final,University_of_Colorado_Colorado_Springs,Colorado_College,Regular,2023-10-7
-15633,-,-,9:30 pm EDT,Saginaw_Valley_State_University,Ferris_State_University,Regular,2023-10-7
+15633,6,4,Final,Saginaw_Valley_State_University,Ferris_State_University,Regular,2023-10-7
 17174,-,-,10:00 pm EDT,SUNY_Maritime_College,Sacred_Heart_University,Regular,2023-10-7
-12919,-,-,8:00 pm MDT,University_of_New_Mexico,Arizona_State_University,Regular,2023-10-7
+12919,5,4,Final OT,University_of_New_Mexico,Arizona_State_University,Regular,2023-10-7
 14400,7,1,Final,Northwestern_University,Northern_Illinois_University,Regular,2023-10-7
 16688,-,-,11:30 am EDT,University_of_Massachusetts,Wentworth_Institute_of_Technology,Regular,2023-10-8
-13472,-,-,1:00 pm EDT,Adrian_College,University_of_Michigan,Regular,2023-10-8
+13472,3,7,Final,Adrian_College,University_of_Michigan,Regular,2023-10-8
 16570,-,-,1:50 pm EDT,George_Mason_University,University_of_Maryland,Regular,2023-10-8
 16742,-,-,2:30 pm EDT,Saint_Vincent_College,Kent_State_University,Regular,2023-10-8
 16891,-,-,4:00 pm EDT,Harvard_University,Dartmouth_College,Regular,2023-10-8
