@@ -132,7 +132,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13664,-,-,12:00 pm CST,Midland_University,McKendree_University,Regular,2023-11-5
 14571,-,-,1:00 pm EST,Lake_Superior_State_University,Niagara_University,Regular,2023-11-5
 12768,-,-,1:00 pm CST,University_of_Jamestown,Maryville_University,Regular,2023-11-5
-15772,-,-,1:00 pm EST,Lindenwood_University,University_of_Michigan,Regular,2023-11-10
 16522,-,-,1:00 pm CST,Lindenwood_University,University_of_Michigan,Regular,2023-11-10
 13681,-,-,3:50 pm EST,University_of_Massachusetts_Amherst,University_of_Utah,Regular,2023-11-10
 12789,-,-,4:30 pm EST,Indiana_Tech,Miami_University,Regular,2023-11-10
@@ -150,13 +149,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12753,-,-,3:45 pm CST,Minot_State_University,Midland_University,Regular,2023-11-11
 12716,-,-,5:00 pm CST,Maryville_University,Adrian_College,Regular,2023-11-11
 14685,-,-,6:30 pm EST,Davenport_University,University_of_Michigan_Dearborn,Regular,2023-11-11
+15542,-,-,8:30 pm CST,Lindenwood_University,University_of_Michigan,Regular,2023-11-11
 13407,-,-,7:30 pm MST,University_of_Wyoming,Montana_State_University,Regular,2023-11-11
 15057,-,-,9:00 am EST,Penn_State_University,Michigan_State_University,Regular,2023-11-12
 13408,-,-,10:00 am MST,University_of_Wyoming,Montana_State_University,Regular,2023-11-12
 14573,-,-,1:00 pm EST,Lake_Superior_State_University,Grand_Valley_State_University,Regular,2023-11-12
 13556,-,-,1:15 pm CST,McKendree_University,University_of_Michigan,Regular,2023-11-12
 12717,-,-,1:30 pm CST,Maryville_University,Adrian_College,Regular,2023-11-12
-15542,-,-,5:40 pm CST,Lindenwood_University,University_of_Michigan,Regular,2023-11-12
 14686,-,-,2:30 pm EST,Davenport_University,Concordia_University_Ann_Arbor,Regular,2023-11-17
 13557,-,-,2:00 pm CST,McKendree_University,Colorado_State_University,Regular,2023-11-17
 13683,-,-,6:20 pm EST,University_of_Massachusetts_Amherst,Niagara_University,Regular,2023-11-17
@@ -180,7 +179,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13541,-,-,4:00 pm EST,Adrian_College,Miami_University,Regular,2023-11-19
 13667,-,-,8:30 pm CST,Midland_University,Liberty_University,Regular,2023-11-30
 15086,-,-,8:15 pm MST,Colorado_State_University,Grand_Canyon_University,Regular,2023-11-30
-15087,-,-,2:15 pm MST,Colorado_State_University,Grand_Canyon_University,Regular,2023-12-1
 12732,-,-,6:00 pm EST,Concordia_University_Ann_Arbor,Indiana_Tech,Regular,2023-12-1
 13668,-,-,5:00 pm CST,Midland_University,Liberty_University,Regular,2023-12-1
 13101,-,-,6:30 pm EST,Niagara_University,Davenport_University,Regular,2023-12-1
@@ -192,6 +190,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13102,-,-,2:30 pm EST,Niagara_University,Davenport_University,Regular,2023-12-2
 12791,-,-,4:00 pm EST,Indiana_Tech,Concordia_University_Ann_Arbor,Regular,2023-12-2
 15657,-,-,4:00 pm EST,University_of_Rhode_Island,University_of_Massachusetts_Amherst,Regular,2023-12-2
+15087,-,-,2:20 pm MST,Colorado_State_University,Grand_Canyon_University,Regular,2023-12-2
 12774,-,-,4:00 pm CST,University_of_Jamestown,Liberty_University,Regular,2023-12-2
 13007,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Aquinas_College,Regular,2023-12-2
 13542,-,-,7:00 pm EST,Adrian_College,Penn_State_University,Regular,2023-12-2
