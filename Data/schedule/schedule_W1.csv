@@ -47,14 +47,14 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14569,2,4,Final,Lake_Superior_State_University,University_of_Michigan,Regular,2023-10-8
 14824,2,5,Final,Miami_University,McKendree_University,Regular,2023-10-8
 13662,12,1,Final,Midland_University,Grand_Canyon_University,Regular,2023-10-8
-15649,0,0,Unofficial Final,University_of_Rhode_Island,Midland_University,Regular,2023-10-12
-13552,-,-,2:00 pm CDT,McKendree_University,University_of_Michigan_Dearborn,Regular,2023-10-13
-12746,-,-,3:45 pm CDT,Minot_State_University,Liberty_University,Regular,2023-10-13
+15649,0,4,Unofficial Final,University_of_Rhode_Island,Midland_University,Regular,2023-10-12
+13552,4,1,Final,McKendree_University,University_of_Michigan_Dearborn,Regular,2023-10-13
+12746,2,5,Final,Minot_State_University,Liberty_University,Regular,2023-10-13
 13677,-,-,6:20 pm EDT,University_of_Massachusetts_Amherst,Midland_University,Regular,2023-10-13
-14913,-,-,6:30 pm EDT,University_of_Michigan,Grand_Valley_State_University,Regular,2023-10-13
+14913,3,1,Final,University_of_Michigan,Grand_Valley_State_University,Regular,2023-10-13
 14722,-,-,7:05 pm EDT,Michigan_State_University,Indiana_Tech,Regular,2023-10-13
 14771,-,-,7:30 pm EDT,Aquinas_College,Davenport_University,Regular,2023-10-13
-12765,-,-,7:30 pm CDT,University_of_Jamestown,University_of_Colorado,Regular,2023-10-13
+12765,6,1,Final,University_of_Jamestown,University_of_Colorado,Regular,2023-10-13
 12740,-,-,7:30 pm MDT,Montana_State_University,University_of_Wyoming,Regular,2023-10-13
 15074,-,-,9:35 pm MDT,Arizona_State_University,University_of_Utah,Regular,2023-10-13
 13678,-,-,11:20 am EDT,University_of_Massachusetts_Amherst,Midland_University,Regular,2023-10-14

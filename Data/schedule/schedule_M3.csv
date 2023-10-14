@@ -91,7 +91,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16890,-,-,4:00 pm EDT,Harvard_University,Massachusetts_Institute_of_Technology,Regular,2023-10-1
 14892,4,2,Final,Dartmouth_College,Sacred_Heart_University,Regular,2023-10-1
 16931,9,3,Final,United_States_Air_Force_Academy,Colorado_Mesa_University,Regular,2023-10-1
-16932,-,-,9:00 am MDT,United_States_Air_Force_Academy,Colorado_Mesa_University,Regular,2023-10-2
+16932,5,1,Final,United_States_Air_Force_Academy,Colorado_Mesa_University,Regular,2023-10-2
 12945,2,3,Final OT,University_of_Nebraska_at_Omaha,Dallas_Baptist_University,Regular,2023-10-5
 16596,5,1,Final,Michigan_State_University,Central_Michigan_University,Regular,2023-10-6
 15833,8,3,Final,Indiana_University,Trine_University,Regular,2023-10-6
@@ -145,17 +145,17 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16892,-,-,8:00 pm EDT,Harvard_University,Tufts_University,Regular,2023-10-11
 13052,-,-,7:00 pm CDT,East_Texas_Baptist_University,Grand_Canyon_University,Regular,2023-10-12
 15835,-,-,8:30 pm EDT,Indiana_University,University_of_Cincinnati,Regular,2023-10-12
-13201,-,-,9:30 pm CDT,Illinois_State_University,Missouri_State_University,Regular,2023-10-12
+13201,1,5,Final,Illinois_State_University,Missouri_State_University,Regular,2023-10-12
 13053,-,-,2:00 pm CDT,East_Texas_Baptist_University,Grand_Canyon_University,Regular,2023-10-13
 16609,-,-,5:00 pm EDT,Calvin_University,Trine_University,Regular,2023-10-13
 14808,-,-,5:00 pm EDT,Lawrence_Tech,Central_Michigan_University,Regular,2023-10-13
 17055,-,-,7:00 pm EDT,University_of_Michigan,Florida_Gulf_Coast_University,Regular,2023-10-13
-12986,-,-,7:30 pm EDT,Hope_College,Missouri_State_University,Regular,2023-10-13
+12986,4,2,Final,Hope_College,Missouri_State_University,Regular,2023-10-13
 17229,-,-,7:30 pm EDT,Colby_Sawyer_College,University_of_New_England,Regular,2023-10-13
-14391,-,-,8:00 pm EDT,Saint_Thomas_Aquinas_College,Western_Connecticut_State_University,Regular,2023-10-13
-12876,-,-,7:00 pm CDT,Dordt_University,Northern_Illinois_University,Regular,2023-10-13
-14990,-,-,7:00 pm CDT,University_of_Nebraska,University_of_Nebraska_at_Omaha,Regular,2023-10-13
-13953,-,-,8:00 pm EDT,University_of_Michigan_Flint,Davenport_University,Regular,2023-10-13
+14391,4,5,Final OT,Saint_Thomas_Aquinas_College,Western_Connecticut_State_University,Regular,2023-10-13
+12876,13,2,Final,Dordt_University,Northern_Illinois_University,Regular,2023-10-13
+14990,3,4,Final OT,University_of_Nebraska,University_of_Nebraska_at_Omaha,Regular,2023-10-13
+13953,1,2,Final,University_of_Michigan_Flint,Davenport_University,Regular,2023-10-13
 14734,-,-,8:30 pm EDT,Oakland_University,Grand_Valley_State_University,Regular,2023-10-13
 16593,-,-,9:30 pm EDT,University_of_Cincinnati,Indiana_University,Regular,2023-10-13
 15796,-,-,9:45 pm EDT,Case_Western_Reserve_University,Indiana_University_of_Pennsylvania,Regular,2023-10-13
