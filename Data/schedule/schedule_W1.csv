@@ -47,7 +47,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14569,2,4,Final,Lake_Superior_State_University,University_of_Michigan,Regular,2023-10-8
 14824,2,5,Final,Miami_University,McKendree_University,Regular,2023-10-8
 13662,12,1,Final,Midland_University,Grand_Canyon_University,Regular,2023-10-8
-15649,0,4,Unofficial Final,University_of_Rhode_Island,Midland_University,Regular,2023-10-12
+15649,0,4,Final,University_of_Rhode_Island,Midland_University,Regular,2023-10-12
 13552,4,1,Final,McKendree_University,University_of_Michigan_Dearborn,Regular,2023-10-13
 12746,2,5,Final,Minot_State_University,Liberty_University,Regular,2023-10-13
 13677,2,5,Final,University_of_Massachusetts_Amherst,Midland_University,Regular,2023-10-13
@@ -58,18 +58,18 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12740,5,2,Final,Montana_State_University,University_of_Wyoming,Regular,2023-10-13
 15074,3,2,Final,Arizona_State_University,University_of_Utah,Regular,2023-10-13
 13678,1,3,Final,University_of_Massachusetts_Amherst,Midland_University,Regular,2023-10-14
-12786,-,-,3:00 pm EDT,Indiana_Tech,Michigan_State_University,Regular,2023-10-14
-14682,-,-,3:30 pm EDT,Davenport_University,Aquinas_College,Regular,2023-10-14
+12786,6,0,Final,Indiana_Tech,Michigan_State_University,Regular,2023-10-14
+14682,1,2,Final,Davenport_University,Aquinas_College,Regular,2023-10-14
 12766,4,2,Final,University_of_Jamestown,University_of_Colorado,Regular,2023-10-14
 12747,3,2,Final OT,Minot_State_University,Liberty_University,Regular,2023-10-14
-12741,-,-,4:30 pm MDT,Montana_State_University,University_of_Wyoming,Regular,2023-10-14
+12741,6,1,Final,Montana_State_University,University_of_Wyoming,Regular,2023-10-14
 15092,7,1,Final,University_of_Minnesota,Concordia_University_Ann_Arbor,Regular,2023-10-14
 15267,2,0,Final,Maryville_University,University_of_Michigan_Dearborn,Regular,2023-10-14
 15538,2,5,Final,Lindenwood_University,McKendree_University,Regular,2023-10-14
-15075,-,-,7:35 pm MDT,Arizona_State_University,University_of_Utah,Regular,2023-10-14
-15093,-,-,11:00 am CDT,University_of_Minnesota,Concordia_University_Ann_Arbor,Regular,2023-10-15
+15075,7,1,Final,Arizona_State_University,University_of_Utah,Regular,2023-10-14
+15093,8,5,Final,University_of_Minnesota,Concordia_University_Ann_Arbor,Regular,2023-10-15
 15268,-,-,1:30 pm CDT,Maryville_University,University_of_Michigan_Dearborn,Regular,2023-10-15
-15539,-,-,1:30 pm CDT,Lindenwood_University,McKendree_University,Regular,2023-10-15
+15539,1,2,Final,Lindenwood_University,McKendree_University,Regular,2023-10-15
 13001,-,-,3:00 pm EDT,University_of_Michigan_Dearborn,Penn_State_University,Regular,2023-10-20
 13553,-,-,2:00 pm CDT,McKendree_University,University_of_Colorado,Regular,2023-10-20
 12748,-,-,3:45 pm CDT,Minot_State_University,Lake_Superior_State_University,Regular,2023-10-20
