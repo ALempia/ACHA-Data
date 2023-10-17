@@ -47,8 +47,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14207,-,-,2:15 pm EDT,The_Ohio_State_University,University_at_Buffalo,Regular,2023-10-8
 13126,10,1,Final,University_of_Delaware,University_of_Pennsylvania,Regular,2023-10-8
 13359,8,2,Final,Adrian_College,University_of_Notre_Dame,Regular,2023-10-8
-16818,-,-,5:00 pm EDT,Sault_College,Adrian_College,Regular,2023-10-13
-17403,-,-,6:00 pm EDT,Harvard_University,Saint_Anselm_College,Regular,2023-10-13
+16818,8,3,Final,Sault_College,Adrian_College,Regular,2023-10-13
+17403,0,2,Final,Harvard_University,Saint_Anselm_College,Regular,2023-10-13
 17404,-,-,6:00 pm EDT,Harvard_University,Saint_Anselm_College,Regular,2023-10-13
 13367,-,-,5:40 pm CDT,Lake_Region_State_College,North_Dakota_State_University,Regular,2023-10-13
 15813,-,-,10:35 pm EDT,Georgetown_University,University_of_Maryland,Regular,2023-10-13
@@ -59,21 +59,21 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15867,5,1,Final,University_of_Virginia,Georgetown_University,Regular,2023-10-14
 16411,-,-,6:00 pm EDT,Boston_College,Providence_College,Regular,2023-10-14
 15667,10,2,Final,Boston_University,Bentley_University,Regular,2023-10-14
-16819,-,-,7:00 pm EDT,Sault_College,Adrian_College,Regular,2023-10-14
-17377,-,-,7:00 pm EDT,Loyola_University_Maryland,West_Chester_University,Regular,2023-10-14
+16819,10,0,Final,Sault_College,Adrian_College,Regular,2023-10-14
+17377,7,13,Final,Loyola_University_Maryland,West_Chester_University,Regular,2023-10-14
 17298,5,0,Final,Saint_Anselm_College,Merrimack_College,Regular,2023-10-14
-16395,-,-,7:00 pm CDT,University_of_Saint_Thomas,Iowa_State_University,Regular,2023-10-14
+16395,6,2,Final,University_of_Saint_Thomas,Iowa_State_University,Regular,2023-10-14
 13368,-,-,8:00 pm CDT,Lake_Region_State_College,North_Dakota_State_University,Regular,2023-10-14
 14783,8,0,Final,Niagara_University,Robert_Morris_University,Regular,2023-10-14
-16584,-,-,8:00 am EDT,Michigan_State_University,Loyola_University_Chicago,Regular,2023-10-15
+16584,5,3,Final,Michigan_State_University,Loyola_University_Chicago,Regular,2023-10-15
 15458,5,4,Final,Northern_Michigan_University,University_of_Wisconsin_Eau_Claire,Regular,2023-10-15
 14368,2,3,Final OT,University_of_Pittsburgh,Bowling_Green_State_University,Regular,2023-10-15
-16005,-,-,1:00 pm EDT,University_of_Vermont,Harvard_University,Regular,2023-10-15
+16005,1,0,Visiting Forfeit,University_of_Vermont,Harvard_University,Regular,2023-10-15
 14784,6,1,Final,Niagara_University,Robert_Morris_University,Regular,2023-10-15
 16066,0,2,Final,University_of_Maryland,University_of_Delaware,Regular,2023-10-15
 15895,2,4,Final,Sacred_Heart_University,Boston_College,Regular,2023-10-15
 15928,5,7,00:00 3rd,College_of_the_Holy_Cross,University_Of_Connecticut,Regular,2023-10-15
-16396,-,-,3:40 pm CDT,University_of_Saint_Thomas,Iowa_State_University,Regular,2023-10-15
+16396,6,0,Final,University_of_Saint_Thomas,Iowa_State_University,Regular,2023-10-15
 17400,-,-,6:30 pm EDT,Providence_College,Northeastern_University,Regular,2023-10-15
 17114,-,-,8:00 pm EDT,Merrimack_College,Bentley_University,Regular,2023-10-15
 13369,-,-,5:40 pm CDT,Lake_Region_State_College,Dakota_College_at_Bottineau,Regular,2023-10-19
