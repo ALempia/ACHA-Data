@@ -141,7 +141,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16891,0,6,Final,Harvard_University,Dartmouth_College,Regular,2023-10-8
 16892,-,-,8:00 pm EDT,Harvard_University,Tufts_University,Regular,2023-10-11
 13052,5,7,Final,East_Texas_Baptist_University,Grand_Canyon_University,Regular,2023-10-12
-15835,-,-,8:30 pm EDT,Indiana_University,University_of_Cincinnati,Regular,2023-10-12
+15835,15,4,Final,Indiana_University,University_of_Cincinnati,Regular,2023-10-12
 13201,1,5,Final,Illinois_State_University,Missouri_State_University,Regular,2023-10-12
 13053,7,2,Final,East_Texas_Baptist_University,Grand_Canyon_University,Regular,2023-10-13
 16609,3,0,Final,Calvin_University,Trine_University,Regular,2023-10-13
@@ -181,7 +181,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16893,3,2,Final,Harvard_University,United_States_Coast_Guard_Academy,Regular,2023-10-15
 16320,4,3,Final,Grand_Valley_State_University,Oakland_University,Regular,2023-10-15
 15376,1,1,Final OT,University_of_Pittsburgh_Johnstown,Kent_State_University,Regular,2023-10-15
-14809,2,3,00:40 1st OT,Lawrence_Tech,Florida_Gulf_Coast_University,Regular,2023-10-15
+14809,2,3,Final OT,Lawrence_Tech,Florida_Gulf_Coast_University,Regular,2023-10-15
 16795,-,-,3:30 pm EDT,Central_Maine_Community_College,University_of_New_England,Regular,2023-10-15
 16205,-,-,5:20 pm EDT,University_of_Connecticut,University_of_Massachusetts,Regular,2023-10-15
 16189,9,6,Final,Stevens_Institute_of_Technology,New_Jersey_Institute_of_Technology,Regular,2023-10-15
@@ -232,11 +232,11 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13753,-,-,9:30 pm CDT,Dallas_Baptist_University,University_of_Colorado_Colorado_Springs,Regular,2023-10-21
 14810,-,-,11:00 pm EDT,Lawrence_Tech,Adrian_College,Regular,2023-10-21
 16468,-,-,9:30 am EDT,Rowan_University,Indiana_University_of_Pennsylvania,Regular,2023-10-22
-14992,-,-,12:30 pm CDT,University_of_Nebraska,Western_Colorado_University,Regular,2023-10-22
 15441,-,-,2:00 pm EDT,Colby_College,University_of_New_England,Regular,2023-10-22
 15378,-,-,2:30 pm EDT,University_of_Pittsburgh_Johnstown,Saint_Vincent_College,Regular,2023-10-22
 16148,-,-,3:00 pm EDT,Sacred_Heart_University,Harvard_University,Regular,2023-10-22
 13473,-,-,4:00 pm EDT,Adrian_College,Lawrence_Tech,Regular,2023-10-22
+17408,-,-,5:10 pm EDT,Dartmouth_College,University_of_Massachusetts,Regular,2023-10-22
 16207,-,-,6:10 pm EDT,University_of_Connecticut,Wentworth_Institute_of_Technology,Regular,2023-10-22
 12989,-,-,7:30 pm EDT,Hope_College,University_of_Notre_Dame,Regular,2023-10-26
 14893,-,-,8:10 pm EDT,Dartmouth_College,Central_Maine_Community_College,Regular,2023-10-26

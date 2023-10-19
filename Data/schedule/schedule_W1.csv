@@ -14,13 +14,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12784,5,1,Final,Indiana_Tech,Lake_Superior_State_University,Regular,2023-9-30
 14912,3,1,Final,University_of_Michigan,Michigan_State_University,Regular,2023-9-30
 13659,4,0,Final,Midland_University,Minot_State_University,Regular,2023-9-30
-15102,-,-,4:00 pm MDT,Grand_Canyon_University,Maryville_University,Regular,2023-9-30
+15102,2,5,Final,Grand_Canyon_University,Maryville_University,Regular,2023-9-30
 13533,9,0,Final,Adrian_College,Lindenwood_University,Regular,2023-9-30
 14820,0,4,Final,Miami_University,Niagara_University,Regular,2023-9-30
 15081,5,1,Final,Colorado_State_University,University_of_Denver,Regular,2023-9-30
 12739,1,13,Final,Montana_State_University,University_of_Utah,Regular,2023-9-30
 14821,3,4,Final OT,Miami_University,Niagara_University,Regular,2023-10-1
-15103,-,-,12:00 pm MDT,Grand_Canyon_University,Maryville_University,Regular,2023-10-1
+15103,2,9,Final,Grand_Canyon_University,Maryville_University,Regular,2023-10-1
 13534,9,0,Final,Adrian_College,Lindenwood_University,Regular,2023-10-1
 13660,4,1,Final,Midland_University,University_of_Jamestown,Regular,2023-10-5
 14924,1,3,Final,University_of_Denver,Michigan_State_University,Regular,2023-10-5
@@ -53,7 +53,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13677,2,5,Final,University_of_Massachusetts_Amherst,Midland_University,Regular,2023-10-13
 14913,3,1,Final,University_of_Michigan,Grand_Valley_State_University,Regular,2023-10-13
 14722,1,2,Final OT,Michigan_State_University,Indiana_Tech,Regular,2023-10-13
-14771,-,-,7:30 pm EDT,Aquinas_College,Davenport_University,Regular,2023-10-13
+14771,1,2,Final,Aquinas_College,Davenport_University,Regular,2023-10-13
 12765,6,1,Final,University_of_Jamestown,University_of_Colorado,Regular,2023-10-13
 12740,5,2,Final,Montana_State_University,University_of_Wyoming,Regular,2023-10-13
 15074,3,2,Final,Arizona_State_University,University_of_Utah,Regular,2023-10-13

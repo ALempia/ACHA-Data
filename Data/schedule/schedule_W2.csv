@@ -23,7 +23,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13255,1,6,Final,SUNY_Cortland,Niagara_University,Regular,2023-10-1
 12832,6,4,Final,Central_Michigan_University,Northern_Michigan_University,Regular,2023-10-1
 16912,2,4,Final,Harvard_University,Assumption_University,Regular,2023-10-1
-16228,-,-,2:00 pm EDT,United_States_Naval_Academy,University_of_Pennsylvania,Regular,2023-10-1
+16228,4,0,Final,United_States_Naval_Academy,University_of_Pennsylvania,Regular,2023-10-1
 13125,3,4,Final,University_of_Delaware,Villanova_University,Regular,2023-10-1
 15927,2,8,Final,College_of_the_Holy_Cross,Boston_University,Regular,2023-10-1
 15904,5,2,00:00 3rd,Providence_College,University_Of_Connecticut,Regular,2023-10-1
@@ -110,8 +110,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15260,-,-,1:15 pm CDT,Maryville_University,University_of_Wisconsin_LaCrosse,Regular,2023-10-22
 13128,-,-,2:45 pm EDT,University_of_Delaware,Liberty_University,Regular,2023-10-22
 15937,-,-,3:00 pm EDT,University_of_New_Hampshire,University_of_Vermont,Regular,2023-10-22
+15896,-,-,3:25 pm EDT,College_of_the_Holy_Cross,Assumption_University,Regular,2023-10-22
 16515,-,-,7:00 pm EDT,University_at_Buffalo,Niagara_University,Regular,2023-10-22
-15896,-,-,8:00 pm EDT,Sacred_Heart_University,College_of_the_Holy_Cross,Regular,2023-10-22
 17405,-,-,8:00 pm EDT,Merrimack_College,Saint_Anselm_College,Regular,2023-10-22
 13035,-,-,7:00 pm EDT,Brockport_State_University,West_Virginia_University_,Regular,2023-10-27
 15938,-,-,7:00 pm EDT,University_of_New_Hampshire,Harvard_University,Regular,2023-10-27
