@@ -248,9 +248,9 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13176,3,2,Final OT,Arizona_State_University,San_Diego_State_University,Regular,2023-10-14
 13970,3,7,Final,The_College_of_New_Jersey,University_at_Buffalo,Regular,2023-10-15
 14625,3,5,Final,Niagara_University,Stony_Brook_University,Regular,2023-10-15
-13232,-,-,7:00 pm CDT,Purdue_University_Northwest,Davenport_University,Regular,2023-10-19
-14963,-,-,8:30 pm EDT,Grand_Valley_State_University,Calvin_University,Regular,2023-10-19
-13811,-,-,9:30 pm EDT,George_Mason_University,Western_Michigan_University,Regular,2023-10-19
+13232,5,3,Final,Purdue_University_Northwest,Davenport_University,Regular,2023-10-19
+14963,3,2,Final OT,Grand_Valley_State_University,Calvin_University,Regular,2023-10-19
+13811,4,2,Final,George_Mason_University,Western_Michigan_University,Regular,2023-10-19
 17077,-,-,6:15 pm EDT,University_of_Delaware,Drexel_University,Regular,2023-10-20
 13646,-,-,7:00 pm EDT,Syracuse_University,University_of_Pittsburgh,Regular,2023-10-20
 13881,-,-,7:00 pm EDT,Liberty_University,Maryville_University,Regular,2023-10-20
@@ -560,7 +560,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13343,-,-,2:50 pm CST,Northern_Illinois_University,Arizona_State_University,Regular,2023-11-19
 13218,-,-,2:30 pm EST,Indiana_Tech,Purdue_University_Northwest,Regular,2023-11-21
 13027,-,-,7:00 pm EST,Adrian_College,Oakland_University,Regular,2023-11-21
-12527,-,-,7:00 pm CST,University_of_Jamestown,Minot_State_University,Regular,2023-11-28
+12527,-,-,3:30 pm CST,University_of_Jamestown,Minot_State_University,Regular,2023-11-27
 13028,-,-,7:30 pm EST,Adrian_College,Indiana_Tech,Regular,2023-11-30
 12817,-,-,1:00 pm MST,University_of_Arizona,University_of_Nevada_Las_Vegas,Regular,2023-12-1
 15152,-,-,5:00 pm EST,Lawrence_Tech,Cleary_University,Regular,2023-12-1
