@@ -70,13 +70,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15093,8,5,Final,University_of_Minnesota,Concordia_University_Ann_Arbor,Regular,2023-10-15
 15268,4,1,Final,Maryville_University,University_of_Michigan_Dearborn,Regular,2023-10-15
 15539,1,2,Final,Lindenwood_University,McKendree_University,Regular,2023-10-15
-13001,-,-,3:00 pm EDT,University_of_Michigan_Dearborn,Penn_State_University,Regular,2023-10-20
-13553,-,-,2:00 pm CDT,McKendree_University,University_of_Colorado,Regular,2023-10-20
-12748,-,-,3:45 pm CDT,Minot_State_University,Lake_Superior_State_University,Regular,2023-10-20
-14671,-,-,4:30 pm MDT,University_of_Utah,Colorado_State_University,Regular,2023-10-20
+13001,3,2,Final,University_of_Michigan_Dearborn,Penn_State_University,Regular,2023-10-20
+13553,12,1,Final,McKendree_University,University_of_Colorado,Regular,2023-10-20
+12748,4,3,Final OT,Minot_State_University,Lake_Superior_State_University,Regular,2023-10-20
+14671,3,2,Final OT,University_of_Utah,Colorado_State_University,Regular,2023-10-20
 13099,-,-,7:30 pm EDT,Niagara_University,Indiana_Tech,Regular,2023-10-20
-12729,-,-,8:00 pm EDT,Concordia_University_Ann_Arbor,Adrian_College,Regular,2023-10-20
-14937,-,-,10:15 pm EDT,Liberty_University,University_of_Massachusetts_Amherst,Regular,2023-10-20
+12729,0,8,Final,Concordia_University_Ann_Arbor,Adrian_College,Regular,2023-10-20
+14937,5,0,00:00 3rd,Liberty_University,University_of_Massachusetts_Amherst,Regular,2023-10-20
 13002,-,-,1:00 pm EDT,University_of_Michigan_Dearborn,Penn_State_University,Regular,2023-10-21
 14938,-,-,1:30 pm EDT,Liberty_University,University_of_Massachusetts_Amherst,Regular,2023-10-21
 13100,-,-,3:00 pm EDT,Niagara_University,Indiana_Tech,Regular,2023-10-21

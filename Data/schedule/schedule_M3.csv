@@ -187,15 +187,15 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13954,-,-,9:00 pm EDT,University_of_Michigan_Flint,Ferris_State_University,Regular,2023-10-18
 14437,5,2,Final,Grand_Valley_State_University,PennWest_California,Regular,2023-10-19
 16610,-,-,7:00 pm EDT,Calvin_University,Northwood_University,Regular,2023-10-20
-12988,-,-,7:30 pm EDT,Hope_College,Western_Michigan_University,Regular,2023-10-20
+12988,12,1,Final,Hope_College,Western_Michigan_University,Regular,2023-10-20
 16597,-,-,8:00 pm EDT,Michigan_State_University,University_of_Michigan_Flint,Regular,2023-10-20
-14392,-,-,8:00 pm EDT,Saint_Thomas_Aquinas_College,New_Jersey_Institute_of_Technology,Regular,2023-10-20
+14392,9,1,Final,Saint_Thomas_Aquinas_College,New_Jersey_Institute_of_Technology,Regular,2023-10-20
 14242,-,-,7:20 pm CDT,University_of_Kansas,University_of_Nebraska,Regular,2023-10-20
 13148,-,-,7:30 pm CDT,Northern_Illinois_University,Illinois_State_University,Regular,2023-10-20
 12907,-,-,7:00 pm MDT,Colorado_Mesa_University,Colorado_School_of_Mines,Regular,2023-10-20
 16933,-,-,7:00 pm MDT,United_States_Air_Force_Academy,University_of_New_Mexico,Regular,2023-10-20
 14699,-,-,9:20 pm EDT,Duquesne_University,Robert_Morris_University,Regular,2023-10-20
-15959,-,-,9:30 pm EDT,Ferris_State_University,PennWest_California,Regular,2023-10-20
+15959,6,2,03:59 3rd,Ferris_State_University,PennWest_California,Regular,2023-10-20
 16924,-,-,9:30 pm EDT,West_Chester_University,York_College_of_Pennsylvania,Regular,2023-10-20
 16497,-,-,6:30 pm PDT,Grand_Canyon_University,Arizona_State_University,Regular,2023-10-20
 15635,-,-,9:30 pm EDT,Saginaw_Valley_State_University,Miami_University,Regular,2023-10-20
@@ -204,7 +204,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12946,-,-,9:00 pm CDT,University_of_Nebraska_at_Omaha,Western_Colorado_University,Regular,2023-10-20
 13752,-,-,9:30 pm CDT,Dallas_Baptist_University,University_of_Colorado_Colorado_Springs,Regular,2023-10-20
 12972,-,-,9:45 pm CDT,Olivet_Nazarene_University,Drake_University,Regular,2023-10-20
-14401,-,-,10:10 pm CDT,Northwestern_University,Washington_University_of_Saint_Louis,Regular,2023-10-20
+14401,2,3,Final SO,Northwestern_University,Washington_University_of_Saint_Louis,Regular,2023-10-20
 16934,-,-,8:30 am MDT,United_States_Air_Force_Academy,University_of_New_Mexico,Regular,2023-10-21
 16452,-,-,2:10 pm EDT,Butler_University,Purdue_University,Regular,2023-10-21
 13933,-,-,2:30 pm EDT,Northwood_University,Calvin_University,Regular,2023-10-21
