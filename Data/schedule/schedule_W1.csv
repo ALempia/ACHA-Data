@@ -74,16 +74,16 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13553,12,1,Final,McKendree_University,University_of_Colorado,Regular,2023-10-20
 12748,4,3,Final OT,Minot_State_University,Lake_Superior_State_University,Regular,2023-10-20
 14671,3,2,Final OT,University_of_Utah,Colorado_State_University,Regular,2023-10-20
-13099,-,-,7:30 pm EDT,Niagara_University,Indiana_Tech,Regular,2023-10-20
+13099,0,1,Final OT,Niagara_University,Indiana_Tech,Regular,2023-10-20
 12729,0,8,Final,Concordia_University_Ann_Arbor,Adrian_College,Regular,2023-10-20
 14937,5,0,00:00 3rd,Liberty_University,University_of_Massachusetts_Amherst,Regular,2023-10-20
-13002,-,-,1:00 pm EDT,University_of_Michigan_Dearborn,Penn_State_University,Regular,2023-10-21
-14938,-,-,1:30 pm EDT,Liberty_University,University_of_Massachusetts_Amherst,Regular,2023-10-21
-13100,-,-,3:00 pm EDT,Niagara_University,Indiana_Tech,Regular,2023-10-21
-13554,-,-,3:15 pm CDT,McKendree_University,University_of_Colorado,Regular,2023-10-21
-12749,-,-,3:45 pm CDT,Minot_State_University,Lake_Superior_State_University,Regular,2023-10-21
-13536,-,-,7:00 pm EDT,Adrian_College,Concordia_University_Ann_Arbor,Regular,2023-10-21
-14672,-,-,7:30 pm MDT,University_of_Utah,Colorado_State_University,Regular,2023-10-21
+13002,4,0,Final,University_of_Michigan_Dearborn,Penn_State_University,Regular,2023-10-21
+14938,3,2,Final OT,Liberty_University,University_of_Massachusetts_Amherst,Regular,2023-10-21
+13100,3,7,Final,Niagara_University,Indiana_Tech,Regular,2023-10-21
+13554,4,0,Final,McKendree_University,University_of_Colorado,Regular,2023-10-21
+12749,3,1,Final,Minot_State_University,Lake_Superior_State_University,Regular,2023-10-21
+13536,6,3,Final,Adrian_College,Concordia_University_Ann_Arbor,Regular,2023-10-21
+14672,2,1,Final,University_of_Utah,Colorado_State_University,Regular,2023-10-21
 12767,-,-,1:00 pm CDT,University_of_Jamestown,Lake_Superior_State_University,Regular,2023-10-22
 12787,-,-,3:00 pm EDT,Indiana_Tech,Minot_State_University,Regular,2023-10-26
 15540,-,-,9:20 pm CDT,Lindenwood_University,Midland_University,Regular,2023-10-26
