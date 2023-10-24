@@ -269,8 +269,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13812,3,2,Final,George_Mason_University,Western_Michigan_University,Regular,2023-10-20
 15332,6,3,Final,University_at_Buffalo,William_Paterson_University,Regular,2023-10-20
 13630,3,4,Final SO,Roosevelt_University,Adrian_College,Regular,2023-10-20
-13381,-,-,8:30 pm EDT,Robert_Morris_University,John_Carroll_University,Regular,2023-10-20
-13971,-,-,8:30 pm EDT,The_College_of_New_Jersey,West_Chester_University,Regular,2023-10-20
+13381,4,9,Final,Robert_Morris_University,John_Carroll_University,Regular,2023-10-20
+13971,1,8,Final,The_College_of_New_Jersey,West_Chester_University,Regular,2023-10-20
 13796,1,7,Final,University_of_Colorado,University_of_Central_Oklahoma,Regular,2023-10-20
 15227,0,8,Final,Rochester_University,Lawrence_Tech,Regular,2023-10-20
 14949,3,7,Final,Duquesne_University,West_Virginia_University,Regular,2023-10-20
@@ -305,7 +305,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13797,2,8,Final,University_of_Colorado,University_of_Central_Oklahoma,Regular,2023-10-21
 15148,13,0,Final,Lawrence_Tech,Rochester_University,Regular,2023-10-21
 16975,-,-,1:30 pm EDT,Canisius_University,Rutgers_University,Regular,2023-10-22
-14627,-,-,3:30 pm EDT,Niagara_University,Ohio_University,Regular,2023-10-22
+14627,7,1,Final,Niagara_University,Ohio_University,Regular,2023-10-22
 15185,-,-,6:00 pm EDT,Calvin_University,University_of_Alabama,Regular,2023-10-26
 13022,-,-,7:30 pm EDT,Adrian_College,Ohio_University,Regular,2023-10-26
 13233,-,-,7:00 pm CDT,Purdue_University_Northwest,Midland_University,Regular,2023-10-26
