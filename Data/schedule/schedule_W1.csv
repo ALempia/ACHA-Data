@@ -85,9 +85,9 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13536,6,3,Final,Adrian_College,Concordia_University_Ann_Arbor,Regular,2023-10-21
 14672,2,1,Final,University_of_Utah,Colorado_State_University,Regular,2023-10-21
 12767,5,3,Final,University_of_Jamestown,Lake_Superior_State_University,Regular,2023-10-22
-12787,-,-,3:00 pm EDT,Indiana_Tech,Minot_State_University,Regular,2023-10-26
-15540,-,-,9:20 pm CDT,Lindenwood_University,Midland_University,Regular,2023-10-26
-15094,-,-,10:30 pm CDT,University_of_Minnesota,University_of_Jamestown,Regular,2023-10-26
+12787,2,1,Final,Indiana_Tech,Minot_State_University,Regular,2023-10-26
+15540,0,3,Final,Lindenwood_University,Midland_University,Regular,2023-10-26
+15094,5,6,Final,University_of_Minnesota,University_of_Jamestown,Regular,2023-10-26
 13003,-,-,3:00 pm EDT,University_of_Michigan_Dearborn,Niagara_University,Regular,2023-10-27
 14865,-,-,4:30 pm EDT,Grand_Valley_State_University,Aquinas_College,Regular,2023-10-27
 15095,-,-,5:00 pm CDT,University_of_Minnesota,University_of_Jamestown,Regular,2023-10-27
@@ -104,8 +104,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14491,-,-,5:00 pm MDT,University_of_Colorado,University_of_Denver,Regular,2023-10-28
 13004,-,-,7:00 pm EDT,University_of_Michigan_Dearborn,Niagara_University,Regular,2023-10-28
 14772,-,-,7:30 pm EDT,Aquinas_College,Grand_Valley_State_University,Regular,2023-10-28
+14683,-,-,7:30 pm EDT,Davenport_University,Lake_Superior_State_University,Regular,2023-10-28
 15105,-,-,6:00 pm MDT,Grand_Canyon_University,University_of_Utah,Regular,2023-10-28
-14683,-,-,9:30 pm EDT,Davenport_University,Lake_Superior_State_University,Regular,2023-10-28
 15084,-,-,1:30 pm MDT,Colorado_State_University,Arizona_State_University,Regular,2023-10-29
 13538,-,-,4:00 pm EDT,Adrian_College,Minot_State_University,Regular,2023-10-29
 14914,-,-,4:00 pm EDT,University_of_Michigan,Niagara_University,Regular,2023-10-29
