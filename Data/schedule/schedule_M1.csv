@@ -301,10 +301,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12617,3,2,Final,University_of_Nevada_Las_Vegas,University_of_Utah,Regular,2023-10-21
 13631,2,9,Final,Roosevelt_University,Adrian_College,Regular,2023-10-21
 13813,2,1,Final,George_Mason_University,San_Diego_State_University,Regular,2023-10-21
-16974,-,-,8:30 pm EDT,Canisius_University,Rutgers_University,Regular,2023-10-21
+16974,4,3,Final SO,Canisius_University,Rutgers_University,Regular,2023-10-21
 13797,2,8,Final,University_of_Colorado,University_of_Central_Oklahoma,Regular,2023-10-21
 15148,13,0,Final,Lawrence_Tech,Rochester_University,Regular,2023-10-21
-16975,-,-,1:30 pm EDT,Canisius_University,Rutgers_University,Regular,2023-10-22
+16975,5,7,Final,Canisius_University,Rutgers_University,Regular,2023-10-22
 14627,7,1,Final,Niagara_University,Ohio_University,Regular,2023-10-22
 15185,6,4,Final,Calvin_University,University_of_Alabama,Regular,2023-10-26
 13022,3,4,Final,Adrian_College,Ohio_University,Regular,2023-10-26
@@ -332,7 +332,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12597,3,0,Final,University_of_Central_Oklahoma,University_of_Mary,Regular,2023-10-27
 12569,3,5,Final,Northern_Illinois_University,Midland_University,Regular,2023-10-27
 12703,2,0,Final,McKendree_University,Waldorf_University,Regular,2023-10-27
-13487,-,-,8:55 pm EDT,Oakland_University,Grand_Valley_State_University,Regular,2023-10-27
+13487,1,11,Final,Oakland_University,Grand_Valley_State_University,Regular,2023-10-27
 15737,9,1,Final,New_York_University,Rutgers_University,Regular,2023-10-27
 14152,1,2,Final OT,Stony_Brook_University,University_of_Rhode_Island,Regular,2023-10-27
 14641,4,5,Final,Mercyhurst_University,John_Carroll_University,Regular,2023-10-27
@@ -340,7 +340,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13295,5,6,Final OT,Drexel_University,Robert_Morris_University,Regular,2023-10-27
 13178,3,4,Final OT,Arizona_State_University,University_of_Utah,Regular,2023-10-27
 12619,3,1,Final,University_of_Nevada_Las_Vegas,University_of_Arizona,Regular,2023-10-27
-14628,-,-,1:00 pm EDT,Niagara_University,University_of_Pittsburgh,Regular,2023-10-28
+14628,2,4,Final,Niagara_University,University_of_Pittsburgh,Regular,2023-10-28
 15228,1,4,Final,Rochester_University,Concordia_University_Ann_Arbor,Regular,2023-10-28
 14533,-,-,2:15 pm EDT,William_Paterson_University,United_States_Naval_Academy,Regular,2023-10-28
 13214,-,-,2:30 pm EDT,Indiana_Tech,Lawrence_Tech,Regular,2023-10-28
