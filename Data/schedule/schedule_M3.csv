@@ -13,7 +13,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16288,6,5,Final,University_of_Notre_Dame,Calvin_University,Regular,2023-9-21
 14426,14,1,Final,Grand_Valley_State_University,Miami_University,Regular,2023-9-22
 13199,1,4,Final,Illinois_State_University,Maryville_University,Regular,2023-9-22
-16770,-,-,2:15 pm EDT,Grand_Valley_State_University,Miami_University,Regular,2023-9-22
 14427,9,1,Final,Saginaw_Valley_State_University,University_of_Pittsburgh_Johnstown,Regular,2023-9-22
 16607,7,3,Final,Calvin_University,University_of_Notre_Dame,Regular,2023-9-22
 17434,2,15,Final,Stevenson_University,Indiana_University_of_Pennsylvania,Regular,2023-9-22
@@ -32,7 +31,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13495,-,-,Postponed,Trine_University,Marian_University,Regular,2023-9-23
 17435,0,1,Home Forfeit,Stevenson_University,Indiana_University_of_Pennsylvania,Regular,2023-9-23
 16347,3,2,Final,Central_Michigan_University,Ferris_State_University,Regular,2023-9-23
-15601,-,-,4:15 pm EDT,West_Virginia_University,Loyola_University_Maryland,Regular,2023-9-23
+15601,1,0,Visiting Forfeit,West_Virginia_University,Loyola_University_Maryland,Regular,2023-9-23
 14430,6,2,Final,Missouri_State_University,Saginaw_Valley_State_University,Regular,2023-9-23
 12971,4,7,Final,Olivet_Nazarene_University,Butler_University,Regular,2023-9-23
 16567,-,-,7:00 pm EDT,George_Mason_University,United_States_Naval_Academy,Regular,2023-9-23
@@ -45,7 +44,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14434,2,2,Final OT,Saginaw_Valley_State_University,Miami_University,Regular,2023-9-24
 13496,5,3,Final,Trine_University,Adrian_College,Regular,2023-9-26
 13754,3,5,Final,Dallas_Baptist_University,University_of_Arkansas,Regular,2023-9-28
-16289,-,-,1:00 pm EDT,University_of_Notre_Dame,Central_Michigan_University,Regular,2023-9-29
 16348,3,6,Final,Central_Michigan_University,University_of_Notre_Dame,Regular,2023-9-29
 15976,6,1,Final,Purdue_University,Illinois_State_University,Regular,2023-9-29
 14389,6,4,Final,Saint_Thomas_Aquinas_College,Rowan_University,Regular,2023-9-29
@@ -140,7 +138,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16570,-,-,1:50 pm EDT,George_Mason_University,University_of_Maryland,Regular,2023-10-8
 16742,2,5,Final,Saint_Vincent_College,Kent_State_University,Regular,2023-10-8
 16891,0,6,Final,Harvard_University,Dartmouth_College,Regular,2023-10-8
-16892,-,-,8:00 pm EDT,Harvard_University,Tufts_University,Regular,2023-10-11
+16892,8,0,Final,Harvard_University,Tufts_University,Regular,2023-10-11
 13052,5,7,Final,East_Texas_Baptist_University,Grand_Canyon_University,Regular,2023-10-12
 15835,15,4,Final,Indiana_University,University_of_Cincinnati,Regular,2023-10-12
 13201,1,5,Final,Illinois_State_University,Missouri_State_University,Regular,2023-10-12
@@ -189,7 +187,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14809,2,3,Final OT,Lawrence_Tech,Florida_Gulf_Coast_University,Regular,2023-10-15
 16795,10,2,Final,Central_Maine_Community_College,University_of_New_England,Regular,2023-10-15
 16205,3,6,Final,University_of_Connecticut,University_of_Massachusetts,Regular,2023-10-15
-17438,-,-,6:00 pm EDT,Stevenson_University,Loyola_University_Maryland,Regular,2023-10-15
+17438,3,4,Final OT,Stevenson_University,Loyola_University_Maryland,Regular,2023-10-15
 17565,-,-,7:00 pm EDT,Yale_University,Saint_Thomas_Aquinas_College,Regular,2023-10-15
 17627,-,-,8:00 pm EDT,Millersville_University,York_College_of_Pennsylvania,Regular,2023-10-15
 16189,9,6,Final,Stevens_Institute_of_Technology,New_Jersey_Institute_of_Technology,Regular,2023-10-15
@@ -372,6 +370,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16209,-,-,6:10 pm EST,University_of_Connecticut,Springfield_College,Regular,2023-11-5
 17491,-,-,7:45 pm EST,Western_Connecticut_State_University,Saint_Thomas_Aquinas_College,Regular,2023-11-5
 16964,-,-,9:10 pm EST,University_of_Akron,Indiana_University_of_Pennsylvania,Regular,2023-11-7
+17747,-,-,8:00 pm EST,Dartmouth_College,Central_Maine_Community_College,Regular,2023-11-9
 12552,-,-,2:00 pm CST,University_of_Arkansas,Purdue_University,Regular,2023-11-10
 12553,-,-,5:00 pm CST,Ferris_State_University,University_of_Nebraska,Regular,2023-11-10
 16553,-,-,6:00 pm EST,Florida_Gulf_Coast_University,Butler_University,Regular,2023-11-10
