@@ -343,7 +343,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14628,2,4,Final,Niagara_University,University_of_Pittsburgh,Regular,2023-10-28
 15228,1,4,Final,Rochester_University,Concordia_University_Ann_Arbor,Regular,2023-10-28
 14533,-,-,2:15 pm EDT,William_Paterson_University,United_States_Naval_Academy,Regular,2023-10-28
-13214,-,-,2:30 pm EDT,Indiana_Tech,Lawrence_Tech,Regular,2023-10-28
+13214,3,1,Final,Indiana_Tech,Lawrence_Tech,Regular,2023-10-28
 12704,6,1,Final,McKendree_University,Waldorf_University,Regular,2023-10-28
 14153,2,3,Final,Stony_Brook_University,University_of_Rhode_Island,Regular,2023-10-28
 17079,2,3,Final SO,University_of_Delaware,Liberty_University,Regular,2023-10-28
@@ -356,7 +356,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12539,5,3,Final,Missouri_State_University,University_of_Oklahoma,Regular,2023-10-28
 14615,-,-,7:00 pm EDT,Rutgers_University,New_York_University,Regular,2023-10-28
 15219,3,5,Final,University_of_Toledo,Purdue_University_Northwest,Regular,2023-10-28
-14111,-,-,7:30 pm EDT,Kent_State_University,Mercyhurst_University,Regular,2023-10-28
+14111,4,1,Final,Kent_State_University,Mercyhurst_University,Regular,2023-10-28
 13296,5,4,Final,Drexel_University,Robert_Morris_University,Regular,2023-10-28
 12598,2,4,Final,University_of_Central_Oklahoma,University_of_Mary,Regular,2023-10-28
 13632,3,4,Final,Roosevelt_University,University_of_Illinois,Regular,2023-10-28
@@ -364,8 +364,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13831,2,3,Final,University_of_Oregon,Grand_Canyon_University,Regular,2023-10-28
 14348,3,0,Final,Rochester_Institute_of_Technology,Duquesne_University,Regular,2023-10-29
 14534,-,-,5:30 pm EDT,William_Paterson_University,George_Mason_University,Regular,2023-10-29
-15766,-,-,7:30 pm CDT,Iowa_State_University,Waldorf_University,Regular,2023-10-31
-12507,-,-,7:00 pm CDT,University_of_Mary,Minot_State_University,Regular,2023-11-1
+15766,2,1,Final,Iowa_State_University,Waldorf_University,Regular,2023-10-31
+12507,2,4,Final,University_of_Mary,Minot_State_University,Regular,2023-11-1
 13023,-,-,7:30 pm EDT,Adrian_College,University_of_Toledo,Regular,2023-11-2
 14964,-,-,8:30 pm EDT,Grand_Valley_State_University,University_of_Michigan_Dearborn,Regular,2023-11-2
 13615,-,-,8:00 pm MDT,Grand_Canyon_University,University_of_Oklahoma,Regular,2023-11-2
