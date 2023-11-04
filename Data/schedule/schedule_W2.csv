@@ -120,7 +120,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17405,0,5,Final,Merrimack_College,Saint_Anselm_College,Regular,2023-10-22
 17760,-,-,3:30 pm EDT,University_of_Virginia,Virginia_Tech,Regular,2023-10-27
 17682,2,9,Final,Rowan_University,Villanova_University,Regular,2023-10-27
-13035,1,4,Unofficial Final,Brockport_State_University,West_Virginia_University_,Regular,2023-10-27
+13035,1,4,Final,Brockport_State_University,West_Virginia_University_,Regular,2023-10-27
 15938,14,0,Final,University_of_New_Hampshire,Harvard_University,Regular,2023-10-27
 13129,3,0,Final,University_of_Delaware,Niagara_University,Regular,2023-10-27
 16231,3,1,Final,United_States_Naval_Academy,Liberty_University,Regular,2023-10-27
@@ -153,12 +153,12 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15897,4,4,Final OT,Sacred_Heart_University,University_Of_Connecticut,Regular,2023-10-29
 17007,7,1,Final,Dakota_College_at_Bottineau,Lake_Region_State_College,Regular,2023-11-1
 17142,-,-,6:00 pm EDT,Rowan_University,West_Virginia_University_,Regular,2023-11-3
-17364,-,-,6:00 pm EDT,Liberty_University,Mercyhurst_University,Regular,2023-11-3
-13036,-,-,7:00 pm EDT,Brockport_State_University,Niagara_University,Regular,2023-11-3
-17158,-,-,7:40 pm EDT,University_Of_Connecticut,Sacred_Heart_University,Regular,2023-11-3
+17364,0,2,Final,Liberty_University,Mercyhurst_University,Regular,2023-11-3
+13036,2,3,Final,Brockport_State_University,Niagara_University,Regular,2023-11-3
+17158,3,10,Final,University_Of_Connecticut,Sacred_Heart_University,Regular,2023-11-3
 17698,-,-,8:10 pm EDT,West_Chester_University,Lawrence_Technological_University,Regular,2023-11-3
 17697,-,-,8:10 pm EDT,United_States_Naval_Academy,University_at_Buffalo,Regular,2023-11-3
-13370,-,-,8:00 pm CDT,Lake_Region_State_College,Assiniboine_Community_College,Regular,2023-11-3
+13370,0,8,Final,Lake_Region_State_College,Assiniboine_Community_College,Regular,2023-11-3
 16067,-,-,9:20 pm EDT,University_of_Maryland,George_Washington_University,Regular,2023-11-3
 16412,-,-,10:00 am EDT,Boston_College,University_of_Vermont,Regular,2023-11-4
 17136,-,-,12:00 pm EDT,Rowan_University,Lawrence_Technological_University,Regular,2023-11-4

@@ -111,13 +111,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14914,3,0,Final,University_of_Michigan,Niagara_University,Regular,2023-10-29
 14684,0,8,Final,Davenport_University,Lake_Superior_State_University,Regular,2023-10-29
 15541,0,7,Final,Lindenwood_University,Midland_University,Regular,2023-10-29
-13539,-,-,3:00 pm EDT,Adrian_College,Liberty_University,Regular,2023-11-3
-12750,-,-,3:45 pm CDT,Minot_State_University,Maryville_University,Regular,2023-11-3
-15106,-,-,4:00 pm MDT,Grand_Canyon_University,Arizona_State_University,Regular,2023-11-3
+13539,2,3,Final,Adrian_College,Liberty_University,Regular,2023-11-3
+12750,0,2,Final,Minot_State_University,Maryville_University,Regular,2023-11-3
+15106,1,7,Final,Grand_Canyon_University,Arizona_State_University,Regular,2023-11-3
 13679,-,-,6:20 pm EDT,University_of_Massachusetts_Amherst,Davenport_University,Regular,2023-11-3
 13005,-,-,7:00 pm EDT,University_of_Michigan_Dearborn,Miami_University,Regular,2023-11-3
-14773,-,-,7:00 pm EDT,Aquinas_College,Michigan_State_University,Regular,2023-11-3
-15054,-,-,7:30 pm EDT,Penn_State_University,Concordia_University_Ann_Arbor,Regular,2023-11-3
+15054,8,4,Final,Penn_State_University,Concordia_University_Ann_Arbor,Regular,2023-11-3
+14773,1,6,Final,Aquinas_College,Michigan_State_University,Regular,2023-11-3
 15055,-,-,8:15 am EDT,Penn_State_University,Concordia_University_Ann_Arbor,Regular,2023-11-4
 13680,-,-,12:20 pm EDT,University_of_Massachusetts_Amherst,Davenport_University,Regular,2023-11-4
 14928,-,-,12:30 pm MDT,University_of_Denver,University_of_Colorado,Regular,2023-11-4
