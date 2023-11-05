@@ -114,19 +114,19 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13539,2,3,Final,Adrian_College,Liberty_University,Regular,2023-11-3
 12750,0,2,Final,Minot_State_University,Maryville_University,Regular,2023-11-3
 15106,1,7,Final,Grand_Canyon_University,Arizona_State_University,Regular,2023-11-3
-13679,-,-,6:20 pm EDT,University_of_Massachusetts_Amherst,Davenport_University,Regular,2023-11-3
-13005,-,-,7:00 pm EDT,University_of_Michigan_Dearborn,Miami_University,Regular,2023-11-3
+13679,5,0,Final,University_of_Massachusetts_Amherst,Davenport_University,Regular,2023-11-3
+13005,4,3,Final,University_of_Michigan_Dearborn,Miami_University,Regular,2023-11-3
 15054,8,4,Final,Penn_State_University,Concordia_University_Ann_Arbor,Regular,2023-11-3
 14773,1,6,Final,Aquinas_College,Michigan_State_University,Regular,2023-11-3
-15055,-,-,8:15 am EDT,Penn_State_University,Concordia_University_Ann_Arbor,Regular,2023-11-4
-13680,-,-,12:20 pm EDT,University_of_Massachusetts_Amherst,Davenport_University,Regular,2023-11-4
-14928,-,-,12:30 pm MDT,University_of_Denver,University_of_Colorado,Regular,2023-11-4
-14825,-,-,4:00 pm EDT,Miami_University,University_of_Michigan_Dearborn,Regular,2023-11-4
-12751,-,-,3:45 pm CDT,Minot_State_University,Maryville_University,Regular,2023-11-4
-13663,-,-,4:00 pm CDT,Midland_University,McKendree_University,Regular,2023-11-4
-15107,-,-,4:00 pm MDT,Grand_Canyon_University,Arizona_State_University,Regular,2023-11-4
-13540,-,-,7:00 pm EDT,Adrian_College,Liberty_University,Regular,2023-11-4
-14570,-,-,9:00 pm EDT,Lake_Superior_State_University,Niagara_University,Regular,2023-11-4
+15055,3,8,Final,Penn_State_University,Concordia_University_Ann_Arbor,Regular,2023-11-4
+13680,7,0,Unofficial Final,University_of_Massachusetts_Amherst,Davenport_University,Regular,2023-11-4
+14928,3,2,Final,University_of_Denver,University_of_Colorado,Regular,2023-11-4
+14825,0,2,Final,Miami_University,University_of_Michigan_Dearborn,Regular,2023-11-4
+12751,4,3,Final OT,Minot_State_University,Maryville_University,Regular,2023-11-4
+13663,2,1,Final,Midland_University,McKendree_University,Regular,2023-11-4
+15107,0,5,Final,Grand_Canyon_University,Arizona_State_University,Regular,2023-11-4
+13540,1,4,Final,Adrian_College,Liberty_University,Regular,2023-11-4
+14570,0,2,Final,Lake_Superior_State_University,Niagara_University,Regular,2023-11-4
 14826,-,-,12:30 pm EST,Miami_University,Liberty_University,Regular,2023-11-5
 14724,-,-,12:35 pm EST,Michigan_State_University,Aquinas_College,Regular,2023-11-5
 13664,-,-,12:00 pm CST,Midland_University,McKendree_University,Regular,2023-11-5
