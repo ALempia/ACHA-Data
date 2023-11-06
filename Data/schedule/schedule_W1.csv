@@ -127,11 +127,11 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15107,0,5,Final,Grand_Canyon_University,Arizona_State_University,Regular,2023-11-4
 13540,1,4,Final,Adrian_College,Liberty_University,Regular,2023-11-4
 14570,0,2,Final,Lake_Superior_State_University,Niagara_University,Regular,2023-11-4
-14826,-,-,12:30 pm EST,Miami_University,Liberty_University,Regular,2023-11-5
-14724,-,-,12:35 pm EST,Michigan_State_University,Aquinas_College,Regular,2023-11-5
-13664,-,-,12:00 pm CST,Midland_University,McKendree_University,Regular,2023-11-5
-14571,-,-,1:00 pm EST,Lake_Superior_State_University,Niagara_University,Regular,2023-11-5
-12768,-,-,1:00 pm CST,University_of_Jamestown,Maryville_University,Regular,2023-11-5
+14826,0,4,Final,Miami_University,Liberty_University,Regular,2023-11-5
+14724,5,2,Final,Michigan_State_University,Aquinas_College,Regular,2023-11-5
+13664,1,1,Final OT,Midland_University,McKendree_University,Regular,2023-11-5
+14571,0,1,Final,Lake_Superior_State_University,Niagara_University,Regular,2023-11-5
+12768,0,2,Final,University_of_Jamestown,Maryville_University,Regular,2023-11-5
 16522,-,-,1:00 pm CST,Lindenwood_University,University_of_Michigan,Regular,2023-11-10
 13681,-,-,3:50 pm EST,University_of_Massachusetts_Amherst,University_of_Utah,Regular,2023-11-10
 12789,-,-,4:30 pm EST,Indiana_Tech,Miami_University,Regular,2023-11-10
