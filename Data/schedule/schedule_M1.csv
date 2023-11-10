@@ -429,8 +429,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13352,2,7,Final,Oswego_State_University,The_College_of_New_Jersey,Regular,2023-11-5
 14537,2,5,Final,William_Paterson_University,Indiana_University_of_Pennsylvania,Regular,2023-11-5
 13164,4,2,Final,Illinois_State_University,University_of_Illinois,Regular,2023-11-5
-13633,-,-,7:30 pm CST,Roosevelt_University,Davenport_University,Regular,2023-11-8
-13024,-,-,7:30 pm EST,Adrian_College,Niagara_University,Regular,2023-11-9
+13633,7,2,Final,Roosevelt_University,Davenport_University,Regular,2023-11-8
+13024,5,2,Final,Adrian_College,Niagara_University,Regular,2023-11-9
 13025,-,-,3:00 pm EST,Adrian_College,Niagara_University,Regular,2023-11-10
 14316,-,-,6:00 pm EST,Concordia_University_Ann_Arbor,Aquinas_College,Regular,2023-11-10
 12848,-,-,7:00 pm EST,University_of_Rhode_Island,University_of_Delaware,Regular,2023-11-10
