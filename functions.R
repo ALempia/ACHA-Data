@@ -2,6 +2,7 @@ require(httr)
 require(stringr)
 require(tidyverse)
 require(jsonlite)
+require(bpr)
 
 pull_url <-function(code){
   require(httr)
@@ -336,7 +337,7 @@ get_ratings <- function(A, p, date){
 
     
     # cut out last team from prior
-    prior <- prior %>% filter(!str_detect(Team, last))
+    prior <- prior %>% filter(Team != last & Team != paste0(last, ".1"))
     
     # Number of teams
     nteams <- ncol(A)
@@ -355,6 +356,7 @@ get_ratings <- function(A, p, date){
     
     fit <- sample_bpr(fmla, data = POISmatrix,
                       iter = 1000, 
+                      pars = list(method = "MH"),
                       prior = list(type = "gaussian", b = prior$value, 
                                    B = diag(2*nteams+2)*prior$var))
     
@@ -363,11 +365,17 @@ get_ratings <- function(A, p, date){
     ratings <- data.frame(Team = prior$Team[3:(nteams+2)], 
                           off = coefs[3:(nteams+2)], def = coefs[(nteams+3):(2+nteams*2)])
     rownames(ratings) <- NULL
+    if(length(excluded_teams > 0)){
     # Re-reference the mean
     ratings <- bind_rows(ratings, data.frame(Team = last, off = 0, def = 0)) %>% mutate(
       Off_adjed = off + off_offset, Def_adjed = def + def_offset
     )
-    
+    }
+    else{
+      ratings <- bind_rows(ratings, data.frame(Team = last, off = 0, def = 0)) %>% mutate(
+        Off_adjed = off - mean(off), Def_adjed = def - mean(off)
+      )
+    }
     #ADD MISSING TEAMS USING PRIOR -- Unjoined teams are new and set to average
     missing_ratings <- data.frame(Team = excluded_teams)
     missing_ratings <- missing_ratings %>% left_join(p$ratings, by = "Team") %>% 
@@ -422,6 +430,15 @@ update_schedule <- function(lg, date){
   require(tidyverse)
   # Get Schedule
   live <- read_data(lg, 24) %>% mutate(game_id = as.numeric(game_id))
+  
+  missing <- read_csv(paste0("Data/missing/missing_", lg, ".csv"))
+  
+  for(i in 1:nrow(missing)){
+    j <- which(live$game_id == missing$game_id[i])
+    live$homeG[j] <- missing$homeG[i]
+    live$awayG[j] <- missing$awayG[i]
+    live$status[j] <- missing$status[i]
+  }
   
   # Update Schedule
   write_csv(live, paste0("Data/schedule/schedule_", lg, ".csv"))
