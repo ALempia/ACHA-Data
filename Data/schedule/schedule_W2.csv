@@ -173,7 +173,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13371,1,6,Final,Lake_Region_State_College,Assiniboine_Community_College,Regular,2023-11-4
 12834,6,0,Final,Central_Michigan_University,University_of_Notre_Dame,Regular,2023-11-4
 17857,2,5,Final,Saint_Anselm_College,Boston_University,Regular,2023-11-4
-16195,-,-,7:55 pm EDT,Robert_Morris_University,The_Ohio_State_University,Regular,2023-11-4
+16195,2,5,Final,Robert_Morris_University,The_Ohio_State_University,Regular,2023-11-4
 15711,4,3,Final OT,North_Dakota_State_University,University_of_Wisconsin_Eau_Claire,Regular,2023-11-4
 15983,0,5,Final,University_of_Wisconsin_LaCrosse,University_of_Wisconsin,Regular,2023-11-4
 16779,4,1,01:54 1st,Slippery_Rock_University,Loyola_University_Maryland,Regular,2023-11-4
@@ -215,25 +215,25 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16517,11,2,Final,University_at_Buffalo,Rochester_Institute_Of_Technology,Regular,2023-11-11
 15906,9,1,Final,Providence_College,Bentley_University,Regular,2023-11-11
 17236,2,3,Final,University_of_Notre_Dame,Michigan_State_University,Regular,2023-11-11
-14294,-,-,8:00 pm EST,Montclair_State_University,Slippery_Rock_University,Regular,2023-11-11
+14294,9,6,Final,Montclair_State_University,Slippery_Rock_University,Regular,2023-11-11
 15714,4,0,Final,North_Dakota_State_University,University_of_Minnesota_Duluth,Regular,2023-11-11
 16131,18,2,Final,University_of_Wisconsin_Eau_Claire,University_of_Wisconsin_Stout,Regular,2023-11-11
 17300,4,3,Final OT,Saint_Anselm_College,Harvard_University,Regular,2023-11-11
 15461,6,3,Final,Northern_Michigan_University,Adrian_College,Regular,2023-11-11
-16196,-,-,9:10 pm EST,Robert_Morris_University,University_of_Pittsburgh,Regular,2023-11-11
+16196,2,4,Final,Robert_Morris_University,University_of_Pittsburgh,Regular,2023-11-11
 17498,-,-,8:45 pm CST,University_of_Wisconsin,Aurora_University,Regular,2023-11-11
 17513,0,8,Final,University_of_Minnesota_Duluth,Assiniboine_Community_College,Regular,2023-11-12
 17237,2,3,Final,University_of_Notre_Dame,Michigan_State_University,Regular,2023-11-12
 16132,23,0,Final,University_of_Wisconsin_Eau_Claire,University_of_Wisconsin_Stout,Regular,2023-11-12
-16822,10,0,00:00 3rd,Sault_College,Central_Michigan_University,Regular,2023-11-12
+16822,10,0,Final,Sault_College,Central_Michigan_University,Regular,2023-11-12
 16162,6,1,Final,Northeastern_University,University_of_New_Hampshire,Regular,2023-11-12
 15715,3,1,Final,North_Dakota_State_University,Iowa_State_University,Regular,2023-11-12
-16008,-,-,1:00 pm EST,University_of_Vermont,Merrimack_College,Regular,2023-11-12
+16008,5,1,Final,University_of_Vermont,Merrimack_College,Regular,2023-11-12
 15462,2,3,Final OT,Northern_Michigan_University,Adrian_College,Regular,2023-11-12
 16518,-,-,2:00 pm EST,University_at_Buffalo,Mercyhurst_University,Regular,2023-11-12
 17138,7,3,Final,University_of_Delaware,Rowan_University,Regular,2023-11-12
 16312,1,8,Final,Bentley_University,Harvard_University,Regular,2023-11-12
-15907,-,-,6:30 pm EST,Providence_College,College_of_the_Holy_Cross,Regular,2023-11-12
+15907,8,0,Final,Providence_College,College_of_the_Holy_Cross,Regular,2023-11-12
 17159,0,2,Final,University_Of_Connecticut,Boston_University,Regular,2023-11-12
 17683,-,-,Postponed,Sacred_Heart_University,Villanova_University,Regular,2023-11-12
 17499,-,-,9:45 pm CST,University_of_Wisconsin,Aurora_University,Regular,2023-11-12
