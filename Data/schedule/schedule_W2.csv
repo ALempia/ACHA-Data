@@ -170,6 +170,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14370,8,0,Final,University_of_Pittsburgh,Rochester_Institute_Of_Technology,Regular,2023-11-4
 15929,3,9,Final,College_of_the_Holy_Cross,Merrimack_College,Regular,2023-11-4
 17706,16,1,Final,West_Virginia_University_,West_Chester_University,Regular,2023-11-4
+17877,-,-,6:40 pm EDT,Assumption_University,Providence_College,Regular,2023-11-4
 13371,1,6,Final,Lake_Region_State_College,Assiniboine_Community_College,Regular,2023-11-4
 12834,6,0,Final,Central_Michigan_University,University_of_Notre_Dame,Regular,2023-11-4
 17857,2,5,Final,Saint_Anselm_College,Boston_University,Regular,2023-11-4
@@ -230,7 +231,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15715,3,1,Final,North_Dakota_State_University,Iowa_State_University,Regular,2023-11-12
 16008,5,1,Final,University_of_Vermont,Merrimack_College,Regular,2023-11-12
 15462,2,3,Final OT,Northern_Michigan_University,Adrian_College,Regular,2023-11-12
-16518,-,-,2:00 pm EST,University_at_Buffalo,Mercyhurst_University,Regular,2023-11-12
+16518,4,6,Final,University_at_Buffalo,Mercyhurst_University,Regular,2023-11-12
 17138,7,3,Final,University_of_Delaware,Rowan_University,Regular,2023-11-12
 16312,1,8,Final,Bentley_University,Harvard_University,Regular,2023-11-12
 15907,8,0,Final,Providence_College,College_of_the_Holy_Cross,Regular,2023-11-12

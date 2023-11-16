@@ -152,7 +152,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15542,2,4,Final,Lindenwood_University,University_of_Michigan,Regular,2023-11-11
 13407,2,6,Final,University_of_Wyoming,Montana_State_University,Regular,2023-11-11
 15057,3,7,Final,Penn_State_University,Michigan_State_University,Regular,2023-11-12
-13408,2,2,Final OT,University_of_Wyoming,Montana_State_University,Regular,2023-11-12
+13408,2,3,Final,University_of_Wyoming,Montana_State_University,Regular,2023-11-12
 14573,3,2,Final,Lake_Superior_State_University,Grand_Valley_State_University,Regular,2023-11-12
 13556,0,3,Final,McKendree_University,University_of_Michigan,Regular,2023-11-12
 12717,1,6,Final,Maryville_University,Adrian_College,Regular,2023-11-12
@@ -215,6 +215,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12794,-,-,2:30 pm EST,Indiana_Tech,Niagara_University,Regular,2024-1-6
 13558,-,-,4:30 pm CST,McKendree_University,Arizona_State_University,Regular,2024-1-11
 12718,-,-,8:15 pm CST,Maryville_University,Michigan_State_University,Regular,2024-1-11
+15548,-,-,1:40 pm CST,Lindenwood_University,University_of_Massachusetts_Amherst,Regular,2024-1-12
 12719,-,-,2:00 pm CST,Maryville_University,Arizona_State_University,Regular,2024-1-12
 12733,-,-,5:30 pm EST,Concordia_University_Ann_Arbor,Grand_Valley_State_University,Regular,2024-1-12
 13009,-,-,7:00 pm EST,University_of_Michigan_Dearborn,University_of_Rhode_Island,Regular,2024-1-12
@@ -228,14 +229,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13560,-,-,7:00 pm CST,McKendree_University,University_of_Massachusetts_Amherst,Regular,2024-1-13
 14576,-,-,9:00 pm EST,Lake_Superior_State_University,Miami_University,Regular,2024-1-13
 12720,-,-,8:00 pm CST,Maryville_University,Arizona_State_University,Regular,2024-1-13
-15547,-,-,9:40 pm CST,Lindenwood_University,University_of_Massachusetts_Amherst,Regular,2024-1-13
+15547,-,-,9:40 pm CST,Lindenwood_University,Michigan_State_University,Regular,2024-1-13
 14577,-,-,1:00 pm EST,Lake_Superior_State_University,Miami_University,Regular,2024-1-14
 12756,-,-,1:00 pm CST,Minot_State_University,University_of_Jamestown,Regular,2024-1-14
 13561,-,-,1:30 pm CST,McKendree_University,Arizona_State_University,Regular,2024-1-14
 12721,-,-,1:30 pm CST,Maryville_University,University_of_Massachusetts_Amherst,Regular,2024-1-14
 13106,-,-,3:00 pm EST,Niagara_University,Penn_State_University,Regular,2024-1-14
 14915,-,-,4:00 pm EST,University_of_Michigan,University_of_Rhode_Island,Regular,2024-1-14
-15548,-,-,8:50 pm CST,Lindenwood_University,Michigan_State_University,Regular,2024-1-14
 16523,-,-,10:30 am CST,Lindenwood_University,Arizona_State_University,Regular,2024-1-15
 12722,-,-,2:00 pm CST,Maryville_University,Lindenwood_University,Regular,2024-1-19
 14673,-,-,1:30 pm MST,University_of_Utah,Montana_State_University,Regular,2024-1-19
