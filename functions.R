@@ -431,14 +431,14 @@ update_schedule <- function(lg, date){
   # Get Schedule
   live <- read_data(lg, 24) %>% mutate(game_id = as.numeric(game_id))
   
-  missing <- read_csv(paste0("Data/missing/missing_", lg, ".csv"))
+ # missing <- read_csv(paste0("Data/missing/missing_", lg, ".csv"))
   
-  for(i in 1:nrow(missing)){
-    j <- which(live$game_id == missing$game_id[i])
-    live$homeG[j] <- missing$homeG[i]
-    live$awayG[j] <- missing$awayG[i]
-    live$status[j] <- missing$status[i]
-  }
+  # for(i in 1:nrow(missing)){
+  #   j <- which(live$game_id == missing$game_id[i])
+  #   live$homeG[j] <- missing$homeG[i]
+  #   live$awayG[j] <- missing$awayG[i]
+  #   live$status[j] <- missing$status[i]
+  # }
   
   # Update Schedule
   write_csv(live, paste0("Data/schedule/schedule_", lg, ".csv"))
