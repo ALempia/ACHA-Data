@@ -156,24 +156,24 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14573,3,2,Final,Lake_Superior_State_University,Grand_Valley_State_University,Regular,2023-11-12
 13556,0,3,Final,McKendree_University,University_of_Michigan,Regular,2023-11-12
 12717,1,6,Final,Maryville_University,Adrian_College,Regular,2023-11-12
-14686,-,-,2:30 pm EST,Davenport_University,Concordia_University_Ann_Arbor,Regular,2023-11-17
+14686,0,1,Final,Davenport_University,Concordia_University_Ann_Arbor,Regular,2023-11-17
 13557,3,2,Final,McKendree_University,Colorado_State_University,Regular,2023-11-17
-13683,-,-,6:20 pm EST,University_of_Massachusetts_Amherst,Niagara_University,Regular,2023-11-17
+13683,1,0,Final,University_of_Massachusetts_Amherst,Niagara_University,Regular,2023-11-17
 17544,4,1,Final,University_of_Utah,Montana_State_University,Regular,2023-11-17
 14574,0,6,Final,Lake_Superior_State_University,University_of_Michigan_Dearborn,Regular,2023-11-17
 14939,3,1,Final,Liberty_University,Maryville_University,Regular,2023-11-17
 12790,4,0,Final,Indiana_Tech,Grand_Valley_State_University,Regular,2023-11-17
-13684,-,-,11:20 am EST,University_of_Massachusetts_Amherst,Niagara_University,Regular,2023-11-18
-14828,-,-,1:00 pm EST,Miami_University,Adrian_College,Regular,2023-11-18
-14575,-,-,1:00 pm EST,Lake_Superior_State_University,University_of_Michigan_Dearborn,Regular,2023-11-18
-17545,-,-,1:30 pm MST,University_of_Utah,Montana_State_University,Regular,2023-11-18
-14940,-,-,4:30 pm EST,Liberty_University,Maryville_University,Regular,2023-11-18
-12731,-,-,5:00 pm EST,Concordia_University_Ann_Arbor,Davenport_University,Regular,2023-11-18
-13665,-,-,4:00 pm CST,Midland_University,University_of_Minnesota,Regular,2023-11-18
-14775,-,-,7:30 pm EST,Aquinas_College,University_of_Michigan,Regular,2023-11-18
-14867,-,-,7:30 pm EST,Grand_Valley_State_University,Indiana_Tech,Regular,2023-11-18
-12772,-,-,7:00 pm CST,University_of_Jamestown,Minot_State_University,Regular,2023-11-18
-15543,-,-,8:40 pm CST,Lindenwood_University,Colorado_State_University,Regular,2023-11-18
+13684,4,5,Final,University_of_Massachusetts_Amherst,Niagara_University,Regular,2023-11-18
+14828,0,3,Final,Miami_University,Adrian_College,Regular,2023-11-18
+14575,1,1,Final,Lake_Superior_State_University,University_of_Michigan_Dearborn,Regular,2023-11-18
+17545,11,2,Final,University_of_Utah,Montana_State_University,Regular,2023-11-18
+14940,5,0,Final,Liberty_University,Maryville_University,Regular,2023-11-18
+12731,8,0,Final,Concordia_University_Ann_Arbor,Davenport_University,Regular,2023-11-18
+13665,5,2,Final,Midland_University,University_of_Minnesota,Regular,2023-11-18
+14775,1,4,Final,Aquinas_College,University_of_Michigan,Regular,2023-11-18
+14867,0,1,Final OT,Grand_Valley_State_University,Indiana_Tech,Regular,2023-11-18
+12772,1,6,Final,University_of_Jamestown,Minot_State_University,Regular,2023-11-18
+15543,9,2,Final,Lindenwood_University,Colorado_State_University,Regular,2023-11-18
 15655,-,-,10:30 am EST,University_of_Rhode_Island,Niagara_University,Regular,2023-11-19
 13666,-,-,12:00 pm CST,Midland_University,University_of_Minnesota,Regular,2023-11-19
 15544,-,-,1:40 pm CST,Lindenwood_University,Colorado_State_University,Regular,2023-11-19
