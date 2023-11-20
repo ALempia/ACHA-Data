@@ -174,11 +174,11 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14867,0,1,Final OT,Grand_Valley_State_University,Indiana_Tech,Regular,2023-11-18
 12772,1,6,Final,University_of_Jamestown,Minot_State_University,Regular,2023-11-18
 15543,9,2,Final,Lindenwood_University,Colorado_State_University,Regular,2023-11-18
-15655,-,-,10:30 am EST,University_of_Rhode_Island,Niagara_University,Regular,2023-11-19
-13666,-,-,12:00 pm CST,Midland_University,University_of_Minnesota,Regular,2023-11-19
-15544,-,-,1:40 pm CST,Lindenwood_University,Colorado_State_University,Regular,2023-11-19
-12773,-,-,2:00 pm CST,University_of_Jamestown,Minot_State_University,Regular,2023-11-19
-13541,-,-,4:00 pm EST,Adrian_College,Miami_University,Regular,2023-11-19
+15655,0,3,Final,University_of_Rhode_Island,Niagara_University,Regular,2023-11-19
+13666,3,2,Final,Midland_University,University_of_Minnesota,Regular,2023-11-19
+15544,6,1,Final,Lindenwood_University,Colorado_State_University,Regular,2023-11-19
+12773,0,2,Final,University_of_Jamestown,Minot_State_University,Regular,2023-11-19
+13541,3,0,Final,Adrian_College,Miami_University,Regular,2023-11-19
 13667,-,-,8:30 pm CST,Midland_University,Liberty_University,Regular,2023-11-30
 15086,-,-,8:15 pm MST,Colorado_State_University,Grand_Canyon_University,Regular,2023-11-30
 12732,-,-,6:00 pm EST,Concordia_University_Ann_Arbor,Indiana_Tech,Regular,2023-12-1
