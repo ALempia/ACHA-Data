@@ -297,7 +297,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17567,-,-,10:00 am EDT,Yale_University,SUNY_Maritime_College,Regular,2023-10-29
 16689,6,2,Final,University_of_Massachusetts,Curry_College,Regular,2023-10-29
 15442,3,2,Final,Colby_College,Worcester_Polytechnic_Institute,Regular,2023-10-29
-12694,-,-,1:30 pm CDT,Maryville_University,Northwestern_University,Regular,2023-10-29
+12694,7,2,Final,Maryville_University,Northwestern_University,Regular,2023-10-29
 15004,4,3,Final,United_States_Coast_Guard_Academy,Springfield_College,Regular,2023-10-29
 14738,3,1,Final,Oakland_University,Arizona_State_University,Regular,2023-10-29
 13935,4,0,Final,Northwood_University,University_of_Michigan_Flint,Regular,2023-11-1
@@ -439,7 +439,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14844,7,3,Final,Worcester_Polytechnic_Institute,Harvard_University,Regular,2023-11-12
 16150,7,0,Final,Sacred_Heart_University,Yale_University,Regular,2023-11-12
 12560,3,7,Final,Missouri_State_University,Purdue_University,Regular,2023-11-12
-16797,-,-,3:30 pm EST,Central_Maine_Community_College,University_of_Massachusetts,Regular,2023-11-12
+16797,-,-,Postponed,Central_Maine_Community_College,University_of_Massachusetts,Regular,2023-11-12
 16376,6,2,Final,Curry_College,Colby_Sawyer_College,Regular,2023-11-12
 16671,-,-,4:10 pm EST,Springfield_College,United_States_Coast_Guard_Academy,Regular,2023-11-12
 17768,-,-,7:15 pm EST,York_College_of_Pennsylvania,Stevenson_University,Regular,2023-11-12

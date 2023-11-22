@@ -527,7 +527,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12706,0,5,Final,McKendree_University,University_of_Mary,Regular,2023-11-18
 14618,-,-,3:30 pm EST,Rutgers_University,University_of_Oregon,Regular,2023-11-18
 15348,-,-,4:15 pm EST,West_Virginia_University,Villanova_University,Regular,2023-11-18
-13217,-,-,5:30 pm EST,Indiana_Tech,Rochester_University,Regular,2023-11-18
+13217,10,1,Final,Indiana_Tech,Rochester_University,Regular,2023-11-18
 13338,0,2,Final,Northern_Illinois_University,University_of_Rhode_Island,Regular,2023-11-18
 15191,11,0,Final,Calvin_University,Eastern_Michigan_University,Regular,2023-11-18
 13840,3,2,Final,United_States_Naval_Academy,William_Paterson_University,Regular,2023-11-18
@@ -546,8 +546,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16525,0,5,Final,University_of_Central_Oklahoma,University_of_Jamestown,Regular,2023-11-18
 13635,6,5,Final SO,Roosevelt_University,University_of_Toledo,Regular,2023-11-18
 13340,4,1,Final,Illinois_State_University,University_of_Alabama,Regular,2023-11-18
-15767,-,-,7:45 pm CST,Iowa_State_University,Midland_University,Regular,2023-11-18
-16978,-,-,9:00 pm EST,Canisius_University,Mercyhurst_University,Regular,2023-11-18
+15767,1,0,Final,Iowa_State_University,Midland_University,Regular,2023-11-18
+16978,4,2,Final,Canisius_University,Mercyhurst_University,Regular,2023-11-18
 13784,3,2,Final,University_of_Utah,University_of_Arizona,Regular,2023-11-18
 14302,2,3,Final,Colorado_State_University,University_of_Oklahoma,Regular,2023-11-18
 14976,5,8,Final,Towson_University,William_Paterson_University,Regular,2023-11-19
@@ -557,8 +557,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13650,6,4,Final,Syracuse_University,Drexel_University,Regular,2023-11-19
 14630,5,3,Final,Niagara_University,Maryville_University,Regular,2023-11-19
 13343,2,10,Final,Northern_Illinois_University,Arizona_State_University,Regular,2023-11-19
-13218,-,-,2:30 pm EST,Indiana_Tech,Purdue_University_Northwest,Regular,2023-11-21
-13027,-,-,7:00 pm EST,Adrian_College,Oakland_University,Regular,2023-11-21
+13218,4,6,Final,Indiana_Tech,Purdue_University_Northwest,Regular,2023-11-21
+13027,12,0,Final,Adrian_College,Oakland_University,Regular,2023-11-21
 12527,-,-,3:30 pm CST,University_of_Jamestown,Minot_State_University,Regular,2023-11-27
 13028,-,-,7:30 pm EST,Adrian_College,Indiana_Tech,Regular,2023-11-30
 12817,-,-,1:00 pm MST,University_of_Arizona,University_of_Nevada_Las_Vegas,Regular,2023-12-1
