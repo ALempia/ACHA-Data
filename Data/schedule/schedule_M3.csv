@@ -372,7 +372,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17747,5,4,Final OT,Dartmouth_College,Central_Maine_Community_College,Regular,2023-11-9
 17878,-,-,12:00 am EST,Stevenson_University,York_College_of_Pennsylvania,Regular,2023-11-10
 12552,3,2,Final,University_of_Arkansas,Purdue_University,Regular,2023-11-10
-12553,-,-,5:00 pm CST,Ferris_State_University,University_of_Nebraska,Regular,2023-11-10
+12553,4,5,Final,Ferris_State_University,University_of_Nebraska,Regular,2023-11-10
 16553,6,2,Final,Florida_Gulf_Coast_University,Butler_University,Regular,2023-11-10
 12991,4,2,Final,Hope_College,Saginaw_Valley_State_University,Regular,2023-11-10
 14465,3,7,Final,Kent_State_University,Saint_Vincent_College,Regular,2023-11-10
@@ -397,7 +397,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17609,7,3,Final,Colorado_School_of_Mines,University_of_New_Mexico,Regular,2023-11-10
 15129,-,-,10:15 pm EST,Catholic_University,Millersville_University,Regular,2023-11-10
 13204,1,2,Final OT,Illinois_State_University,Northwestern_University,Regular,2023-11-10
-17879,-,-,12:00 am EST,West_Chester_University,Catholic_University,Regular,2023-11-11
+17879,1,6,Final,West_Chester_University,Catholic_University,Regular,2023-11-11
 17511,-,-,12:30 pm EST,Massachusetts_Institute_of_Technology,University_of_Massachusetts,Regular,2023-11-11
 16670,6,4,Final,Springfield_College,Thomas_College,Regular,2023-11-11
 14894,6,3,Final,Dartmouth_College,Colby_College,Regular,2023-11-11
@@ -494,7 +494,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15608,-,-,9:45 pm EST,West_Virginia_University,Duquesne_University,Regular,2023-11-18
 17179,-,-,10:00 pm EST,SUNY_Maritime_College,Merchant_Marine_Academy,Regular,2023-11-18
 17612,5,2,Final,Colorado_School_of_Mines,Colorado_Mesa_University,Regular,2023-11-18
-16499,-,-,8:45 pm MST,Grand_Canyon_University,United_States_Air_Force_Academy,Regular,2023-11-18
+16499,0,12,Final,Grand_Canyon_University,United_States_Air_Force_Academy,Regular,2023-11-18
 16601,2,2,Final OT,Michigan_State_University,Oakland_University,Regular,2023-11-19
 17634,-,-,12:00 pm EST,University_of_New_England,Colby_Sawyer_College,Regular,2023-11-19
 16500,-,-,12:00 pm MST,Grand_Canyon_University,Northern_Arizona_University,Regular,2023-11-19
