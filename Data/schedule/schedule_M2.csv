@@ -1109,7 +1109,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17556,-,-,8:00 pm CST,University_of_Wisconsin_Eau_Claire,Minnesota_State_University_Mankato,Regular,2023-11-17
 15578,4,6,Final,Weber_State_University,Arizona_State_University,Regular,2023-11-17
 13270,3,6,Final,Trine_University,University_of_Iowa,Regular,2023-11-17
-17349,-,-,9:30 pm EST,Ohio_University,Miami_University,Regular,2023-11-17
+17349,2,4,Final,Ohio_University,Miami_University,Regular,2023-11-17
 17233,14,3,Final,University_of_Wyoming,Idaho_State_University,Regular,2023-11-17
 13717,6,8,Final,DePaul_University,Indiana_University,Regular,2023-11-17
 14475,2,5,Final,Central_Connecticut_State_University,Montclair_State_University,Regular,2023-11-17
@@ -1168,7 +1168,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16488,6,5,Final,University_of_North_Dakota,Minnesota_State_University_Moorhead,Regular,2023-11-18
 14380,2,0,Final,Indiana_Tech,University_of_Michigan,Regular,2023-11-18
 17557,-,-,7:30 pm CST,University_of_Wisconsin_Eau_Claire,Minnesota_State_University_Mankato,Regular,2023-11-18
-14712,-,-,8:45 pm EST,Seton_Hall_University,Drexel_University,Regular,2023-11-18
+14712,4,3,Final SO,Seton_Hall_University,Drexel_University,Regular,2023-11-18
 16870,-,-,9:00 pm EST,Miami_University,Ohio_University,Regular,2023-11-18
 14273,3,2,Final,Utah_State_University_,Arizona_State_University,Regular,2023-11-18
 15312,2,9,Final,Utah_Valley_University,Loyola_Marymount_University,Regular,2023-11-18
@@ -1206,7 +1206,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14763,4,2,Final,Bentley_University,Boston_College,Regular,2023-11-19
 15313,3,4,Final OT,Utah_Valley_University,Colorado_State_University,Regular,2023-11-19
 15123,3,5,Final,North_Carolina_State_University,University_of_North_Carolina_Chapel_Hill,Regular,2023-11-20
-16244,-,-,7:30 pm CST,Dakota_College_Bottineau,University_of_Providence,Regular,2023-11-24
+16244,2,3,Final OT,Dakota_College_Bottineau,University_of_Providence,Regular,2023-11-24
 16245,-,-,1:00 pm CST,Dakota_College_Bottineau,University_of_Providence,Regular,2023-11-25
 17049,-,-,7:00 pm CST,University_of_Minnesota_Crookston,Williston_State_College,Regular,2023-11-25
 14075,-,-,3:00 pm EST,University_of_Massachusetts_Lowell,Suffolk_University,Regular,2023-11-26

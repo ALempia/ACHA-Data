@@ -414,7 +414,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12556,2,7,Final,University_of_Michigan_Flint,University_of_Arkansas,Regular,2023-11-11
 14741,6,5,Final,Oakland_University,Indiana_University,Regular,2023-11-11
 16462,-,-,7:10 pm AST,Wentworth_Institute_of_Technology,Worcester_Polytechnic_Institute,Regular,2023-11-11
-16215,-,-,6:30 pm EST,Tufts_University,Harvard_University,Regular,2023-11-11
+16215,8,3,Final,Tufts_University,Harvard_University,Regular,2023-11-11
 17057,6,3,Final,University_of_Michigan,Miami_University,Regular,2023-11-11
 12978,5,3,Final,Olivet_Nazarene_University,Northern_Illinois_University,Regular,2023-11-11
 16612,10,0,Final,Calvin_University,Western_Michigan_University,Regular,2023-11-11
@@ -918,6 +918,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16194,-,-,8:30 pm EST,Stevens_Institute_of_Technology,Western_Connecticut_State_University,Regular,2024-2-16
 17014,-,-,8:30 pm EST,University_of_Massachusetts,Wentworth_Institute_of_Technology,Regular,2024-2-16
 17527,-,-,7:00 pm MST,Western_Colorado_University,Colorado_Mesa_University,Regular,2024-2-16
+17901,-,-,8:00 pm CST,University_of_Wisconsin_Stout,Drake_University,Regular,2024-2-16
 16967,-,-,9:10 pm EST,University_of_Akron,University_of_Pittsburgh_Johnstown,Regular,2024-2-16
 17549,-,-,9:45 pm EST,Loyola_University_Maryland,George_Mason_University,Regular,2024-2-16
 17284,-,-,10:00 pm EST,Merchant_Marine_Academy,Saint_Thomas_Aquinas_College,Regular,2024-2-16
@@ -930,6 +931,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15002,-,-,3:30 pm CST,University_of_Nebraska,University_of_Missouri,Regular,2024-2-17
 15804,-,-,7:15 pm EST,Case_Western_Reserve_University,University_of_Pittsburgh_Johnstown,Regular,2024-2-17
 13402,-,-,8:35 pm EST,Robert_Morris_University,West_Virginia_University,Regular,2024-2-17
+17902,-,-,8:00 pm CST,University_of_Wisconsin_Stout,Drake_University,Regular,2024-2-17
 14706,-,-,9:20 pm EST,Duquesne_University,PennWest_California,Regular,2024-2-17
 12928,-,-,8:00 pm MST,University_of_New_Mexico,Northern_Arizona_University,Regular,2024-2-17
 17285,-,-,10:15 pm EST,Merchant_Marine_Academy,Sacred_Heart_University,Regular,2024-2-17
