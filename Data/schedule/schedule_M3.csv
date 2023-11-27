@@ -401,7 +401,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17511,-,-,12:30 pm EST,Massachusetts_Institute_of_Technology,University_of_Massachusetts,Regular,2023-11-11
 16670,6,4,Final,Springfield_College,Thomas_College,Regular,2023-11-11
 14894,6,3,Final,Dartmouth_College,Colby_College,Regular,2023-11-11
-12555,-,-,1:00 pm CST,Purdue_University,University_of_Nebraska,Regular,2023-11-11
+12555,2,4,Final,Purdue_University,University_of_Nebraska,Regular,2023-11-11
 17520,8,3,Final,Western_Colorado_University,University_of_Colorado_Colorado_Springs,Regular,2023-11-11
 13937,6,3,Final,Northwood_University,Adrian_College,Regular,2023-11-11
 12884,7,4,Final,Dordt_University,Creighton_University,Regular,2023-11-11
@@ -487,7 +487,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17058,3,1,Final,University_of_Michigan,Northwood_University,Regular,2023-11-18
 13938,4,6,Final,Northwood_University,University_of_Michigan,Regular,2023-11-18
 16368,-,-,8:15 pm EST,Western_Michigan_University,Ferris_State_University,Regular,2023-11-18
-13398,-,-,8:20 pm EST,Robert_Morris_University,Saint_Vincent_College,Regular,2023-11-18
+13398,4,3,Final,Robert_Morris_University,Saint_Vincent_College,Regular,2023-11-18
 16471,-,-,8:30 pm EST,Rowan_University,George_Mason_University,Regular,2023-11-18
 17312,3,10,Final,University_of_Colorado_Colorado_Springs,Dallas_Baptist_University,Regular,2023-11-18
 12951,6,5,Final OT,University_of_Nebraska_at_Omaha,Drake_University,Regular,2023-11-18
