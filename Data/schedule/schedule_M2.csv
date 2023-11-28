@@ -769,7 +769,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13325,11,1,Final,Arizona_State_University,California_State_University_Northridge,Regular,2023-11-3
 17824,7,11,Final,Virginia_Tech,Rider_University,Regular,2023-11-3
 16660,5,2,Final,Siena_College,Montclair_State_University,Regular,2023-11-3
-17899,-,-,3:00 pm PDT,Western_Washington_University,University_of_Wyoming,Regular,2023-11-3
+17899,5,4,Final OT,Western_Washington_University,University_of_Wyoming,Regular,2023-11-3
 17147,5,2,Final,Sault_College,Michigan_Technological_University,Regular,2023-11-3
 15891,1,3,Final,Boston_University,Rensselaer_Polytechnic_Institute,Regular,2023-11-3
 15363,10,0,Final,Michigan_State_University,Concordia_University_Ann_Arbor,Regular,2023-11-3
@@ -1062,7 +1062,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15310,3,0,Final,Utah_Valley_University,California_State_University_Northridge,Regular,2023-11-16
 15577,2,6,Final,Weber_State_University,University_of_Providence,Regular,2023-11-16
 14660,1,3,Final,University_of_Utah,Grand_Canyon_University,Regular,2023-11-16
-12903,-,-,8:30 pm CST,Marian_University,Concordia_University_of_Wisconsin,Regular,2023-11-16
+12903,5,3,Final,Marian_University,Concordia_University_of_Wisconsin,Regular,2023-11-16
 14285,3,15,Final,University_of_Southern_California,University_of_California_Los_Angeles,Regular,2023-11-16
 17384,-,-,12:00 pm EST,Princeton_University,Georgetown_University,Regular,2023-11-17
 13413,2,3,Final,Wake_Forest_University,University_of_North_Carolina_Wilmington,Regular,2023-11-17
@@ -1202,7 +1202,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16244,2,3,Final OT,Dakota_College_Bottineau,University_of_Providence,Regular,2023-11-24
 16245,4,5,Final SO,Dakota_College_Bottineau,University_of_Providence,Regular,2023-11-25
 17049,4,2,Final,University_of_Minnesota_Crookston,Williston_State_College,Regular,2023-11-25
-14075,-,-,3:00 pm EST,University_of_Massachusetts_Lowell,Suffolk_University,Regular,2023-11-26
+14075,10,1,Final,University_of_Massachusetts_Lowell,Suffolk_University,Regular,2023-11-26
 17050,8,0,Final,University_of_Minnesota_Crookston,Williston_State_College,Regular,2023-11-26
 17599,-,-,8:30 pm EST,West_Virginia_University,Central_Michigan_University,Regular,2023-11-30
 16246,-,-,7:30 pm CST,Dakota_College_Bottineau,University_of_Jamestown,Regular,2023-11-30

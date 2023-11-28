@@ -188,7 +188,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16795,10,2,Final,Central_Maine_Community_College,University_of_New_England,Regular,2023-10-15
 16205,3,6,Final,University_of_Connecticut,University_of_Massachusetts,Regular,2023-10-15
 17438,3,4,Final OT,Stevenson_University,Loyola_University_Maryland,Regular,2023-10-15
-17627,-,-,8:00 pm EDT,Millersville_University,York_College_of_Pennsylvania,Regular,2023-10-15
+17627,4,7,Final,Millersville_University,York_College_of_Pennsylvania,Regular,2023-10-15
 16189,9,6,Final,Stevens_Institute_of_Technology,New_Jersey_Institute_of_Technology,Regular,2023-10-15
 13751,6,4,Final,Dallas_Baptist_University,Grand_Canyon_University,Regular,2023-10-15
 16901,2,4,Final,PennWest_California,Robert_Morris_University,Regular,2023-10-16
@@ -461,7 +461,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14882,3,6,Final,Miami_University,Grand_Valley_State_University,Regular,2023-11-17
 16964,-,-,9:10 pm EST,University_of_Akron,Indiana_University_of_Pennsylvania,Regular,2023-11-17
 15962,14,1,Final,Ferris_State_University,Western_Michigan_University,Regular,2023-11-17
-15607,-,-,9:45 pm EST,West_Virginia_University,PennWest_California,Regular,2023-11-17
+15607,5,3,Final,West_Virginia_University,PennWest_California,Regular,2023-11-17
 17178,-,-,10:00 pm EST,SUNY_Maritime_College,Saint_Thomas_Aquinas_College,Regular,2023-11-17
 17611,9,1,Final,Colorado_School_of_Mines,Colorado_Mesa_University,Regular,2023-11-17
 17311,-,-,8:00 pm MST,University_of_Colorado_Colorado_Springs,Dallas_Baptist_University,Regular,2023-11-17
@@ -491,7 +491,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16471,-,-,8:30 pm EST,Rowan_University,George_Mason_University,Regular,2023-11-18
 17312,3,10,Final,University_of_Colorado_Colorado_Springs,Dallas_Baptist_University,Regular,2023-11-18
 12951,6,5,Final OT,University_of_Nebraska_at_Omaha,Drake_University,Regular,2023-11-18
-15608,-,-,9:45 pm EST,West_Virginia_University,Duquesne_University,Regular,2023-11-18
+15608,5,6,Final,West_Virginia_University,Duquesne_University,Regular,2023-11-18
 17179,-,-,10:00 pm EST,SUNY_Maritime_College,Merchant_Marine_Academy,Regular,2023-11-18
 17612,5,2,Final,Colorado_School_of_Mines,Colorado_Mesa_University,Regular,2023-11-18
 16499,0,12,Final,Grand_Canyon_University,United_States_Air_Force_Academy,Regular,2023-11-18
