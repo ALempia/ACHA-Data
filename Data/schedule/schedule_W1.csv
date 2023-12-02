@@ -181,13 +181,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13541,3,0,Final,Adrian_College,Miami_University,Regular,2023-11-19
 13667,2,1,Final,Midland_University,Liberty_University,Regular,2023-11-30
 15086,2,2,Final OT,Colorado_State_University,Grand_Canyon_University,Regular,2023-11-30
-12732,-,-,6:00 pm EST,Concordia_University_Ann_Arbor,Indiana_Tech,Regular,2023-12-1
-13668,-,-,5:00 pm CST,Midland_University,Liberty_University,Regular,2023-12-1
+12732,5,2,Final,Concordia_University_Ann_Arbor,Indiana_Tech,Regular,2023-12-1
+13668,5,0,Final,Midland_University,Liberty_University,Regular,2023-12-1
 13101,-,-,6:30 pm EST,Niagara_University,Davenport_University,Regular,2023-12-1
 14492,-,-,5:00 pm MST,University_of_Colorado,Grand_Canyon_University,Regular,2023-12-1
-15656,-,-,7:00 pm EST,University_of_Rhode_Island,University_of_Massachusetts_Amherst,Regular,2023-12-1
-14776,-,-,7:30 pm EST,Aquinas_College,University_of_Michigan_Dearborn,Regular,2023-12-1
-15545,-,-,9:20 pm CST,Lindenwood_University,Maryville_University,Regular,2023-12-1
+15656,1,2,Final,University_of_Rhode_Island,University_of_Massachusetts_Amherst,Regular,2023-12-1
+14776,2,8,Final,Aquinas_College,University_of_Michigan_Dearborn,Regular,2023-12-1
+15545,4,2,Final,Lindenwood_University,Maryville_University,Regular,2023-12-1
 14725,-,-,1:20 pm EST,Michigan_State_University,Grand_Valley_State_University,Regular,2023-12-2
 13102,-,-,2:30 pm EST,Niagara_University,Davenport_University,Regular,2023-12-2
 12791,-,-,4:00 pm EST,Indiana_Tech,Concordia_University_Ann_Arbor,Regular,2023-12-2

@@ -498,7 +498,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16499,0,12,Final,Grand_Canyon_University,United_States_Air_Force_Academy,Regular,2023-11-18
 16601,2,2,Final OT,Michigan_State_University,Oakland_University,Regular,2023-11-19
 17634,-,-,12:00 pm EST,University_of_New_England,Colby_Sawyer_College,Regular,2023-11-19
-16500,-,-,12:00 pm MST,Grand_Canyon_University,Northern_Arizona_University,Regular,2023-11-19
+16500,4,3,Final OT,Grand_Canyon_University,Northern_Arizona_University,Regular,2023-11-19
 17448,-,-,2:00 pm EST,Saint_Joseph_College_of_Maine,University_of_Massachusetts,Regular,2023-11-19
 15445,2,1,Final OT,Colby_College,Central_Maine_Community_College,Regular,2023-11-19
 14845,6,4,Final,Worcester_Polytechnic_Institute,Springfield_College,Regular,2023-11-19
@@ -507,12 +507,12 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13436,2,7,Final,Arizona_State_University,United_States_Air_Force_Academy,Regular,2023-11-20
 16896,-,-,8:00 pm EST,Harvard_University,Curry_College,Regular,2023-11-29
 16803,-,-,6:00 pm EST,Bates_College,University_of_Southern_Maine,Regular,2023-12-1
-16555,-,-,6:00 pm EST,Florida_Gulf_Coast_University,Central_Michigan_University,Regular,2023-12-1
+16555,6,1,Final,Florida_Gulf_Coast_University,Central_Michigan_University,Regular,2023-12-1
 16799,-,-,6:00 pm EST,Central_Maine_Community_College,Saint_Joseph_College_of_Maine,Regular,2023-12-1
-16322,-,-,7:30 pm EST,Grand_Valley_State_University,Western_Michigan_University,Regular,2023-12-1
+16322,11,1,Final,Grand_Valley_State_University,Western_Michigan_University,Regular,2023-12-1
 12881,-,-,7:00 pm CST,Dordt_University,University_of_Nebraska,Regular,2023-12-1
 14815,-,-,8:00 pm EST,Lawrence_Tech,Oakland_University,Regular,2023-12-1
-13958,-,-,8:00 pm EST,University_of_Michigan_Flint,Saginaw_Valley_State_University,Regular,2023-12-1
+13958,3,4,Final OT,University_of_Michigan_Flint,Saginaw_Valley_State_University,Regular,2023-12-1
 15519,-,-,7:15 pm CST,University_of_Missouri,Missouri_State_University,Regular,2023-12-1
 16743,-,-,8:30 pm EST,Saint_Vincent_College,Indiana_University_of_Pennsylvania,Regular,2023-12-1
 13698,-,-,7:30 pm CST,University_of_Arkansas,Dallas_Baptist_University,Regular,2023-12-1
@@ -524,10 +524,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17521,-,-,7:00 pm MST,Western_Colorado_University,University_of_Nebraska_at_Omaha,Regular,2023-12-1
 16294,-,-,9:00 pm EST,University_of_Notre_Dame,Indiana_University,Regular,2023-12-1
 14703,-,-,9:20 pm EST,Duquesne_University,Kent_State_University,Regular,2023-12-1
-15963,-,-,9:30 pm EST,Ferris_State_University,Calvin_University,Regular,2023-12-1
+15963,2,5,Final,Ferris_State_University,Calvin_University,Regular,2023-12-1
 14884,-,-,9:30 pm EST,Miami_University,Butler_University,Regular,2023-12-1
-17313,-,-,8:00 pm MST,University_of_Colorado_Colorado_Springs,Colorado_School_of_Mines,Regular,2023-12-1
-13764,-,-,8:30 pm MST,Northern_Arizona_University,University_of_New_Mexico,Regular,2023-12-1
+17313,1,6,Final,University_of_Colorado_Colorado_Springs,Colorado_School_of_Mines,Regular,2023-12-1
+13764,1,5,Final,Northern_Arizona_University,University_of_New_Mexico,Regular,2023-12-1
 16752,-,-,10:10 pm CST,Washington_University_of_Saint_Louis,Illinois_State_University,Regular,2023-12-1
 14421,-,-,12:30 pm EST,Massachusetts_Institute_of_Technology,Sacred_Heart_University,Regular,2023-12-2
 16454,-,-,2:10 pm EST,Butler_University,Miami_University,Regular,2023-12-2
@@ -548,7 +548,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13765,-,-,5:00 pm MST,Northern_Arizona_University,University_of_New_Mexico,Regular,2023-12-2
 16295,-,-,7:00 pm EST,University_of_Notre_Dame,Indiana_University,Regular,2023-12-2
 16501,-,-,5:00 pm MST,Grand_Canyon_University,Arizona_State_University,Regular,2023-12-2
-12993,-,-,7:30 pm EST,Hope_College,University_of_Michigan,Regular,2023-12-2
+12993,2,1,Final,Hope_College,University_of_Michigan,Regular,2023-12-2
 15379,-,-,7:30 pm EST,University_of_Pittsburgh_Johnstown,Case_Western_Reserve_University,Regular,2023-12-2
 17059,-,-,7:30 pm EST,University_of_Michigan,Hope_College,Regular,2023-12-2
 16017,-,-,7:40 pm EST,Thomas_College,Springfield_College,Regular,2023-12-2
