@@ -277,27 +277,27 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15899,4,5,Final OT,Sacred_Heart_University,Merrimack_College,Regular,2023-12-1
 16437,-,-,8:00 pm EST,Bowling_Green_State_University,Central_Michigan_University,Regular,2023-12-1
 16197,0,0,Suspended [20:10:00 EST],Robert_Morris_University,Miami_University,Regular,2023-12-1
-17301,-,-,9:30 pm EST,Saint_Anselm_College,Bentley_University,Regular,2023-12-1
+17301,8,2,Final,Saint_Anselm_College,Bentley_University,Regular,2023-12-1
 16698,-,-,10:10 pm CST,Loyola_University_Chicago,Adrian_College,Regular,2023-12-1
-16234,-,-,11:00 am EST,United_States_Naval_Academy,University_of_Maryland,Regular,2023-12-2
+16234,3,2,Final,United_States_Naval_Academy,University_of_Maryland,Regular,2023-12-2
 15908,-,-,12:00 pm EST,Providence_College,University_of_Delaware,Regular,2023-12-2
-16009,-,-,1:00 pm EST,University_of_Vermont,University_of_New_Hampshire,Regular,2023-12-2
-15669,-,-,1:00 pm EST,Boston_University,Saint_Anselm_College,Regular,2023-12-2
-17368,-,-,2:30 pm EST,Mercyhurst_University,West_Virginia_University_,Regular,2023-12-2
+16009,2,1,Final,University_of_Vermont,University_of_New_Hampshire,Regular,2023-12-2
+15669,2,4,Final,Boston_University,Saint_Anselm_College,Regular,2023-12-2
+17368,10,1,Final,Mercyhurst_University,West_Virginia_University_,Regular,2023-12-2
 16133,-,-,2:30 pm CST,University_of_Wisconsin_Eau_Claire,Assiniboine_Community_College,Regular,2023-12-2
 16198,0,0,Suspended [15:40:00 EST],Robert_Morris_University,Miami_University,Regular,2023-12-2
-15931,-,-,4:00 pm EST,College_of_the_Holy_Cross,Boston_College,Regular,2023-12-2
+15931,1,5,Final,College_of_the_Holy_Cross,Boston_College,Regular,2023-12-2
 17227,-,-,3:00 pm CST,University_of_Nebraska,United_States_Air_Force_Academy,Regular,2023-12-2
 16398,-,-,3:40 pm CST,University_of_Saint_Thomas,North_Dakota_State_University,Regular,2023-12-2
-13574,-,-,5:00 pm EST,Lawrence_Technological_University,Michigan_State_University,Regular,2023-12-2
+13574,4,1,Final,Lawrence_Technological_University,Michigan_State_University,Regular,2023-12-2
 14787,-,-,5:00 pm EST,Niagara_University,University_of_Pittsburgh,Regular,2023-12-2
 16922,-,-,5:20 pm EST,Worcester_Polytechnic_Institute,Roger_Williams_University,Regular,2023-12-2
 17740,-,-,4:25 pm CST,Aurora_University,Adrian_College,Regular,2023-12-2
 15973,-,-,6:30 pm EST,Oswego_State_University,The_Ohio_State_University,Regular,2023-12-2
-16397,-,-,5:40 pm CST,University_of_Saint_Thomas,North_Dakota_State_University,Regular,2023-12-2
+16397,2,0,Final,University_of_Saint_Thomas,North_Dakota_State_University,Regular,2023-12-2
 16823,-,-,7:00 pm EST,Sault_College,University_of_Notre_Dame,Regular,2023-12-2
 16519,-,-,7:00 pm EST,University_at_Buffalo,Brockport_State_University,Regular,2023-12-2
-17108,-,-,7:00 pm CST,University_of_Minnesota_Duluth,University_of_Wisconsin_LaCrosse,Regular,2023-12-2
+17108,4,3,Final,University_of_Minnesota_Duluth,University_of_Wisconsin_LaCrosse,Regular,2023-12-2
 16438,-,-,8:30 pm EST,Bowling_Green_State_University,Central_Michigan_University,Regular,2023-12-2
 15263,-,-,8:15 pm CST,Maryville_University,University_of_Wisconsin_Stout,Regular,2023-12-2
 17228,-,-,7:30 am CST,University_of_Nebraska,United_States_Air_Force_Academy,Regular,2023-12-3
