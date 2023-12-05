@@ -125,7 +125,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14807,3,0,Final,Lawrence_Tech,Calvin_University,Regular,2023-10-7
 17054,6,3,Final,University_of_Michigan,Adrian_College,Regular,2023-10-7
 13952,3,4,Final,University_of_Michigan_Flint,University_of_Pittsburgh_Johnstown,Regular,2023-10-7
-16364,-,-,5:30 pm EDT,Western_Michigan_University,Davenport_University,Regular,2023-10-7
+16364,-,-,Postponed,Western_Michigan_University,Davenport_University,Regular,2023-10-7
 16900,5,0,Final,PennWest_California,Rowan_University,Regular,2023-10-7
 17309,1,11,Final,University_of_Colorado_Colorado_Springs,Colorado_College,Regular,2023-10-7
 15633,6,4,Final,Saginaw_Valley_State_University,Ferris_State_University,Regular,2023-10-7
@@ -513,17 +513,17 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12881,2,1,Final,Dordt_University,University_of_Nebraska,Regular,2023-12-1
 14815,8,4,Final,Lawrence_Tech,Oakland_University,Regular,2023-12-1
 13958,3,4,Final OT,University_of_Michigan_Flint,Saginaw_Valley_State_University,Regular,2023-12-1
-15519,-,-,7:15 pm CST,University_of_Missouri,Missouri_State_University,Regular,2023-12-1
+15519,5,3,Final,University_of_Missouri,Missouri_State_University,Regular,2023-12-1
 16743,-,-,8:30 pm EST,Saint_Vincent_College,Indiana_University_of_Pennsylvania,Regular,2023-12-1
 13698,8,3,Final,University_of_Arkansas,Dallas_Baptist_University,Regular,2023-12-1
 13150,0,6,Final,Northern_Illinois_University,Drake_University,Regular,2023-12-1
-17875,-,-,8:45 pm EST,Davenport_University,Olivet_Nazarene_University,Regular,2023-12-1
+17875,3,5,Final,Davenport_University,Olivet_Nazarene_University,Regular,2023-12-1
 17568,-,-,9:00 pm EST,Yale_University,Stevens_Institute_of_Technology,Regular,2023-12-1
 16402,-,-,9:00 pm EST,Catholic_University,University_of_Maryland,Regular,2023-12-1
 17623,-,-,8:00 pm CST,Marian_University,Adrian_College,Regular,2023-12-1
 17521,-,-,7:00 pm MST,Western_Colorado_University,University_of_Nebraska_at_Omaha,Regular,2023-12-1
 16294,4,3,Final,University_of_Notre_Dame,Indiana_University,Regular,2023-12-1
-14703,-,-,9:20 pm EST,Duquesne_University,Kent_State_University,Regular,2023-12-1
+14703,4,7,Final,Duquesne_University,Kent_State_University,Regular,2023-12-1
 15963,2,5,Final,Ferris_State_University,Calvin_University,Regular,2023-12-1
 14884,4,3,Final,Miami_University,Butler_University,Regular,2023-12-1
 17313,1,6,Final,University_of_Colorado_Colorado_Springs,Colorado_School_of_Mines,Regular,2023-12-1
@@ -532,7 +532,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14421,-,-,12:30 pm EST,Massachusetts_Institute_of_Technology,Sacred_Heart_University,Regular,2023-12-2
 16454,3,9,Final,Butler_University,Miami_University,Regular,2023-12-2
 17522,-,-,12:30 pm MST,Western_Colorado_University,University_of_Nebraska_at_Omaha,Regular,2023-12-2
-13939,-,-,2:30 pm EST,Northwood_University,Michigan_State_University,Regular,2023-12-2
+13939,2,3,Final,Northwood_University,Michigan_State_University,Regular,2023-12-2
 16210,3,0,Final,University_of_Connecticut,Worcester_Polytechnic_Institute,Regular,2023-12-2
 17769,-,-,2:45 pm EST,York_College_of_Pennsylvania,Millersville_University,Regular,2023-12-2
 12882,1,0,Final,Dordt_University,University_of_Nebraska,Regular,2023-12-2
@@ -549,10 +549,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16295,5,3,Final,University_of_Notre_Dame,Indiana_University,Regular,2023-12-2
 16501,0,9,Final,Grand_Canyon_University,Arizona_State_University,Regular,2023-12-2
 12993,2,1,Final,Hope_College,University_of_Michigan,Regular,2023-12-2
-15379,-,-,7:30 pm EST,University_of_Pittsburgh_Johnstown,Case_Western_Reserve_University,Regular,2023-12-2
+15379,7,2,Final,University_of_Pittsburgh_Johnstown,Case_Western_Reserve_University,Regular,2023-12-2
 17059,-,-,7:30 pm EST,University_of_Michigan,Hope_College,Regular,2023-12-2
 16017,-,-,7:40 pm EST,Thomas_College,Springfield_College,Regular,2023-12-2
-16614,-,-,8:00 pm EST,Calvin_University,Ferris_State_University,Regular,2023-12-2
+16614,4,1,Final,Calvin_University,Ferris_State_University,Regular,2023-12-2
 17440,-,-,8:00 pm EST,Stevenson_University,Catholic_University,Regular,2023-12-2
 16369,-,-,8:15 pm EST,Western_Michigan_University,Grand_Valley_State_University,Regular,2023-12-2
 16282,3,4,Final OT,New_Jersey_Institute_of_Technology,SUNY_Maritime_College,Regular,2023-12-2
@@ -567,15 +567,15 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17635,-,-,1:00 pm EST,University_of_New_England,Bates_College,Regular,2023-12-3
 15446,10,0,Final,Colby_College,Saint_Joseph_College_of_Maine,Regular,2023-12-3
 14846,3,1,Final,Worcester_Polytechnic_Institute,Wentworth_Institute_of_Technology,Regular,2023-12-3
-15380,-,-,2:30 pm EST,University_of_Pittsburgh_Johnstown,PennWest_California,Regular,2023-12-3
+15380,3,2,Final,University_of_Pittsburgh_Johnstown,PennWest_California,Regular,2023-12-3
 15412,-,-,Postponed,United_States_Coast_Guard_Academy,University_of_Massachusetts,Regular,2023-12-3
-16602,-,-,3:00 pm EST,Michigan_State_University,Northwood_University,Regular,2023-12-3
-16153,-,-,3:00 pm EST,Sacred_Heart_University,Saint_Thomas_Aquinas_College,Regular,2023-12-3
+16602,3,1,Final,Michigan_State_University,Northwood_University,Regular,2023-12-3
+16153,6,2,Final,Sacred_Heart_University,Saint_Thomas_Aquinas_College,Regular,2023-12-3
 16897,-,-,4:00 pm EST,Harvard_University,Central_Maine_Community_College,Regular,2023-12-3
 17624,-,-,3:00 pm CST,Marian_University,Adrian_College,Regular,2023-12-3
 13477,6,1,Final,Adrian_College,Marian_University,Regular,2023-12-3
-16377,-,-,4:20 pm EST,Curry_College,University_of_Connecticut,Regular,2023-12-3
-16283,-,-,8:30 pm EST,New_Jersey_Institute_of_Technology,Merchant_Marine_Academy,Regular,2023-12-3
+16377,4,3,Final OT,Curry_College,University_of_Connecticut,Regular,2023-12-3
+16283,2,8,Final,New_Jersey_Institute_of_Technology,Merchant_Marine_Academy,Regular,2023-12-3
 17441,1,7,Final,Stevenson_University,West_Chester_University,Regular,2023-12-3
 17795,-,-,8:00 pm EST,Central_Maine_Community_College,Colby_College,Regular,2023-12-6
 16018,-,-,8:00 pm EST,Thomas_College,Colby_College,Regular,2023-12-7
