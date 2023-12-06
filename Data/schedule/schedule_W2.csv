@@ -76,7 +76,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15895,2,4,Final,Sacred_Heart_University,Boston_College,Regular,2023-10-15
 15928,5,7,Final,College_of_the_Holy_Cross,University_Of_Connecticut,Regular,2023-10-15
 16396,6,0,Final,University_of_Saint_Thomas,Iowa_State_University,Regular,2023-10-15
-17919,-,-,6:00 pm EDT,Assumption_University,University_of_New_Hampshire,Regular,2023-10-15
+17919,6,0,Final,Assumption_University,University_of_New_Hampshire,Regular,2023-10-15
 17765,1,2,Final,Providence_College,Northeastern_University,Regular,2023-10-15
 17114,2,2,Final OT,Merrimack_College,Bentley_University,Regular,2023-10-15
 13369,3,4,Final OT,Lake_Region_State_College,Dakota_College_at_Bottineau,Regular,2023-10-19
@@ -171,7 +171,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14370,8,0,Final,University_of_Pittsburgh,Rochester_Institute_Of_Technology,Regular,2023-11-4
 15929,3,9,Final,College_of_the_Holy_Cross,Merrimack_College,Regular,2023-11-4
 17706,16,1,Final,West_Virginia_University_,West_Chester_University,Regular,2023-11-4
-17877,-,-,6:40 pm EDT,Assumption_University,Providence_College,Regular,2023-11-4
+17877,1,5,Final,Assumption_University,Providence_College,Regular,2023-11-4
 13371,1,6,Final,Lake_Region_State_College,Assiniboine_Community_College,Regular,2023-11-4
 12834,6,0,Final,Central_Michigan_University,University_of_Notre_Dame,Regular,2023-11-4
 17857,2,5,Final,Saint_Anselm_College,Boston_University,Regular,2023-11-4
@@ -204,7 +204,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13571,9,1,Final,Lawrence_Technological_University,West_Virginia_University_,Regular,2023-11-10
 17181,2,1,Final OT,Iowa_State_University,University_of_Minnesota_Duluth,Regular,2023-11-10
 15885,7,3,Final,Miami_University,Loyola_University_Chicago,Regular,2023-11-10
-17897,-,-,12:00 am EST,Assumption_University,Sacred_Heart_University,Regular,2023-11-11
+17897,4,5,Final,Assumption_University,Sacred_Heart_University,Regular,2023-11-11
 15971,1,10,Final,Oswego_State_University,Niagara_University,Regular,2023-11-11
 13131,2,3,Final OT,University_of_Delaware,United_States_Naval_Academy,Regular,2023-11-11
 15972,2,8,Final,Oswego_State_University,Brockport_State_University,Regular,2023-11-11
@@ -281,7 +281,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16197,0,0,Suspended [20:10:00 EST],Robert_Morris_University,Miami_University,Regular,2023-12-1
 17301,8,2,Final,Saint_Anselm_College,Bentley_University,Regular,2023-12-1
 17917,0,6,Final,University_of_Wisconsin_Eau_Claire,Assiniboine_Community_College,Regular,2023-12-1
-16698,1,11,Final,Loyola_University_Chicago,Adrian_College,Regular,2023-12-1
+16698,1,12,Final,Loyola_University_Chicago,Adrian_College,Regular,2023-12-1
 16234,3,2,Final,United_States_Naval_Academy,University_of_Maryland,Regular,2023-12-2
 15908,1,1,Final OT,Providence_College,University_of_Delaware,Regular,2023-12-2
 17916,4,3,Final,Georgetown_University,Virginia_Tech,Regular,2023-12-2
@@ -431,7 +431,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17474,-,-,8:10 pm EST,Rochester_Institute_Of_Technology,SUNY_Cortland,Regular,2024-2-3
 14210,-,-,8:15 pm EST,The_Ohio_State_University,Brockport_State_University,Regular,2024-2-3
 14221,-,-,9:25 pm EST,West_Virginia_University_,University_at_Buffalo,Regular,2024-2-3
-17134,-,-,10:00 pm EST,Rowan_University,University_of_Delaware,Regular,2024-2-3
 14201,-,-,10:05 pm EST,University_of_Pennsylvania,Slippery_Rock_University,Regular,2024-2-3
 16591,-,-,10:00 am EST,Michigan_State_University,Miami_University,Regular,2024-2-4
 16136,-,-,9:00 am CST,University_of_Wisconsin_Eau_Claire,North_Dakota_State_University,Regular,2024-2-4
@@ -491,6 +490,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15903,-,-,7:00 pm EST,Sacred_Heart_University,Assumption_University,Regular,2024-2-16
 14203,-,-,7:10 pm EST,University_of_Pennsylvania,Loyola_University_Maryland,Regular,2024-2-16
 15887,-,-,7:30 pm EST,Miami_University,Niagara_University,Regular,2024-2-16
+17134,-,-,7:30 pm EST,Rowan_University,University_of_Delaware,Regular,2024-2-16
 13577,-,-,8:00 pm EST,Lawrence_Technological_University,Robert_Morris_University,Regular,2024-2-16
 16318,-,-,8:30 pm EST,Bentley_University,Merrimack_College,Regular,2024-2-16
 15816,-,-,10:35 pm EST,Georgetown_University,George_Washington_University,Regular,2024-2-16
