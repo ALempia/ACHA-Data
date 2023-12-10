@@ -206,11 +206,11 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13544,7,3,Final,Adrian_College,Indiana_Tech,Regular,2023-12-7
 12775,3,5,Final,University_of_Jamestown,Minot_State_University,Regular,2023-12-8
 12792,3,3,Final,Indiana_Tech,Adrian_College,Regular,2023-12-8
-13008,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Grand_Valley_State_University,Regular,2023-12-8
+13008,5,0,Final,University_of_Michigan_Dearborn,Grand_Valley_State_University,Regular,2023-12-8
 13103,-,-,8:00 pm EST,Niagara_University,University_of_Rhode_Island,Regular,2023-12-8
 13104,-,-,2:30 pm EST,Niagara_University,University_of_Rhode_Island,Regular,2023-12-9
-12776,-,-,2:00 pm CST,University_of_Jamestown,Minot_State_University,Regular,2023-12-9
-14869,-,-,7:30 pm EST,Grand_Valley_State_University,University_of_Michigan_Dearborn,Regular,2023-12-9
+12776,0,2,Final,University_of_Jamestown,Minot_State_University,Regular,2023-12-9
+14869,2,3,Final,Grand_Valley_State_University,University_of_Michigan_Dearborn,Regular,2023-12-9
 12793,-,-,7:00 pm EST,Indiana_Tech,Niagara_University,Regular,2024-1-5
 12794,-,-,2:30 pm EST,Indiana_Tech,Niagara_University,Regular,2024-1-6
 13558,-,-,4:30 pm CST,McKendree_University,Arizona_State_University,Regular,2024-1-11

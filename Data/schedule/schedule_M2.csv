@@ -833,7 +833,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17044,6,2,Final,University_of_Minnesota_Crookston,University_of_North_Dakota,Regular,2023-11-4
 13517,1,7,Final,Saint_Louis_University,Drury_University,Regular,2023-11-4
 14081,3,6,Final,Texas_A&M_University,East_Texas_Baptist_University,Regular,2023-11-4
-17833,-,-,4:30 pm EDT,Wake_Forest_University,Princeton_University,Regular,2023-11-4
+17833,9,3,Final,Wake_Forest_University,Princeton_University,Regular,2023-11-4
 15433,7,4,Final,Liberty_University,Northeastern_University,Regular,2023-11-4
 16707,7,3,Final,Keene_State_College,Rensselaer_Polytechnic_Institute,Regular,2023-11-4
 13715,10,0,Final,DePaul_University,Illinois_State_University,Regular,2023-11-4
@@ -1345,13 +1345,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14858,-,-,3:30 pm CST,Concordia_University_of_Wisconsin,DePaul_University,Regular,2023-12-8
 15419,0,8,Final,Bryant_University,Sacred_Heart_University,Regular,2023-12-8
 17072,-,-,5:05 pm CST,Saint_Cloud_State_University,Gustavus_Adolphus_College,Regular,2023-12-8
-14553,-,-,7:00 pm EST,Stockton_University,Rider_University,Regular,2023-12-8
-16737,10,1,Unofficial Final,Lake_Superior_State_University,Concordia_University_Ann_Arbor,Regular,2023-12-8
+14553,3,6,Final,Stockton_University,Rider_University,Regular,2023-12-8
+16737,10,2,Final,Lake_Superior_State_University,Concordia_University_Ann_Arbor,Regular,2023-12-8
 14837,-,-,7:30 pm EST,University_of_Michigan,Ohio_University,Regular,2023-12-8
 14477,-,-,8:00 pm EST,Central_Connecticut_State_University,Siena_College,Regular,2023-12-8
 15397,-,-,7:00 pm CST,Southern_Illinois_University_Edwardsville,Northern_Michigan_University,Regular,2023-12-8
 17852,-,-,7:00 pm CST,University_of_Wisconsin_LaCrosse,Bemidji_State_University,Regular,2023-12-8
-12653,-,-,7:00 pm CST,Drury_University,University_of_Iowa,Regular,2023-12-8
+12653,4,5,Final OT,Drury_University,University_of_Iowa,Regular,2023-12-8
 14001,-,-,8:00 pm EST,Providence_College,Boston_College,Regular,2023-12-8
 17169,7,6,Final OT,Saint_Johns_University,Bethel_University,Regular,2023-12-8
 17805,-,-,7:25 pm CST,Lewis_University,Roosevelt_University,Regular,2023-12-8
@@ -1359,11 +1359,11 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16247,1,4,Final,Dakota_College_Bottineau,University_of_Minnesota_Crookston,Regular,2023-12-8
 16540,7,4,Final,Florida_Gulf_Coast_University,University_of_Massachusetts_Amherst,Regular,2023-12-8
 15490,7,2,Final,Lindenwood_University,University_of_Saint_Thomas,Regular,2023-12-8
-17260,-,-,6:30 pm MST,Grand_Canyon_University,Northern_Arizona_University,Regular,2023-12-8
+17260,5,2,Final,Grand_Canyon_University,Northern_Arizona_University,Regular,2023-12-8
 16078,2,1,Final,University_of_Colorado,Colorado_State_University,Regular,2023-12-8
 17600,-,-,9:15 pm EST,West_Virginia_University,Stevenson_University,Regular,2023-12-8
 17462,-,-,9:15 pm EST,Indiana_University,Indiana_Tech,Regular,2023-12-8
-13274,-,-,9:15 pm EST,Trine_University,Illinois_State_University,Regular,2023-12-8
+13274,4,2,Final,Trine_University,Illinois_State_University,Regular,2023-12-8
 17723,2,7,Final,University_of_Wisconsin_Oshkosh,Aurora_University,Regular,2023-12-8
 15824,7,0,Final,University_of_Jamestown,Lake_Region_State_College,Regular,2023-12-8
 13287,-,-,9:20 pm EST,University_of_Pennsylvania,Bryn_Athyn_College,Regular,2023-12-8
@@ -1371,38 +1371,38 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13453,-,-,9:00 pm CST,University_of_Wisconsin_Milwaukee,Purdue_University_Northwest,Regular,2023-12-8
 16790,5,2,Final,Montana_State_University,University_of_Montana,Regular,2023-12-8
 13990,-,-,8:00 pm PST,Washington_State_University,Western_Washington_University,Regular,2023-12-8
-16248,-,-,12:00 pm CST,Dakota_College_Bottineau,University_of_Minnesota_Crookston,Regular,2023-12-9
-16738,-,-,1:30 pm EST,Lake_Superior_State_University,Concordia_University_Ann_Arbor,Regular,2023-12-9
-16427,-,-,2:45 pm EST,Eastern_Connecticut_State_University,Roger_Williams_University,Regular,2023-12-9
+16248,2,8,Final,Dakota_College_Bottineau,University_of_Minnesota_Crookston,Regular,2023-12-9
+16738,8,1,Final,Lake_Superior_State_University,Concordia_University_Ann_Arbor,Regular,2023-12-9
+16427,0,8,Final,Eastern_Connecticut_State_University,Roger_Williams_University,Regular,2023-12-9
 13067,-,-,3:00 pm EST,Central_Michigan_University,Sault_College,Regular,2023-12-9
 17806,-,-,2:15 pm CST,Lewis_University,Roosevelt_University,Regular,2023-12-9
 14838,-,-,3:30 pm EST,University_of_Michigan,Ohio_University,Regular,2023-12-9
 17249,-,-,2:30 pm CST,Aurora_University,University_of_Wisconsin_Oshkosh,Regular,2023-12-9
 15398,-,-,3:00 pm CST,Southern_Illinois_University_Edwardsville,Northern_Michigan_University,Regular,2023-12-9
-13275,-,-,4:15 pm EST,Trine_University,Illinois_State_University,Regular,2023-12-9
+13275,4,2,Final,Trine_University,Illinois_State_University,Regular,2023-12-9
 16711,-,-,4:30 pm EST,Keene_State_College,Merrimack_College,Regular,2023-12-9
-17724,-,-,3:30 pm CST,University_of_Wisconsin_Oshkosh,Aurora_University,Regular,2023-12-9
-13720,-,-,3:30 pm CST,DePaul_University,Concordia_University_of_Wisconsin,Regular,2023-12-9
+17724,0,3,Final,University_of_Wisconsin_Oshkosh,Aurora_University,Regular,2023-12-9
+13720,2,5,Final,DePaul_University,Concordia_University_of_Wisconsin,Regular,2023-12-9
 14231,-,-,5:00 pm EST,University_of_Maine,Southern_New_Hampshire_University,Regular,2023-12-9
 13749,-,-,5:00 pm EST,University_of_Connecticut,University_of_Massachusetts_Lowell,Regular,2023-12-9
 17480,-,-,4:30 pm CST,Michigan_Technological_University,Northern_Michigan_University,Regular,2023-12-9
-17170,-,-,4:30 pm CST,Saint_Johns_University,North_Dakota_State_University,Regular,2023-12-9
-15825,-,-,5:30 pm CST,University_of_Jamestown,Lake_Region_State_College,Regular,2023-12-9
-16636,-,-,7:00 pm EST,Rensselaer_Polytechnic_Institute,Bentley_University,Regular,2023-12-9
+17170,6,3,Final,Saint_Johns_University,North_Dakota_State_University,Regular,2023-12-9
+15825,2,1,Final SO,University_of_Jamestown,Lake_Region_State_College,Regular,2023-12-9
+16636,7,3,Unofficial Final,Rensselaer_Polytechnic_Institute,Bentley_University,Regular,2023-12-9
 12654,-,-,6:00 pm CST,Drury_University,University_of_Iowa,Regular,2023-12-9
 14002,-,-,7:30 pm EST,Providence_College,College_of_The_Holy_Cross,Regular,2023-12-9
 16306,-,-,8:00 pm EST,Rowan_University,University_of_Delaware,Regular,2023-12-9
 15631,-,-,8:00 pm EST,Davenport_University,Michigan_State_University,Regular,2023-12-9
 13252,-,-,7:00 pm CST,Purdue_University_Northwest,University_of_Wisconsin_Milwaukee,Regular,2023-12-9
-16541,-,-,8:30 pm EST,Florida_Gulf_Coast_University,University_of_Massachusetts_Amherst,Regular,2023-12-9
-15491,-,-,7:30 pm CST,Lindenwood_University,University_of_Saint_Thomas,Regular,2023-12-9
+16541,5,2,Final,Florida_Gulf_Coast_University,University_of_Massachusetts_Amherst,Regular,2023-12-9
+15491,2,1,Final,Lindenwood_University,University_of_Saint_Thomas,Regular,2023-12-9
 14906,-,-,8:45 pm EST,West_Chester_University,Bryn_Athyn_College,Regular,2023-12-9
 17694,-,-,8:00 pm CST,Saint_Mary's_University_of_Minnesota,Bemidji_State_University,Regular,2023-12-9
 17601,-,-,9:15 pm EST,West_Virginia_University,Stevenson_University,Regular,2023-12-9
-16106,-,-,7:30 pm MST,Colorado_State_University,Metropolitan_State_University_Denver,Regular,2023-12-9
+16106,1,10,Final,Colorado_State_University,Metropolitan_State_University_Denver,Regular,2023-12-9
 17872,-,-,9:30 pm EST,Suffolk_University,Westfield_State_University,Regular,2023-12-9
-16169,-,-,8:00 pm MST,Northern_Arizona_University,Grand_Canyon_University,Regular,2023-12-9
-16000,-,-,8:30 pm MST,University_of_Montana,Montana_State_University,Regular,2023-12-9
+16169,3,0,Final,Northern_Arizona_University,Grand_Canyon_University,Regular,2023-12-9
+16000,2,1,Final,University_of_Montana,Montana_State_University,Regular,2023-12-9
 13991,-,-,8:00 pm PST,Washington_State_University,Western_Washington_University,Regular,2023-12-9
 15408,-,-,10:30 am EST,Connecticut_College,Boston_University,Regular,2023-12-10
 13068,-,-,11:00 am EST,Central_Michigan_University,Sault_College,Regular,2023-12-10
