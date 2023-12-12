@@ -637,14 +637,14 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12664,4,1,Final,Maryville_University,Indiana_Tech,Regular,2023-12-8
 12571,2,5,Final,Northern_Illinois_University,University_of_Mary,Regular,2023-12-8
 17912,4,0,Final,Grand_Valley_State_University,Davenport_University,Regular,2023-12-8
-13384,-,-,8:30 pm EST,Robert_Morris_University,University_of_Rhode_Island,Regular,2023-12-8
+13384,1,4,Final,Robert_Morris_University,University_of_Rhode_Island,Regular,2023-12-8
 14259,3,2,Final OT,West_Chester_University,Villanova_University,Regular,2023-12-8
 12810,6,2,Final,University_of_Arizona,Arizona_State_University,Regular,2023-12-8
 12622,4,3,Final,University_of_Nevada_Las_Vegas,University_of_Jamestown,Regular,2023-12-8
 13819,1,0,Final OT,George_Mason_University,The_College_of_New_Jersey,Regular,2023-12-9
 15339,6,2,Final,University_at_Buffalo,Rutgers_University,Regular,2023-12-9
 15140,2,9,Final,Eastern_Michigan_University,Cleary_University,Regular,2023-12-9
-13385,-,-,4:00 pm EST,Robert_Morris_University,University_of_Rhode_Island,Regular,2023-12-9
+13385,6,4,Final,Robert_Morris_University,University_of_Rhode_Island,Regular,2023-12-9
 17928,-,-,4:30 pm EST,Davenport_University,Aquinas_College,Regular,2023-12-9
 15154,3,4,Final OT,Lawrence_Tech,University_of_Oregon,Regular,2023-12-9
 12572,1,5,Final,Northern_Illinois_University,University_of_Mary,Regular,2023-12-9
@@ -658,7 +658,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13637,1,8,Final,Roosevelt_University,Purdue_University_Northwest,Regular,2023-12-9
 12811,4,3,Final,University_of_Arizona,Arizona_State_University,Regular,2023-12-9
 15349,2,5,Final,West_Virginia_University,Indiana_University_of_Pennsylvania,Regular,2023-12-9
-12623,0,1,18:51 2nd,University_of_Nevada_Las_Vegas,University_of_Jamestown,Regular,2023-12-9
+12623,1,2,Final,University_of_Nevada_Las_Vegas,University_of_Jamestown,Regular,2023-12-9
 13599,2,6,Final,Western_Michigan_University,University_of_Oregon,Regular,2023-12-10
 14647,5,4,Final,Mercyhurst_University,Rochester_University,Regular,2023-12-10
 13871,-,-,7:00 pm CST,Minot_State_University,University_of_Mary,Regular,2023-12-13
