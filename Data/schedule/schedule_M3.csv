@@ -577,7 +577,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16283,2,8,Final,New_Jersey_Institute_of_Technology,Merchant_Marine_Academy,Regular,2023-12-3
 17441,1,7,Final,Stevenson_University,West_Chester_University,Regular,2023-12-3
 17795,3,7,Final,Central_Maine_Community_College,Colby_College,Regular,2023-12-6
-17967,-,-,8:00 pm EST,University_of_Michigan_Flint,Michigan_State_University,Regular,2023-12-6
+17967,2,3,Final,University_of_Michigan_Flint,Michigan_State_University,Regular,2023-12-6
 16018,-,-,8:00 pm EST,Thomas_College,Colby_College,Regular,2023-12-7
 13700,-,-,7:30 pm CST,University_of_Arkansas,Saginaw_Valley_State_University,Regular,2023-12-7
 17060,-,-,6:00 pm EST,University_of_Michigan,Ferris_State_University,Regular,2023-12-8
@@ -599,25 +599,25 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17449,4,0,Final,Saint_Joseph_College_of_Maine,Curry_College,Regular,2023-12-9
 16615,6,3,Final,Calvin_University,Arizona_State_University,Regular,2023-12-9
 13207,4,11,Final,Illinois_State_University,Dordt_University,Regular,2023-12-9
-17524,-,-,12:30 pm MST,Western_Colorado_University,Colorado_Mesa_University,Regular,2023-12-9
+17524,1,22,Final,Western_Colorado_University,Colorado_Mesa_University,Regular,2023-12-9
 13940,-,-,2:30 pm EST,Northwood_University,Davenport_University,Regular,2023-12-9
 16755,11,6,Final,Washington_University_of_Saint_Louis,Marian_University,Regular,2023-12-9
 14565,8,2,Final,Indiana_University_of_Pennsylvania,West_Chester_University,Regular,2023-12-9
 16217,6,5,Final,Tufts_University,Bates_College,Regular,2023-12-9
 16355,2,9,Final,Central_Michigan_University,Grand_Valley_State_University,Regular,2023-12-9
-15381,-,-,7:30 pm EST,University_of_Pittsburgh_Johnstown,West_Virginia_University,Regular,2023-12-9
+15381,6,3,Final,University_of_Pittsburgh_Johnstown,West_Virginia_University,Regular,2023-12-9
 16692,6,2,Final,University_of_Massachusetts,Worcester_Polytechnic_Institute,Regular,2023-12-9
 13959,1,7,Final,University_of_Michigan_Flint,Oakland_University,Regular,2023-12-9
 15964,5,6,Final OT,Ferris_State_University,University_of_Michigan,Regular,2023-12-9
 16191,-,-,8:30 pm EST,Stevens_Institute_of_Technology,Merchant_Marine_Academy,Regular,2023-12-9
-16502,-,-,6:30 pm MST,Grand_Canyon_University,Northern_Arizona_University,Regular,2023-12-9
+16502,4,10,Final,Grand_Canyon_University,Northern_Arizona_University,Regular,2023-12-9
 17316,3,4,Final,University_of_Colorado_Colorado_Springs,University_of_New_Mexico,Regular,2023-12-9
 16472,-,-,10:40 pm EST,Rowan_University,Stevenson_University,Regular,2023-12-9
 15521,6,2,Final,University_of_Missouri,Maryville_University,Regular,2023-12-10
 15007,2,9,Final,United_States_Coast_Guard_Academy,Saint_Thomas_Aquinas_College,Regular,2023-12-10
 16800,9,3,Final,Central_Maine_Community_College,Saint_Joseph_College_of_Maine,Regular,2023-12-10
 16324,5,2,Final,Grand_Valley_State_University,Arizona_State_University,Regular,2023-12-10
-16378,-,-,5:40 pm EST,Curry_College,University_of_Massachusetts,Regular,2023-12-10
+16378,1,3,Final,Curry_College,University_of_Massachusetts,Regular,2023-12-10
 17442,4,1,Final,Stevenson_University,University_of_Maryland,Regular,2023-12-10
 17450,-,-,7:30 pm EST,Saint_Joseph_College_of_Maine,University_of_New_England,Regular,2023-12-11
 15642,-,-,4:30 pm EST,Grand_Valley_State_University,Saginaw_Valley_State_University,Regular,2023-12-15
