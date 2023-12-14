@@ -1362,7 +1362,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17260,5,2,Final,Grand_Canyon_University,Northern_Arizona_University,Regular,2023-12-8
 16078,2,1,Final,University_of_Colorado,Colorado_State_University,Regular,2023-12-8
 17600,2,3,Final OT,West_Virginia_University,Stevenson_University,Regular,2023-12-8
-17462,-,-,9:15 pm EST,Indiana_University,Indiana_Tech,Regular,2023-12-8
+17462,4,1,Final,Indiana_University,Indiana_Tech,Regular,2023-12-8
 17965,9,3,Final,Washington_State_University,University_of_Idaho,Regular,2023-12-8
 13274,4,2,Final,Trine_University,Illinois_State_University,Regular,2023-12-8
 17723,2,7,Final,University_of_Wisconsin_Oshkosh,Aurora_University,Regular,2023-12-8
@@ -1391,7 +1391,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15825,2,1,Final SO,University_of_Jamestown,Lake_Region_State_College,Regular,2023-12-9
 16636,7,3,Final,Rensselaer_Polytechnic_Institute,Bentley_University,Regular,2023-12-9
 12654,7,6,Final,Drury_University,University_of_Iowa,Regular,2023-12-9
-14002,-,-,7:30 pm EST,Providence_College,College_of_The_Holy_Cross,Regular,2023-12-9
+14002,5,4,Final,Providence_College,College_of_The_Holy_Cross,Regular,2023-12-9
 16306,6,2,Final,Rowan_University,University_of_Delaware,Regular,2023-12-9
 15631,1,2,Final,Davenport_University,Michigan_State_University,Regular,2023-12-9
 13252,-,-,7:00 pm CST,Purdue_University_Northwest,University_of_Wisconsin_Milwaukee,Regular,2023-12-9
@@ -1405,7 +1405,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16169,3,0,Final,Northern_Arizona_University,Grand_Canyon_University,Regular,2023-12-9
 16000,2,1,Final,University_of_Montana,Montana_State_University,Regular,2023-12-9
 13991,-,-,8:00 pm PST,Washington_State_University,Western_Washington_University,Regular,2023-12-9
-15408,-,-,10:30 am EST,Connecticut_College,Boston_University,Regular,2023-12-10
+15408,4,4,Unofficial Final,Connecticut_College,Boston_University,Regular,2023-12-10
 13068,-,-,11:00 am EST,Central_Michigan_University,Sault_College,Regular,2023-12-10
 17910,-,-,12:00 pm EST,Southern_New_Hampshire_University,University_of_Maine,Regular,2023-12-10
 14232,13,5,Final,University_of_Maine,Southern_New_Hampshire_University,Regular,2023-12-10
