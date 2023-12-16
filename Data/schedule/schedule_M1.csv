@@ -645,7 +645,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15339,6,2,Final,University_at_Buffalo,Rutgers_University,Regular,2023-12-9
 15140,2,9,Final,Eastern_Michigan_University,Cleary_University,Regular,2023-12-9
 13385,6,4,Final,Robert_Morris_University,University_of_Rhode_Island,Regular,2023-12-9
-17928,-,-,4:30 pm EST,Davenport_University,Aquinas_College,Regular,2023-12-9
+17928,3,4,Final,Davenport_University,Aquinas_College,Regular,2023-12-9
 15154,3,4,Final OT,Lawrence_Tech,University_of_Oregon,Regular,2023-12-9
 12572,1,5,Final,Northern_Illinois_University,University_of_Mary,Regular,2023-12-9
 14145,1,4,Final,John_Carroll_University,University_of_Pittsburgh,Regular,2023-12-9
@@ -662,7 +662,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13599,2,6,Final,Western_Michigan_University,University_of_Oregon,Regular,2023-12-10
 14647,5,4,Final,Mercyhurst_University,Rochester_University,Regular,2023-12-10
 13871,3,1,Final,Minot_State_University,University_of_Mary,Regular,2023-12-13
-14187,-,-,8:00 pm EST,Cleary_University,Davenport_University,Regular,2023-12-15
+14187,1,3,Final,Cleary_University,Davenport_University,Regular,2023-12-15
 15206,-,-,6:05 pm EST,Davenport_University,Cleary_University,Regular,2023-12-16
 14318,-,-,6:00 pm EST,Concordia_University_Ann_Arbor,Lawrence_Tech,Regular,2024-1-5
 12850,-,-,7:00 pm EST,University_of_Rhode_Island,West_Chester_University,Regular,2024-1-5

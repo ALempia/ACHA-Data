@@ -16,7 +16,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14427,9,1,Final,Saginaw_Valley_State_University,University_of_Pittsburgh_Johnstown,Regular,2023-9-22
 16607,7,3,Final,Calvin_University,University_of_Notre_Dame,Regular,2023-9-22
 17434,2,15,Final,Stevenson_University,Indiana_University_of_Pennsylvania,Regular,2023-9-22
-13494,-,-,Postponed,Trine_University,Marian_University,Regular,2023-9-22
+13494,1,0,Visiting Forfeit,Trine_University,Marian_University,Regular,2023-9-22
 15956,2,5,Final,Ferris_State_University,Central_Michigan_University,Regular,2023-9-22
 14428,1,9,Final,Davenport_University,Missouri_State_University,Regular,2023-9-22
 14731,8,1,Final,Oakland_University,Adrian_College,Regular,2023-9-22
@@ -28,7 +28,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13074,4,1,Final,Creighton_University,University_of_Nebraska,Regular,2023-9-23
 13200,0,6,Final,Illinois_State_University,Maryville_University,Regular,2023-9-23
 16773,1,8,Final,University_of_Pittsburgh_Johnstown,Grand_Valley_State_University,Regular,2023-9-23
-13495,-,-,Postponed,Trine_University,Marian_University,Regular,2023-9-23
+13495,1,0,Visiting Forfeit,Trine_University,Marian_University,Regular,2023-9-23
 17435,-,1,Postponed,Stevenson_University,Indiana_University_of_Pennsylvania,Regular,2023-9-23
 16347,3,2,Final,Central_Michigan_University,Ferris_State_University,Regular,2023-9-23
 15601,1,0,Visiting Forfeit,West_Virginia_University,Loyola_University_Maryland,Regular,2023-9-23
@@ -506,7 +506,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13435,2,3,Final,Arizona_State_University,United_States_Air_Force_Academy,Regular,2023-11-19
 13476,1,8,Final,Adrian_College,Central_Michigan_University,Regular,2023-11-19
 13436,2,7,Final,Arizona_State_University,United_States_Air_Force_Academy,Regular,2023-11-20
-16896,-,-,8:00 pm EST,Harvard_University,Curry_College,Regular,2023-11-29
+16896,10,0,Final,Harvard_University,Curry_College,Regular,2023-11-29
 16803,10,0,Final,Bates_College,University_of_Southern_Maine,Regular,2023-12-1
 16555,6,1,Final,Florida_Gulf_Coast_University,Central_Michigan_University,Regular,2023-12-1
 16799,8,1,Final,Central_Maine_Community_College,Saint_Joseph_College_of_Maine,Regular,2023-12-1
@@ -571,7 +571,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15380,3,2,Final,University_of_Pittsburgh_Johnstown,PennWest_California,Regular,2023-12-3
 16602,3,1,Final,Michigan_State_University,Northwood_University,Regular,2023-12-3
 16153,6,2,Final,Sacred_Heart_University,Saint_Thomas_Aquinas_College,Regular,2023-12-3
-16897,-,-,4:00 pm EST,Harvard_University,Central_Maine_Community_College,Regular,2023-12-3
+16897,1,8,Final,Harvard_University,Central_Maine_Community_College,Regular,2023-12-3
 17624,-,-,3:00 pm CST,Marian_University,Adrian_College,Regular,2023-12-3
 13477,6,1,Final,Adrian_College,Marian_University,Regular,2023-12-3
 16377,4,3,Final OT,Curry_College,University_of_Connecticut,Regular,2023-12-3
