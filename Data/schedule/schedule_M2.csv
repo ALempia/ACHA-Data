@@ -1352,7 +1352,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15397,-,-,7:00 pm CST,Southern_Illinois_University_Edwardsville,Northern_Michigan_University,Regular,2023-12-8
 17852,1,0,Visiting Forfeit,University_of_Wisconsin_LaCrosse,Bemidji_State_University,Regular,2023-12-8
 12653,4,5,Final OT,Drury_University,University_of_Iowa,Regular,2023-12-8
-14001,-,-,8:00 pm EST,Providence_College,Boston_College,Regular,2023-12-8
+14001,0,0,20:00 1st,Providence_College,Boston_College,Regular,2023-12-8
 17169,7,6,Final OT,Saint_Johns_University,Bethel_University,Regular,2023-12-8
 17805,-,-,7:25 pm CST,Lewis_University,Roosevelt_University,Regular,2023-12-8
 16033,4,2,Final,University_of_Delaware,Rowan_University,Regular,2023-12-8
@@ -1405,7 +1405,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16169,3,0,Final,Northern_Arizona_University,Grand_Canyon_University,Regular,2023-12-9
 16000,2,1,Final,University_of_Montana,Montana_State_University,Regular,2023-12-9
 13991,-,-,8:00 pm PST,Washington_State_University,Western_Washington_University,Regular,2023-12-9
-15408,4,4,Unofficial Final,Connecticut_College,Boston_University,Regular,2023-12-10
+15408,4,4,Final,Connecticut_College,Boston_University,Regular,2023-12-10
 13068,2,16,Final,Central_Michigan_University,Sault_College,Regular,2023-12-10
 17910,-,-,12:00 pm EST,Southern_New_Hampshire_University,University_of_Maine,Regular,2023-12-10
 14232,13,5,Final,University_of_Maine,Southern_New_Hampshire_University,Regular,2023-12-10

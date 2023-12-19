@@ -551,7 +551,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16295,5,3,Final,University_of_Notre_Dame,Indiana_University,Regular,2023-12-2
 16501,0,9,Final,Grand_Canyon_University,Arizona_State_University,Regular,2023-12-2
 15379,7,2,Final,University_of_Pittsburgh_Johnstown,Case_Western_Reserve_University,Regular,2023-12-2
-17059,-,-,7:30 pm EST,University_of_Michigan,Hope_College,Regular,2023-12-2
+17059,0,4,Final,University_of_Michigan,Hope_College,Regular,2023-12-2
 16017,4,4,Final,Thomas_College,Springfield_College,Regular,2023-12-2
 16614,4,1,Final,Calvin_University,Ferris_State_University,Regular,2023-12-2
 17440,3,6,Final,Stevenson_University,Catholic_University,Regular,2023-12-2
@@ -579,9 +579,9 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17441,1,7,Final,Stevenson_University,West_Chester_University,Regular,2023-12-3
 17795,3,7,Final,Central_Maine_Community_College,Colby_College,Regular,2023-12-6
 17967,2,3,Final,University_of_Michigan_Flint,Michigan_State_University,Regular,2023-12-6
-16018,-,-,8:00 pm EST,Thomas_College,Colby_College,Regular,2023-12-7
+16018,3,8,Final,Thomas_College,Colby_College,Regular,2023-12-7
 13700,-,-,Postponed,University_of_Arkansas,Saginaw_Valley_State_University,Regular,2023-12-7
-17060,-,-,6:00 pm EST,University_of_Michigan,Ferris_State_University,Regular,2023-12-8
+17060,6,4,Final,University_of_Michigan,Ferris_State_University,Regular,2023-12-8
 17493,-,-,7:00 pm EST,Western_Connecticut_State_University,Sacred_Heart_University,Regular,2023-12-8
 12994,4,0,Final,Hope_College,Arizona_State_University,Regular,2023-12-8
 16323,6,1,Final,Grand_Valley_State_University,Central_Michigan_University,Regular,2023-12-8
