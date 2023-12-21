@@ -882,7 +882,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17843,5,0,Final,Penn_State_University,University_of_North_Carolina_Wilmington,Regular,2023-11-5
 17844,1,4,Final,University_of_North_Carolina_Chapel_Hill,Rider_University,Regular,2023-11-5
 13983,3,4,Final SO,Washington_State_University,Utah_Valley_University,Regular,2023-11-5
-13585,7,1,Final,Adrian_College,Indiana_Tech,Regular,2023-11-5
+13585,7,1,Unofficial Final,Adrian_College,Indiana_Tech,Regular,2023-11-5
 16581,2,11,Final,Waldorf_University,University_of_Wisconsin_LaCrosse,Regular,2023-11-5
 14019,0,2,Final,Westfield_State_University,Connecticut_College,Regular,2023-11-5
 16272,13,2,Final,University_of_California_Berkeley,University_of_California_San_Diego,Regular,2023-11-5
@@ -1147,7 +1147,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15629,8,2,Final,Davenport_University,Concordia_University_Ann_Arbor,Regular,2023-11-18
 15593,5,0,Final,University_of_North_Carolina_Chapel_Hill,University_of_Maryland,Regular,2023-11-18
 16537,9,5,Final,Florida_Gulf_Coast_University,Lindenwood_University,Regular,2023-11-18
-17571,-,-,4:00 pm MST,University_of_Providence,Colorado_State_University,Regular,2023-11-18
+17571,2,1,Final,University_of_Providence,Colorado_State_University,Regular,2023-11-18
 14229,8,1,Final,University_of_Maine,Suffolk_University,Regular,2023-11-18
 17721,6,2,Final,University_of_Wisconsin_Oshkosh,Roosevelt_University,Regular,2023-11-18
 17892,5,2,Final,Grand_Canyon_University,Montana_State_University,Regular,2023-11-18
