@@ -1224,7 +1224,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17803,-,-,7:25 pm CST,Lewis_University,University_of_Illinois,Regular,2023-12-1
 16031,6,2,Final,University_of_Delaware,Millersville_University,Regular,2023-12-1
 14457,5,1,Final,Bradley_University,Drury_University,Regular,2023-12-1
-16510,-,-,7:30 pm CST,Baylor_University,East_Texas_Baptist_University,Regular,2023-12-1
+16510,2,7,Final,Baylor_University,East_Texas_Baptist_University,Regular,2023-12-1
 16538,3,0,Final,Florida_Gulf_Coast_University,Liberty_University,Regular,2023-12-1
 16857,3,1,Final,Roger_Williams_University,Westfield_State_University,Regular,2023-12-1
 17101,3,4,Final,University_of_Saint_Thomas,University_of_Wisconsin,Regular,2023-12-1
@@ -1295,7 +1295,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14905,4,5,Final OT,West_Chester_University,University_of_Pennsylvania,Regular,2023-12-2
 16871,10,0,Final,Miami_University,Xavier_University,Regular,2023-12-2
 16766,3,5,Final,Bowling_Green_State_University,University_of_Dayton,Regular,2023-12-2
-16511,-,-,8:00 pm CST,Baylor_University,East_Texas_Baptist_University,Regular,2023-12-2
+16511,5,6,Final,Baylor_University,East_Texas_Baptist_University,Regular,2023-12-2
 16491,3,9,Final,University_of_North_Dakota,Saint_Cloud_State_University,Regular,2023-12-2
 17559,7,2,Final,Minnesota_State_University_Mankato,Winona_State_University,Regular,2023-12-2
 13312,0,5,Final,University_of_Maryland,Penn_State_University,Regular,2023-12-2
@@ -1401,7 +1401,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14232,13,5,Final,University_of_Maine,Southern_New_Hampshire_University,Regular,2023-12-10
 15365,5,4,Final,Michigan_State_University,Davenport_University,Regular,2023-12-10
 14765,2,3,Final,Bentley_University,Sacred_Heart_University,Regular,2023-12-10
-14023,-,-,1:00 pm EST,Westfield_State_University,University_of_Massachusetts_Lowell,Regular,2023-12-10
 17695,7,8,Final OT,Saint_Mary's_University_of_Minnesota,Bemidji_State_University,Regular,2023-12-10
 17171,5,6,Final,Saint_Johns_University,North_Dakota_State_University,Regular,2023-12-10
 14024,4,1,Final,Westfield_State_University,Montclair_State_University,Regular,2023-12-17
