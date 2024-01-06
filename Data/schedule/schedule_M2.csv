@@ -1409,11 +1409,11 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17352,-,-,6:00 pm EST,Ohio_University,University_of_Delaware,Regular,2024-1-5
 14084,-,-,7:00 pm CST,Texas_A&M_University,University_of_Washington,Regular,2024-1-5
 17271,-,-,7:00 pm CST,Winona_State_University,Lake_Superior_State_University,Regular,2024-1-5
-15124,-,-,8:15 pm EST,North_Carolina_State_University,Rowan_University,Regular,2024-1-5
-16542,-,-,8:30 pm EST,Florida_Gulf_Coast_University,University_of_Minnesota,Regular,2024-1-5
+15124,4,0,Final,North_Carolina_State_University,Rowan_University,Regular,2024-1-5
+16542,5,1,Final,Florida_Gulf_Coast_University,University_of_Minnesota,Regular,2024-1-5
 15366,-,-,8:30 pm EST,Michigan_State_University,Roosevelt_University,Regular,2024-1-5
 14859,-,-,7:30 pm CST,Concordia_University_of_Wisconsin,Maryville_University,Regular,2024-1-5
-15492,-,-,8:30 pm CST,Lindenwood_University,Montana_State_University,Regular,2024-1-5
+15492,2,5,00:00 3rd,Lindenwood_University,Montana_State_University,Regular,2024-1-5
 17353,-,-,12:00 pm EST,Ohio_University,University_of_Delaware,Regular,2024-1-6
 17272,-,-,11:00 am CST,Winona_State_University,Lake_Superior_State_University,Regular,2024-1-6
 15367,-,-,3:15 pm EST,Michigan_State_University,Roosevelt_University,Regular,2024-1-6
