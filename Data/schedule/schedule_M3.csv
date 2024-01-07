@@ -282,7 +282,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14881,6,2,Final,Miami_University,Trine_University,Regular,2023-10-28
 12975,13,4,Final,Olivet_Nazarene_University,University_of_Cincinnati,Regular,2023-10-28
 14737,4,1,Final,Oakland_University,University_of_New_Mexico,Regular,2023-10-28
-16460,-,-,7:10 pm AT,Wentworth_Institute_of_Technology,Sacred_Heart_University,Regular,2023-10-28
+16460,4,5,Final,Wentworth_Institute_of_Technology,Sacred_Heart_University,Regular,2023-10-28
 15980,7,3,Final,Purdue_University,University_of_Missouri,Regular,2023-10-28
 13956,6,3,Final,University_of_Michigan_Flint,Adrian_College,Regular,2023-10-28
 16190,7,5,Final,Stevens_Institute_of_Technology,Yale_University,Regular,2023-10-28
@@ -353,7 +353,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15961,0,10,Final,Ferris_State_University,Lawrence_Tech,Regular,2023-11-4
 14438,0,10,Final,Davenport_University,Grand_Valley_State_University,Regular,2023-11-4
 16280,-,-,Postponed,New_Jersey_Institute_of_Technology,Yale_University,Regular,2023-11-4
-16404,-,-,8:30 pm EDT,United_States_Naval_Academy,George_Mason_University,Regular,2023-11-4
+16404,5,1,Final,United_States_Naval_Academy,George_Mason_University,Regular,2023-11-4
 16552,8,2,Final,Florida_Gulf_Coast_University,Indiana_University,Regular,2023-11-4
 14701,2,6,Final,Duquesne_University,University_of_Pittsburgh_Johnstown,Regular,2023-11-4
 17608,1,2,Final,Colorado_School_of_Mines,Dartmouth_College,Regular,2023-11-4
@@ -623,7 +623,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16557,10,1,Final,Florida_Gulf_Coast_University,University_of_Akron,Regular,2024-1-5
 13960,4,7,Final,University_of_Michigan_Flint,Lawrence_Tech,Regular,2024-1-5
 14816,-,-,8:00 pm EST,Lawrence_Tech,University_of_Michigan_Flint,Regular,2024-1-6
-16558,-,-,8:30 pm EST,Florida_Gulf_Coast_University,University_of_Akron,Regular,2024-1-6
+16558,8,2,Final,Florida_Gulf_Coast_University,University_of_Akron,Regular,2024-1-6
 14441,-,-,9:00 pm EST,Davenport_University,Central_Maine_Community_College,Regular,2024-1-10
 15836,-,-,1:00 am EST,Indiana_University,Miami_University,Regular,2024-1-12
 12695,-,-,5:00 pm CST,Maryville_University,Grand_Valley_State_University,Regular,2024-1-12
