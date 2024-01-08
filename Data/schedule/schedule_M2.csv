@@ -1410,12 +1410,12 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17271,-,-,7:00 pm CST,Winona_State_University,Lake_Superior_State_University,Regular,2024-1-5
 15124,4,0,Final,North_Carolina_State_University,Rowan_University,Regular,2024-1-5
 16542,5,1,Final,Florida_Gulf_Coast_University,University_of_Minnesota,Regular,2024-1-5
-15366,-,-,8:30 pm EST,Michigan_State_University,Roosevelt_University,Regular,2024-1-5
+15366,7,2,Final,Michigan_State_University,Roosevelt_University,Regular,2024-1-5
 14859,-,-,7:30 pm CST,Concordia_University_of_Wisconsin,Maryville_University,Regular,2024-1-5
 15492,2,5,Final,Lindenwood_University,Montana_State_University,Regular,2024-1-5
 17353,-,-,12:00 pm EST,Ohio_University,University_of_Delaware,Regular,2024-1-6
 17272,-,-,11:00 am CST,Winona_State_University,Lake_Superior_State_University,Regular,2024-1-6
-15367,-,-,3:15 pm EST,Michigan_State_University,Roosevelt_University,Regular,2024-1-6
+15367,7,3,Final,Michigan_State_University,Roosevelt_University,Regular,2024-1-6
 12826,-,-,3:45 pm EST,Millersville_University,Army_(West_Point),Regular,2024-1-6
 14860,-,-,2:45 pm CST,Concordia_University_of_Wisconsin,Maryville_University,Regular,2024-1-6
 16543,5,2,Final,Florida_Gulf_Coast_University,University_of_Minnesota,Regular,2024-1-6
@@ -1424,7 +1424,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15581,4,3,Final,Weber_State_University,Utah_State_University_,Regular,2024-1-6
 15493,1,2,Final,Lindenwood_University,Montana_State_University,Regular,2024-1-6
 17199,-,-,9:00 pm PST,University_of_California_Irvine,University_of_California_San_Diego,Regular,2024-1-6
-13094,-,-,9:30 am EST,University_of_North_Carolina_Wilmington,Rowan_University,Regular,2024-1-7
+13094,1,0,Final OT,University_of_North_Carolina_Wilmington,Rowan_University,Regular,2024-1-7
 12827,-,-,4:00 pm EST,Millersville_University,Army_(West_Point),Regular,2024-1-7
 12684,-,-,4:30 pm CST,Maryville_University,Montana_State_University,Regular,2024-1-7
 17937,-,-,9:00 pm MST,University_of_Denver,Northern_Arizona_University,Regular,2024-1-11
