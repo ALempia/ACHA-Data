@@ -692,7 +692,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15768,-,-,Postponed,Iowa_State_University,Waldorf_University,Regular,2024-1-9
 13872,3,0,Final,Minot_State_University,University_of_Mary,Regular,2024-1-10
 14128,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Davenport_University,Regular,2024-1-11
-13029,-,-,7:30 pm EST,Adrian_College,Western_Michigan_University,Regular,2024-1-11
+13029,9,3,Final,Adrian_College,Western_Michigan_University,Regular,2024-1-11
 15251,-,-,12:01 am EST,Lehigh_University,Villanova_University,Regular,2024-1-12
 15156,-,-,5:00 pm EST,Lawrence_Tech,Rochester_University,Regular,2024-1-12
 12487,-,-,4:15 pm CST,University_of_Oklahoma,Missouri_State_University,Regular,2024-1-12
@@ -704,7 +704,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13221,-,-,7:30 pm EST,Indiana_Tech,Aquinas_College,Regular,2024-1-12
 12529,-,-,7:00 pm CST,University_of_Jamestown,McKendree_University,Regular,2024-1-12
 13169,-,-,7:00 pm CST,Illinois_State_University,Waldorf_University,Regular,2024-1-12
-13239,-,-,7:00 pm CST,Purdue_University_Northwest,Eastern_Michigan_University,Regular,2024-1-12
+13239,-,-,Postponed,Purdue_University_Northwest,Eastern_Michigan_University,Regular,2024-1-12
 14604,-,-,8:00 pm EST,Indiana_University_of_Pennsylvania,University_at_Buffalo,Regular,2024-1-12
 14541,-,-,8:00 pm EST,William_Paterson_University,Rochester_Institute_of_Technology,Regular,2024-1-12
 13640,-,-,7:20 pm CST,Roosevelt_University,University_of_Illinois,Regular,2024-1-12
