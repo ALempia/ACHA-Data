@@ -216,25 +216,23 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13558,5,0,Final,McKendree_University,Arizona_State_University,Regular,2024-1-11
 12718,4,1,Final,Maryville_University,Michigan_State_University,Regular,2024-1-11
 14777,-,-,12:30 pm EST,Aquinas_College,Indiana_Tech,Regular,2024-1-12
-15548,-,-,1:40 pm CST,Lindenwood_University,University_of_Massachusetts_Amherst,Regular,2024-1-12
-12719,-,-,2:00 pm CST,Maryville_University,Arizona_State_University,Regular,2024-1-12
-12733,-,-,5:30 pm EST,Concordia_University_Ann_Arbor,Grand_Valley_State_University,Regular,2024-1-12
+15548,3,3,Final OT,Lindenwood_University,University_of_Massachusetts_Amherst,Regular,2024-1-12
+12719,7,0,Final,Maryville_University,Arizona_State_University,Regular,2024-1-12
+12733,-,-,Postponed,Concordia_University_Ann_Arbor,Grand_Valley_State_University,Regular,2024-1-12
 13009,-,-,7:00 pm EST,University_of_Michigan_Dearborn,University_of_Rhode_Island,Regular,2024-1-12
-13559,-,-,7:45 pm CST,McKendree_University,Michigan_State_University,Regular,2024-1-12
+13559,8,1,Final,McKendree_University,Michigan_State_University,Regular,2024-1-12
 13010,-,-,3:00 pm EST,University_of_Michigan_Dearborn,University_of_Rhode_Island,Regular,2024-1-13
-12795,-,-,3:30 pm EST,Indiana_Tech,Aquinas_College,Regular,2024-1-13
-12755,-,-,3:45 pm CST,Minot_State_University,University_of_Jamestown,Regular,2024-1-13
-13105,-,-,5:45 pm EST,Niagara_University,Penn_State_University,Regular,2024-1-13
+12795,-,-,Postponed,Indiana_Tech,Aquinas_College,Regular,2024-1-13
+12755,-,-,Postponed,Minot_State_University,University_of_Jamestown,Regular,2024-1-13
+13105,-,-,Postponed,Niagara_University,Penn_State_University,Regular,2024-1-13
 14870,-,-,7:30 pm EST,Grand_Valley_State_University,Concordia_University_Ann_Arbor,Regular,2024-1-13
 13560,-,-,7:00 pm CST,McKendree_University,University_of_Massachusetts_Amherst,Regular,2024-1-13
-14576,-,-,9:00 pm EST,Lake_Superior_State_University,Miami_University,Regular,2024-1-13
 12720,-,-,8:00 pm CST,Maryville_University,Arizona_State_University,Regular,2024-1-13
 15547,-,-,9:40 pm CST,Lindenwood_University,Michigan_State_University,Regular,2024-1-13
-14577,-,-,1:00 pm EST,Lake_Superior_State_University,Miami_University,Regular,2024-1-14
-12756,-,-,1:00 pm CST,Minot_State_University,University_of_Jamestown,Regular,2024-1-14
+12756,-,-,Postponed,Minot_State_University,University_of_Jamestown,Regular,2024-1-14
 13561,-,-,1:30 pm CST,McKendree_University,Arizona_State_University,Regular,2024-1-14
 12721,-,-,1:30 pm CST,Maryville_University,University_of_Massachusetts_Amherst,Regular,2024-1-14
-13106,-,-,3:00 pm EST,Niagara_University,Penn_State_University,Regular,2024-1-14
+13106,-,-,Postponed,Niagara_University,Penn_State_University,Regular,2024-1-14
 14915,-,-,4:00 pm EST,University_of_Michigan,University_of_Rhode_Island,Regular,2024-1-14
 16523,-,-,10:30 am CST,Lindenwood_University,Arizona_State_University,Regular,2024-1-15
 12722,-,-,2:00 pm CST,Maryville_University,Lindenwood_University,Regular,2024-1-19
@@ -286,11 +284,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14688,-,-,6:30 pm EST,Davenport_University,Penn_State_University,Regular,2024-1-27
 13547,-,-,7:00 pm EST,Adrian_College,University_of_Michigan,Regular,2024-1-27
 14930,-,-,5:00 pm MST,University_of_Denver,University_of_Rhode_Island,Regular,2024-1-27
+14576,-,-,9:00 pm EST,Lake_Superior_State_University,Miami_University,Regular,2024-1-27
 13671,-,-,8:20 pm CST,Midland_University,University_of_Minnesota,Regular,2024-1-27
 15551,-,-,8:50 pm CST,Lindenwood_University,Minot_State_University,Regular,2024-1-27
 15089,-,-,8:15 pm MST,Colorado_State_University,University_of_Colorado,Regular,2024-1-27
 15090,-,-,8:45 am MST,Colorado_State_University,University_of_Rhode_Island,Regular,2024-1-28
 14689,-,-,11:00 am EST,Davenport_University,Penn_State_University,Regular,2024-1-28
+14577,-,-,1:00 pm EST,Lake_Superior_State_University,Miami_University,Regular,2024-1-28
 14918,-,-,4:00 pm EST,University_of_Michigan,Adrian_College,Regular,2024-1-28
 13548,-,-,3:00 pm EST,Adrian_College,Indiana_Tech,Regular,2024-2-2
 13685,-,-,6:20 pm EST,University_of_Massachusetts_Amherst,University_of_Rhode_Island,Regular,2024-2-2
