@@ -631,18 +631,18 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15382,-,-,7:30 pm EST,University_of_Pittsburgh_Johnstown,Indiana_University_of_Pennsylvania,Regular,2024-1-12
 14817,-,-,Postponed,Lawrence_Tech,University_of_Michigan,Regular,2024-1-12
 13961,-,-,Postponed,University_of_Michigan_Flint,Western_Michigan_University,Regular,2024-1-12
-14745,-,-,8:30 pm EST,Oakland_University,Saginaw_Valley_State_University,Regular,2024-1-12
-17861,-,-,6:45 pm MST,United_States_Air_Force_Academy,Missouri_State_University,Regular,2024-1-12
+14745,3,3,Final OT,Oakland_University,Saginaw_Valley_State_University,Regular,2024-1-12
+17861,1,0,Final,United_States_Air_Force_Academy,Missouri_State_University,Regular,2024-1-12
 16965,-,-,9:10 pm EST,University_of_Akron,Robert_Morris_University,Regular,2024-1-12
 13504,-,-,9:15 pm EST,Trine_University,Purdue_University,Regular,2024-1-12
 15965,-,-,Postponed,Ferris_State_University,Michigan_State_University,Regular,2024-1-12
-17613,-,-,8:15 pm MST,Colorado_School_of_Mines,Northern_Arizona_University,Regular,2024-1-12
+17613,8,1,Final,Colorado_School_of_Mines,Northern_Arizona_University,Regular,2024-1-12
 16503,-,-,9:00 pm MST,Grand_Canyon_University,Dallas_Baptist_University,Regular,2024-1-12
 12922,-,-,9:15 pm MST,University_of_New_Mexico,Arizona_State_University,Regular,2024-1-12
 15837,-,-,1:00 am EST,Indiana_University,Miami_University,Regular,2024-1-13
 12923,-,-,8:00 am MST,University_of_New_Mexico,Missouri_State_University,Regular,2024-1-13
 17867,-,-,10:15 am MST,Arizona_State_University,United_States_Air_Force_Academy,Regular,2024-1-13
-12696,-,-,2:00 pm CST,Maryville_University,Grand_Valley_State_University,Regular,2024-1-13
+12696,2,3,Final,Maryville_University,Grand_Valley_State_University,Regular,2024-1-13
 17525,-,-,1:00 pm MST,Western_Colorado_University,Northern_Arizona_University,Regular,2024-1-13
 16617,-,-,3:30 pm EST,Calvin_University,Central_Maine_Community_College,Regular,2024-1-13
 13505,-,-,4:15 pm EST,Trine_University,Purdue_University,Regular,2024-1-13
@@ -652,7 +652,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15383,-,-,7:30 pm EST,University_of_Pittsburgh_Johnstown,Robert_Morris_University,Regular,2024-1-13
 17868,-,-,5:45 pm MST,Arizona_State_University,Missouri_State_University,Regular,2024-1-13
 16370,-,-,8:15 pm EST,Western_Michigan_University,University_of_Michigan_Flint,Regular,2024-1-13
-16560,-,-,8:30 pm EST,Florida_Gulf_Coast_University,Northwestern_University,Regular,2024-1-13
+16560,12,2,Final,Florida_Gulf_Coast_University,Northwestern_University,Regular,2024-1-13
 12924,-,-,7:15 pm MST,University_of_New_Mexico,United_States_Air_Force_Academy,Regular,2024-1-13
 15643,-,-,9:30 pm EST,Saginaw_Valley_State_University,Oakland_University,Regular,2024-1-13
 15610,-,-,9:45 pm EST,West_Virginia_University,Indiana_University_of_Pennsylvania,Regular,2024-1-13
