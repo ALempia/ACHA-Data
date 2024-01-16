@@ -238,7 +238,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16312,1,8,Final,Bentley_University,Harvard_University,Regular,2023-11-12
 15907,8,0,Final,Providence_College,College_of_the_Holy_Cross,Regular,2023-11-12
 17159,0,2,Final,University_Of_Connecticut,Boston_University,Regular,2023-11-12
-17683,-,-,Postponed,Sacred_Heart_University,Villanova_University,Regular,2023-11-12
+17683,1,0,Visiting Forfeit,Sacred_Heart_University,Villanova_University,Regular,2023-11-12
 17499,5,2,Final,University_of_Wisconsin,Aurora_University,Regular,2023-11-12
 16258,1,0,Visiting Forfeit,Villanova_University,United_States_Air_Force_Academy,Regular,2023-11-17
 14360,10,0,Final,Liberty_University,Maryville_University,Regular,2023-11-17
@@ -343,13 +343,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15941,3,5,Final,University_of_New_Hampshire,Merrimack_College,Regular,2023-12-10
 16825,9,0,Final,Sault_College,Lawrence_Technological_University,Regular,2024-1-12
 16826,12,0,Final,Sault_College,Lawrence_Technological_University,Regular,2024-1-13
-14790,-,-,7:30 pm EST,Niagara_University,West_Virginia_University_,Regular,2024-1-13
-17011,-,-,7:00 pm CST,Dakota_College_at_Bottineau,University_of_Minnesota_Duluth,Regular,2024-1-13
+14790,-,-,Postponed,Niagara_University,West_Virginia_University_,Regular,2024-1-13
+17011,-,-,Postponed,Dakota_College_at_Bottineau,University_of_Minnesota_Duluth,Regular,2024-1-13
 15872,-,-,Postponed,Assiniboine_Community_College,Lake_Region_State_College,Regular,2024-1-13
-17012,-,-,10:00 am CST,Dakota_College_at_Bottineau,University_of_Minnesota_Duluth,Regular,2024-1-14
+17012,-,-,Postponed,Dakota_College_at_Bottineau,University_of_Minnesota_Duluth,Regular,2024-1-14
 15873,-,-,Postponed,Assiniboine_Community_College,Lake_Region_State_College,Regular,2024-1-14
-16697,-,-,1:00 pm CST,Adrian_College,Loyola_University_Chicago,Regular,2024-1-14
-14791,-,-,3:45 pm EST,Niagara_University,West_Virginia_University_,Regular,2024-1-14
+16697,-,-,Postponed,Adrian_College,Loyola_University_Chicago,Regular,2024-1-14
+14791,-,-,Postponed,Niagara_University,West_Virginia_University_,Regular,2024-1-14
 16827,-,-,6:30 pm EST,Sault_College,Assiniboine_Community_College,Regular,2024-1-19
 18090,-,-,8:50 pm EST,University_of_Pennsylvania,Rowan_University,Regular,2024-1-19
 14372,-,-,9:00 pm EST,University_of_Pittsburgh,Robert_Morris_University,Regular,2024-1-19

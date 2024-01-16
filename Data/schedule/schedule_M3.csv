@@ -624,7 +624,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14816,5,1,Final,Lawrence_Tech,University_of_Michigan_Flint,Regular,2024-1-6
 16558,8,2,Final,Florida_Gulf_Coast_University,University_of_Akron,Regular,2024-1-6
 14441,-,-,9:00 pm EST,Davenport_University,Central_Maine_Community_College,Regular,2024-1-10
-15836,-,-,1:00 am EST,Indiana_University,Miami_University,Regular,2024-1-12
+15836,8,9,Final OT,Indiana_University,Miami_University,Regular,2024-1-12
 12695,0,2,Final,Maryville_University,Grand_Valley_State_University,Regular,2024-1-12
 16559,12,1,Final,Florida_Gulf_Coast_University,Northwestern_University,Regular,2024-1-12
 16616,4,5,Final,Calvin_University,Central_Maine_Community_College,Regular,2024-1-12
@@ -638,30 +638,30 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15965,-,-,Postponed,Ferris_State_University,Michigan_State_University,Regular,2024-1-12
 17613,8,1,Final,Colorado_School_of_Mines,Northern_Arizona_University,Regular,2024-1-12
 16503,-,-,9:00 pm MST,Grand_Canyon_University,Dallas_Baptist_University,Regular,2024-1-12
-12922,-,-,9:15 pm MST,University_of_New_Mexico,Arizona_State_University,Regular,2024-1-12
-15837,-,-,1:00 am EST,Indiana_University,Miami_University,Regular,2024-1-13
-12923,-,-,8:00 am MST,University_of_New_Mexico,Missouri_State_University,Regular,2024-1-13
+12922,1,2,Final,University_of_New_Mexico,Arizona_State_University,Regular,2024-1-12
+15837,2,5,Final,Indiana_University,Miami_University,Regular,2024-1-13
+12923,0,3,Final,University_of_New_Mexico,Missouri_State_University,Regular,2024-1-13
 17867,-,-,10:15 am MST,Arizona_State_University,United_States_Air_Force_Academy,Regular,2024-1-13
 12696,2,3,Final,Maryville_University,Grand_Valley_State_University,Regular,2024-1-13
 17525,3,6,Final,Western_Colorado_University,Northern_Arizona_University,Regular,2024-1-13
 16617,2,1,Final,Calvin_University,Central_Maine_Community_College,Regular,2024-1-13
 13505,-,-,4:15 pm EST,Trine_University,Purdue_University,Regular,2024-1-13
-16603,-,-,5:00 pm EST,Michigan_State_University,Ferris_State_University,Regular,2024-1-13
+16603,4,1,Final,Michigan_State_University,Ferris_State_University,Regular,2024-1-13
 17061,-,-,5:30 pm EST,University_of_Michigan,Lawrence_Tech,Regular,2024-1-13
 14442,-,-,6:00 pm EST,Davenport_University,Hope_College,Regular,2024-1-13
 15383,-,-,7:30 pm EST,University_of_Pittsburgh_Johnstown,Robert_Morris_University,Regular,2024-1-13
-17868,-,-,5:45 pm MST,Arizona_State_University,Missouri_State_University,Regular,2024-1-13
+17868,7,4,Final,Arizona_State_University,Missouri_State_University,Regular,2024-1-13
 16370,-,-,8:15 pm EST,Western_Michigan_University,University_of_Michigan_Flint,Regular,2024-1-13
 16560,12,2,Final,Florida_Gulf_Coast_University,Northwestern_University,Regular,2024-1-13
-12924,-,-,7:15 pm MST,University_of_New_Mexico,United_States_Air_Force_Academy,Regular,2024-1-13
+12924,4,1,Final,University_of_New_Mexico,United_States_Air_Force_Academy,Regular,2024-1-13
 15643,3,4,Final OT,Saginaw_Valley_State_University,Oakland_University,Regular,2024-1-13
 15610,-,-,9:45 pm EST,West_Virginia_University,Indiana_University_of_Pennsylvania,Regular,2024-1-13
 17614,6,0,Final,Colorado_School_of_Mines,Northern_Arizona_University,Regular,2024-1-13
 16504,-,-,9:00 pm MST,Grand_Canyon_University,Dallas_Baptist_University,Regular,2024-1-13
 16604,-,-,12:50 am EST,Michigan_State_University,Central_Maine_Community_College,Regular,2024-1-14
 16907,-,-,12:40 pm EST,PennWest_California,Saint_Vincent_College,Regular,2024-1-14
-15008,-,-,3:00 pm EST,United_States_Coast_Guard_Academy,Worcester_Polytechnic_Institute,Regular,2024-1-14
-17526,-,-,1:30 pm MST,Western_Colorado_University,Northern_Arizona_University,Regular,2024-1-14
+15008,3,8,Final,United_States_Coast_Guard_Academy,Worcester_Polytechnic_Institute,Regular,2024-1-14
+17526,0,5,Final,Western_Colorado_University,Northern_Arizona_University,Regular,2024-1-14
 15612,-,-,4:15 pm EST,West_Virginia_University,Ferris_State_University,Regular,2024-1-14
 17615,-,-,8:15 pm MST,Colorado_School_of_Mines,Northern_Arizona_University,Regular,2024-1-14
 14897,-,-,11:55 am EST,Dartmouth_College,United_States_Coast_Guard_Academy,Regular,2024-1-15

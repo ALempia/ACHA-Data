@@ -216,7 +216,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13558,5,0,Final,McKendree_University,Arizona_State_University,Regular,2024-1-11
 12718,4,1,Final,Maryville_University,Michigan_State_University,Regular,2024-1-11
 14777,0,7,Final,Aquinas_College,Indiana_Tech,Regular,2024-1-12
-15548,3,3,Final OT,Lindenwood_University,University_of_Massachusetts_Amherst,Regular,2024-1-12
+15548,3,3,Final,Lindenwood_University,University_of_Massachusetts_Amherst,Regular,2024-1-12
 12719,7,0,Final,Maryville_University,Arizona_State_University,Regular,2024-1-12
 12733,-,-,Postponed,Concordia_University_Ann_Arbor,Grand_Valley_State_University,Regular,2024-1-12
 13009,4,0,Final,University_of_Michigan_Dearborn,University_of_Rhode_Island,Regular,2024-1-12
@@ -230,9 +230,9 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15547,7,0,Final,Lindenwood_University,Michigan_State_University,Regular,2024-1-13
 12756,-,-,Postponed,Minot_State_University,University_of_Jamestown,Regular,2024-1-14
 13561,2,5,Final,McKendree_University,Arizona_State_University,Regular,2024-1-14
-12721,-,-,1:30 pm CST,Maryville_University,University_of_Massachusetts_Amherst,Regular,2024-1-14
+12721,5,3,Final,Maryville_University,University_of_Massachusetts_Amherst,Regular,2024-1-14
 14915,8,1,Final,University_of_Michigan,University_of_Rhode_Island,Regular,2024-1-14
-16523,-,-,10:30 am CST,Lindenwood_University,Arizona_State_University,Regular,2024-1-15
+16523,5,5,Final OT,Lindenwood_University,Arizona_State_University,Regular,2024-1-15
 12722,-,-,2:00 pm CST,Maryville_University,Lindenwood_University,Regular,2024-1-19
 14673,-,-,1:30 pm MST,University_of_Utah,Montana_State_University,Regular,2024-1-19
 12796,-,-,4:00 pm EST,Indiana_Tech,University_of_Massachusetts_Amherst,Regular,2024-1-19
