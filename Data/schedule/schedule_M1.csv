@@ -745,7 +745,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13183,1,4,Final,Arizona_State_University,Grand_Canyon_University,Regular,2024-1-13
 13833,2,4,Final,University_of_Oregon,Colorado_State_University,Regular,2024-1-13
 12512,1,0,Visiting Forfeit,University_of_Mary,Northern_Illinois_University,Regular,2024-1-14
-15253,-,-,7:00 pm EST,Lehigh_University,Duquesne_University,Regular,2024-1-14
+15253,4,3,Final OT,Lehigh_University,Duquesne_University,Regular,2024-1-14
 15222,7,2,Final,University_of_Toledo,Kent_State_University,Regular,2024-1-14
 13318,1,4,Final,Midland_University,Iowa_State_University,Regular,2024-1-14
 18115,2,5,Final,Aquinas_College,Indiana_Tech,Regular,2024-1-15
@@ -808,9 +808,9 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12671,-,-,7:30 pm CST,Maryville_University,University_of_Arizona,Regular,2024-1-20
 12642,-,-,7:30 pm CST,Midland_University,Minot_State_University,Regular,2024-1-20
 13641,-,-,7:30 pm CST,Roosevelt_University,Western_Michigan_University,Regular,2024-1-20
+16980,-,-,8:45 pm EST,Canisius_University,West_Virginia_University,Regular,2024-1-20
 14543,-,-,9:00 pm EST,William_Paterson_University,New_York_University,Regular,2024-1-20
 13788,-,-,7:30 pm MST,University_of_Utah,Grand_Canyon_University,Regular,2024-1-20
-16980,-,-,10:00 pm EST,Canisius_University,West_Virginia_University,Regular,2024-1-20
 12627,-,-,7:30 pm PST,University_of_Nevada_Las_Vegas,Arizona_State_University,Regular,2024-1-20
 13890,-,-,11:59 pm EST,Liberty_University,Syracuse_University,Regular,2024-1-20
 12514,-,-,2:00 pm CST,University_of_Mary,Illinois_State_University,Regular,2024-1-21
