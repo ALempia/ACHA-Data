@@ -1406,7 +1406,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17171,5,6,Final,Saint_Johns_University,North_Dakota_State_University,Regular,2023-12-10
 14024,4,1,Final,Westfield_State_University,Montclair_State_University,Regular,2023-12-17
 17352,5,2,Final,Ohio_University,University_of_Delaware,Regular,2024-1-5
-14084,-,-,7:00 pm CST,Texas_A&M_University,University_of_Washington,Regular,2024-1-5
+14084,6,3,Final,Texas_A&M_University,University_of_Washington,Regular,2024-1-5
 17271,-,-,7:00 pm CST,Winona_State_University,Lake_Superior_State_University,Regular,2024-1-5
 15124,4,0,Final,North_Carolina_State_University,Rowan_University,Regular,2024-1-5
 16542,5,1,Final,Florida_Gulf_Coast_University,University_of_Minnesota,Regular,2024-1-5
@@ -1419,7 +1419,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12826,1,9,Final,Millersville_University,Army_(West_Point),Regular,2024-1-6
 14860,4,3,Final,Concordia_University_of_Wisconsin,Maryville_University,Regular,2024-1-6
 16543,5,2,Final,Florida_Gulf_Coast_University,University_of_Minnesota,Regular,2024-1-6
-14085,-,-,7:00 pm CST,Texas_A&M_University,University_of_Washington,Regular,2024-1-6
+14085,1,4,Final,Texas_A&M_University,University_of_Washington,Regular,2024-1-6
 15125,0,1,Final,North_Carolina_State_University,Rowan_University,Regular,2024-1-6
 15581,4,3,Final,Weber_State_University,Utah_State_University_,Regular,2024-1-6
 15493,1,2,Final,Lindenwood_University,Montana_State_University,Regular,2024-1-6
@@ -1495,9 +1495,9 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15853,1,11,Final,Norwich_University,Keene_State_College,Regular,2024-1-13
 15951,-,-,7:10 pm EST,Drexel_University,University_of_Scranton,Regular,2024-1-13
 15495,7,0,Final,Lindenwood_University,Marian_University,Regular,2024-1-13
-16307,-,-,8:00 pm EST,Rowan_University,University_of_North_Carolina_Wilmington,Regular,2024-1-13
+16307,0,0,Unofficial Final,Rowan_University,University_of_North_Carolina_Wilmington,Regular,2024-1-13
 15303,2,5,Final,Roosevelt_University,Illinois_State_University,Regular,2024-1-13
-14097,-,-,8:30 pm EST,Montclair_State_University,Central_Connecticut_State_University,Regular,2024-1-13
+14097,6,4,Final,Montclair_State_University,Central_Connecticut_State_University,Regular,2024-1-13
 15532,-,-,7:30 pm CST,University_of_Texas,Santa_Clara_University,Regular,2024-1-13
 15632,-,-,8:30 pm EST,Davenport_University,Aurora_University,Regular,2024-1-13
 18099,6,0,Final,Lake_Region_State_College,Minnesota_State_University_Moorhead,Regular,2024-1-13
@@ -1536,12 +1536,12 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17959,3,6,Final,Grand_Canyon_University,Michigan_State_University,Regular,2024-1-15
 17961,2,4,Final,University_of_Colorado,Boise_State_University,Regular,2024-1-15
 16739,2,3,Final OT,Lake_Superior_State_University,University_of_Cincinnati,Regular,2024-1-15
-17962,1,10,00:00 3rd,Colorado_State_University,University_of_California_Los_Angeles,Regular,2024-1-15
+17962,1,10,Final,Colorado_State_University,University_of_California_Los_Angeles,Regular,2024-1-15
 16951,-,-,10:00 am PST,Western_Washington_University,Loyola_Marymount_University,Regular,2024-1-15
 17963,3,1,Final,Metropolitan_State_University_Denver,Bowling_Green_State_University,Regular,2024-1-15
 17969,-,-,1:00 pm CST,University_of_Minnesota,University_of_Minnesota_Duluth,Regular,2024-1-15
 17964,3,4,Final SO,Dakota_College_Bottineau,Weber_State_University,Regular,2024-1-15
-18105,-,-,12:30 pm MST,University_of_Montana,Williston_State_College,Regular,2024-1-17
+18105,9,3,Final,University_of_Montana,Williston_State_College,Regular,2024-1-17
 15582,-,-,7:15 pm MST,Weber_State_University,University_of_New_Hampshire,Regular,2024-1-18
 14666,-,-,7:30 pm MST,University_of_Utah,Utah_Valley_University,Regular,2024-1-18
 17431,-,-,1:00 am EST,University_of_Virginia,University_of_Richmond,Regular,2024-1-19

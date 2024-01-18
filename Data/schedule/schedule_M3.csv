@@ -657,7 +657,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17614,6,0,Final,Colorado_School_of_Mines,Northern_Arizona_University,Regular,2024-1-13
 16504,-,-,9:00 pm MST,Grand_Canyon_University,Dallas_Baptist_University,Regular,2024-1-13
 16604,4,5,Final,Michigan_State_University,Central_Maine_Community_College,Regular,2024-1-14
-18125,-,-,10:00 am MST,United_States_Air_Force_Academy,Arizona_State_University,Regular,2024-1-14
+18125,5,2,Final,United_States_Air_Force_Academy,Arizona_State_University,Regular,2024-1-14
 16907,-,-,12:40 pm EST,PennWest_California,Saint_Vincent_College,Regular,2024-1-14
 15008,3,8,Final,United_States_Coast_Guard_Academy,Worcester_Polytechnic_Institute,Regular,2024-1-14
 17526,0,5,Final,Western_Colorado_University,Northern_Arizona_University,Regular,2024-1-14
@@ -665,7 +665,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17615,-,-,8:15 pm MST,Colorado_School_of_Mines,Northern_Arizona_University,Regular,2024-1-14
 14897,-,-,11:55 am EST,Dartmouth_College,United_States_Coast_Guard_Academy,Regular,2024-1-15
 12995,14,1,Final,Hope_College,Davenport_University,Regular,2024-1-16
-15966,-,-,8:30 pm EST,Ferris_State_University,University_of_Michigan_Flint,Regular,2024-1-17
+15966,4,2,Final,Ferris_State_University,University_of_Michigan_Flint,Regular,2024-1-17
 17569,-,-,7:00 pm EST,Yale_University,Merchant_Marine_Academy,Regular,2024-1-18
 16804,-,-,6:00 pm EST,Bates_College,University_of_New_England,Regular,2024-1-19
 17625,-,-,5:00 pm CST,Marian_University,Illinois_State_University,Regular,2024-1-19
