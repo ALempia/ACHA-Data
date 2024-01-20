@@ -349,10 +349,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15873,-,-,Postponed,Assiniboine_Community_College,Lake_Region_State_College,Regular,2024-1-14
 16697,-,-,Postponed,Adrian_College,Loyola_University_Chicago,Regular,2024-1-14
 14791,-,-,Postponed,Niagara_University,West_Virginia_University_,Regular,2024-1-14
-16827,-,-,6:30 pm EST,Sault_College,Assiniboine_Community_College,Regular,2024-1-19
-18090,-,-,8:50 pm EST,University_of_Pennsylvania,Rowan_University,Regular,2024-1-19
-18121,-,-,9:00 pm EST,Dakota_College_at_Bottineau,Lawrence_Technological_University,Regular,2024-1-19
-14372,-,-,9:00 pm EST,University_of_Pittsburgh,Robert_Morris_University,Regular,2024-1-19
+16827,5,2,Final,Sault_College,Assiniboine_Community_College,Regular,2024-1-19
+18090,5,4,Final,University_of_Pennsylvania,Rowan_University,Regular,2024-1-19
+18121,4,1,Final,Dakota_College_at_Bottineau,Lawrence_Technological_University,Regular,2024-1-19
+14372,4,5,Final,University_of_Pittsburgh,Robert_Morris_University,Regular,2024-1-19
 17741,-,-,9:05 pm CST,Aurora_University,Central_Michigan_University,Regular,2024-1-19
 16828,-,-,9:30 am EST,Sault_College,Dakota_College_at_Bottineau,Regular,2024-1-20
 17307,-,-,12:00 pm CST,Assiniboine_Community_College,Lawrence_Technological_University,Regular,2024-1-20

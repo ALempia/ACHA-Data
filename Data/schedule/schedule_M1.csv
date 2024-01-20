@@ -754,40 +754,40 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14320,2,4,Final,Concordia_University_Ann_Arbor,Purdue_University_Northwest,Regular,2024-1-18
 13031,7,1,Final,Adrian_College,University_of_Michigan_Dearborn,Regular,2024-1-18
 14633,-,-,Postponed,Niagara_University,University_of_Pittsburgh,Regular,2024-1-19
-15234,-,-,2:30 pm EST,Rochester_University,Concordia_University_Ann_Arbor,Regular,2024-1-19
-15770,-,-,2:00 pm CST,Iowa_State_University,McKendree_University,Regular,2024-1-19
-12641,-,-,3:00 pm CST,Midland_University,Minot_State_University,Regular,2024-1-19
-15326,-,-,4:45 pm EST,Villanova_University,The_College_of_New_Jersey,Regular,2024-1-19
-13889,-,-,7:00 pm EST,Liberty_University,Syracuse_University,Regular,2024-1-19
-13909,-,-,7:00 pm EST,Ohio_University,University_of_Toledo,Regular,2024-1-19
-13601,-,-,7:15 pm EST,Western_Michigan_University,Roosevelt_University,Regular,2024-1-19
-13222,-,-,7:30 pm EST,Indiana_Tech,Lawrence_Tech,Regular,2024-1-19
+15234,0,9,Final,Rochester_University,Concordia_University_Ann_Arbor,Regular,2024-1-19
+15770,5,2,Final,Iowa_State_University,McKendree_University,Regular,2024-1-19
+12641,2,8,Final,Midland_University,Minot_State_University,Regular,2024-1-19
+15326,-,-,Postponed,Villanova_University,The_College_of_New_Jersey,Regular,2024-1-19
+13889,6,3,Final,Liberty_University,Syracuse_University,Regular,2024-1-19
+13909,10,2,Final,Ohio_University,University_of_Toledo,Regular,2024-1-19
+13601,5,0,Final,Western_Michigan_University,Roosevelt_University,Regular,2024-1-19
+13222,6,5,Final,Indiana_Tech,Lawrence_Tech,Regular,2024-1-19
+14160,-,-,Postponed,Stony_Brook_University,Drexel_University,Regular,2024-1-19
 14116,-,-,7:30 pm EST,Kent_State_University,Eastern_Michigan_University,Regular,2024-1-19
 14978,-,-,7:30 pm EST,Towson_University,United_States_Naval_Academy,Regular,2024-1-19
-15340,-,-,7:45 pm EST,University_at_Buffalo,Oswego_State_University,Regular,2024-1-19
-12542,-,-,7:00 pm CST,Missouri_State_University,University_of_Colorado,Regular,2024-1-19
+15340,1,3,Final,University_at_Buffalo,Oswego_State_University,Regular,2024-1-19
+12542,0,0,Final,Missouri_State_University,University_of_Colorado,Regular,2024-1-19
 15176,-,-,8:00 pm EST,Aquinas_College,John_Carroll_University,Regular,2024-1-19
-13926,-,-,7:00 pm CST,University_of_Alabama,Indiana_University_of_Pennsylvania,Regular,2024-1-19
-12589,-,-,7:00 pm CST,Waldorf_University,University_of_Jamestown,Regular,2024-1-19
-13820,-,-,8:00 pm EST,George_Mason_University,Duquesne_University,Regular,2024-1-19
-12608,-,-,7:05 pm CST,University_of_Central_Oklahoma,Colorado_State_University,Regular,2024-1-19
-14190,-,-,8:30 pm EST,Cleary_University,University_of_Michigan_Dearborn,Regular,2024-1-19
-15209,-,-,8:35 pm EST,Davenport_University,Grand_Valley_State_University,Regular,2024-1-19
-13386,-,-,8:45 pm EST,Robert_Morris_University,West_Chester_University,Regular,2024-1-19
+13926,2,6,Final,University_of_Alabama,Indiana_University_of_Pennsylvania,Regular,2024-1-19
+12589,0,7,Final,Waldorf_University,University_of_Jamestown,Regular,2024-1-19
+13820,-,-,Postponed,George_Mason_University,Duquesne_University,Regular,2024-1-19
+12608,8,2,Final,University_of_Central_Oklahoma,Colorado_State_University,Regular,2024-1-19
+14190,5,8,Final,Cleary_University,University_of_Michigan_Dearborn,Regular,2024-1-19
+15209,5,6,Final OT,Davenport_University,Grand_Valley_State_University,Regular,2024-1-19
+13386,-,-,Postponed,Robert_Morris_University,West_Chester_University,Regular,2024-1-19
 13489,-,-,8:50 pm EST,Oakland_University,Purdue_University_Northwest,Regular,2024-1-19
-15740,-,-,9:00 pm EST,New_York_University,William_Paterson_University,Regular,2024-1-19
-14160,-,-,9:00 pm EST,Stony_Brook_University,Drexel_University,Regular,2024-1-19
-12670,-,-,8:00 pm CST,Maryville_University,University_of_Arizona,Regular,2024-1-19
-13787,-,-,7:30 pm MST,University_of_Utah,Grand_Canyon_University,Regular,2024-1-19
-16979,-,-,10:00 pm EST,Canisius_University,West_Virginia_University,Regular,2024-1-19
-12626,-,-,7:30 pm PST,University_of_Nevada_Las_Vegas,Arizona_State_University,Regular,2024-1-19
+15740,5,3,Final,New_York_University,William_Paterson_University,Regular,2024-1-19
+12670,2,1,Final,Maryville_University,University_of_Arizona,Regular,2024-1-19
+13787,7,2,Final,University_of_Utah,Grand_Canyon_University,Regular,2024-1-19
+16979,-,-,Postponed,Canisius_University,West_Virginia_University,Regular,2024-1-19
+12626,10,2,Final,University_of_Nevada_Las_Vegas,Arizona_State_University,Regular,2024-1-19
 13821,-,-,2:10 pm EST,George_Mason_University,Duquesne_University,Regular,2024-1-20
 14130,-,-,3:00 pm EST,University_of_Michigan_Dearborn,Cleary_University,Regular,2024-1-20
 13927,-,-,2:00 pm CST,University_of_Alabama,Indiana_University_of_Pennsylvania,Regular,2024-1-20
 12590,-,-,2:00 pm CST,Waldorf_University,University_of_Jamestown,Regular,2024-1-20
 14342,-,-,Postponed,University_of_Pittsburgh,Niagara_University,Regular,2024-1-20
 15771,-,-,2:30 pm CST,Iowa_State_University,McKendree_University,Regular,2024-1-20
-13387,-,-,4:00 pm EST,Robert_Morris_University,West_Chester_University,Regular,2024-1-20
+13387,-,-,Postponed,Robert_Morris_University,West_Chester_University,Regular,2024-1-20
 15142,-,-,5:00 pm EST,Eastern_Michigan_University,Kent_State_University,Regular,2024-1-20
 13301,-,-,5:15 pm EST,Drexel_University,Stony_Brook_University,Regular,2024-1-20
 17087,-,-,5:30 pm EST,University_of_Delaware,University_of_Rhode_Island,Regular,2024-1-20
@@ -807,7 +807,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12671,-,-,7:30 pm CST,Maryville_University,University_of_Arizona,Regular,2024-1-20
 12642,-,-,7:30 pm CST,Midland_University,Minot_State_University,Regular,2024-1-20
 13641,-,-,7:30 pm CST,Roosevelt_University,Western_Michigan_University,Regular,2024-1-20
-16980,-,-,8:45 pm EST,Canisius_University,West_Virginia_University,Regular,2024-1-20
+16980,-,-,Postponed,Canisius_University,West_Virginia_University,Regular,2024-1-20
 14543,-,-,9:00 pm EST,William_Paterson_University,New_York_University,Regular,2024-1-20
 13788,-,-,7:30 pm MST,University_of_Utah,Grand_Canyon_University,Regular,2024-1-20
 12627,-,-,7:30 pm PST,University_of_Nevada_Las_Vegas,Arizona_State_University,Regular,2024-1-20

@@ -231,14 +231,14 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12721,5,3,Final,Maryville_University,University_of_Massachusetts_Amherst,Regular,2024-1-14
 14915,8,1,Final,University_of_Michigan,University_of_Rhode_Island,Regular,2024-1-14
 16523,5,5,Final OT,Lindenwood_University,Arizona_State_University,Regular,2024-1-15
-12722,-,-,2:00 pm CST,Maryville_University,Lindenwood_University,Regular,2024-1-19
-14673,-,-,1:30 pm MST,University_of_Utah,Montana_State_University,Regular,2024-1-19
-12796,-,-,4:00 pm EST,Indiana_Tech,University_of_Massachusetts_Amherst,Regular,2024-1-19
-12734,-,-,6:00 pm EST,Concordia_University_Ann_Arbor,Lake_Superior_State_University,Regular,2024-1-19
+12722,2,3,Final,Maryville_University,Lindenwood_University,Regular,2024-1-19
+14673,6,0,Final,University_of_Utah,Montana_State_University,Regular,2024-1-19
+12796,5,0,Final,Indiana_Tech,University_of_Massachusetts_Amherst,Regular,2024-1-19
+12734,2,1,00:00 3rd,Concordia_University_Ann_Arbor,Lake_Superior_State_University,Regular,2024-1-19
 17053,-,-,6:35 pm EST,Michigan_State_University,Aquinas_College,Regular,2024-1-19
 14655,-,-,7:00 pm EST,University_of_Michigan_Dearborn,University_of_Michigan,Regular,2024-1-19
 14687,-,-,8:30 pm EST,Davenport_University,Grand_Valley_State_University,Regular,2024-1-19
-12757,-,-,7:30 pm CST,Minot_State_University,Midland_University,Regular,2024-1-19
+12757,2,4,Final,Minot_State_University,Midland_University,Regular,2024-1-19
 15058,-,-,9:15 pm EST,Penn_State_University,Miami_University,Regular,2024-1-19
 15077,-,-,9:35 pm MST,Arizona_State_University,University_of_Denver,Regular,2024-1-19
 15059,-,-,8:30 am EST,Penn_State_University,Miami_University,Regular,2024-1-20
