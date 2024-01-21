@@ -354,14 +354,14 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18121,4,1,Final,Dakota_College_at_Bottineau,Lawrence_Technological_University,Regular,2024-1-19
 14372,4,5,Final,University_of_Pittsburgh,Robert_Morris_University,Regular,2024-1-19
 17741,-,-,9:05 pm CST,Aurora_University,Central_Michigan_University,Regular,2024-1-19
-16828,-,-,9:30 am EST,Sault_College,Dakota_College_at_Bottineau,Regular,2024-1-20
-17307,-,-,12:00 pm CST,Assiniboine_Community_College,Lawrence_Technological_University,Regular,2024-1-20
+16828,5,0,Final,Sault_College,Dakota_College_at_Bottineau,Regular,2024-1-20
+17307,6,0,Final,Assiniboine_Community_College,Lawrence_Technological_University,Regular,2024-1-20
 14220,-,-,3:55 pm EST,West_Virginia_University_,Robert_Morris_University,Regular,2024-1-20
-14362,-,-,4:00 pm EST,Liberty_University,United_States_Naval_Academy,Regular,2024-1-20
+14362,1,2,Final,Liberty_University,United_States_Naval_Academy,Regular,2024-1-20
 17742,-,-,4:25 pm CST,Aurora_University,Central_Michigan_University,Regular,2024-1-20
 17933,-,-,6:40 pm EST,Assumption_University,Merrimack_College,Regular,2024-1-20
-16829,-,-,8:30 pm EST,Sault_College,Assiniboine_Community_College,Regular,2024-1-20
-15463,-,-,9:00 pm EST,Northern_Michigan_University,Bowling_Green_State_University,Regular,2024-1-20
+16829,1,4,Final,Sault_College,Assiniboine_Community_College,Regular,2024-1-20
+15463,6,2,Final,Northern_Michigan_University,Bowling_Green_State_University,Regular,2024-1-20
 16010,-,-,11:00 am EST,University_of_Vermont,Providence_College,Regular,2024-1-21
 14363,-,-,1:00 pm EST,Liberty_University,United_States_Naval_Academy,Regular,2024-1-21
 15464,-,-,1:30 pm EST,Northern_Michigan_University,Bowling_Green_State_University,Regular,2024-1-21
@@ -453,17 +453,17 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17934,-,-,7:00 pm EST,Assumption_University,Boston_University,Regular,2024-2-4
 14364,-,-,4:00 pm EST,Liberty_University,Lawrence_Technological_University,Regular,2024-2-9
 16832,-,-,7:00 pm EST,Sault_College,Michigan_State_University,Regular,2024-2-9
-15718,-,-,7:00 pm CST,North_Dakota_State_University,Lake_Region_State_College,Regular,2024-2-9
 16203,-,-,8:25 pm EST,Robert_Morris_University,Niagara_University,Regular,2024-2-9
 14211,-,-,8:30 pm EST,The_Ohio_State_University,Mercyhurst_University,Regular,2024-2-9
+15718,-,-,8:30 pm CST,North_Dakota_State_University,Lake_Region_State_College,Regular,2024-2-9
 13134,-,-,10:00 pm EST,University_of_Delaware,University_of_Pittsburgh,Regular,2024-2-9
 16701,-,-,10:10 pm CST,Loyola_University_Chicago,Northern_Michigan_University,Regular,2024-2-9
 16399,-,-,1:00 am CST,University_of_Saint_Thomas,University_of_Wisconsin,Regular,2024-2-10
-15719,-,-,1:00 am CST,North_Dakota_State_University,Lake_Region_State_College,Regular,2024-2-10
 16236,-,-,11:00 am EST,United_States_Naval_Academy,University_of_Maryland,Regular,2024-2-10
 16012,-,-,11:30 am EST,University_of_Vermont,Bentley_University,Regular,2024-2-10
 16833,-,-,12:00 pm EST,Sault_College,Michigan_State_University,Regular,2024-2-10
 14365,-,-,1:00 pm EST,Liberty_University,Lawrence_Technological_University,Regular,2024-2-10
+15719,-,-,12:30 pm CST,North_Dakota_State_University,Lake_Region_State_College,Regular,2024-2-10
 14212,-,-,2:00 pm EST,The_Ohio_State_University,Mercyhurst_University,Regular,2024-2-10
 13135,-,-,3:15 pm EST,University_of_Delaware,University_of_Pittsburgh,Regular,2024-2-10
 16204,-,-,3:40 pm EST,Robert_Morris_University,Niagara_University,Regular,2024-2-10

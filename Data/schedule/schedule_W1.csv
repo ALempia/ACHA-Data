@@ -236,22 +236,22 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12796,5,0,Final,Indiana_Tech,University_of_Massachusetts_Amherst,Regular,2024-1-19
 12734,2,1,00:00 3rd,Concordia_University_Ann_Arbor,Lake_Superior_State_University,Regular,2024-1-19
 17053,-,-,6:35 pm EST,Michigan_State_University,Aquinas_College,Regular,2024-1-19
-14655,-,-,7:00 pm EST,University_of_Michigan_Dearborn,University_of_Michigan,Regular,2024-1-19
-14687,-,-,8:30 pm EST,Davenport_University,Grand_Valley_State_University,Regular,2024-1-19
+14655,1,3,Final,University_of_Michigan_Dearborn,University_of_Michigan,Regular,2024-1-19
+14687,4,12,Final,Davenport_University,Grand_Valley_State_University,Regular,2024-1-19
 12757,2,4,Final,Minot_State_University,Midland_University,Regular,2024-1-19
-15058,-,-,9:15 pm EST,Penn_State_University,Miami_University,Regular,2024-1-19
-15077,-,-,9:35 pm MST,Arizona_State_University,University_of_Denver,Regular,2024-1-19
-15059,-,-,8:30 am EST,Penn_State_University,Miami_University,Regular,2024-1-20
-15098,-,-,1:00 pm CST,University_of_Minnesota,University_of_Colorado,Regular,2024-1-20
-12797,-,-,2:00 pm EST,Indiana_Tech,University_of_Massachusetts_Amherst,Regular,2024-1-20
-12723,-,-,1:30 pm CST,Maryville_University,Lindenwood_University,Regular,2024-1-20
-12735,-,-,3:30 pm EST,Concordia_University_Ann_Arbor,Lake_Superior_State_University,Regular,2024-1-20
-14674,-,-,1:30 pm MST,University_of_Utah,Montana_State_University,Regular,2024-1-20
+15058,2,5,Final,Penn_State_University,Miami_University,Regular,2024-1-19
+15077,10,1,Final,Arizona_State_University,University_of_Denver,Regular,2024-1-19
+15059,0,6,Final,Penn_State_University,Miami_University,Regular,2024-1-20
+15098,4,1,Final,University_of_Minnesota,University_of_Colorado,Regular,2024-1-20
+12797,3,0,Final,Indiana_Tech,University_of_Massachusetts_Amherst,Regular,2024-1-20
+12723,6,1,Final,Maryville_University,Lindenwood_University,Regular,2024-1-20
+12735,3,4,Final OT,Concordia_University_Ann_Arbor,Lake_Superior_State_University,Regular,2024-1-20
+14674,9,2,Final,University_of_Utah,Montana_State_University,Regular,2024-1-20
 14726,-,-,3:35 pm EST,Michigan_State_University,University_of_Michigan,Regular,2024-1-20
-15108,-,-,1:45 pm MST,Grand_Canyon_University,University_of_Denver,Regular,2024-1-20
-14871,-,-,4:30 pm EST,Grand_Valley_State_University,Davenport_University,Regular,2024-1-20
-13545,-,-,7:00 pm EST,Adrian_College,Niagara_University,Regular,2024-1-20
-12758,-,-,7:30 pm CST,Minot_State_University,Midland_University,Regular,2024-1-20
+15108,8,2,Final,Grand_Canyon_University,University_of_Denver,Regular,2024-1-20
+14871,4,2,Final,Grand_Valley_State_University,Davenport_University,Regular,2024-1-20
+13545,9,1,Final,Adrian_College,Niagara_University,Regular,2024-1-20
+12758,2,2,Final OT,Minot_State_University,Midland_University,Regular,2024-1-20
 15078,-,-,9:35 pm MST,Arizona_State_University,University_of_Denver,Regular,2024-1-20
 15099,-,-,11:00 am CST,University_of_Minnesota,University_of_Colorado,Regular,2024-1-21
 14917,-,-,12:30 pm EST,University_of_Michigan,Aquinas_College,Regular,2024-1-21
