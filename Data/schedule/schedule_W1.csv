@@ -252,11 +252,11 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14871,4,2,Final,Grand_Valley_State_University,Davenport_University,Regular,2024-1-20
 13545,9,1,Final,Adrian_College,Niagara_University,Regular,2024-1-20
 12758,2,2,Final OT,Minot_State_University,Midland_University,Regular,2024-1-20
-15078,-,-,9:35 pm MST,Arizona_State_University,University_of_Denver,Regular,2024-1-20
-15099,-,-,11:00 am CST,University_of_Minnesota,University_of_Colorado,Regular,2024-1-21
-14917,-,-,12:30 pm EST,University_of_Michigan,Aquinas_College,Regular,2024-1-21
-15109,-,-,12:30 pm MST,Grand_Canyon_University,University_of_Denver,Regular,2024-1-21
-13546,-,-,4:00 pm EST,Adrian_College,Niagara_University,Regular,2024-1-21
+15078,9,0,Final,Arizona_State_University,University_of_Denver,Regular,2024-1-20
+15099,3,2,Final,University_of_Minnesota,University_of_Colorado,Regular,2024-1-21
+14917,5,0,Final,University_of_Michigan,Aquinas_College,Regular,2024-1-21
+15109,5,3,Final,Grand_Canyon_University,University_of_Denver,Regular,2024-1-21
+13546,4,3,Final,Adrian_College,Niagara_University,Regular,2024-1-21
 13562,-,-,2:30 pm CST,McKendree_University,Liberty_University,Regular,2024-1-25
 13011,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Adrian_College,Regular,2024-1-25
 12724,-,-,8:15 pm CST,Maryville_University,Minot_State_University,Regular,2024-1-25
