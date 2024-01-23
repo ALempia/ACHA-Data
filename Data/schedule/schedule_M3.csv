@@ -155,7 +155,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13953,1,2,Final,University_of_Michigan_Flint,Davenport_University,Regular,2023-10-13
 14734,2,5,Final,Oakland_University,Grand_Valley_State_University,Regular,2023-10-13
 17619,-,-,8:00 pm CDT,Marian_University,Northwestern_University,Regular,2023-10-13
-16593,-,-,9:30 pm EDT,University_of_Cincinnati,Indiana_University,Regular,2023-10-13
+16593,0,1,Unofficial Final,University_of_Cincinnati,Indiana_University,Regular,2023-10-13
 15796,1,4,Final,Case_Western_Reserve_University,Indiana_University_of_Pennsylvania,Regular,2023-10-13
 14879,8,5,Final,Miami_University,Purdue_University,Regular,2023-10-13
 17175,3,5,Final,SUNY_Maritime_College,Stevens_Institute_of_Technology,Regular,2023-10-13
@@ -220,8 +220,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17631,2,9,Final,University_of_New_England,Central_Maine_Community_College,Regular,2023-10-21
 12973,9,6,Final,Olivet_Nazarene_University,Drake_University,Regular,2023-10-21
 13149,1,5,Final,Northern_Illinois_University,Illinois_State_University,Regular,2023-10-21
-16459,-,-,7:10 pm AT,Wentworth_Institute_of_Technology,United_States_Coast_Guard_Academy,Regular,2023-10-21
 16213,1,3,Final,Tufts_University,University_of_Massachusetts,Regular,2023-10-21
+16459,-,-,7:10 pm EDT,Wentworth_Institute_of_Technology,United_States_Coast_Guard_Academy,Regular,2023-10-21
 15960,2,3,Final OT,Ferris_State_University,PennWest_California,Regular,2023-10-21
 15377,4,5,Final OT,University_of_Pittsburgh_Johnstown,University_of_Akron,Regular,2023-10-21
 12908,2,8,Final,Colorado_Mesa_University,Colorado_School_of_Mines,Regular,2023-10-21
@@ -342,9 +342,9 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15514,5,4,Final,University_of_Missouri,University_of_Arkansas,Regular,2023-11-4
 14562,11,3,Final,Indiana_University_of_Pennsylvania,Case_Western_Reserve_University,Regular,2023-11-4
 12911,6,0,Final,Colorado_Mesa_University,Northern_Arizona_University,Regular,2023-11-4
-16461,-,-,7:10 pm AT,Wentworth_Institute_of_Technology,Harvard_University,Regular,2023-11-4
 16214,4,3,Final,Tufts_University,Curry_College,Regular,2023-11-4
 17446,4,5,Final,Saint_Joseph_College_of_Maine,Thomas_College,Regular,2023-11-4
+16461,-,-,7:10 pm EDT,Wentworth_Institute_of_Technology,Harvard_University,Regular,2023-11-4
 14843,1,2,Final,Worcester_Polytechnic_Institute,United_States_Coast_Guard_Academy,Regular,2023-11-4
 12990,3,2,Final OT,Hope_College,Oakland_University,Regular,2023-11-4
 16469,8,5,Final,Rowan_University,Loyola_University_Maryland,Regular,2023-11-4
@@ -476,10 +476,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15518,7,1,Final,University_of_Missouri,Washington_University_of_Saint_Louis,Regular,2023-11-18
 14814,4,2,Final,Lawrence_Tech,Purdue_University,Regular,2023-11-18
 16362,2,11,Final,University_of_Southern_Maine,University_of_New_England,Regular,2023-11-18
-16463,-,-,7:10 pm AST,Wentworth_Institute_of_Technology,Springfield_College,Regular,2023-11-18
 13502,3,2,Final SO,Trine_University,Kent_State_University,Regular,2023-11-18
 16354,10,1,Final,Central_Michigan_University,Adrian_College,Regular,2023-11-18
 12980,3,1,Final,Olivet_Nazarene_University,Illinois_State_University,Regular,2023-11-18
+16463,-,-,7:10 pm EST,Wentworth_Institute_of_Technology,Springfield_College,Regular,2023-11-18
 16152,2,1,Final,Sacred_Heart_University,Stevens_Institute_of_Technology,Regular,2023-11-18
 12992,2,3,Final,Hope_College,Calvin_University,Regular,2023-11-18
 17447,3,12,Final,Saint_Joseph_College_of_Maine,Colby_College,Regular,2023-11-18
@@ -583,7 +583,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16323,6,1,Final,Grand_Valley_State_University,Central_Michigan_University,Regular,2023-12-8
 14467,6,3,Final,Kent_State_University,University_of_Pittsburgh_Johnstown,Regular,2023-12-8
 14564,11,1,Final,Indiana_University_of_Pennsylvania,West_Chester_University,Regular,2023-12-8
-14440,-,-,8:30 pm EST,Davenport_University,Northwood_University,Regular,2023-12-8
+14440,1,11,Final,Davenport_University,Northwood_University,Regular,2023-12-8
 12893,-,-,Postponed,Drake_University,University_of_Nebraska,Regular,2023-12-8
 13701,-,-,Postponed,University_of_Arkansas,Saginaw_Valley_State_University,Regular,2023-12-8
 14744,5,1,Final,Oakland_University,University_of_Michigan_Flint,Regular,2023-12-8
@@ -635,7 +635,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13504,-,-,9:15 pm EST,Trine_University,Purdue_University,Regular,2024-1-12
 15965,-,-,Postponed,Ferris_State_University,Michigan_State_University,Regular,2024-1-12
 17613,8,1,Final,Colorado_School_of_Mines,Northern_Arizona_University,Regular,2024-1-12
-16503,-,-,9:00 pm MST,Grand_Canyon_University,Dallas_Baptist_University,Regular,2024-1-12
+16503,2,7,Final,Grand_Canyon_University,Dallas_Baptist_University,Regular,2024-1-12
 12922,1,2,Final,University_of_New_Mexico,Arizona_State_University,Regular,2024-1-12
 15837,2,5,Final,Indiana_University,Miami_University,Regular,2024-1-13
 12923,0,3,Final,University_of_New_Mexico,Missouri_State_University,Regular,2024-1-13
@@ -655,7 +655,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15643,3,4,Final OT,Saginaw_Valley_State_University,Oakland_University,Regular,2024-1-13
 15610,-,-,9:45 pm EST,West_Virginia_University,Indiana_University_of_Pennsylvania,Regular,2024-1-13
 17614,6,0,Final,Colorado_School_of_Mines,Northern_Arizona_University,Regular,2024-1-13
-16504,-,-,9:00 pm MST,Grand_Canyon_University,Dallas_Baptist_University,Regular,2024-1-13
+16504,2,9,Final,Grand_Canyon_University,Dallas_Baptist_University,Regular,2024-1-13
 16604,4,5,Final,Michigan_State_University,Central_Maine_Community_College,Regular,2024-1-14
 18125,5,2,Final,United_States_Air_Force_Academy,Arizona_State_University,Regular,2024-1-14
 16907,-,-,12:40 pm EST,PennWest_California,Saint_Vincent_College,Regular,2024-1-14
@@ -667,7 +667,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12995,14,1,Final,Hope_College,Davenport_University,Regular,2024-1-16
 15966,4,2,Final,Ferris_State_University,University_of_Michigan_Flint,Regular,2024-1-17
 17569,-,-,7:00 pm EST,Yale_University,Merchant_Marine_Academy,Regular,2024-1-18
-16804,-,-,6:00 pm EST,Bates_College,University_of_New_England,Regular,2024-1-19
+16804,3,2,Final SO,Bates_College,University_of_New_England,Regular,2024-1-19
 17625,-,-,5:00 pm CST,Marian_University,Illinois_State_University,Regular,2024-1-19
 16561,7,0,Final,Florida_Gulf_Coast_University,University_of_Notre_Dame,Regular,2024-1-19
 14885,-,-,7:00 pm EST,Miami_University,University_of_Pittsburgh_Johnstown,Regular,2024-1-19
@@ -679,7 +679,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13962,3,2,Final,University_of_Michigan_Flint,Adrian_College,Regular,2024-1-19
 16455,6,4,Final,Butler_University,University_of_Cincinnati,Regular,2024-1-19
 16505,0,8,Final,Grand_Canyon_University,Northern_Arizona_University,Regular,2024-1-19
-13702,-,-,7:30 pm CST,University_of_Arkansas,University_of_Missouri,Regular,2024-1-19
+13702,4,6,Final,University_of_Arkansas,University_of_Missouri,Regular,2024-1-19
 14746,5,1,Final,Oakland_University,Central_Michigan_University,Regular,2024-1-19
 17062,-,-,8:30 pm EST,University_of_Michigan,Saginaw_Valley_State_University,Regular,2024-1-19
 13152,2,5,Final,Northern_Illinois_University,Olivet_Nazarene_University,Regular,2024-1-19
@@ -693,13 +693,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15838,-,-,10:10 pm EST,Indiana_University,University_of_New_Mexico,Regular,2024-1-19
 13758,5,1,Final,Dallas_Baptist_University,Texas_Tech_University,Regular,2024-1-19
 14886,-,-,1:00 am EST,Miami_University,Indiana_University_of_Pennsylvania,Regular,2024-1-20
-17923,-,-,12:30 pm EST,University_of_Pittsburgh_Johnstown,Purdue_University,Regular,2024-1-20
+17923,1,9,Final,University_of_Pittsburgh_Johnstown,Purdue_University,Regular,2024-1-20
 14408,4,6,Final,Northwestern_University,Indiana_University,Regular,2024-1-20
 16356,2,1,Final,Central_Michigan_University,Oakland_University,Regular,2024-1-20
-13703,-,-,3:15 pm CST,University_of_Arkansas,University_of_Missouri,Regular,2024-1-20
+13703,8,5,Final,University_of_Arkansas,University_of_Missouri,Regular,2024-1-20
 16626,7,2,Final,University_of_Connecticut,Western_Connecticut_State_University,Regular,2024-1-20
-14818,-,-,5:00 pm EST,Lawrence_Tech,Trine_University,Regular,2024-1-20
-16154,-,-,5:30 pm EST,Sacred_Heart_University,Merchant_Marine_Academy,Regular,2024-1-20
+14818,6,0,Final,Lawrence_Tech,Trine_University,Regular,2024-1-20
+16154,5,2,Final,Sacred_Heart_University,Merchant_Marine_Academy,Regular,2024-1-20
 14443,-,-,6:00 pm EST,Davenport_University,Ferris_State_University,Regular,2024-1-20
 17626,-,-,5:00 pm CST,Marian_University,Illinois_State_University,Regular,2024-1-20
 16562,8,1,Final,Florida_Gulf_Coast_University,University_of_Notre_Dame,Regular,2024-1-20
@@ -712,19 +712,19 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13399,-,-,8:20 pm EST,Robert_Morris_University,University_of_Akron,Regular,2024-1-20
 16406,-,-,8:30 pm EST,United_States_Naval_Academy,Catholic_University,Regular,2024-1-20
 16941,4,3,Final,United_States_Air_Force_Academy,United_States_Coast_Guard_Academy,Regular,2024-1-20
-14704,-,-,9:20 pm EST,Duquesne_University,West_Virginia_University,Regular,2024-1-20
-15644,3,6,00:03 3rd,Saginaw_Valley_State_University,University_of_Michigan,Regular,2024-1-20
+14704,8,6,Final,Duquesne_University,West_Virginia_University,Regular,2024-1-20
+15644,3,6,Final,Saginaw_Valley_State_University,University_of_Michigan,Regular,2024-1-20
 17617,11,2,Final,Colorado_School_of_Mines,Western_Colorado_University,Regular,2024-1-20
 13769,3,2,Final,Northern_Arizona_University,Grand_Canyon_University,Regular,2024-1-20
 13759,8,2,Final,Dallas_Baptist_University,Texas_Tech_University,Regular,2024-1-20
-12959,-,-,10:00 pm CST,University_of_Nebraska_at_Omaha,Dordt_University,Regular,2024-1-20
+12959,1,9,Final,University_of_Nebraska_at_Omaha,Dordt_University,Regular,2024-1-20
 14887,-,-,1:00 am EST,Miami_University,Kent_State_University,Regular,2024-1-21
-18126,-,-,11:00 am EST,Purdue_University,Indiana_University_of_Pennsylvania,Regular,2024-1-21
+18126,6,4,Final,Purdue_University,Indiana_University_of_Pennsylvania,Regular,2024-1-21
 14730,-,-,10:45 am CST,University_of_New_Mexico,Northwestern_University,Regular,2024-1-21
 14898,13,3,Final,Dartmouth_College,University_of_New_England,Regular,2024-1-21
 16327,5,1,Final,Grand_Valley_State_University,University_of_Nebraska,Regular,2024-1-21
-14817,-,-,12:25 pm EST,Lawrence_Tech,University_of_Michigan,Regular,2024-1-21
-16805,-,-,1:00 pm EST,Bates_College,Colby_Sawyer_College,Regular,2024-1-21
+14817,5,1,Final,Lawrence_Tech,University_of_Michigan,Regular,2024-1-21
+16805,11,0,Final,Bates_College,Colby_Sawyer_College,Regular,2024-1-21
 13478,3,4,Final OT,Adrian_College,University_of_Michigan_Flint,Regular,2024-1-21
 16744,-,-,2:30 pm EST,Saint_Vincent_College,PennWest_California,Regular,2024-1-21
 16801,-,-,3:30 pm EST,Central_Maine_Community_College,Wentworth_Institute_of_Technology,Regular,2024-1-21
@@ -732,7 +732,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14847,4,1,Final,Worcester_Polytechnic_Institute,University_of_Connecticut,Regular,2024-1-21
 17770,-,-,5:30 pm EST,York_College_of_Pennsylvania,Saint_Thomas_Aquinas_College,Regular,2024-1-21
 17443,-,-,6:00 pm EST,Stevenson_University,United_States_Naval_Academy,Regular,2024-1-21
-12956,-,-,8:00 pm CST,University_of_Nebraska_at_Omaha,Creighton_University,Regular,2024-1-21
+12956,4,2,Final,University_of_Nebraska_at_Omaha,Creighton_University,Regular,2024-1-21
 12698,-,-,8:00 pm CST,Maryville_University,Washington_University_of_Saint_Louis,Regular,2024-1-25
 15384,-,-,5:30 pm EST,University_of_Pittsburgh_Johnstown,Loyola_University_Maryland,Regular,2024-1-26
 16563,-,-,6:00 pm EST,Florida_Gulf_Coast_University,Miami_University,Regular,2024-1-26
