@@ -406,7 +406,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16917,-,-,1:30 pm EST,Harvard_University,Bentley_University,Regular,2024-1-28
 18111,-,-,3:00 pm AST,Northeastern_University,College_of_the_Holy_Cross,Regular,2024-1-28
 15974,-,-,3:00 pm EST,Oswego_State_University,University_of_Pittsburgh,Regular,2024-1-28
-17378,-,-,3:00 pm EST,Loyola_University_Maryland,University_of_Pennsylvania,Regular,2024-1-28
+17378,0,1,Home Forfeit,Loyola_University_Maryland,University_of_Pennsylvania,Regular,2024-1-28
 17473,-,-,3:40 pm EST,Rochester_Institute_Of_Technology,Mercyhurst_University,Regular,2024-1-28
 16418,-,-,4:00 pm EST,Boston_College,University_Of_Connecticut,Regular,2024-1-28
 16070,-,-,4:30 pm EST,University_of_Maryland,United_States_Naval_Academy,Regular,2024-1-28

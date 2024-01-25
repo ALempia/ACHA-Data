@@ -352,7 +352,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16927,6,5,Final SO,West_Chester_University,Stevenson_University,Regular,2023-11-4
 15961,0,10,Final,Ferris_State_University,Lawrence_Tech,Regular,2023-11-4
 14438,0,10,Final,Davenport_University,Grand_Valley_State_University,Regular,2023-11-4
-16280,-,-,Postponed,New_Jersey_Institute_of_Technology,Yale_University,Regular,2023-11-4
+16280,1,0,Visiting Forfeit,New_Jersey_Institute_of_Technology,Yale_University,Regular,2023-11-4
 16404,5,1,Final,United_States_Naval_Academy,George_Mason_University,Regular,2023-11-4
 16552,8,2,Final,Florida_Gulf_Coast_University,Indiana_University,Regular,2023-11-4
 14701,2,6,Final,Duquesne_University,University_of_Pittsburgh_Johnstown,Regular,2023-11-4
@@ -633,7 +633,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17861,1,0,Final,United_States_Air_Force_Academy,Missouri_State_University,Regular,2024-1-12
 16965,-,-,9:10 pm EST,University_of_Akron,Robert_Morris_University,Regular,2024-1-12
 13504,-,-,9:15 pm EST,Trine_University,Purdue_University,Regular,2024-1-12
-15965,-,-,Postponed,Ferris_State_University,Michigan_State_University,Regular,2024-1-12
+15965,1,4,Final,Ferris_State_University,Michigan_State_University,Regular,2024-1-12
 17613,8,1,Final,Colorado_School_of_Mines,Northern_Arizona_University,Regular,2024-1-12
 16503,2,7,Final,Grand_Canyon_University,Dallas_Baptist_University,Regular,2024-1-12
 12922,1,2,Final,University_of_New_Mexico,Arizona_State_University,Regular,2024-1-12
@@ -720,7 +720,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12959,1,9,Final,University_of_Nebraska_at_Omaha,Dordt_University,Regular,2024-1-20
 14887,6,2,Final,Miami_University,Kent_State_University,Regular,2024-1-21
 18126,6,4,Final,Purdue_University,Indiana_University_of_Pennsylvania,Regular,2024-1-21
-14730,-,-,10:45 am CST,University_of_New_Mexico,Northwestern_University,Regular,2024-1-21
+14730,7,3,Final,University_of_New_Mexico,Northwestern_University,Regular,2024-1-21
 14898,13,3,Final,Dartmouth_College,University_of_New_England,Regular,2024-1-21
 16327,5,1,Final,Grand_Valley_State_University,University_of_Nebraska,Regular,2024-1-21
 14817,5,1,Final,Lawrence_Tech,University_of_Michigan,Regular,2024-1-21
