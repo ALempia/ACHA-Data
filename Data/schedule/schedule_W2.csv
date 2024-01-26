@@ -432,7 +432,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16261,-,-,6:30 pm EST,Villanova_University,Georgetown_University,Regular,2024-2-3
 14794,-,-,7:00 pm EST,Niagara_University,Mercyhurst_University,Regular,2024-2-3
 17303,-,-,8:00 pm EST,Saint_Anselm_College,Assumption_University,Regular,2024-2-3
-17474,-,-,8:10 pm EST,Rochester_Institute_Of_Technology,SUNY_Cortland,Regular,2024-2-3
+17474,1,0,Visiting Forfeit,Rochester_Institute_Of_Technology,SUNY_Cortland,Regular,2024-2-3
 14210,-,-,8:15 pm EST,The_Ohio_State_University,Brockport_State_University,Regular,2024-2-3
 16135,-,-,7:30 pm CST,University_of_Wisconsin_Eau_Claire,North_Dakota_State_University,Regular,2024-2-3
 14221,-,-,9:25 pm EST,West_Virginia_University_,University_at_Buffalo,Regular,2024-2-3
@@ -515,7 +515,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16445,-,-,4:15 pm CST,Iowa_State_University,University_of_Wisconsin_LaCrosse,Regular,2024-2-17
 16984,-,-,4:30 pm CST,Maryville_University,Bowling_Green_State_University,Regular,2024-2-17
 12840,-,-,7:00 pm EST,Central_Michigan_University,Loyola_University_Chicago,Regular,2024-2-17
-14204,-,-,7:10 pm EST,University_of_Pennsylvania,SUNY_Cortland,Regular,2024-2-17
+14204,1,0,Visiting Forfeit,University_of_Pennsylvania,SUNY_Cortland,Regular,2024-2-17
 17475,-,-,8:10 pm EST,Rochester_Institute_Of_Technology,University_at_Buffalo,Regular,2024-2-17
 17305,-,-,8:30 pm EST,Saint_Anselm_College,University_of_Vermont,Regular,2024-2-17
 16137,-,-,7:30 pm CST,University_of_Wisconsin_Eau_Claire,University_of_Saint_Thomas,Regular,2024-2-17
