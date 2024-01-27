@@ -622,7 +622,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13960,4,7,Final,University_of_Michigan_Flint,Lawrence_Tech,Regular,2024-1-5
 14816,5,1,Final,Lawrence_Tech,University_of_Michigan_Flint,Regular,2024-1-6
 16558,8,2,Final,Florida_Gulf_Coast_University,University_of_Akron,Regular,2024-1-6
-14441,-,-,9:00 pm EST,Davenport_University,Central_Maine_Community_College,Regular,2024-1-10
+14441,2,9,Final,Davenport_University,Central_Maine_Community_College,Regular,2024-1-10
 15836,8,9,Final OT,Indiana_University,Miami_University,Regular,2024-1-12
 12695,0,2,Final,Maryville_University,Grand_Valley_State_University,Regular,2024-1-12
 16559,12,1,Final,Florida_Gulf_Coast_University,Northwestern_University,Regular,2024-1-12
@@ -668,7 +668,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15966,4,2,Final,Ferris_State_University,University_of_Michigan_Flint,Regular,2024-1-17
 17569,-,-,7:00 pm EST,Yale_University,Merchant_Marine_Academy,Regular,2024-1-18
 16804,3,2,Final SO,Bates_College,University_of_New_England,Regular,2024-1-19
-17625,-,-,5:00 pm CST,Marian_University,Illinois_State_University,Regular,2024-1-19
+17625,0,4,Final,Marian_University,Illinois_State_University,Regular,2024-1-19
 16561,7,0,Final,Florida_Gulf_Coast_University,University_of_Notre_Dame,Regular,2024-1-19
 14885,3,5,Final,Miami_University,University_of_Pittsburgh_Johnstown,Regular,2024-1-19
 16571,-,-,7:10 pm EST,George_Mason_University,York_College_of_Pennsylvania,Regular,2024-1-19
@@ -736,18 +736,18 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12698,-,-,8:00 pm CST,Maryville_University,Washington_University_of_Saint_Louis,Regular,2024-1-25
 18155,-,-,5:15 pm EST,University_of_Pittsburgh_Johnstown,Davenport_University,Regular,2024-1-26
 15384,-,-,5:30 pm EST,University_of_Pittsburgh_Johnstown,Loyola_University_Maryland,Regular,2024-1-26
-16563,-,-,6:00 pm EST,Florida_Gulf_Coast_University,Miami_University,Regular,2024-1-26
+16563,5,4,00:00 3rd,Florida_Gulf_Coast_University,Miami_University,Regular,2024-1-26
 16806,-,-,7:00 pm EST,Bates_College,Curry_College,Regular,2024-1-26
 16357,-,-,7:00 pm EST,Central_Michigan_University,Illinois_State_University,Regular,2024-1-26
-12998,-,-,7:30 pm EST,Hope_College,Grand_Valley_State_University,Regular,2024-1-26
+12998,1,0,Final OT,Hope_College,Grand_Valley_State_University,Regular,2024-1-26
 13941,-,-,7:45 pm EST,Northwood_University,Saginaw_Valley_State_University,Regular,2024-1-26
 18156,-,-,7:55 pm EST,Indiana_University_of_Pennsylvania,Loyola_University_Maryland,Regular,2024-1-26
 16296,-,-,8:00 pm EST,University_of_Notre_Dame,Trine_University,Regular,2024-1-26
-12561,-,-,7:00 pm CST,Missouri_State_University,University_of_Arkansas,Regular,2024-1-26
+12561,6,3,Final,Missouri_State_University,University_of_Arkansas,Regular,2024-1-26
 14997,-,-,7:00 pm CST,University_of_Nebraska,University_of_Kansas,Regular,2024-1-26
 15522,-,-,7:15 pm CST,University_of_Missouri,Dallas_Baptist_University,Regular,2024-1-26
 16456,-,-,8:20 pm EST,Butler_University,Indiana_University,Regular,2024-1-26
-14848,-,-,8:30 pm EST,Worcester_Polytechnic_Institute,University_of_Massachusetts,Regular,2024-1-26
+14848,5,1,Final,Worcester_Polytechnic_Institute,University_of_Massachusetts,Regular,2024-1-26
 16285,-,-,8:30 pm EST,New_Jersey_Institute_of_Technology,Stevens_Institute_of_Technology,Regular,2024-1-26
 12912,-,-,7:00 pm MST,Colorado_Mesa_University,Western_Colorado_University,Regular,2024-1-26
 17063,-,-,9:00 pm EST,University_of_Michigan,University_of_Michigan_Flint,Regular,2024-1-26
@@ -756,9 +756,9 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15611,-,-,9:45 pm EST,West_Virginia_University,Ferris_State_University,Regular,2024-1-26
 12925,-,-,8:00 pm MST,University_of_New_Mexico,Colorado_School_of_Mines,Regular,2024-1-26
 15130,-,-,10:15 pm EST,Catholic_University,United_States_Naval_Academy,Regular,2024-1-26
-13077,-,-,9:30 pm CST,Creighton_University,Dordt_University,Regular,2024-1-26
+13077,3,10,00:00 3rd,Creighton_University,Dordt_University,Regular,2024-1-26
 18138,-,-,9:45 pm CST,Olivet_Nazarene_University,Marian_University,Regular,2024-1-26
-13437,-,-,9:00 pm MST,Arizona_State_University,Northern_Arizona_University,Regular,2024-1-26
+13437,8,0,Final,Arizona_State_University,Northern_Arizona_University,Regular,2024-1-26
 18157,-,-,11:45 am EST,PennWest_California,Davenport_University,Regular,2024-1-27
 16358,-,-,12:00 pm EST,Central_Michigan_University,Illinois_State_University,Regular,2024-1-27
 13078,-,-,12:00 pm CST,Creighton_University,Dordt_University,Regular,2024-1-27

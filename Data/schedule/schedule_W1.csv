@@ -259,17 +259,17 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13546,4,3,Final,Adrian_College,Niagara_University,Regular,2024-1-21
 13562,1,5,Final,McKendree_University,Liberty_University,Regular,2024-1-25
 13011,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Adrian_College,Regular,2024-1-25
-12724,-,-,8:15 pm CST,Maryville_University,Minot_State_University,Regular,2024-1-25
+12724,1,2,Final,Maryville_University,Minot_State_University,Regular,2024-1-25
 15549,1,2,Final,Lindenwood_University,University_of_Jamestown,Regular,2024-1-25
 13670,-,-,11:30 am CST,Midland_University,University_of_Jamestown,Regular,2024-1-26
-13563,-,-,2:30 pm CST,McKendree_University,Minot_State_University,Regular,2024-1-26
-14675,-,-,1:30 pm MST,University_of_Utah,Arizona_State_University,Regular,2024-1-26
-14872,-,-,4:30 pm EST,Grand_Valley_State_University,Aquinas_College,Regular,2024-1-26
-12736,-,-,5:30 pm EST,Concordia_University_Ann_Arbor,University_of_Michigan_Dearborn,Regular,2024-1-26
+13563,2,3,Final,McKendree_University,Minot_State_University,Regular,2024-1-26
+14675,0,3,Final,University_of_Utah,Arizona_State_University,Regular,2024-1-26
+14872,2,5,Final,Grand_Valley_State_University,Aquinas_College,Regular,2024-1-26
+12736,3,5,Final,Concordia_University_Ann_Arbor,University_of_Michigan_Dearborn,Regular,2024-1-26
 13107,-,-,7:30 pm EST,Niagara_University,University_of_Massachusetts_Amherst,Regular,2024-1-26
 12725,-,-,8:30 pm CST,Maryville_University,University_of_Minnesota,Regular,2024-1-26
-15550,-,-,8:50 pm CST,Lindenwood_University,Liberty_University,Regular,2024-1-26
-15088,-,-,8:30 pm MST,Colorado_State_University,University_of_Colorado,Regular,2024-1-26
+15550,1,10,Final,Lindenwood_University,Liberty_University,Regular,2024-1-26
+15088,2,5,Final,Colorado_State_University,University_of_Colorado,Regular,2024-1-26
 14929,-,-,8:30 pm MST,University_of_Denver,University_of_Rhode_Island,Regular,2024-1-26
 14778,-,-,2:00 pm EST,Aquinas_College,Grand_Valley_State_University,Regular,2024-1-27
 13108,-,-,2:30 pm EST,Niagara_University,University_of_Massachusetts_Amherst,Regular,2024-1-27
