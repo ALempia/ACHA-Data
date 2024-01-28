@@ -375,20 +375,20 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14200,5,9,Final,University_of_Pennsylvania,Villanova_University,Regular,2024-1-26
 14209,-,-,8:30 pm EST,The_Ohio_State_University,West_Virginia_University_,Regular,2024-1-26
 17743,-,-,9:05 pm CST,Aurora_University,University_of_Wisconsin,Regular,2024-1-26
-16831,-,-,12:00 pm EST,Sault_College,Miami_University,Regular,2024-1-27
-16588,-,-,12:00 pm EST,Michigan_State_University,Maryville_University,Regular,2024-1-27
-17118,-,-,1:00 pm EST,Merrimack_College,Northeastern_University,Regular,2024-1-27
-15670,-,-,1:00 pm EST,Boston_University,University_of_Vermont,Regular,2024-1-27
-16911,-,-,2:00 pm EST,Sacred_Heart_University,College_of_the_Holy_Cross,Regular,2024-1-27
+16831,10,1,Final,Sault_College,Miami_University,Regular,2024-1-27
+16588,3,0,Final,Michigan_State_University,Maryville_University,Regular,2024-1-27
+17118,2,9,Final,Merrimack_College,Northeastern_University,Regular,2024-1-27
+15670,1,6,Final,Boston_University,University_of_Vermont,Regular,2024-1-27
+16911,13,4,Final,Sacred_Heart_University,College_of_the_Holy_Cross,Regular,2024-1-27
 16200,-,-,2:10 pm EST,Robert_Morris_University,Mercyhurst_University,Regular,2024-1-27
 16443,-,-,4:15 pm CST,Iowa_State_University,University_of_Nebraska,Regular,2024-1-27
 17744,-,-,4:25 pm CST,Aurora_University,University_of_Wisconsin,Regular,2024-1-27
-15465,-,-,5:30 pm EST,Northern_Michigan_University,University_of_Notre_Dame,Regular,2024-1-27
+15465,6,3,Final,Northern_Michigan_University,University_of_Notre_Dame,Regular,2024-1-27
 14792,-,-,6:00 pm EST,Niagara_University,Brockport_State_University,Regular,2024-1-27
 16521,-,-,7:00 pm EST,University_at_Buffalo,University_of_Pittsburgh,Regular,2024-1-27
 12837,-,-,7:00 pm EST,Central_Michigan_University,The_Ohio_State_University,Regular,2024-1-27
 15716,-,-,7:00 pm CST,North_Dakota_State_University,Dakota_College_at_Bottineau,Regular,2024-1-27
-17110,-,-,7:00 pm CST,University_of_Minnesota_Duluth,University_of_Saint_Thomas,Regular,2024-1-27
+17110,2,5,Final,University_of_Minnesota_Duluth,University_of_Saint_Thomas,Regular,2024-1-27
 17328,-,-,8:45 pm EST,West_Chester_University,Slippery_Rock_University,Regular,2024-1-27
 17133,-,-,9:10 pm EST,Rowan_University,University_of_Maryland,Regular,2024-1-27
 16699,-,-,9:10 pm CST,Loyola_University_Chicago,Bowling_Green_State_University,Regular,2024-1-27
