@@ -348,7 +348,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17012,-,-,Postponed,Dakota_College_at_Bottineau,University_of_Minnesota_Duluth,Regular,2024-1-14
 15873,-,-,Postponed,Assiniboine_Community_College,Lake_Region_State_College,Regular,2024-1-14
 16697,-,-,Postponed,Adrian_College,Loyola_University_Chicago,Regular,2024-1-14
-14791,-,-,Postponed,Niagara_University,West_Virginia_University_,Regular,2024-1-14
+14791,9,2,Final,Niagara_University,West_Virginia_University_,Regular,2024-1-14
 16827,5,2,Final,Sault_College,Assiniboine_Community_College,Regular,2024-1-19
 18090,5,4,Final,University_of_Pennsylvania,Rowan_University,Regular,2024-1-19
 18121,4,1,Final,Dakota_College_at_Bottineau,Lawrence_Technological_University,Regular,2024-1-19
@@ -384,35 +384,35 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16443,-,-,4:15 pm CST,Iowa_State_University,University_of_Nebraska,Regular,2024-1-27
 17744,-,-,4:25 pm CST,Aurora_University,University_of_Wisconsin,Regular,2024-1-27
 15465,6,3,Final,Northern_Michigan_University,University_of_Notre_Dame,Regular,2024-1-27
-14792,-,-,6:00 pm EST,Niagara_University,Brockport_State_University,Regular,2024-1-27
+14792,4,1,Final,Niagara_University,Brockport_State_University,Regular,2024-1-27
 16521,-,-,7:00 pm EST,University_at_Buffalo,University_of_Pittsburgh,Regular,2024-1-27
-12837,-,-,7:00 pm EST,Central_Michigan_University,The_Ohio_State_University,Regular,2024-1-27
-15716,-,-,7:00 pm CST,North_Dakota_State_University,Dakota_College_at_Bottineau,Regular,2024-1-27
+12837,4,0,Final,Central_Michigan_University,The_Ohio_State_University,Regular,2024-1-27
+15716,1,3,Final,North_Dakota_State_University,Dakota_College_at_Bottineau,Regular,2024-1-27
 17110,2,5,Final,University_of_Minnesota_Duluth,University_of_Saint_Thomas,Regular,2024-1-27
-17328,-,-,8:45 pm EST,West_Chester_University,Slippery_Rock_University,Regular,2024-1-27
-17133,-,-,9:10 pm EST,Rowan_University,University_of_Maryland,Regular,2024-1-27
+17328,16,8,Final,West_Chester_University,Slippery_Rock_University,Regular,2024-1-27
+17133,2,5,Final,Rowan_University,University_of_Maryland,Regular,2024-1-27
 16699,-,-,9:10 pm CST,Loyola_University_Chicago,Bowling_Green_State_University,Regular,2024-1-27
 16700,-,-,6:30 am CST,Loyola_University_Chicago,Bowling_Green_State_University,Regular,2024-1-28
 16444,-,-,7:00 am CST,Iowa_State_University,University_of_Nebraska,Regular,2024-1-28
-17111,-,-,9:00 am CST,University_of_Minnesota_Duluth,University_of_Saint_Thomas,Regular,2024-1-28
-15868,-,-,10:00 am EST,University_of_Virginia,Virginia_Tech,Regular,2024-1-28
+17111,1,2,Final,University_of_Minnesota_Duluth,University_of_Saint_Thomas,Regular,2024-1-28
+15868,7,3,Final,University_of_Virginia,Virginia_Tech,Regular,2024-1-28
 17139,-,-,11:00 am EST,Villanova_University,Rowan_University,Regular,2024-1-28
 16011,-,-,11:00 am EST,University_of_Vermont,Saint_Anselm_College,Regular,2024-1-28
-15717,-,-,10:00 am CST,North_Dakota_State_University,Dakota_College_at_Bottineau,Regular,2024-1-28
-15466,-,-,11:30 am EST,Northern_Michigan_University,University_of_Notre_Dame,Regular,2024-1-28
-12838,-,-,12:00 pm EST,Central_Michigan_University,The_Ohio_State_University,Regular,2024-1-28
-16589,-,-,12:00 pm EST,Michigan_State_University,Maryville_University,Regular,2024-1-28
-17329,-,-,12:35 pm EST,West_Chester_University,Slippery_Rock_University,Regular,2024-1-28
+15717,0,6,Final,North_Dakota_State_University,Dakota_College_at_Bottineau,Regular,2024-1-28
+15466,5,7,Final OT,Northern_Michigan_University,University_of_Notre_Dame,Regular,2024-1-28
+12838,4,2,Final,Central_Michigan_University,The_Ohio_State_University,Regular,2024-1-28
+16589,10,0,Final,Michigan_State_University,Maryville_University,Regular,2024-1-28
+17329,6,7,Final,West_Chester_University,Slippery_Rock_University,Regular,2024-1-28
 16917,-,-,1:30 pm EST,Harvard_University,Bentley_University,Regular,2024-1-28
 18111,-,-,3:00 pm AST,Northeastern_University,College_of_the_Holy_Cross,Regular,2024-1-28
 15974,-,-,3:00 pm EST,Oswego_State_University,University_of_Pittsburgh,Regular,2024-1-28
 17378,0,1,Home Forfeit,Loyola_University_Maryland,University_of_Pennsylvania,Regular,2024-1-28
 17473,-,-,3:40 pm EST,Rochester_Institute_Of_Technology,Mercyhurst_University,Regular,2024-1-28
 16418,-,-,4:00 pm EST,Boston_College,University_Of_Connecticut,Regular,2024-1-28
-16070,-,-,4:30 pm EST,University_of_Maryland,United_States_Naval_Academy,Regular,2024-1-28
-15902,-,-,5:15 pm EST,Sacred_Heart_University,University_of_New_Hampshire,Regular,2024-1-28
-15910,-,-,6:00 pm EST,Providence_College,Assumption_University,Regular,2024-1-28
-17119,-,-,8:00 pm EST,Merrimack_College,Harvard_University,Regular,2024-1-28
+16070,2,4,Final,University_of_Maryland,United_States_Naval_Academy,Regular,2024-1-28
+15902,4,3,Final,Sacred_Heart_University,University_of_New_Hampshire,Regular,2024-1-28
+15910,4,1,Final,Providence_College,Assumption_University,Regular,2024-1-28
+17119,4,3,Final,Merrimack_College,Harvard_University,Regular,2024-1-28
 18110,-,-,8:00 pm AST,Northeastern_University,Assumption_University,Regular,2024-2-1
 15988,-,-,11:00 am CST,University_of_Wisconsin_LaCrosse,University_of_Saint_Thomas,Regular,2024-2-2
 14793,-,-,3:00 pm EST,Niagara_University,Sault_College,Regular,2024-2-2
