@@ -397,7 +397,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16444,12,0,Final,Iowa_State_University,University_of_Nebraska,Regular,2024-1-28
 17111,1,2,Final,University_of_Minnesota_Duluth,University_of_Saint_Thomas,Regular,2024-1-28
 15868,7,3,Final,University_of_Virginia,Virginia_Tech,Regular,2024-1-28
-16011,-,-,11:00 am EST,University_of_Vermont,Saint_Anselm_College,Regular,2024-1-28
+16011,5,1,00:00 3rd,University_of_Vermont,Saint_Anselm_College,Regular,2024-1-28
 15717,0,6,Final,North_Dakota_State_University,Dakota_College_at_Bottineau,Regular,2024-1-28
 15466,5,6,Final OT,Northern_Michigan_University,University_of_Notre_Dame,Regular,2024-1-28
 12838,4,2,Final,Central_Michigan_University,The_Ohio_State_University,Regular,2024-1-28
@@ -407,7 +407,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18111,-,-,3:00 pm AST,Northeastern_University,College_of_the_Holy_Cross,Regular,2024-1-28
 15974,-,-,3:00 pm EST,Oswego_State_University,University_of_Pittsburgh,Regular,2024-1-28
 17378,0,1,Home Forfeit,Loyola_University_Maryland,University_of_Pennsylvania,Regular,2024-1-28
-17473,-,-,3:40 pm EST,Rochester_Institute_Of_Technology,Mercyhurst_University,Regular,2024-1-28
+17473,0,16,01:05 3rd,Rochester_Institute_Of_Technology,Mercyhurst_University,Regular,2024-1-28
 16418,-,-,4:00 pm EST,Boston_College,University_Of_Connecticut,Regular,2024-1-28
 16070,2,4,Final,University_of_Maryland,United_States_Naval_Academy,Regular,2024-1-28
 15902,4,3,Final,Sacred_Heart_University,University_of_New_Hampshire,Regular,2024-1-28
