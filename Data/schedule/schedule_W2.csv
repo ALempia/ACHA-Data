@@ -413,7 +413,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15902,4,3,Final,Sacred_Heart_University,University_of_New_Hampshire,Regular,2024-1-28
 15910,4,1,Final,Providence_College,Assumption_University,Regular,2024-1-28
 17119,4,3,Final,Merrimack_College,Harvard_University,Regular,2024-1-28
-18110,-,-,8:00 pm AST,Northeastern_University,Assumption_University,Regular,2024-2-1
 15988,-,-,11:00 am CST,University_of_Wisconsin_LaCrosse,University_of_Saint_Thomas,Regular,2024-2-2
 14793,-,-,3:00 pm EST,Niagara_University,Sault_College,Regular,2024-2-2
 16923,-,-,6:10 pm EST,Worcester_Polytechnic_Institute,Boston_University,Regular,2024-2-2
@@ -422,9 +421,11 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16201,-,-,8:40 pm EST,Robert_Morris_University,University_at_Buffalo,Regular,2024-2-2
 14374,-,-,9:00 pm EST,University_of_Pittsburgh,The_Ohio_State_University,Regular,2024-2-2
 17500,-,-,8:30 pm CST,University_of_Wisconsin,Iowa_State_University,Regular,2024-2-2
+18174,-,-,8:45 pm CST,Maryville_University,Lake_Region_State_College,Regular,2024-2-2
 16590,-,-,1:00 pm EST,Michigan_State_University,Miami_University,Regular,2024-2-3
 15911,-,-,2:00 pm EST,Providence_College,Harvard_University,Regular,2024-2-3
 16202,-,-,2:25 pm EST,Robert_Morris_University,Oswego_State_University,Regular,2024-2-3
+18175,-,-,2:15 pm CST,Maryville_University,Lake_Region_State_College,Regular,2024-2-3
 15671,-,-,3:30 pm EST,Boston_University,University_of_New_Hampshire,Regular,2024-2-3
 16071,-,-,4:10 pm EST,University_of_Maryland,Virginia_Tech,Regular,2024-2-3
 13576,-,-,5:00 pm EST,Lawrence_Technological_University,Adrian_College,Regular,2024-2-3
@@ -468,10 +469,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14212,-,-,2:00 pm EST,The_Ohio_State_University,Mercyhurst_University,Regular,2024-2-10
 13135,-,-,3:15 pm EST,University_of_Delaware,University_of_Pittsburgh,Regular,2024-2-10
 16204,-,-,3:40 pm EST,Robert_Morris_University,Niagara_University,Regular,2024-2-10
+17304,-,-,4:30 pm EST,Saint_Anselm_College,University_Of_Connecticut,Regular,2024-2-10
 15913,-,-,6:00 pm EST,Providence_College,Boston_University,Regular,2024-2-10
 12839,-,-,7:00 pm EST,Central_Michigan_University,Adrian_College,Regular,2024-2-10
 13039,-,-,7:00 pm EST,Brockport_State_University,Rochester_Institute_Of_Technology,Regular,2024-2-10
-17304,-,-,7:00 pm EST,Saint_Anselm_College,University_Of_Connecticut,Regular,2024-2-10
 15935,-,-,7:00 pm EST,College_of_the_Holy_Cross,Sacred_Heart_University,Regular,2024-2-10
 17238,-,-,8:00 pm EST,University_of_Notre_Dame,Miami_University,Regular,2024-2-10
 16420,-,-,8:15 pm EST,Boston_College,Assumption_University,Regular,2024-2-10
@@ -493,7 +494,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13365,-,-,4:00 pm EST,Adrian_College,Central_Michigan_University,Regular,2024-2-11
 15914,-,-,6:00 pm EST,Providence_College,Saint_Anselm_College,Regular,2024-2-11
 17935,-,-,7:00 pm EST,Assumption_University,University_Of_Connecticut,Regular,2024-2-11
-18112,-,-,8:00 pm AST,Northeastern_University,Boston_College,Regular,2024-2-15
+18110,-,-,7:30 pm AST,Northeastern_University,Assumption_University,Regular,2024-2-12
 13040,-,-,7:00 pm EST,Brockport_State_University,University_of_Pittsburgh,Regular,2024-2-16
 15903,-,-,7:00 pm EST,Sacred_Heart_University,Assumption_University,Regular,2024-2-16
 18113,-,-,8:00 pm AST,Northeastern_University,Providence_College,Regular,2024-2-16
@@ -532,8 +533,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17787,-,-,4:00 pm EST,Sacred_Heart_University,University_of_Maryland,Regular,2024-2-18
 17013,-,-,3:00 pm CST,Dakota_College_at_Bottineau,Assiniboine_Community_College,Regular,2024-2-18
 17936,-,-,7:00 pm EST,Assumption_University,Boston_College,Regular,2024-2-18
-16986,-,-,8:00 pm CST,Maryville_University,University_of_Wisconsin_Eau_Claire,Regular,2024-2-19
-16987,-,-,12:15 pm CST,Maryville_University,University_of_Wisconsin_Eau_Claire,Regular,2024-2-20
+18112,-,-,7:30 pm AST,Northeastern_University,Boston_College,Regular,2024-2-19
 17010,-,-,7:00 pm CST,Dakota_College_at_Bottineau,Lake_Region_State_College,Regular,2024-2-23
 17914,-,-,4:30 pm CST,University_of_Wisconsin,University_of_Wisconsin_LaCrosse,Regular,2024-2-24
 15875,-,-,7:00 pm CST,Assiniboine_Community_College,North_Dakota_State_University,Regular,2024-2-24
