@@ -45,6 +45,13 @@ game_probs <- function(home, away, rating_list, c = 0.01){
 get_data <- function(){
   exit <- list()
   
+  # Schedule
+  exit[["S_M1"]] <- read_csv("https://raw.githubusercontent.com/ALempia/ACHA-Data/main/Data/schedule/schedule_M1.csv")
+  exit[["S_M2"]] <- read_csv("https://raw.githubusercontent.com/ALempia/ACHA-Data/main/Data/schedule/schedule_M2.csv")
+  exit[["S_M3"]] <- read_csv("https://raw.githubusercontent.com/ALempia/ACHA-Data/main/Data/schedule/schedule_M3.csv")
+  exit[["S_W1"]] <- read_csv("https://raw.githubusercontent.com/ALempia/ACHA-Data/main/Data/schedule/schedule_W1.csv")
+  exit[["S_W2"]] <- read_csv("https://raw.githubusercontent.com/ALempia/ACHA-Data/main/Data/schedule/schedule_W2.csv")
+  
   # Power Rankings
   exit[["P_M1"]] <- read_csv("https://raw.githubusercontent.com/ALempia/ACHA-Data/main/Data/power/power_M1.csv")
   exit[["P_M2"]] <- read_csv("https://raw.githubusercontent.com/ALempia/ACHA-Data/main/Data/power/power_M2.csv")
@@ -240,6 +247,159 @@ make_prog_plot <- function(league, team, DATA, type, variables){
   
 }
 
+get_gh_full <- function(league, DATA, cur_date){
+  # Get & Clean
+  lgs <- c("M1", "W1", "M2", "W2", "M3")
+  all_leagues <- c("Men's Division 1", "Women's Division 1", "Men's Division 2", 
+                   "Women's Division 2", "Men's Division 3")
+  lg <- lgs[which(league == all_leagues)]
+  rtgs <- DATA[[paste0("R_", lg)]]
+  sched <- DATA[[paste0("S_", lg)]] %>% 
+    filter(prop_date <= cur_date & str_detect(status, "Final")) %>% 
+    mutate(
+      homeG = as.numeric(homeG), awayG = as.numeric(awayG),
+      reg_homeG = ifelse(
+        (status == "Final OT" | status == "Final SO") & homeG > awayG, homeG - 1, homeG
+          ),
+      reg_awayG = ifelse(
+        (status == "Final OT" | status == "Final SO") & awayG > homeG, awayG - 1, awayG
+      ),
+      homePts = case_when(
+        homeG > awayG & (status == "Final OT" | status == "Final SO") ~ 2,
+        homeG > awayG & !(status == "Final OT" | status == "Final SO") ~ 3,
+        homeG < awayG & (status == "Final OT" | status == "Final SO") ~ 1,
+        homeG < awayG & !(status == "Final OT" | status == "Final SO") ~ 0,
+        TRUE ~ 1.5
+      )
+    )
+  
+  sched$xHG <- 0; sched$xAG <- 0; sched$xHpts <- 0; sched$xApts <- 0; sched$xHGD <- 0
+  sched$hwin <- 0; sched$awin <- 0
+  
+  for(i in 1:nrow(sched)){
+    gp_i <- game_probs(sched$home[i], sched$away[i], rtgs)
+    sched$xHG[i] <- gp_i$key_probs$xHomeG
+    sched$xAG[i] <- gp_i$key_probs$xAwayG
+    sched$xHGD[i] <- gp_i$key_probs$xHomeDiff
+    xhpts <- 3*gp_i$key_probs$home_Rwin + 2*gp_i$key_probs$home_OTwin + gp_i$key_probs$away_OTwin
+    sched$xHpts[i] <- xhpts; sched$xApts[i] <- 3 - xhpts
+    sched$hwin[i] <- gp_i$key_probs$home_win; sched$awin[i] <- gp_i$key_probs$away_win
+  }
+  
+  # Home
+  home <- sched %>% transmute(
+    Date = paste0(month(prop_date, label = T, abbr = T), " ", day(prop_date)),
+    Team = str_replace_all(home, "_", " "), `Opp.` = str_replace_all(away, "_", " "), 
+    GF = homeG, GA = awayG, Result = case_when(
+      homeG > awayG & (status == "Final OT" | status == "Final SO") ~ "OT Win",
+      homeG > awayG & !(status == "Final OT" | status == "Final SO") ~ "Win",
+      homeG < awayG & (status == "Final OT" | status == "Final SO") ~ "OT Loss",
+      homeG < awayG & !(status == "Final OT" | status == "Final SO") ~ "Loss",
+      TRUE ~ "Tie"
+    ),
+    GFax = round(reg_homeG - xHG, 2), GAax = round(reg_awayG - xAG, 2),
+    GDax = round(reg_homeG - reg_awayG - xHGD, 2),
+    PTSax = round(homePts - xHpts, 3), `Win Prob.` = round(100*hwin, 1),
+    xGF = round(xHG, 2), xGA = round(xAG, 2), xPts = round(xHpts, 3)
+  )
+  
+  # Away
+  away <- sched %>% transmute(
+    Date = paste0(month(prop_date, label = T, abbr = T), " ", day(prop_date)),
+    Team = str_replace_all(away, "_", " "), `Opp.` = str_replace_all(home, "_", " "), 
+    GF = awayG, GA = homeG, Result = case_when(
+      homeG > awayG & (status == "Final OT" | status == "Final SO") ~ "OT Loss",
+      homeG > awayG & !(status == "Final OT" | status == "Final SO") ~ "Loss",
+      homeG < awayG & (status == "Final OT" | status == "Final SO") ~ "OT Win",
+      homeG < awayG & !(status == "Final OT" | status == "Final SO") ~ "Win",
+      TRUE ~ "Tie"
+    ),
+    GFax = round(reg_awayG - xAG, 2), GAax = round(reg_homeG - xHG, 2),
+    GDax = round(reg_awayG - reg_homeG + xHGD, 2),
+    PTSax = round(3 - homePts - xApts, 3), `Win Prob.` = round(100*awin, 1),
+    xGF = round(xAG, 2), xGA = round(xHG, 2), xPts = round(xApts, 3)
+  )
+  
+  # Exit
+  return(bind_rows(home, away))
+}
+
+make_gh_tbl <- function(tbl, team){
+  
+  max_val <- max(abs(c(tbl$GFax, tbl$GAax, tbl$GDax)), na.rm = T)
+  
+  if(team == "All"){
+    tbl %>% gt() %>% opt_interactive(
+      use_compact_mode = TRUE, use_pagination = TRUE, use_filters = FALSE, use_search = FALSE
+    ) %>%
+      tab_style(
+        locations = cells_body(columns = Team),
+        style = cell_text(weight = "bold")
+      ) %>%
+      data_color(
+        columns = c(GFax, GDax),
+        palette = "RdBu", 
+        domain = c(-1*max_val, max_val)
+      ) %>% 
+      data_color(
+        columns = PTSax,
+        palette = "RdBu",
+        domain = c(-3, 3)
+      ) %>% 
+      data_color(
+        columns = GAax,
+        palette = "RdBu",
+        domain = c(-1*max_val, max_val),
+        reverse = TRUE
+      ) %>%
+      cols_align(
+        "left", columns = c(Date, Team, `Opp.`)
+      ) %>% 
+      cols_align(
+        "center", columns = Result
+      ) %>% 
+      tab_header(
+        title = "Game Results According to Current Ratings"
+      )
+  }
+  
+  else{
+    tbl %>% filter(Team == team) %>%
+      gt() %>% opt_interactive(
+      use_compact_mode = TRUE, use_pagination = TRUE, use_filters = FALSE, use_search = FALSE
+    ) %>%
+      tab_style(
+        locations = cells_body(columns = Team),
+        style = cell_text(weight = "bold")
+      ) %>%
+      data_color(
+        columns = c(GFax, GDax),
+        palette = "RdBu", 
+        domain = c(-1*max_val, max_val)
+      ) %>% 
+      data_color(
+        columns = PTSax,
+        palette = "RdBu",
+        domain = c(-3, 3)
+      ) %>% 
+      data_color(
+        columns = GAax,
+        palette = "RdBu",
+        domain = c(-1*max_val, max_val),
+        reverse = TRUE
+      ) %>%
+      cols_align(
+        "left", columns = c(Date, Team, `Opp.`)
+      ) %>% 
+      cols_align(
+        "center", columns = Result
+      ) %>% 
+      tab_header(
+        title = "Game Results According to Current Ratings"
+      )
+  }
+}
+
 make_wknd_tbl <- function(leagues, day, DATA, cur_date){
   require(lubridate)
   require(tidyverse)
@@ -270,7 +430,96 @@ make_wknd_tbl <- function(leagues, day, DATA, cur_date){
   form_start_date <- paste0(day, ", ", month(start_date, label = T, abbr = F), " ", day(start_date))
   form_end_date <- paste0("Sunday", ", ", month(end_date, label = T, abbr = F), " ", day(end_date))
   
-  wknd <- DATA$WKND %>% filter(Day %in% wkdys & `Lg.` %in% lgs_active)
+  wknd_og <- DATA$WKND %>% filter(Day %in% wkdys & `Lg.` %in% lgs_active)
+  
+  ## ADDED CHUNK - SPLIT - ADD PR - PASTE##
+  wknd_m1 <- wknd_og %>% filter(`Lg.` == "M1") %>%
+    left_join(
+      filter(DATA[["P_M1"]], Date == max(Date)) %>% mutate(
+        Team = str_replace_all(Team, " ", "_")
+      ), 
+      by = c("Home" = "Team")) %>% 
+    mutate(Home = paste0("#", Rank, "_", Home)) %>% 
+    select(-c(Date:Def_rating)) %>%
+    left_join(
+      filter(DATA[["P_M1"]], Date == max(Date)) %>% mutate(
+        Team = str_replace_all(Team, " ", "_")
+      ), 
+      by = c("Away" = "Team")) %>% 
+    mutate(Away = paste0("#", Rank, "_", Away)) %>% 
+    select(-c(Date:Def_rating))
+    
+  wknd_m2 <- wknd_og %>% filter(`Lg.` == "M2") %>%
+    left_join(
+      filter(DATA[["P_M2"]], Date == max(Date)) %>% mutate(
+        Team = str_replace_all(Team, " ", "_")
+      ), 
+      by = c("Home" = "Team")) %>% 
+    mutate(Home = paste0("#", Rank, "_", Home)) %>% 
+    select(-c(Date:Def_rating)) %>%
+    left_join(
+      filter(DATA[["P_M2"]], Date == max(Date)) %>% mutate(
+        Team = str_replace_all(Team, " ", "_")
+      ), 
+      by = c("Away" = "Team")) %>% 
+    mutate(Away = paste0("#", Rank, "_", Away)) %>% 
+    select(-c(Date:Def_rating))
+  
+  wknd_m3 <- wknd_og %>% filter(`Lg.` == "M3") %>%
+    left_join(
+      filter(DATA[["P_M3"]], Date == max(Date)) %>% mutate(
+        Team = str_replace_all(Team, " ", "_")
+      ), 
+      by = c("Home" = "Team")) %>% 
+    mutate(Home = paste0("#", Rank, "_", Home)) %>% 
+    select(-c(Date:Def_rating)) %>%
+    left_join(
+      filter(DATA[["P_M3"]], Date == max(Date)) %>% mutate(
+        Team = str_replace_all(Team, " ", "_")
+      ), 
+      by = c("Away" = "Team")) %>% 
+    mutate(Away = paste0("#", Rank, "_", Away)) %>% 
+    select(-c(Date:Def_rating))
+  
+  wknd_w1 <- wknd_og %>% filter(`Lg.` == "W1") %>%
+    left_join(
+      filter(DATA[["P_W1"]], Date == max(Date)) %>% mutate(
+        Team = str_replace_all(Team, " ", "_")
+      ), 
+      by = c("Home" = "Team")) %>% 
+    mutate(Home = paste0("#", Rank, "_", Home)) %>% 
+    select(-c(Date:Def_rating)) %>%
+    left_join(
+      filter(DATA[["P_W1"]], Date == max(Date)) %>% mutate(
+        Team = str_replace_all(Team, " ", "_")
+      ), 
+      by = c("Away" = "Team")) %>% 
+    mutate(Away = paste0("#", Rank, "_", Away)) %>% 
+    select(-c(Date:Def_rating))
+  
+  wknd_w2 <- wknd_og %>% filter(`Lg.` == "W2") %>%
+    left_join(
+      filter(DATA[["P_W2"]], Date == max(Date)) %>% mutate(
+        Team = str_replace_all(Team, " ", "_")
+      ), 
+      by = c("Home" = "Team")) %>% 
+    mutate(Home = paste0("#", Rank, "_", Home)) %>% 
+    select(-c(Date:Def_rating)) %>%
+    left_join(
+      filter(DATA[["P_W2"]], Date == max(Date)) %>% mutate(
+        Team = str_replace_all(Team, " ", "_")
+      ), 
+      by = c("Away" = "Team")) %>% 
+    mutate(Away = paste0("#", Rank, "_", Away)) %>% 
+    select(-c(Date:Def_rating))
+  
+  wknd <- bind_rows(wknd_m1, wknd_w1, wknd_m2, wknd_w2, wknd_m3) %>% arrange(
+    factor(Day, levels = wkdys[wkdys != ""]), factor(`Lg.`, levels = lgs)
+  )
+  wknd_og <- wknd_og %>% arrange(
+    factor(Day, levels = wkdys[wkdys != ""]), factor(`Lg.`, levels = lgs)
+  )
+  ## END ADDED CHUNK ##
   
   if(today < 3 | nrow(wknd) == 0){
     data.frame(
@@ -302,12 +551,13 @@ make_wknd_tbl <- function(leagues, day, DATA, cur_date){
   
   for(i in 1:nrow(wknd)){
     rate = paste0("R_", wknd$`Lg.`[i])
-    wknd$AG[i] <- game_probs(wknd$Home[i], wknd$Away[i], DATA[[rate]])$key_probs$xAwayG
-    wknd$HG[i] <-  game_probs(wknd$Home[i], wknd$Away[i], DATA[[rate]])$key_probs$xHomeG
-    wknd$Apct[i] <- game_probs(wknd$Home[i], wknd$Away[i], DATA[[rate]])$key_probs$away_win
+    wknd$AG[i] <- game_probs(wknd_og$Home[i], wknd_og$Away[i], DATA[[rate]])$key_probs$xAwayG
+    wknd$HG[i] <-  game_probs(wknd_og$Home[i], wknd_og$Away[i], DATA[[rate]])$key_probs$xHomeG
+    wknd$Apct[i] <- game_probs(wknd_og$Home[i], wknd_og$Away[i], DATA[[rate]])$key_probs$away_win
   }
   
-  wknd <- wknd %>% mutate(Hpct = 1 - Apct, 
+  wknd <- wknd %>% 
+    mutate(Hpct = 1 - Apct, 
                           Away = str_replace_all(Away, "_", " "),
                             Home = str_replace_all(Home, "_", " "),
                           AG = round(AG, 2), HG = round(HG, 2),
@@ -323,6 +573,10 @@ make_wknd_tbl <- function(leagues, day, DATA, cur_date){
     cols_label(
       `Away %` = "%", `Home %` = "%", Awaytm = "Team", Hometm = "Team", 
       `Away xGoals` = "xScore", `Home xGoals` = "xScore"
+    ) %>% 
+    tab_style(
+      locations = cells_body(columns = c(Hometm, Awaytm)),
+      style = cell_text(weight = "bold")
     ) %>% 
     data_color(
       columns = c(`Away %`, `Home %`),
@@ -379,12 +633,16 @@ get_rtg <- function(league, DATA){
   DATA[[nm]]
 }
 
-display_probs_away <- function(away, home, ratings){
+display_probs_away <- function(away, home, ratings, cur_power){
   require(tidyverse)
   require(gt)
   
+  max_rank <- nrow(cur_power)
+  
   df <- game_probs(home, away, ratings)$key_probs
+  df <- df %>% bind_cols(cur_power %>% filter(Team == str_replace_all(away, "_", " ")))
   df %>% transmute(
+    rank = Rank, O = `Offense Rank`, D = `Defense Rank`,
     reg_loss = round(100*home_Rwin, 1) %>% paste0("%"),
     ot_loss = round(100*home_OTwin, 1) %>% paste0("%"),
     ot_win = round(100*away_OTwin, 1) %>% paste0("%"),
@@ -394,6 +652,7 @@ display_probs_away <- function(away, home, ratings){
       ) %>% gt() %>% 
     cols_align("center") %>% 
     cols_label(
+      rank = "Rank", O = "O. Rk.", D = "D. Rk.",
       reg_win = "3 pts.", ot_win = "2 pts.", ot_loss = "1 pt.", reg_loss = "0 pts.", xpts = "xPts.",
       xG = "xScore", pct = "Win %"
     ) %>% 
@@ -411,15 +670,22 @@ display_probs_away <- function(away, home, ratings){
       columns = xG, palette = "Greens", domain = c(0, 12)
     ) %>% data_color(
       columns = pct, palette = "RdBu", domain = c(0, 100)
+    ) %>% data_color(
+      columns = c(rank, O, D), palette = "RdBu", domain = c(max_rank, 1),
+      reverse = T
     )
 }
 
-display_probs_home <- function(away, home, ratings){
+display_probs_home <- function(away, home, ratings, cur_power){
   require(tidyverse)
   require(gt)
   
+  max_rank <- nrow(cur_power)
+  
   df <- game_probs(home, away, ratings)$key_probs
+  df <- df %>% bind_cols(cur_power %>% filter(Team == str_replace_all(home, "_", " ")))
   df %>% transmute(
+    D = `Defense Rank`, O = `Offense Rank`, rank = Rank, 
     reg_win = round(100*home_Rwin, 1) %>% paste0("%"),
     ot_win = round(100*home_OTwin, 1) %>% paste0("%"),
     ot_loss = round(100*away_OTwin, 1) %>% paste0("%"),
@@ -430,14 +696,15 @@ display_probs_home <- function(away, home, ratings){
     cols_align("center") %>% 
     cols_label(
       pct = "Win %", xG = "xScore", xpts = "xPts.", 
-      reg_loss = "0 pts.", reg_win = "3 pts.", ot_win = "2 pts.", ot_loss = "1 pt."
+      reg_loss = "0 pts.", reg_win = "3 pts.", ot_win = "2 pts.", ot_loss = "1 pt.",
+      D = "D. Rk.", O = "O. Rk.", rank = "Rank", 
     ) %>% 
    # tab_spanner(
    #   columns = c(reg_win, ot_win, ot_loss,  reg_loss),
    #   label = "3-2-1-0 Pt. Outcome Likelihoods"
    # ) %>% 
     cols_move_to_start(
-      c(pct, xG, xpts)
+      c(pct, xG, xpts, reg_win, ot_win, ot_loss, reg_loss)
     ) %>%
     tab_header(
       title = str_replace_all(home, "_", " ")
@@ -450,7 +717,10 @@ display_probs_home <- function(away, home, ratings){
     ) %>% 
     data_color(
       columns = pct, palette = "RdBu", domain = c(0, 100)
-    ) 
+    ) %>% data_color(
+      columns = c(rank, O, D), palette = "RdBu", domain = c(max_rank, 1),
+      reverse = T
+    )
 }
 
 away_dist <- function(away, home, ratings){
@@ -552,6 +822,35 @@ sim_game <- function(away, home, ratings){
     )
   }
   return(exit)
+}
+
+power_Rank <- function(ratings_list, date){
+  require(tidyverse)
+  require(stringr)
+  
+  ratings <- ratings_list[["ratings"]]
+  homeG <- ratings_list[["mean_hG"]]
+  awayG <- ratings_list[["mean_aG"]]
+  
+  # Set up Power Ranking to be saved: Date, numerical ratings + publishable values
+  ratings %>% mutate(
+    Date = date,
+    Off_rating = exp(Off_adjed + log(homeG)), Def_rating = exp(Def_adjed + log(awayG)),
+    `Power Rating` = round(Off_rating - Def_rating, 3),
+    Rank = rank(-1*`Power Rating`, ties.method = "min"),
+    `Offense Rank` = rank(-1*Off_adjed, ties.method = "min"),
+    `Defense Rank` = rank(Def_adjed, ties.method = "min"), 
+    Team = str_replace_all(Team, "_", " ")
+  ) %>% select(Date, Rank, Team, `Power Rating`, `Offense Rank`, `Defense Rank`, 
+               Off_rating, Def_rating) %>% arrange(Rank)
+}
+
+current_power <- function(DATA, league, cur_date){
+  
+  cur_rate <- get_rtg(league, DATA)
+  
+  cur_power <- power_Rank(cur_rate, cur_date)
+  return(cur_power)
 }
 
 info1 <- '<h4> Each 0% means <0.05%. Nothing is certainly impossible, least of all in this sport. </h4>
