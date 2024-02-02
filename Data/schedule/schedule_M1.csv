@@ -700,7 +700,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14631,7,5,Final,Niagara_University,Canisius_University,Regular,2024-1-12
 13907,9,0,Final,Ohio_University,Oswego_State_University,Regular,2024-1-12
 13600,-,-,Postponed,Western_Michigan_University,Calvin_University,Regular,2024-1-12
-14319,-,-,Postponed,Concordia_University_Ann_Arbor,Cleary_University,Regular,2024-1-12
+14319,7,5,Final,Concordia_University_Ann_Arbor,Cleary_University,Regular,2024-1-12
 13221,-,-,Postponed,Indiana_Tech,Aquinas_College,Regular,2024-1-12
 13169,-,-,Postponed,Illinois_State_University,Waldorf_University,Regular,2024-1-12
 13239,1,0,Visiting Forfeit,Purdue_University_Northwest,Eastern_Michigan_University,Regular,2024-1-12
@@ -888,7 +888,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14649,4,3,Final SO,Mercyhurst_University,West_Virginia_University,Regular,2024-1-28
 14162,2,4,Final,Stony_Brook_University,Liberty_University,Regular,2024-1-28
 13977,1,4,Final,The_College_of_New_Jersey,William_Paterson_University,Regular,2024-1-28
-13172,-,-,9:00 pm MST,Arizona_State_University,Grand_Canyon_University,Regular,2024-2-1
+18190,-,-,3:30 pm EST,Concordia_University_Ann_Arbor,Cleary_University,Regular,2024-2-1
+13172,1,3,Final,Arizona_State_University,Grand_Canyon_University,Regular,2024-2-1
 14971,-,-,4:30 pm EST,Grand_Valley_State_University,University_of_Toledo,Regular,2024-2-2
 14132,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Indiana_Tech,Regular,2024-2-2
 12854,-,-,7:00 pm EST,University_of_Rhode_Island,Stony_Brook_University,Regular,2024-2-2
@@ -943,9 +944,9 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14192,-,-,7:30 pm EST,Cleary_University,Rochester_University,Regular,2024-2-3
 15224,-,-,7:30 pm EST,University_of_Toledo,Grand_Valley_State_University,Regular,2024-2-3
 13303,-,-,7:40 pm EST,Drexel_University,University_of_Pittsburgh,Regular,2024-2-3
+13825,-,-,7:40 pm EST,George_Mason_University,Villanova_University,Regular,2024-2-3
 13467,-,-,7:50 pm EST,Temple_University,Towson_University,Regular,2024-2-3
 12517,-,-,7:00 pm CST,University_of_Mary,Colorado_State_University,Regular,2024-2-3
-13825,-,-,8:10 pm EST,George_Mason_University,Villanova_University,Regular,2024-2-3
 15160,-,-,8:15 pm EST,Lawrence_Tech,Oswego_State_University,Regular,2024-2-3
 12646,-,-,7:30 pm CST,Midland_University,University_of_Jamestown,Regular,2024-2-3
 13389,-,-,8:30 pm EST,Robert_Morris_University,Mercyhurst_University,Regular,2024-2-3
@@ -961,7 +962,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18148,-,-,2:30 pm CST,Indiana_Tech,Aquinas_College,Regular,2024-2-8
 12489,-,-,4:15 pm CST,University_of_Oklahoma,Grand_Canyon_University,Regular,2024-2-8
 13034,-,-,7:30 pm EST,Adrian_College,Grand_Valley_State_University,Regular,2024-2-8
-15225,-,-,7:30 pm EST,University_of_Toledo,Western_Michigan_University,Regular,2024-2-8
+15225,-,-,Postponed,University_of_Toledo,Western_Michigan_University,Regular,2024-2-8
 14118,-,-,7:30 pm EST,Kent_State_University,John_Carroll_University,Regular,2024-2-8
 12610,-,-,7:30 pm CST,University_of_Central_Oklahoma,University_of_Utah,Regular,2024-2-8
 12672,-,-,8:15 pm CST,Maryville_University,University_of_Arizona,Regular,2024-2-8

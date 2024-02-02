@@ -404,7 +404,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16589,10,0,Final,Michigan_State_University,Maryville_University,Regular,2024-1-28
 17329,6,7,Final,West_Chester_University,Slippery_Rock_University,Regular,2024-1-28
 16917,12,1,Final,Harvard_University,Bentley_University,Regular,2024-1-28
-18111,-,-,3:00 pm AST,Northeastern_University,College_of_the_Holy_Cross,Regular,2024-1-28
 15974,-,-,3:00 pm EST,Oswego_State_University,University_of_Pittsburgh,Regular,2024-1-28
 17378,0,1,Home Forfeit,Loyola_University_Maryland,University_of_Pennsylvania,Regular,2024-1-28
 17473,0,16,01:05 3rd,Rochester_Institute_Of_Technology,Mercyhurst_University,Regular,2024-1-28
@@ -440,7 +439,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14201,-,-,10:05 pm EST,University_of_Pennsylvania,Slippery_Rock_University,Regular,2024-2-3
 16591,-,-,10:00 am EST,Michigan_State_University,Miami_University,Regular,2024-2-4
 16235,-,-,11:00 am EST,United_States_Naval_Academy,University_of_Delaware,Regular,2024-2-4
-14222,-,-,11:10 am EST,West_Virginia_University_,Oswego_State_University,Regular,2024-2-4
+14222,-,-,11:10 am EST,West_Virginia_University_,University_of_Virginia,Regular,2024-2-4
 17370,-,-,12:00 pm EST,Mercyhurst_University,Sault_College,Regular,2024-2-4
 17501,-,-,11:15 am CST,University_of_Wisconsin,Iowa_State_University,Regular,2024-2-4
 17120,-,-,12:30 pm EST,Merrimack_College,University_of_New_Hampshire,Regular,2024-2-4
@@ -453,6 +452,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14202,-,-,5:30 pm EST,University_of_Pennsylvania,Georgetown_University,Regular,2024-2-4
 15912,-,-,6:30 pm EST,Providence_College,Sacred_Heart_University,Regular,2024-2-4
 17934,-,-,7:00 pm EST,Assumption_University,Boston_University,Regular,2024-2-4
+18111,-,-,8:00 pm EST,Northeastern_University,College_of_the_Holy_Cross,Regular,2024-2-8
 14364,-,-,4:00 pm EST,Liberty_University,Lawrence_Technological_University,Regular,2024-2-9
 16832,-,-,7:00 pm EST,Sault_College,Michigan_State_University,Regular,2024-2-9
 16203,-,-,8:25 pm EST,Robert_Morris_University,Niagara_University,Regular,2024-2-9
