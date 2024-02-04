@@ -424,19 +424,19 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16590,-,-,1:00 pm EST,Michigan_State_University,Miami_University,Regular,2024-2-3
 15911,-,-,2:00 pm EST,Providence_College,Harvard_University,Regular,2024-2-3
 16202,-,-,2:25 pm EST,Robert_Morris_University,Oswego_State_University,Regular,2024-2-3
-18175,-,-,2:15 pm CST,Maryville_University,Lake_Region_State_College,Regular,2024-2-3
-15671,-,-,3:30 pm EST,Boston_University,University_of_New_Hampshire,Regular,2024-2-3
+18175,1,9,Final,Maryville_University,Lake_Region_State_College,Regular,2024-2-3
+15671,7,6,Final OT,Boston_University,University_of_New_Hampshire,Regular,2024-2-3
 16071,-,-,4:10 pm EST,University_of_Maryland,Virginia_Tech,Regular,2024-2-3
-13576,-,-,5:00 pm EST,Lawrence_Technological_University,Adrian_College,Regular,2024-2-3
+13576,5,5,00:00 1st OT,Lawrence_Technological_University,Adrian_College,Regular,2024-2-3
 16440,-,-,6:00 pm EST,Bowling_Green_State_University,University_of_Notre_Dame,Regular,2024-2-3
 16261,-,-,6:30 pm EST,Villanova_University,Georgetown_University,Regular,2024-2-3
 14794,-,-,7:00 pm EST,Niagara_University,Mercyhurst_University,Regular,2024-2-3
 17303,-,-,8:00 pm EST,Saint_Anselm_College,Assumption_University,Regular,2024-2-3
 17474,1,0,Visiting Forfeit,Rochester_Institute_Of_Technology,SUNY_Cortland,Regular,2024-2-3
 14210,-,-,8:15 pm EST,The_Ohio_State_University,Brockport_State_University,Regular,2024-2-3
-16135,-,-,7:30 pm CST,University_of_Wisconsin_Eau_Claire,North_Dakota_State_University,Regular,2024-2-3
+16135,6,4,Final,University_of_Wisconsin_Eau_Claire,North_Dakota_State_University,Regular,2024-2-3
 14221,-,-,9:25 pm EST,West_Virginia_University_,University_at_Buffalo,Regular,2024-2-3
-14201,-,-,10:05 pm EST,University_of_Pennsylvania,Slippery_Rock_University,Regular,2024-2-3
+14201,13,2,Final,University_of_Pennsylvania,Slippery_Rock_University,Regular,2024-2-3
 16591,-,-,10:00 am EST,Michigan_State_University,Miami_University,Regular,2024-2-4
 16235,-,-,11:00 am EST,United_States_Naval_Academy,University_of_Delaware,Regular,2024-2-4
 14222,-,-,11:10 am EST,West_Virginia_University_,University_of_Virginia,Regular,2024-2-4
