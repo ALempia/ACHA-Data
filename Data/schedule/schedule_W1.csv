@@ -312,7 +312,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15080,7,0,Final,Arizona_State_University,Grand_Canyon_University,Regular,2024-2-3
 14690,1,7,Final,Davenport_University,Miami_University,Regular,2024-2-4
 13566,3,2,Final,McKendree_University,Lindenwood_University,Regular,2024-2-4
-12756,-,-,7:30 pm CST,Minot_State_University,University_of_Jamestown,Regular,2024-2-7
+12756,2,1,Final,Minot_State_University,University_of_Jamestown,Regular,2024-2-7
 12727,-,-,1:45 pm CST,Maryville_University,McKendree_University,Regular,2024-2-8
 14919,-,-,8:00 pm EST,University_of_Michigan,Concordia_University_Ann_Arbor,Regular,2024-2-8
 13567,-,-,4:15 pm CST,McKendree_University,Maryville_University,Regular,2024-2-9
@@ -324,14 +324,14 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14579,-,-,1:00 pm EST,Lake_Superior_State_University,Aquinas_College,Regular,2024-2-10
 14934,-,-,12:30 pm MST,University_of_Denver,University_of_Utah,Regular,2024-2-10
 12782,-,-,2:00 pm CST,University_of_Jamestown,Midland_University,Regular,2024-2-10
-14494,-,-,1:00 pm MST,University_of_Colorado,University_of_Wyoming,Regular,2024-2-10
 12799,-,-,4:00 pm EST,Indiana_Tech,University_of_Michigan_Dearborn,Regular,2024-2-10
 14875,-,-,4:00 pm EST,Grand_Valley_State_University,Lindenwood_University,Regular,2024-2-10
+14494,-,-,4:00 pm MST,University_of_Colorado,University_of_Wyoming,Regular,2024-2-10
 15100,1,0,Visiting Forfeit,University_of_Minnesota,Davenport_University,Regular,2024-2-10
 14944,-,-,7:30 pm EST,Liberty_University,Adrian_College,Regular,2024-2-10
 15101,1,0,Visiting Forfeit,University_of_Minnesota,Davenport_University,Regular,2024-2-11
-14495,-,-,9:00 am MST,University_of_Colorado,University_of_Wyoming,Regular,2024-2-11
 14876,-,-,12:00 pm EST,Grand_Valley_State_University,Lindenwood_University,Regular,2024-2-11
+14495,-,-,11:00 am MST,University_of_Colorado,University_of_Wyoming,Regular,2024-2-11
 17856,-,-,4:05 pm MST,University_of_Denver,Colorado_State_University,Regular,2024-2-11
 13549,-,-,7:00 pm EST,Adrian_College,University_of_Michigan_Dearborn,Regular,2024-2-15
 14945,-,-,9:00 pm EST,Liberty_University,Indiana_Tech,Regular,2024-2-15

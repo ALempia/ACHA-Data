@@ -736,14 +736,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12956,4,2,Final,University_of_Nebraska_at_Omaha,Creighton_University,Regular,2024-1-21
 12698,8,0,Final,Maryville_University,Washington_University_of_Saint_Louis,Regular,2024-1-25
 18155,7,3,Final,University_of_Pittsburgh_Johnstown,Davenport_University,Regular,2024-1-26
-15384,-,-,5:30 pm EST,University_of_Pittsburgh_Johnstown,Loyola_University_Maryland,Regular,2024-1-26
 16563,5,4,Final,Florida_Gulf_Coast_University,Miami_University,Regular,2024-1-26
 16806,7,5,Final,Bates_College,Curry_College,Regular,2024-1-26
 16357,6,1,Final,Central_Michigan_University,Illinois_State_University,Regular,2024-1-26
 12998,1,0,Final OT,Hope_College,Grand_Valley_State_University,Regular,2024-1-26
 13941,1,5,Final,Northwood_University,Saginaw_Valley_State_University,Regular,2024-1-26
 18156,7,3,Final,Indiana_University_of_Pennsylvania,Loyola_University_Maryland,Regular,2024-1-26
-16296,-,-,8:00 pm EST,University_of_Notre_Dame,Trine_University,Regular,2024-1-26
+16296,-,-,8:00 pm EST,University_of_Notre_Dame,Kent_State_University,Regular,2024-1-26
 12561,6,3,Final,Missouri_State_University,University_of_Arkansas,Regular,2024-1-26
 14997,3,8,Final,University_of_Nebraska,University_of_Kansas,Regular,2024-1-26
 15522,5,4,Final,University_of_Missouri,Dallas_Baptist_University,Regular,2024-1-26
@@ -795,7 +794,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18185,10,0,Final,Michigan_State_University,University_of_Michigan_Flint,Regular,2024-1-28
 16746,3,2,Final,Saint_Vincent_College,Robert_Morris_University,Regular,2024-1-28
 15386,7,4,Final,University_of_Pittsburgh_Johnstown,Duquesne_University,Regular,2024-1-28
-18161,-,-,3:35 pm EST,University_of_Pittsburgh_Johnstown,Duquesne_University,Regular,2024-1-28
 13479,5,4,Final OT,Adrian_College,Western_Michigan_University,Regular,2024-1-28
 16672,1,0,Visiting Forfeit,Springfield_College,Harvard_University,Regular,2024-1-28
 14849,8,0,Final,Worcester_Polytechnic_Institute,Thomas_College,Regular,2024-1-28
@@ -863,7 +861,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16908,-,-,8:40 pm EST,PennWest_California,Case_Western_Reserve_University,Regular,2024-2-3
 16930,5,2,Final,West_Chester_University,George_Mason_University,Regular,2024-2-3
 16298,4,6,Final,University_of_Notre_Dame,Purdue_University,Regular,2024-2-3
-12963,-,-,8:20 pm CST,University_of_Nebraska_at_Omaha,University_of_Kansas,Regular,2024-2-3
+12963,8,7,Final SO,University_of_Nebraska_at_Omaha,University_of_Kansas,Regular,2024-2-3
 15646,14,2,Final,Saginaw_Valley_State_University,Adrian_College,Regular,2024-2-3
 14888,11,2,Final,Miami_University,University_of_Cincinnati,Regular,2024-2-3
 17282,6,4,Final,Merchant_Marine_Academy,SUNY_Maritime_College,Regular,2024-2-3
@@ -878,7 +876,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16899,4,6,Final,Harvard_University,University_of_Connecticut,Regular,2024-2-4
 14397,3,1,Final,Saint_Thomas_Aquinas_College,Stevens_Institute_of_Technology,Regular,2024-2-4
 17772,-,-,5:30 pm EST,York_College_of_Pennsylvania,Millersville_University,Regular,2024-2-4
-13965,-,-,9:00 pm EST,University_of_Michigan_Flint,Northwood_University,Regular,2024-2-7
+13965,2,4,Final,University_of_Michigan_Flint,Northwood_University,Regular,2024-2-7
 15447,-,-,8:30 pm EST,Colby_College,Thomas_College,Regular,2024-2-8
 17444,-,-,5:00 pm EST,Stevenson_University,George_Mason_University,Regular,2024-2-9
 14819,-,-,5:00 pm EST,Lawrence_Tech,Saginaw_Valley_State_University,Regular,2024-2-9
@@ -887,7 +885,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13000,-,-,7:30 pm EST,Hope_College,Michigan_State_University,Regular,2024-2-9
 14470,-,-,7:30 pm EST,Kent_State_University,University_of_Akron,Regular,2024-2-9
 18153,-,-,7:30 pm EST,University_of_Michigan_Flint,West_Virginia_University,Regular,2024-2-9
-16299,-,-,8:00 pm EST,University_of_Notre_Dame,Adrian_College,Regular,2024-2-9
+16299,-,-,8:00 pm EST,University_of_Notre_Dame,Olivet_Nazarene_University,Regular,2024-2-9
 14444,-,-,8:30 pm EST,Davenport_University,Calvin_University,Regular,2024-2-9
 16286,-,-,8:30 pm EST,New_Jersey_Institute_of_Technology,Saint_Thomas_Aquinas_College,Regular,2024-2-9
 16749,-,-,8:30 pm EST,Saint_Vincent_College,Duquesne_University,Regular,2024-2-9
