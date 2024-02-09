@@ -934,7 +934,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15743,-,-,Postponed,New_York_University,Syracuse_University,Regular,2024-2-3
 12576,6,10,Final,Northern_Illinois_University,Illinois_State_University,Regular,2024-2-3
 14147,6,2,Final,John_Carroll_University,Duquesne_University,Regular,2024-2-3
-15212,2,5,00:00 3rd,Davenport_University,Calvin_University,Regular,2024-2-3
+15212,2,5,Final,Davenport_University,Calvin_University,Regular,2024-2-3
 13792,4,3,Final OT,University_of_Utah,University_of_Nevada_Las_Vegas,Regular,2024-2-3
 12545,0,4,Final,Missouri_State_University,University_of_Central_Oklahoma,Regular,2024-2-3
 14635,2,0,Final,Niagara_University,University_of_Delaware,Regular,2024-2-3
@@ -959,14 +959,14 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14636,5,4,Final SO,Niagara_University,University_of_Delaware,Regular,2024-2-4
 14650,2,6,Final,Mercyhurst_University,Indiana_University_of_Pennsylvania,Regular,2024-2-4
 13242,6,2,Final,Purdue_University_Northwest,Concordia_University_Ann_Arbor,Regular,2024-2-6
-18148,-,-,2:30 pm CST,Indiana_Tech,Aquinas_College,Regular,2024-2-8
-12489,-,-,4:15 pm CST,University_of_Oklahoma,Grand_Canyon_University,Regular,2024-2-8
-13034,-,-,7:30 pm EST,Adrian_College,Grand_Valley_State_University,Regular,2024-2-8
+18148,7,2,Final,Indiana_Tech,Aquinas_College,Regular,2024-2-8
+12489,2,5,Final,University_of_Oklahoma,Grand_Canyon_University,Regular,2024-2-8
+13034,3,1,Final,Adrian_College,Grand_Valley_State_University,Regular,2024-2-8
 15225,-,-,Postponed,University_of_Toledo,Western_Michigan_University,Regular,2024-2-8
 14118,-,-,7:30 pm EST,Kent_State_University,John_Carroll_University,Regular,2024-2-8
-12610,-,-,7:30 pm CST,University_of_Central_Oklahoma,University_of_Utah,Regular,2024-2-8
-12672,-,-,8:15 pm CST,Maryville_University,University_of_Arizona,Regular,2024-2-8
-15358,-,-,8:30 pm MST,Colorado_State_University,Arizona_State_University,Regular,2024-2-8
+12610,2,3,Final SO,University_of_Central_Oklahoma,University_of_Utah,Regular,2024-2-8
+12672,2,3,Final OT,Maryville_University,University_of_Arizona,Regular,2024-2-8
+15358,5,4,Final OT,Colorado_State_University,Arizona_State_University,Regular,2024-2-8
 15329,-,-,5:10 pm EST,Villanova_University,William_Paterson_University,Regular,2024-2-9
 12490,-,-,4:15 pm CST,University_of_Oklahoma,University_of_Utah,Regular,2024-2-9
 13846,-,-,5:30 pm EST,Towson_University,The_College_of_New_Jersey,Regular,2024-2-9
