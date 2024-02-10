@@ -918,7 +918,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14957,4,7,Final,Duquesne_University,Robert_Morris_University,Regular,2024-2-2
 13791,4,5,Final OT,University_of_Utah,University_of_Nevada_Las_Vegas,Regular,2024-2-2
 15236,3,4,Final,Rochester_University,Cleary_University,Regular,2024-2-2
-15350,-,-,9:45 pm EST,West_Virginia_University,John_Carroll_University,Regular,2024-2-2
+15350,3,5,Final,West_Virginia_University,John_Carroll_University,Regular,2024-2-2
 13302,4,3,Final,Drexel_University,University_of_Pittsburgh,Regular,2024-2-2
 12498,0,6,Final,San_Diego_State_University,University_of_Colorado,Regular,2024-2-2
 13892,2,4,Final,Liberty_University,Adrian_College,Regular,2024-2-3
@@ -967,36 +967,36 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12610,2,3,Final SO,University_of_Central_Oklahoma,University_of_Utah,Regular,2024-2-8
 12672,2,3,Final OT,Maryville_University,University_of_Arizona,Regular,2024-2-8
 15358,5,4,Final OT,Colorado_State_University,Arizona_State_University,Regular,2024-2-8
-15329,-,-,5:10 pm EST,Villanova_University,William_Paterson_University,Regular,2024-2-9
-12490,-,-,4:15 pm CST,University_of_Oklahoma,University_of_Utah,Regular,2024-2-9
+15329,1,4,Final,Villanova_University,William_Paterson_University,Regular,2024-2-9
+12490,4,3,Final,University_of_Oklahoma,University_of_Utah,Regular,2024-2-9
 13846,-,-,5:30 pm EST,Towson_University,The_College_of_New_Jersey,Regular,2024-2-9
-17090,-,-,6:15 pm EST,University_of_Delaware,Drexel_University,Regular,2024-2-9
+17090,3,4,Final SO,University_of_Delaware,Drexel_University,Regular,2024-2-9
 14958,-,-,6:30 pm EST,Duquesne_University,Mercyhurst_University,Regular,2024-2-9
-13654,-,-,7:00 pm EST,Syracuse_University,Rochester_Institute_of_Technology,Regular,2024-2-9
-13915,-,-,7:00 pm EST,Ohio_University,Liberty_University,Regular,2024-2-9
-14193,-,-,7:30 pm EST,Cleary_University,Aquinas_College,Regular,2024-2-9
+13654,4,1,Final,Syracuse_University,Rochester_Institute_of_Technology,Regular,2024-2-9
+13915,3,4,Final,Ohio_University,Liberty_University,Regular,2024-2-9
+14193,6,3,Final,Cleary_University,Aquinas_College,Regular,2024-2-9
 14324,-,-,7:30 pm EST,Concordia_University_Ann_Arbor,University_of_Alabama,Regular,2024-2-9
-13225,-,-,7:30 pm EST,Indiana_Tech,Rochester_University,Regular,2024-2-9
-14972,-,-,7:30 pm EST,Grand_Valley_State_University,Adrian_College,Regular,2024-2-9
-12546,-,-,7:00 pm CST,Missouri_State_University,University_of_Arizona,Regular,2024-2-9
+13225,9,0,Final,Indiana_Tech,Rochester_University,Regular,2024-2-9
+14972,3,1,Unofficial Final,Grand_Valley_State_University,Adrian_College,Regular,2024-2-9
+12546,4,3,Final,Missouri_State_University,University_of_Arizona,Regular,2024-2-9
 15161,-,-,8:00 pm EST,Lawrence_Tech,University_of_Michigan_Dearborn,Regular,2024-2-9
-14059,-,-,7:00 pm CST,University_of_Illinois,Iowa_State_University,Regular,2024-2-9
-12519,-,-,7:00 pm CST,University_of_Mary,University_of_Jamestown,Regular,2024-2-9
+14059,0,1,Final,University_of_Illinois,Iowa_State_University,Regular,2024-2-9
+12519,1,5,Final,University_of_Mary,University_of_Jamestown,Regular,2024-2-9
 13243,-,-,Postponed,Purdue_University_Northwest,Calvin_University,Regular,2024-2-9
 14608,-,-,8:00 pm EST,Indiana_University_of_Pennsylvania,West_Virginia_University,Regular,2024-2-9
-14148,-,-,8:10 pm EST,John_Carroll_University,Robert_Morris_University,Regular,2024-2-9
+14148,5,3,Final,John_Carroll_University,Robert_Morris_University,Regular,2024-2-9
 13643,-,-,7:20 pm CST,Roosevelt_University,Davenport_University,Regular,2024-2-9
-12611,-,-,7:30 pm CST,University_of_Central_Oklahoma,Grand_Canyon_University,Regular,2024-2-9
-12647,-,-,7:30 pm CST,Midland_University,Waldorf_University,Regular,2024-2-9
+12611,1,2,Final OT,University_of_Central_Oklahoma,Grand_Canyon_University,Regular,2024-2-9
+12647,8,3,Final,Midland_University,Waldorf_University,Regular,2024-2-9
 14263,-,-,8:35 pm EST,West_Chester_University,Lehigh_University,Regular,2024-2-9
-13468,-,-,8:40 pm EST,Temple_University,Canisius_University,Regular,2024-2-9
-12711,-,-,7:45 pm CST,McKendree_University,Northern_Illinois_University,Regular,2024-2-9
+13468,2,4,Final,Temple_University,Canisius_University,Regular,2024-2-9
+12711,4,1,Final,McKendree_University,Northern_Illinois_University,Regular,2024-2-9
 13493,-,-,8:55 pm EST,Oakland_University,Eastern_Michigan_University,Regular,2024-2-9
-15744,-,-,9:00 pm EST,New_York_University,University_of_Rhode_Island,Regular,2024-2-9
-12673,-,-,8:00 pm CST,Maryville_University,Minot_State_University,Regular,2024-2-9
+15744,1,2,Final OT,New_York_University,University_of_Rhode_Island,Regular,2024-2-9
+12673,3,2,Final,Maryville_University,Minot_State_University,Regular,2024-2-9
 14343,-,-,9:20 pm EST,University_of_Pittsburgh,Oswego_State_University,Regular,2024-2-9
-14306,-,-,8:00 pm MST,Colorado_State_University,University_of_Nevada_Las_Vegas,Regular,2024-2-9
-13803,-,-,8:00 pm MST,University_of_Colorado,Arizona_State_University,Regular,2024-2-9
+14306,1,6,Final,Colorado_State_University,University_of_Nevada_Las_Vegas,Regular,2024-2-9
+13803,4,2,Final,University_of_Colorado,Arizona_State_University,Regular,2024-2-9
 12500,-,-,8:00 pm PST,San_Diego_State_University,University_of_Oregon,Regular,2024-2-9
 13655,-,-,2:00 pm EST,Syracuse_University,Rochester_Institute_of_Technology,Regular,2024-2-10
 14264,-,-,2:30 pm EST,West_Chester_University,Canisius_University,Regular,2024-2-10
@@ -1025,6 +1025,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12648,-,-,7:30 pm CST,Midland_University,Waldorf_University,Regular,2024-2-10
 13604,-,-,8:30 pm EST,Western_Michigan_University,University_of_Toledo,Regular,2024-2-10
 13390,-,-,8:30 pm EST,Robert_Morris_University,Indiana_University_of_Pennsylvania,Regular,2024-2-10
+18291,-,-,8:30 pm EST,United_States_Naval_Academy,Towson_University,Regular,2024-2-10
 13804,-,-,7:00 pm MST,University_of_Colorado,Arizona_State_University,Regular,2024-2-10
 12674,-,-,8:00 pm CST,Maryville_University,Minot_State_University,Regular,2024-2-10
 14307,-,-,7:45 pm MST,Colorado_State_University,University_of_Nevada_Las_Vegas,Regular,2024-2-10
@@ -1033,7 +1034,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18205,-,-,7:35 pm EST,Purdue_University_Northwest,TB,Regular,2024-2-13
 18204,-,-,7:30 pm EST,Adrian_College,TB,Regular,2024-2-14
 18207,-,-,6:00 pm EST,Calvin_University,TB,Regular,2024-2-15
-18206,-,-,7:30 pm EST,Grand_Valley_State_University,TB,Regular,2024-2-15
+18206,-,-,7:30 pm EST,Grand_Valley_State_University,Davenport_University,Regular,2024-2-15
 12815,-,-,7:30 pm MST,University_of_Arizona,Arizona_State_University,Regular,2024-2-15
 14308,-,-,8:30 pm MST,Colorado_State_University,University_of_Colorado,Regular,2024-2-15
 18227,-,-,1:00 pm EST,TB,Rochester_University,Regular,2024-2-16
@@ -1043,6 +1044,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12856,-,-,7:00 pm EST,University_of_Rhode_Island,University_of_Pittsburgh,Regular,2024-2-16
 13917,-,-,7:00 pm EST,Ohio_University,Drexel_University,Regular,2024-2-16
 18145,-,-,7:10 pm EST,Towson_University,United_States_Naval_Academy,Regular,2024-2-16
+18297,-,-,7:30 pm EST,Robert_Morris_University,TB,Regular,2024-2-16
 13469,-,-,7:30 pm EST,Temple_University,West_Chester_University,Regular,2024-2-16
 12492,-,-,7:00 pm CST,University_of_Oklahoma,University_of_Central_Oklahoma,Regular,2024-2-16
 14061,-,-,7:00 pm CST,University_of_Illinois,University_of_Alabama,Regular,2024-2-16
@@ -1061,6 +1063,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18210,-,-,5:30 pm EST,TB,TB,Regular,2024-2-17
 18226,-,-,6:00 pm EST,Indiana_University_of_Pennsylvania,TB,Regular,2024-2-17
 18216,-,-,6:00 pm EST,University_at_Buffalo,TB,Regular,2024-2-17
+18296,-,-,6:20 pm EST,John_Carroll_University,TB,Regular,2024-2-17
 13894,-,-,7:00 pm EST,Liberty_University,Niagara_University,Regular,2024-2-17
 13918,-,-,7:00 pm EST,Ohio_University,Drexel_University,Regular,2024-2-17
 13656,-,-,8:00 pm EST,Syracuse_University,University_of_Delaware,Regular,2024-2-17
