@@ -457,13 +457,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16203,-,-,8:25 pm EST,Robert_Morris_University,Niagara_University,Regular,2024-2-9
 14211,-,-,8:30 pm EST,The_Ohio_State_University,Mercyhurst_University,Regular,2024-2-9
 15718,-,-,8:30 pm CST,North_Dakota_State_University,Lake_Region_State_College,Regular,2024-2-9
-13134,-,-,10:00 pm EST,University_of_Delaware,University_of_Pittsburgh,Regular,2024-2-9
+13134,5,3,Final,University_of_Delaware,University_of_Pittsburgh,Regular,2024-2-9
 16701,-,-,10:10 pm CST,Loyola_University_Chicago,Northern_Michigan_University,Regular,2024-2-9
-16399,-,-,1:00 am CST,University_of_Saint_Thomas,University_of_Wisconsin,Regular,2024-2-10
+16399,2,1,Final OT,University_of_Saint_Thomas,University_of_Wisconsin,Regular,2024-2-10
 16236,-,-,11:00 am EST,United_States_Naval_Academy,University_of_Maryland,Regular,2024-2-10
 16012,-,-,11:30 am EST,University_of_Vermont,Bentley_University,Regular,2024-2-10
-16833,-,-,12:00 pm EST,Sault_College,Michigan_State_University,Regular,2024-2-10
-14365,-,-,1:00 pm EST,Liberty_University,Lawrence_Technological_University,Regular,2024-2-10
+16833,10,0,Final,Sault_College,Michigan_State_University,Regular,2024-2-10
+14365,2,0,Final,Liberty_University,Lawrence_Technological_University,Regular,2024-2-10
 15719,-,-,12:30 pm CST,North_Dakota_State_University,Lake_Region_State_College,Regular,2024-2-10
 14212,-,-,2:00 pm EST,The_Ohio_State_University,Mercyhurst_University,Regular,2024-2-10
 13135,-,-,3:15 pm EST,University_of_Delaware,University_of_Pittsburgh,Regular,2024-2-10
@@ -472,10 +472,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15913,-,-,6:00 pm EST,Providence_College,Boston_University,Regular,2024-2-10
 12839,-,-,7:00 pm EST,Central_Michigan_University,Adrian_College,Regular,2024-2-10
 13039,-,-,7:00 pm EST,Brockport_State_University,Rochester_Institute_Of_Technology,Regular,2024-2-10
-15935,-,-,7:00 pm EST,College_of_the_Holy_Cross,Sacred_Heart_University,Regular,2024-2-10
+15935,10,7,Final,College_of_the_Holy_Cross,Sacred_Heart_University,Regular,2024-2-10
 17238,-,-,8:00 pm EST,University_of_Notre_Dame,Miami_University,Regular,2024-2-10
-16420,-,-,8:15 pm EST,Boston_College,Assumption_University,Regular,2024-2-10
-17112,-,-,7:15 pm CST,University_of_Minnesota_Duluth,University_of_Wisconsin_Eau_Claire,Regular,2024-2-10
+16420,5,2,Final,Boston_College,Assumption_University,Regular,2024-2-10
+17112,2,3,Final,University_of_Minnesota_Duluth,University_of_Wisconsin_Eau_Claire,Regular,2024-2-10
 17859,-,-,10:00 pm EST,George_Washington_University,University_of_Virginia,Regular,2024-2-10
 16702,-,-,9:10 pm CST,Loyola_University_Chicago,Northern_Michigan_University,Regular,2024-2-10
 17127,-,-,10:00 pm CST,University_of_Wisconsin_Stout,University_of_Nebraska,Regular,2024-2-10
