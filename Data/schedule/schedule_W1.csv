@@ -330,9 +330,9 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15100,1,0,Visiting Forfeit,University_of_Minnesota,Davenport_University,Regular,2024-2-10
 14943,1,1,Final OT,Liberty_University,Adrian_College,Regular,2024-2-10
 15101,1,0,Visiting Forfeit,University_of_Minnesota,Davenport_University,Regular,2024-2-11
-14876,-,-,12:00 pm EST,Grand_Valley_State_University,Lindenwood_University,Regular,2024-2-11
-14495,-,-,11:00 am MST,University_of_Colorado,University_of_Wyoming,Regular,2024-2-11
-17856,-,-,4:05 pm MST,University_of_Denver,Colorado_State_University,Regular,2024-2-11
+14876,3,4,Final OT,Grand_Valley_State_University,Lindenwood_University,Regular,2024-2-11
+14495,13,1,Final,University_of_Colorado,University_of_Wyoming,Regular,2024-2-11
+17856,2,3,Final,University_of_Denver,Colorado_State_University,Regular,2024-2-11
 13549,-,-,7:00 pm EST,Adrian_College,University_of_Michigan_Dearborn,Regular,2024-2-15
 14945,-,-,9:00 pm EST,Liberty_University,Indiana_Tech,Regular,2024-2-15
 14946,-,-,2:30 pm EST,Liberty_University,Indiana_Tech,Regular,2024-2-16
