@@ -493,7 +493,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15914,4,0,Final,Providence_College,Saint_Anselm_College,Regular,2024-2-11
 17935,4,3,Final,Assumption_University,University_Of_Connecticut,Regular,2024-2-11
 18110,1,4,Final,Northeastern_University,Assumption_University,Regular,2024-2-12
-18113,-,-,7:30 pm EST,Northeastern_University,Providence_College,Regular,2024-2-14
+18113,4,4,Final,Northeastern_University,Providence_College,Regular,2024-2-14
 13040,-,-,7:00 pm EST,Brockport_State_University,University_of_Pittsburgh,Regular,2024-2-16
 15903,-,-,7:00 pm EST,Sacred_Heart_University,Assumption_University,Regular,2024-2-16
 14203,-,-,7:10 pm EST,University_of_Pennsylvania,Loyola_University_Maryland,Regular,2024-2-16
@@ -513,7 +513,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15411,-,-,5:15 pm EST,The_Ohio_State_University,Niagara_University,Regular,2024-2-17
 16445,-,-,4:15 pm CST,Iowa_State_University,University_of_Wisconsin_LaCrosse,Regular,2024-2-17
 16984,-,-,4:30 pm CST,Maryville_University,Bowling_Green_State_University,Regular,2024-2-17
-12840,-,-,7:00 pm EST,Central_Michigan_University,Loyola_University_Chicago,Regular,2024-2-17
+12840,1,0,Visiting Forfeit,Central_Michigan_University,Loyola_University_Chicago,Regular,2024-2-17
 17330,-,-,7:10 pm EST,University_of_Pennsylvania,West_Chester_University,Regular,2024-2-17
 14204,1,0,Visiting Forfeit,University_of_Pennsylvania,SUNY_Cortland,Regular,2024-2-17
 17475,-,-,8:10 pm EST,Rochester_Institute_Of_Technology,University_at_Buffalo,Regular,2024-2-17
@@ -521,7 +521,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16137,-,-,7:30 pm CST,University_of_Wisconsin_Eau_Claire,University_of_Saint_Thomas,Regular,2024-2-17
 16446,-,-,7:00 am CST,Iowa_State_University,University_of_Wisconsin_LaCrosse,Regular,2024-2-18
 16138,-,-,8:00 am CST,University_of_Wisconsin_Eau_Claire,University_of_Saint_Thomas,Regular,2024-2-18
-12841,-,-,12:00 pm EST,Central_Michigan_University,Loyola_University_Chicago,Regular,2024-2-18
+12841,1,0,Visiting Forfeit,Central_Michigan_University,Loyola_University_Chicago,Regular,2024-2-18
 15942,-,-,12:00 pm EST,University_of_New_Hampshire,Saint_Anselm_College,Regular,2024-2-18
 18114,-,-,1:00 pm AST,Northeastern_University,University_Of_Connecticut,Regular,2024-2-18
 16319,-,-,12:30 pm EST,Bentley_University,College_of_the_Holy_Cross,Regular,2024-2-18
