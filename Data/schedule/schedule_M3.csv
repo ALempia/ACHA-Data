@@ -665,7 +665,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14897,6,3,Final,Dartmouth_College,United_States_Coast_Guard_Academy,Regular,2024-1-15
 12995,14,1,Final,Hope_College,Davenport_University,Regular,2024-1-16
 15966,4,2,Final,Ferris_State_University,University_of_Michigan_Flint,Regular,2024-1-17
-17569,-,-,Postponed,Merchant_Marine_Academy,Yale_University,Regular,2024-1-18
+17569,9,4,Final,Merchant_Marine_Academy,Yale_University,Regular,2024-1-18
 16804,3,2,Final SO,Bates_College,University_of_New_England,Regular,2024-1-19
 17625,0,4,Final,Marian_University,Illinois_State_University,Regular,2024-1-19
 16561,7,0,Final,Florida_Gulf_Coast_University,University_of_Notre_Dame,Regular,2024-1-19
@@ -880,6 +880,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14819,2,1,Final,Lawrence_Tech,Saginaw_Valley_State_University,Regular,2024-2-9
 16807,0,5,Final,Bates_College,Colby_College,Regular,2024-2-9
 18283,4,2,Final,Maryville_University,Northwestern_University,Regular,2024-2-9
+17065,4,2,Final,University_of_Michigan,Central_Michigan_University,Regular,2024-2-9
 16572,2,3,Final SO,George_Mason_University,Stevenson_University,Regular,2024-2-9
 13000,7,5,Final,Hope_College,Michigan_State_University,Regular,2024-2-9
 14470,3,6,Final,Kent_State_University,University_of_Akron,Regular,2024-2-9
@@ -907,7 +908,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14566,3,4,Final OT,Indiana_University_of_Pennsylvania,Robert_Morris_University,Regular,2024-2-10
 12917,2,8,Final,Colorado_Mesa_University,United_States_Air_Force_Academy,Regular,2024-2-10
 18309,4,2,Final,University_of_Missouri,University_of_Arkansas,Regular,2024-2-10
-17065,2,4,Unofficial Final,University_of_Michigan,Central_Michigan_University,Regular,2024-2-10
 16673,7,8,Final OT,Springfield_College,Worcester_Polytechnic_Institute,Regular,2024-2-10
 16330,0,1,Final,Grand_Valley_State_University,Ferris_State_University,Regular,2024-2-10
 18154,8,2,Final,University_of_Michigan_Flint,West_Virginia_University,Regular,2024-2-10
@@ -925,19 +925,19 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18137,10,1,Final,Dartmouth_College,Tufts_University,Regular,2024-2-11
 15412,-,-,Postponed,University_of_Massachusetts,United_States_Coast_Guard_Academy,Regular,2024-2-11
 18338,12,7,Final,University_of_Missouri,University_of_Kansas,Regular,2024-2-11
-16573,-,-,11:00 am EST,George_Mason_University,Catholic_University,Regular,2024-2-12
+16573,3,2,00:00 3rd,George_Mason_University,Catholic_University,Regular,2024-2-12
 18223,-,-,8:10 pm EST,Central_Maine_Community_College,Colby_College,Regular,2024-2-14
 17565,-,-,Postponed,Yale_University,Saint_Thomas_Aquinas_College,Regular,2024-2-15
 18391,-,-,12:00 pm CST,Indiana_University,Butler_University,Regular,2024-2-16
 18404,-,-,5:00 pm EST,Michigan_State_University,Ferris_State_University,Regular,2024-2-16
-18401,-,-,6:00 pm EST,University_of_Michigan,Central_Michigan_University,Regular,2024-2-16
+18401,6,0,Final,University_of_Michigan,Central_Michigan_University,Regular,2024-2-16
 18400,-,-,6:15 pm EST,Oakland_University,Northwood_University,Regular,2024-2-16
 15803,-,-,7:30 pm EST,Case_Western_Reserve_University,Saint_Vincent_College,Regular,2024-2-16
-18405,-,-,8:00 pm EST,Calvin_University,Davenport_University,Regular,2024-2-16
-18406,-,-,8:00 pm EST,Grand_Valley_State_University,Western_Michigan_University,Regular,2024-2-16
+18405,8,1,Final,Calvin_University,Davenport_University,Regular,2024-2-16
+18406,13,3,Final,Grand_Valley_State_University,Western_Michigan_University,Regular,2024-2-16
 14567,-,-,8:00 pm EST,Indiana_University_of_Pennsylvania,West_Virginia_University,Regular,2024-2-16
 18392,-,-,7:00 pm CST,Trine_University,University_of_Cincinnati,Regular,2024-2-16
-15001,-,-,7:00 pm CST,University_of_Nebraska,University_of_Missouri,Regular,2024-2-16
+15001,6,5,Final,University_of_Nebraska,University_of_Missouri,Regular,2024-2-16
 13401,-,-,8:05 pm EST,Robert_Morris_University,PennWest_California,Regular,2024-2-16
 16194,-,-,8:30 pm EST,Stevens_Institute_of_Technology,Western_Connecticut_State_University,Regular,2024-2-16
 17014,-,-,8:30 pm EST,University_of_Massachusetts,Sacred_Heart_University,Regular,2024-2-16
