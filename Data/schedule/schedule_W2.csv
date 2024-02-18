@@ -499,21 +499,21 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14203,15,1,Final,University_of_Pennsylvania,Loyola_University_Maryland,Regular,2024-2-16
 15887,-,-,7:30 pm EST,Miami_University,Niagara_University,Regular,2024-2-16
 17134,-,-,7:30 pm EST,Rowan_University,University_of_Delaware,Regular,2024-2-16
-13577,-,-,8:00 pm EST,Lawrence_Technological_University,Robert_Morris_University,Regular,2024-2-16
+13577,7,1,Final,Lawrence_Technological_University,Robert_Morris_University,Regular,2024-2-16
 16318,-,-,8:30 pm EST,Bentley_University,Merrimack_College,Regular,2024-2-16
 16592,-,-,1:00 pm EST,Michigan_State_University,Adrian_College,Regular,2024-2-17
-13136,-,-,1:00 pm EST,University_of_Delaware,West_Virginia_University_,Regular,2024-2-17
+13136,6,0,Final,University_of_Delaware,West_Virginia_University_,Regular,2024-2-17
 15905,-,-,3:00 pm EST,Providence_College,University_of_New_Hampshire,Regular,2024-2-17
 17970,-,-,4:00 pm EST,Roger_Williams_University,Worcester_Polytechnic_Institute,Regular,2024-2-17
-17371,-,-,4:15 pm EST,Mercyhurst_University,University_of_Pittsburgh,Regular,2024-2-17
-13578,-,-,5:00 pm EST,Lawrence_Technological_University,Robert_Morris_University,Regular,2024-2-17
-13041,-,-,5:00 pm EST,Brockport_State_University,Oswego_State_University,Regular,2024-2-17
-15874,-,-,4:00 pm CST,Assiniboine_Community_College,Dakota_College_at_Bottineau,Regular,2024-2-17
+17371,3,2,Final,Mercyhurst_University,University_of_Pittsburgh,Regular,2024-2-17
+13578,7,1,Final,Lawrence_Technological_University,Robert_Morris_University,Regular,2024-2-17
+13041,6,2,Final,Brockport_State_University,Oswego_State_University,Regular,2024-2-17
+15874,5,3,Final,Assiniboine_Community_College,Dakota_College_at_Bottineau,Regular,2024-2-17
 15411,-,-,5:15 pm EST,The_Ohio_State_University,Niagara_University,Regular,2024-2-17
 16445,-,-,4:15 pm CST,Iowa_State_University,University_of_Wisconsin_LaCrosse,Regular,2024-2-17
-16984,-,-,4:30 pm CST,Maryville_University,Bowling_Green_State_University,Regular,2024-2-17
+16984,0,3,Final,Maryville_University,Bowling_Green_State_University,Regular,2024-2-17
 12840,1,0,Visiting Forfeit,Central_Michigan_University,Loyola_University_Chicago,Regular,2024-2-17
-17330,-,-,7:10 pm EST,University_of_Pennsylvania,West_Chester_University,Regular,2024-2-17
+17330,12,1,Final,University_of_Pennsylvania,West_Chester_University,Regular,2024-2-17
 14204,1,0,Visiting Forfeit,University_of_Pennsylvania,SUNY_Cortland,Regular,2024-2-17
 17475,-,-,8:10 pm EST,Rochester_Institute_Of_Technology,University_at_Buffalo,Regular,2024-2-17
 17305,-,-,8:30 pm EST,Saint_Anselm_College,University_of_Vermont,Regular,2024-2-17
