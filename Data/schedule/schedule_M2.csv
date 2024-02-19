@@ -2014,7 +2014,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18301,-,-,3:00 pm EST,Rider_University,University_of_North_Carolina_Wilmington,Regular,2024-2-10
 18266,7,1,Final,Army_(West_Point),Montclair_State_University,Regular,2024-2-10
 18289,3,2,Final OT,Montana_State_University,Weber_State_University,Regular,2024-2-10
-18311,-,-,3:00 pm EST,University_of_Pennsylvania,Stockton_University,Regular,2024-2-10
+18311,3,2,Final,University_of_Pennsylvania,Stockton_University,Regular,2024-2-10
 17576,3,4,Final,Williston_State_College,Lake_Region_State_College,Regular,2024-2-10
 18293,0,2,Final,University_of_Wisconsin,University_of_Minnesota_Crookston,Regular,2024-2-10
 18298,6,0,Final,University_of_Minnesota,Saint_Cloud_State_University,Regular,2024-2-10
@@ -2071,20 +2071,26 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17577,1,9,Final,Williston_State_College,Dakota_College_Bottineau,Regular,2024-2-12
 16253,3,1,Final,Dakota_College_Bottineau,Lake_Region_State_College,Regular,2024-2-13
 12938,1,3,Final,Lake_Region_State_College,Dakota_College_Bottineau,Regular,2024-2-15
+18419,-,-,5:40 pm EST,Keene_State_College,Northeastern_University,Regular,2024-2-16
 17578,0,7,Final,Williston_State_College,University_of_Minnesota_Crookston,Regular,2024-2-16
 18197,-,-,7:00 pm CST,University_of_Wisconsin_LaCrosse,South_Dakota_State_University,Regular,2024-2-16
+18420,-,-,8:10 pm EST,Bentley_University,University_of_New_Hampshire,Regular,2024-2-16
 15536,-,-,8:00 pm CST,University_of_Texas,Oklahoma_State_University,Regular,2024-2-16
 14280,2,3,Final SO,Utah_State_University_,Weber_State_University,Regular,2024-2-16
 12939,5,2,Final,Lake_Region_State_College,Waldorf_University,Regular,2024-2-16
 17692,-,-,8:30 pm MST,Park_University,Fresno_State_University,Regular,2024-2-16
 18181,-,-,12:00 pm EST,Michigan_Technological_University,Northern_Michigan_University,Regular,2024-2-17
 17579,1,9,Final,Williston_State_College,University_of_Minnesota_Crookston,Regular,2024-2-17
+18421,-,-,4:20 pm EST,University_of_Connecticut,University_of_Massachusetts_Lowell,Regular,2024-2-17
 18198,-,-,4:00 pm CST,University_of_Wisconsin_LaCrosse,South_Dakota_State_University,Regular,2024-2-17
 12940,9,1,Final,Lake_Region_State_College,Waldorf_University,Regular,2024-2-17
+18422,-,-,7:10 pm EST,Saint_Anselm_College,Connecticut_College,Regular,2024-2-17
 16493,6,3,Final,University_of_North_Dakota,Bemidji_State_University,Regular,2024-2-17
 15537,-,-,7:30 pm CST,University_of_Texas,Oklahoma_State_University,Regular,2024-2-17
 15586,-,-,7:15 pm MST,Weber_State_University,Utah_State_University_,Regular,2024-2-17
-16494,-,-,2:15 pm CST,University_of_North_Dakota,Bemidji_State_University,Regular,2024-2-18
+18423,-,-,12:00 pm EST,Keene_State_College,Bentley_University,Regular,2024-2-18
+16494,6,4,Final,University_of_North_Dakota,Bemidji_State_University,Regular,2024-2-18
+18424,-,-,5:20 pm EST,University_of_Connecticut,Connecticut_College,Regular,2024-2-18
 17691,-,-,8:30 pm MST,Park_University,Northern_Arizona_University,Regular,2024-2-20
 14508,-,-,8:00 pm CST,University_of_Houston,University_of_North_Texas,Regular,2024-2-23
 17654,-,-,7:00 pm PST,Gonzaga_University,Western_Washington_University,Regular,2024-2-23
