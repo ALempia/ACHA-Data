@@ -2045,7 +2045,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 15501,9,2,Final,Lindenwood_University,Trine_University,Regular,2024-2-10
 17590,-,-,9:30 pm EST,Concordia_University_Ann_Arbor,Purdue_University_Northwest,Regular,2024-2-10
 16849,7,3,Final,North_Dakota_State_University,Waldorf_University,Regular,2024-2-10
-18304,-,-,7:00 pm PST,San_Jose_State_University,University_of_California_Berkeley,Regular,2024-2-10
+18304,7,3,Final,San_Jose_State_University,University_of_California_Berkeley,Regular,2024-2-10
 18305,3,2,Final,University_of_California_Los_Angeles,Loyola_Marymount_University,Regular,2024-2-10
 18269,4,2,Final,Metropolitan_State_University_Denver,University_of_Colorado,Regular,2024-2-10
 17712,-,-,8:30 pm PST,University_of_California_Davis,Stanford_University,Regular,2024-2-10
@@ -2087,7 +2087,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18422,-,-,7:10 pm EST,Saint_Anselm_College,Connecticut_College,Regular,2024-2-17
 16493,6,3,Final,University_of_North_Dakota,Bemidji_State_University,Regular,2024-2-17
 15537,-,-,7:30 pm CST,University_of_Texas,Oklahoma_State_University,Regular,2024-2-17
-15586,-,-,7:15 pm MST,Weber_State_University,Utah_State_University_,Regular,2024-2-17
+15586,8,2,Final,Weber_State_University,Utah_State_University_,Regular,2024-2-17
 18423,-,-,12:00 pm EST,Keene_State_College,Bentley_University,Regular,2024-2-18
 16494,6,4,Final,University_of_North_Dakota,Bemidji_State_University,Regular,2024-2-18
 18424,-,-,5:20 pm EST,University_of_Connecticut,Connecticut_College,Regular,2024-2-18
