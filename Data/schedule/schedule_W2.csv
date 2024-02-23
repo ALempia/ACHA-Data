@@ -537,12 +537,12 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17010,-,-,7:00 pm CST,Dakota_College_at_Bottineau,Lake_Region_State_College,Regular,2024-2-23
 17914,-,-,4:30 pm CST,University_of_Wisconsin,University_of_Wisconsin_LaCrosse,Regular,2024-2-24
 15875,-,-,7:00 pm CST,Assiniboine_Community_College,North_Dakota_State_University,Regular,2024-2-24
-17011,-,-,7:00 pm CST,Dakota_College_at_Bottineau,University_of_Minnesota_Duluth,Regular,2024-2-24
+17011,1,0,Visiting Forfeit,Dakota_College_at_Bottineau,University_of_Minnesota_Duluth,Regular,2024-2-24
 15816,-,-,8:00 pm EST,Georgetown_University,George_Washington_University,Regular,2024-2-24
 13374,-,-,8:00 pm CST,Lake_Region_State_College,Iowa_State_University,Regular,2024-2-24
 15265,-,-,8:15 pm CST,Maryville_University,University_of_Wisconsin_Eau_Claire,Regular,2024-2-24
 16703,-,-,9:10 pm CST,Loyola_University_Chicago,University_of_Notre_Dame,Regular,2024-2-24
-17012,-,-,9:00 am CST,Dakota_College_at_Bottineau,University_of_Minnesota_Duluth,Regular,2024-2-25
+17012,1,0,Visiting Forfeit,Dakota_College_at_Bottineau,University_of_Minnesota_Duluth,Regular,2024-2-25
 17915,-,-,11:15 am CST,University_of_Wisconsin,University_of_Wisconsin_LaCrosse,Regular,2024-2-25
 17240,-,-,12:30 pm EST,University_of_Notre_Dame,Loyola_University_Chicago,Regular,2024-2-25
 15876,-,-,12:00 pm CST,Assiniboine_Community_College,North_Dakota_State_University,Regular,2024-2-25
