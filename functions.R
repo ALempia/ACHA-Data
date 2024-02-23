@@ -3,6 +3,8 @@ require(stringr)
 require(tidyverse)
 require(jsonlite)
 require(bpr)
+require(extraDistr)
+require(lubridate)
 
 pull_url <-function(code){
   require(httr)
@@ -444,6 +446,85 @@ update_schedule <- function(lg, date){
   write_csv(live, paste0("Data/schedule/schedule_", lg, ".csv"))
 }
 
+get_gh_full <- function(lg, m, s, cur_date){
+  # Get & Clean
+  lgs <- c("M1", "W1", "M2", "W2", "M3")
+  all_leagues <- c("Men's Division 1", "Women's Division 1", "Men's Division 2", 
+                   "Women's Division 2", "Men's Division 3")
+  # lg <- lgs[which(league == all_leagues)]
+
+    rtgs <- m
+    sched <- s %>% 
+      filter(prop_date <= cur_date & str_detect(status, "Final")) %>% 
+      mutate(
+        homeG = as.numeric(homeG), awayG = as.numeric(awayG),
+        reg_homeG = ifelse(
+          (status == "Final OT" | status == "Final SO") & homeG > awayG, homeG - 1, homeG
+        ),
+        reg_awayG = ifelse(
+          (status == "Final OT" | status == "Final SO") & awayG > homeG, awayG - 1, awayG
+        ),
+        homePts = case_when(
+          homeG > awayG & (status == "Final OT" | status == "Final SO") ~ 2,
+          homeG > awayG & !(status == "Final OT" | status == "Final SO") ~ 3,
+          homeG < awayG & (status == "Final OT" | status == "Final SO") ~ 1,
+          homeG < awayG & !(status == "Final OT" | status == "Final SO") ~ 0,
+          TRUE ~ 1.5
+        )
+      )
+    
+    sched$xHG <- 0; sched$xAG <- 0; sched$xHpts <- 0; sched$xApts <- 0; sched$xHGD <- 0
+    sched$hwin <- 0; sched$awin <- 0
+    
+    for(i in 1:nrow(sched)){
+      gp_i <- game_probs(sched$home[i], sched$away[i], rtgs)
+      sched$xHG[i] <- gp_i$key_probs$xHomeG
+      sched$xAG[i] <- gp_i$key_probs$xAwayG
+      sched$xHGD[i] <- gp_i$key_probs$xHomeDiff
+      xhpts <- 3*gp_i$key_probs$home_Rwin + 2*gp_i$key_probs$home_OTwin + gp_i$key_probs$away_OTwin
+      sched$xHpts[i] <- xhpts; sched$xApts[i] <- 3 - xhpts
+      sched$hwin[i] <- gp_i$key_probs$home_win; sched$awin[i] <- gp_i$key_probs$away_win
+    }
+    
+    # Home
+    home <- sched %>% transmute(
+      Date = paste0(month(prop_date, label = T, abbr = T), " ", day(prop_date)),
+      Team = str_replace_all(home, "_", " "), `Opp.` = str_replace_all(away, "_", " "), 
+      GF = homeG, GA = awayG, Result = case_when(
+        homeG > awayG & (status == "Final OT" | status == "Final SO") ~ "OT Win",
+        homeG > awayG & !(status == "Final OT" | status == "Final SO") ~ "Win",
+        homeG < awayG & (status == "Final OT" | status == "Final SO") ~ "OT Loss",
+        homeG < awayG & !(status == "Final OT" | status == "Final SO") ~ "Loss",
+        TRUE ~ "Tie"
+      ),
+      GFax = round(reg_homeG - xHG, 2), GAax = round(reg_awayG - xAG, 2),
+      GDax = round(reg_homeG - reg_awayG - xHGD, 2),
+      PTSax = round(homePts - xHpts, 3), `Win Prob.` = round(100*hwin, 1),
+      xGF = round(xHG, 2), xGA = round(xAG, 2), xPts = round(xHpts, 3)
+    )
+    
+    # Away
+    away <- sched %>% transmute(
+      Date = paste0(month(prop_date, label = T, abbr = T), " ", day(prop_date)),
+      Team = str_replace_all(away, "_", " "), `Opp.` = str_replace_all(home, "_", " "), 
+      GF = awayG, GA = homeG, Result = case_when(
+        homeG > awayG & (status == "Final OT" | status == "Final SO") ~ "OT Loss",
+        homeG > awayG & !(status == "Final OT" | status == "Final SO") ~ "Loss",
+        homeG < awayG & (status == "Final OT" | status == "Final SO") ~ "OT Win",
+        homeG < awayG & !(status == "Final OT" | status == "Final SO") ~ "Win",
+        TRUE ~ "Tie"
+      ),
+      GFax = round(reg_awayG - xAG, 2), GAax = round(reg_homeG - xHG, 2),
+      GDax = round(reg_awayG - reg_homeG + xHGD, 2),
+      PTSax = round(3 - homePts - xApts, 3), `Win Prob.` = round(100*awin, 1),
+      xGF = round(xAG, 2), xGA = round(xHG, 2), xPts = round(xApts, 3)
+    )
+    
+    # Exit
+    return(bind_rows(home, away) |> mutate(`Lg.` = lg))
+    
+}
+
 update_ratings <- function(lg, date){
   # Get Schedule
   live <- read_data(lg, 24) %>% mutate(game_id = as.numeric(game_id))
@@ -451,7 +532,12 @@ update_ratings <- function(lg, date){
   # Update Ratings
   p <- read_rds(paste0("Data/prior/prior_", lg, ".rds"))
   m <- get_ratings(live, p, date = date)
+  
+  # Update History
+  h <- get_gh_full(lg, m, live, date)
+  
   write_rds(m, paste0("Data/ratings/ratings_", lg, ".rds"))
+  write_csv(h, paste0("Data/history/history_", lg, ".csv"))
 }
 
 update_Power <- function(lg, date){
@@ -481,7 +567,46 @@ get_W_Su <- function(date){
   write_csv(weekend, "Data/weekend.csv")
 }
 
-
+game_probs <- function(home, away, rating_list, c = 0.01){
+  require(extraDistr)
+  require(tidyverse)
+  
+  intercept <- rating_list[["intercept"]]
+  homeEF <- rating_list[["homeEF"]]
+  ho_rate <- rating_list[["ratings"]]$Off_adjed[which(rating_list[["ratings"]]$Team == home)]
+  ao_rate <- rating_list[["ratings"]]$Off_adjed[which(rating_list[["ratings"]]$Team == away)]
+  hd_rate <- rating_list[["ratings"]]$Def_adjed[which(rating_list[["ratings"]]$Team == home)]
+  ad_rate <- rating_list[["ratings"]]$Def_adjed[which(rating_list[["ratings"]]$Team == away)]
+  
+  # DF of score & state probabilities
+  df <- data.frame(expand_grid(homeG = c(0:12), awayG =c(0:12)))
+  a <- ho_rate + ad_rate + .5*homeEF + intercept
+  b <- ao_rate + hd_rate -.5*homeEF + intercept
+  df <- df %>% mutate(prob = extraDistr::dbvpois(homeG, awayG, exp(a), exp(b), c)) %>% 
+    mutate(prob = prob/sum(prob))
+  
+  
+  # summary of key probabilities
+  key_probs <- df %>% mutate(
+    home_Rwin = sum(prob*(homeG > awayG)),
+    away_Rwin = sum(prob*(awayG > homeG)),
+    OT = sum(prob*(awayG == homeG)),
+    home_OTwin = ((0.5 + (home_Rwin/(1 - OT)))/2)*OT, 
+    away_OTwin = ((0.5 + (away_Rwin/(1 - OT)))/2)*OT,
+    home_win = home_Rwin + home_OTwin,
+    away_win = away_Rwin + away_OTwin,
+    xHomeDiff = sum(prob*(homeG - awayG)),
+    xAwayDiff = -1*xHomeDiff,
+    xHomeG = sum(prob*homeG),
+    xAwayG = sum(prob*awayG)
+  ) %>% select(home_Rwin:xAwayG) %>% head(1)
+  
+  # list that shit
+  exit <- list()
+  exit[["df"]] <- df
+  exit[["key_probs"]] <- key_probs
+  exit
+}
 
 
 
