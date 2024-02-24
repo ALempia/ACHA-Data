@@ -513,7 +513,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 12840,1,0,Visiting Forfeit,Central_Michigan_University,Loyola_University_Chicago,Regular,2024-2-17
 17330,12,1,Final,University_of_Pennsylvania,West_Chester_University,Regular,2024-2-17
 14204,1,0,Visiting Forfeit,University_of_Pennsylvania,SUNY_Cortland,Regular,2024-2-17
-17475,5,4,03:06 3rd,Rochester_Institute_Of_Technology,University_at_Buffalo,Regular,2024-2-17
+17475,5,4,Final,Rochester_Institute_Of_Technology,University_at_Buffalo,Regular,2024-2-17
 17305,5,4,Final,Saint_Anselm_College,University_of_Vermont,Regular,2024-2-17
 16137,1,2,Final OT,University_of_Wisconsin_Eau_Claire,University_of_Saint_Thomas,Regular,2024-2-17
 16446,2,1,Final,Iowa_State_University,University_of_Wisconsin_LaCrosse,Regular,2024-2-18
@@ -532,10 +532,15 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17936,3,3,Final,Assumption_University,Boston_College,Regular,2024-2-18
 18425,6,1,Final,Villanova_University,West_Virginia_University_,Regular,2024-2-18
 18112,0,0,Suspended [19:30:00 AST],Northeastern_University,Boston_College,Regular,2024-2-19
-18435,-,-,4:45 pm EST,Adrian_College,Miami_University,Regular,2024-2-23
-18436,-,-,7:45 pm EST,Northern_Michigan_University,Michigan_State_University,Regular,2024-2-23
+18446,0,1,Final,Liberty_University,University_of_Maryland,Regular,2024-2-23
+18435,3,2,Final,Adrian_College,Miami_University,Regular,2024-2-23
+18445,6,0,Final,United_States_Naval_Academy,Rowan_University,Regular,2024-2-23
+18436,3,4,Final,Northern_Michigan_University,Michigan_State_University,Regular,2024-2-23
 17010,-,-,7:00 pm CST,Dakota_College_at_Bottineau,Lake_Region_State_College,Regular,2024-2-23
+18449,0,4,Final,Brockport_State_University,University_of_Pittsburgh,Regular,2024-2-23
+18447,-,-,2:40 pm EST,University_of_Vermont,Northeastern_University,Regular,2024-2-24
 17914,-,-,4:30 pm CST,University_of_Wisconsin,University_of_Wisconsin_LaCrosse,Regular,2024-2-24
+18448,-,-,7:00 pm EST,Providence_College,Saint_Anselm_College,Regular,2024-2-24
 15875,-,-,7:00 pm CST,Assiniboine_Community_College,North_Dakota_State_University,Regular,2024-2-24
 17011,1,0,Visiting Forfeit,Dakota_College_at_Bottineau,University_of_Minnesota_Duluth,Regular,2024-2-24
 15816,-,-,8:00 pm EST,Georgetown_University,George_Washington_University,Regular,2024-2-24

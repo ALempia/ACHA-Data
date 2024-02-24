@@ -1088,21 +1088,21 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18336,2,1,Final,University_of_Jamestown,University_of_Mary,Regular,2024-2-18
 13919,-,-,Postponed,Ohio_University,Liberty_University,Regular,2024-2-22
 13874,7,0,Final,Minot_State_University,University_of_Mary,Regular,2024-2-22
-18316,-,-,12:30 pm EST,William_Paterson_University,Temple_University,Regular,2024-2-23
-18337,-,-,2:30 pm EST,Indiana_Tech,Adrian_College,Regular,2024-2-23
-18317,-,-,3:30 pm EST,Villanova_University,Lehigh_University,Regular,2024-2-23
+18316,3,2,Final,William_Paterson_University,Temple_University,Regular,2024-2-23
+18337,1,5,Final,Indiana_Tech,Adrian_College,Regular,2024-2-23
+18317,0,0,18:08 1st,Villanova_University,Lehigh_University,Regular,2024-2-23
 18413,-,-,4:00 pm EST,University_of_Rhode_Island,Stony_Brook_University,Regular,2024-2-23
 18414,-,-,7:00 pm EST,University_of_Delaware,Drexel_University,Regular,2024-2-23
-13930,-,-,7:00 pm CST,University_of_Alabama,McKendree_University,Regular,2024-2-23
-14063,-,-,7:00 pm CST,University_of_Illinois,Illinois_State_University,Regular,2024-2-23
-13806,-,-,7:00 pm MST,University_of_Colorado,University_of_Oregon,Regular,2024-2-23
-13931,-,-,2:00 pm CST,University_of_Alabama,McKendree_University,Regular,2024-2-24
-18411,-,-,4:00 pm EST,Niagara_University,TB,Regular,2024-2-24
-18319,-,-,5:00 pm EST,George_Mason_University,TB,Regular,2024-2-24
-18412,-,-,7:00 pm EST,University_of_Pittsburgh,TB,Regular,2024-2-24
+13930,-,-,Postponed,University_of_Alabama,McKendree_University,Regular,2024-2-23
+14063,4,5,Final SO,University_of_Illinois,Illinois_State_University,Regular,2024-2-23
+13806,4,2,Final,University_of_Colorado,University_of_Oregon,Regular,2024-2-23
+13931,-,-,Postponed,University_of_Alabama,McKendree_University,Regular,2024-2-24
+18411,-,-,4:00 pm EST,Niagara_University,Drexel_University,Regular,2024-2-24
+18319,-,-,5:00 pm EST,George_Mason_University,William_Paterson_University,Regular,2024-2-24
+18412,-,-,7:00 pm EST,University_of_Pittsburgh,University_of_Rhode_Island,Regular,2024-2-24
 13895,-,-,7:00 pm EST,Liberty_University,Ohio_University,Regular,2024-2-24
 14064,-,-,7:00 pm CST,University_of_Illinois,Illinois_State_University,Regular,2024-2-24
-18318,-,-,8:00 pm EST,West_Chester_University,TB,Regular,2024-2-24
+18318,-,-,8:00 pm EST,West_Chester_University,Lehigh_University,Regular,2024-2-24
 13807,-,-,7:00 pm MST,University_of_Colorado,University_of_Oregon,Regular,2024-2-24
 18415,-,-,12:00 pm EST,TB,TB,Regular,2024-2-25
 18379,-,-,1:00 pm EST,TB,TB,Regular,2024-2-25
