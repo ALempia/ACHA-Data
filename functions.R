@@ -34,8 +34,8 @@ pull_url <-function(code){
   if(code >= 21){
     data <- data %>% mutate(
       phase = case_when(
-        code <= 23 | code >= 34 ~ "Regular", 
-        code == 32 ~ "Regional",
+        code == 32 | code == 44 ~ "Regional",
+        code <= 23 | code >= 34 ~ "Regular",
         TRUE ~ "National"
       )
     )
@@ -67,7 +67,7 @@ read_data <- function(lg = c("M1", "M2", "M3", "W1", "W2"), season, include_manu
     lg == "M3" & season == 22 ~ c(10, 16, 18, 0),
     lg == "W1" & season == 22 ~ c(11, 17, 0, 0),
     lg == "W2" & season == 22 ~ c(11, 19, 20, 0),
-    str_detect(lg, "M") & season == 24 ~ c(34, 0, 0, 0),
+    str_detect(lg, "M") & season == 24 ~ c(34, 44, 0, 0),
     str_detect(lg, "W") & season == 24 ~ c(35, 0, 0, 0),
     TRUE ~ c(0, 0, 0, 0)
   )
@@ -99,7 +99,7 @@ read_data <- function(lg = c("M1", "M2", "M3", "W1", "W2"), season, include_manu
         away = str_replace_all(away, c(" " = "_", "-" = "_")),
        
       ) %>% filter(
-        home != "TBD" & away != "TBD"
+        home != "TBD" & away != "TBD" & !str_detect(home, " Seed") & !str_detect(away, " Seed")
       )
 
   return(data)
@@ -607,6 +607,4 @@ game_probs <- function(home, away, rating_list, c = 0.01){
   exit[["key_probs"]] <- key_probs
   exit
 }
-
-
 
