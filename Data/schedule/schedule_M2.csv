@@ -2096,10 +2096,50 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17691,-,-,8:30 pm MST,Park_University,Northern_Arizona_University,Regular,2024-2-20
 14508,-,-,8:00 pm CST,University_of_Houston,University_of_North_Texas,Regular,2024-2-23
 17654,-,-,7:00 pm PST,Gonzaga_University,Western_Washington_University,Regular,2024-2-23
-14509,-,-,12:00 pm CST,University_of_Houston,University_of_North_Texas,Regular,2024-2-24
+14509,3,12,Final,University_of_Houston,University_of_North_Texas,Regular,2024-2-24
 17655,-,-,7:00 pm PST,Gonzaga_University,Western_Washington_University,Regular,2024-2-24
 13608,-,-,7:00 pm CST,Drury_University,Oklahoma_State_University,Regular,2024-3-1
 12941,-,-,7:00 pm CST,Lake_Region_State_College,University_of_North_Dakota,Regular,2024-3-1
 17656,-,-,7:00 pm PST,Gonzaga_University,University_of_Idaho,Regular,2024-3-1
 13609,-,-,6:00 pm CST,Drury_University,Oklahoma_State_University,Regular,2024-3-2
 18100,-,-,7:00 pm CST,Lake_Region_State_College,University_of_North_Dakota,Regular,2024-3-2
+18381,6,8,Final,Bentley_University,Connecticut_College,Regional,2024-2-23
+18369,6,8,Final,University_of_North_Carolina_Chapel_Hill,University_of_Pennsylvania,Regional,2024-2-23
+18359,3,5,Final,Sault_College,Drury_University,Regional,2024-2-23
+18360,2,5,Final,Adrian_College,University_of_Minnesota,Regional,2024-2-23
+18380,4,1,Final,Northern_Arizona_University,University_of_Utah,Regional,2024-2-23
+18382,6,1,Final,Sacred_Heart_University,University_of_Connecticut,Regional,2024-2-23
+18370,3,1,Final,North_Carolina_State_University,Rowan_University,Regional,2024-2-23
+18361,2,3,Final,University_of_Wisconsin,Maryville_University,Regional,2024-2-23
+18350,3,7,Final,Boise_State_University,University_of_California_Los_Angeles,Regional,2024-2-23
+18362,5,3,Final,University_of_Jamestown,DePaul_University,Regional,2024-2-23
+18383,6,2,Final,Boston_University,Siena_College,Regional,2024-2-23
+18371,3,0,Final,Penn_State_University,University_of_North_Carolina_Wilmington,Regional,2024-2-23
+18351,4,5,Final OT,Southern_Methodist_University,University_of_Texas,Regional,2024-2-23
+18384,2,1,Final OT,Saint_Anselm_College,Clarkson_University,Regional,2024-2-23
+18372,3,2,Final,Rider_University,University_of_Louisville,Regional,2024-2-23
+18352,4,2,Final,University_of_Denver,Dakota_College_Bottineau,Regional,2024-2-23
+18385,3,0,Final,University_of_New_Hampshire,Saint_Anselm_College,Regional,2024-2-24
+18373,7,2,Final,Miami_University,Rider_University,Regional,2024-2-24
+18356,7,3,Final,Loyola_Marymount_University,Northern_Arizona_University,Regional,2024-2-24
+18363,5,2,Final,Concordia_University_of_Wisconsin,Drury_University,Regional,2024-2-24
+18386,7,12,Final,Rensselaer_Polytechnic_Institute,Connecticut_College,Regional,2024-2-24
+18374,14,5,Final,Indiana_University,University_of_Pennsylvania,Regional,2024-2-24
+18353,5,1,Final,Metropolitan_State_University_Denver,University_of_Texas,Regional,2024-2-24
+18364,2,3,Final,University_of_Iowa,University_of_Minnesota,Regional,2024-2-24
+18387,6,5,Final,Army_(West_Point),Boston_University,Regional,2024-2-24
+18375,3,2,Final OT,University_of_Kentucky,Penn_State_University,Regional,2024-2-24
+18354,6,2,Final,University_of_Providence,University_of_California_Los_Angeles,Regional,2024-2-24
+18365,2,3,Final,University_of_Minnesota_Crookston,Maryville_University,Regional,2024-2-24
+18388,2,1,Final OT,University_of_Massachusetts_Amherst,Sacred_Heart_University,Regional,2024-2-24
+18376,2,4,Final,Ohio_University,North_Carolina_State_University,Regional,2024-2-24
+18355,4,3,Final,Utah_State_University_,University_of_Denver,Regional,2024-2-24
+18366,4,3,Final OT2,Michigan_State_University,University_of_Jamestown,Regional,2024-2-24
+18389,-,-,10:30 am EST,Army_(West_Point),University_of_Massachusetts_Amherst,Regional,2024-2-25
+18368,-,-,12:30 pm EST,Concordia_University_of_Wisconsin,University_of_Minnesota,Regional,2024-2-25
+18377,-,-,12:30 pm EST,Miami_University,University_of_Kentucky,Regional,2024-2-25
+18390,-,-,1:30 pm EST,University_of_New_Hampshire,Connecticut_College,Regional,2024-2-25
+18358,-,-,1:30 pm MST,University_of_Providence,Loyola_Marymount_University,Regional,2024-2-25
+18367,-,-,3:30 pm EST,Michigan_State_University,Maryville_University,Regional,2024-2-25
+18378,-,-,3:30 pm EST,Indiana_University,North_Carolina_State_University,Regional,2024-2-25
+18357,-,-,4:30 pm MST,Metropolitan_State_University_Denver,Utah_State_University_,Regional,2024-2-25
