@@ -997,7 +997,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14343,2,3,Final,University_of_Pittsburgh,Oswego_State_University,Regular,2024-2-9
 14306,1,6,Final,Colorado_State_University,University_of_Nevada_Las_Vegas,Regular,2024-2-9
 13803,4,2,Final,University_of_Colorado,Arizona_State_University,Regular,2024-2-9
-12500,-,-,8:00 pm PST,San_Diego_State_University,University_of_Oregon,Regular,2024-2-9
+12500,7,0,Final,San_Diego_State_University,University_of_Oregon,Regular,2024-2-9
 13655,8,2,Final,Syracuse_University,Rochester_Institute_of_Technology,Regular,2024-2-10
 14264,5,3,Final,West_Chester_University,Canisius_University,Regular,2024-2-10
 14133,4,5,Final OT,University_of_Michigan_Dearborn,Lawrence_Tech,Regular,2024-2-10
@@ -1029,7 +1029,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13804,4,3,Final SO,University_of_Colorado,Arizona_State_University,Regular,2024-2-10
 12674,3,2,Final SO,Maryville_University,Minot_State_University,Regular,2024-2-10
 14307,2,5,Final,Colorado_State_University,University_of_Nevada_Las_Vegas,Regular,2024-2-10
-12501,-,-,8:00 pm PST,San_Diego_State_University,University_of_Oregon,Regular,2024-2-10
+12501,3,0,Final,San_Diego_State_University,University_of_Oregon,Regular,2024-2-10
 14638,3,6,Final,Niagara_University,Stony_Brook_University,Regular,2024-2-11
 18205,3,0,Final,Purdue_University_Northwest,Roosevelt_University,Regular,2024-2-13
 18204,9,2,Final,Adrian_College,University_of_Toledo,Regular,2024-2-14
@@ -1099,13 +1099,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13931,-,-,Postponed,University_of_Alabama,McKendree_University,Regular,2024-2-24
 18411,-,-,4:00 pm EST,Niagara_University,Drexel_University,Regular,2024-2-24
 18319,4,5,Final OT,George_Mason_University,William_Paterson_University,Regular,2024-2-24
-18412,-,-,7:00 pm EST,University_of_Pittsburgh,University_of_Rhode_Island,Regular,2024-2-24
+18412,3,5,Final,University_of_Pittsburgh,University_of_Rhode_Island,Regular,2024-2-24
 13895,2,4,Final,Liberty_University,Ohio_University,Regular,2024-2-24
 14064,2,4,Final,University_of_Illinois,Illinois_State_University,Regular,2024-2-24
 18318,3,3,00:00 3rd,West_Chester_University,Lehigh_University,Regular,2024-2-24
 13807,3,6,Final,University_of_Colorado,University_of_Oregon,Regular,2024-2-24
 18415,-,-,12:00 pm EST,University_of_Rhode_Island,Drexel_University,Regular,2024-2-25
-18379,-,-,1:00 pm EST,William_Paterson_University,Lehigh_University,Regular,2024-2-25
+18379,1,4,Final,William_Paterson_University,Lehigh_University,Regular,2024-2-25
 12533,-,-,7:00 pm CST,University_of_Jamestown,Minot_State_University,Regular,2024-2-28
 13875,-,-,7:00 pm CST,Minot_State_University,University_of_Jamestown,Regular,2024-2-29
 12632,-,-,7:30 pm PST,University_of_Nevada_Las_Vegas,University_of_Colorado,Regular,2024-3-1
@@ -1142,11 +1142,11 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18376,2,4,Final,Ohio_University,North_Carolina_State_University,Regional,2024-2-24
 18355,4,3,Final,Utah_State_University_,University_of_Denver,Regional,2024-2-24
 18366,4,3,Final OT2,Michigan_State_University,University_of_Jamestown,Regional,2024-2-24
-18389,-,-,10:30 am EST,Army_(West_Point),University_of_Massachusetts_Amherst,Regional,2024-2-25
-18368,-,-,12:30 pm EST,Concordia_University_of_Wisconsin,University_of_Minnesota,Regional,2024-2-25
-18377,-,-,12:30 pm EST,Miami_University,University_of_Kentucky,Regional,2024-2-25
-18390,-,-,1:30 pm EST,University_of_New_Hampshire,Connecticut_College,Regional,2024-2-25
-18358,-,-,1:30 pm MST,University_of_Providence,Loyola_Marymount_University,Regional,2024-2-25
-18367,-,-,3:30 pm EST,Michigan_State_University,Maryville_University,Regional,2024-2-25
-18378,-,-,3:30 pm EST,Indiana_University,North_Carolina_State_University,Regional,2024-2-25
-18357,-,-,4:30 pm MST,Metropolitan_State_University_Denver,Utah_State_University_,Regional,2024-2-25
+18389,4,1,Final,Army_(West_Point),University_of_Massachusetts_Amherst,Regional,2024-2-25
+18368,2,1,Final OT,Concordia_University_of_Wisconsin,University_of_Minnesota,Regional,2024-2-25
+18377,3,1,Final,Miami_University,University_of_Kentucky,Regional,2024-2-25
+18390,8,1,Final,University_of_New_Hampshire,Connecticut_College,Regional,2024-2-25
+18358,7,4,Final,University_of_Providence,Loyola_Marymount_University,Regional,2024-2-25
+18367,4,1,Final,Michigan_State_University,Maryville_University,Regional,2024-2-25
+18378,5,2,Final,Indiana_University,North_Carolina_State_University,Regional,2024-2-25
+18357,3,1,Final,Metropolitan_State_University_Denver,Utah_State_University_,Regional,2024-2-25

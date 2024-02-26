@@ -369,10 +369,12 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13105,6,2,Final,Niagara_University,Penn_State_University,Regular,2024-2-23
 18440,2,1,Final,Liberty_University,Maryville_University,Regular,2024-2-23
 18428,2,1,Final,University_of_Colorado,University_of_Utah,Regular,2024-2-23
-13689,-,-,11:20 am EST,University_of_Massachusetts_Amherst,University_of_Rhode_Island,Regular,2024-2-24
+13689,2,0,Final,University_of_Massachusetts_Amherst,University_of_Rhode_Island,Regular,2024-2-24
 18451,4,0,Final,Indiana_Tech,University_of_Michigan,Regular,2024-2-24
-13106,-,-,4:00 pm EST,Niagara_University,Penn_State_University,Regular,2024-2-24
+13106,6,2,Final,Niagara_University,Penn_State_University,Regular,2024-2-24
 18450,1,3,Final,University_of_Michigan_Dearborn,Adrian_College,Regular,2024-2-24
 18429,3,0,Final,Arizona_State_University,University_of_Utah,Regular,2024-2-24
 18452,3,2,Final,Liberty_University,Midland_University,Regular,2024-2-24
-18430,5,4,Final OT,University_of_Colorado,Colorado_State_University,Regular,2024-2-24
+18430,4,4,Final OT,University_of_Colorado,Colorado_State_University,Regular,2024-2-24
+18462,6,2,Final,Arizona_State_University,University_of_Colorado,Regular,2024-2-25
+18461,2,2,Final OT,Indiana_Tech,Adrian_College,Regular,2024-2-25
