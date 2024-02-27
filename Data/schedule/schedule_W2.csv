@@ -412,7 +412,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17119,4,3,Final,Merrimack_College,Harvard_University,Regular,2024-1-28
 15988,2,5,Final,University_of_Wisconsin_LaCrosse,University_of_Saint_Thomas,Regular,2024-2-2
 14793,1,6,Final,Niagara_University,Sault_College,Regular,2024-2-2
-16923,-,-,6:10 pm EST,Worcester_Polytechnic_Institute,Boston_University,Regular,2024-2-2
+16923,0,0,Suspended [18:10:00 EST],Worcester_Polytechnic_Institute,Boston_University,Regular,2024-2-2
 16439,2,6,Final,Bowling_Green_State_University,University_of_Notre_Dame,Regular,2024-2-2
 15987,1,8,Final,University_of_Wisconsin_LaCrosse,University_of_Saint_Thomas,Regular,2024-2-2
 16201,11,5,Final,Robert_Morris_University,University_at_Buffalo,Regular,2024-2-2
@@ -532,11 +532,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17936,3,3,Final,Assumption_University,Boston_College,Regular,2024-2-18
 18425,6,1,Final,Villanova_University,West_Virginia_University_,Regular,2024-2-18
 18112,0,0,Suspended [19:30:00 AST],Northeastern_University,Boston_College,Regular,2024-2-19
+18467,-,-,5:00 pm EST,Lake_Region_State_College,Dakota_College_at_Bottineau,Regular,2024-2-22
 18446,0,1,Final,Liberty_University,University_of_Maryland,Regular,2024-2-23
 18435,3,2,Final,Adrian_College,Miami_University,Regular,2024-2-23
 18445,6,0,Final,United_States_Naval_Academy,Rowan_University,Regular,2024-2-23
 18436,3,4,Final,Northern_Michigan_University,Michigan_State_University,Regular,2024-2-23
 17010,8,3,Final,Dakota_College_at_Bottineau,Lake_Region_State_College,Regular,2024-2-23
+18470,10,1,Final,The_Ohio_State_University,University_at_Buffalo,Regular,2024-2-23
 18449,0,4,Final,Brockport_State_University,University_of_Pittsburgh,Regular,2024-2-23
 18456,-,-,10:30 am EST,Montclair_State_University,Slippery_Rock_University,Regular,2024-2-24
 18453,9,1,Final,Northern_Michigan_University,Miami_University,Regular,2024-2-24
@@ -548,22 +550,25 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18455,12,0,Final,Sault_College,Michigan_State_University,Regular,2024-2-24
 18448,0,3,Final,Providence_College,Saint_Anselm_College,Regular,2024-2-24
 18457,2,1,Final,University_of_Delaware,United_States_Naval_Academy,Regular,2024-2-24
+18469,2,0,Final,The_Ohio_State_University,Niagara_University,Regular,2024-2-24
 15875,6,1,Final,Assiniboine_Community_College,North_Dakota_State_University,Regular,2024-2-24
 17011,1,0,Visiting Forfeit,Dakota_College_at_Bottineau,University_of_Minnesota_Duluth,Regular,2024-2-24
 15816,-,-,8:00 pm EST,Georgetown_University,George_Washington_University,Regular,2024-2-24
 18460,3,2,Final OT,Mercyhurst_University,University_of_Pittsburgh,Regular,2024-2-24
 13374,9,3,Final,Lake_Region_State_College,Iowa_State_University,Regular,2024-2-24
 15265,-,-,8:15 pm CST,Maryville_University,University_of_Wisconsin_Eau_Claire,Regular,2024-2-24
-16703,-,-,9:10 pm CST,Loyola_University_Chicago,University_of_Notre_Dame,Regular,2024-2-24
+16703,3,6,Final,Loyola_University_Chicago,University_of_Notre_Dame,Regular,2024-2-24
 18463,11,4,Final,University_of_Pennsylvania,Montclair_State_University,Regular,2024-2-25
 17012,1,0,Visiting Forfeit,Dakota_College_at_Bottineau,University_of_Minnesota_Duluth,Regular,2024-2-25
 18465,5,2,Final,Central_Michigan_University,Michigan_State_University,Regular,2024-2-25
 17915,-,-,11:15 am CST,University_of_Wisconsin,University_of_Wisconsin_LaCrosse,Regular,2024-2-25
-17240,-,-,12:30 pm EST,University_of_Notre_Dame,Loyola_University_Chicago,Regular,2024-2-25
+17240,8,0,Final,University_of_Notre_Dame,Loyola_University_Chicago,Regular,2024-2-25
 18466,4,0,Final,Sault_College,Adrian_College,Regular,2024-2-25
 15876,6,0,Final,Assiniboine_Community_College,North_Dakota_State_University,Regular,2024-2-25
+18468,3,1,Final,Mercyhurst_University,The_Ohio_State_University,Regular,2024-2-25
 15266,-,-,12:15 pm CST,Maryville_University,University_of_Wisconsin_Eau_Claire,Regular,2024-2-25
-18464,0,0,05:34 3rd,Villanova_University,University_of_Delaware,Regular,2024-2-25
-17970,-,-,7:20 pm EST,Roger_Williams_University,Worcester_Polytechnic_Institute,Regular,2024-2-25
+18464,1,0,Final OT,Villanova_University,University_of_Delaware,Regular,2024-2-25
+18471,-,-,3:30 pm EST,Northeastern_University,Saint_Anselm_College,Regular,2024-2-25
+17970,11,3,Final,Worcester_Polytechnic_Institute,Roger_Williams_University,Regular,2024-2-25
 13375,2,3,Final,Lake_Region_State_College,Iowa_State_University,Regular,2024-2-25
 16237,-,-,11:00 am EST,United_States_Naval_Academy,Boston_University,Regular,2024-3-2
