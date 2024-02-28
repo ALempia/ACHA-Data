@@ -1092,7 +1092,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18337,1,5,Final,Indiana_Tech,Adrian_College,Regular,2024-2-23
 18317,0,0,18:08 1st,Villanova_University,Lehigh_University,Regular,2024-2-23
 18413,3,2,Final,University_of_Rhode_Island,Stony_Brook_University,Regular,2024-2-23
-18414,-,-,7:00 pm EST,University_of_Delaware,Drexel_University,Regular,2024-2-23
+18414,1,4,Final,University_of_Delaware,Drexel_University,Regular,2024-2-23
 13930,-,-,Postponed,University_of_Alabama,McKendree_University,Regular,2024-2-23
 14063,4,5,Final SO,University_of_Illinois,Illinois_State_University,Regular,2024-2-23
 13806,4,2,Final,University_of_Colorado,University_of_Oregon,Regular,2024-2-23
@@ -1104,7 +1104,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 14064,2,4,Final,University_of_Illinois,Illinois_State_University,Regular,2024-2-24
 18318,3,3,00:00 3rd,West_Chester_University,Lehigh_University,Regular,2024-2-24
 13807,3,6,Final,University_of_Colorado,University_of_Oregon,Regular,2024-2-24
-18415,-,-,12:00 pm EST,University_of_Rhode_Island,Drexel_University,Regular,2024-2-25
+18415,2,4,Final,University_of_Rhode_Island,Drexel_University,Regular,2024-2-25
 18379,1,4,Final,William_Paterson_University,Lehigh_University,Regular,2024-2-25
 12533,-,-,7:00 pm CST,University_of_Jamestown,Minot_State_University,Regular,2024-2-28
 13875,-,-,7:00 pm CST,Minot_State_University,University_of_Jamestown,Regular,2024-2-29
