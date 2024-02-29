@@ -20,6 +20,7 @@ jobs:
             any::stringr
             any::lubridate
             any::bpr
+            any::extraDistr
 
       - name: Check out repository
         uses: actions/checkout@v2
