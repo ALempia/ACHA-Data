@@ -253,7 +253,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16352,1,4,Final,Central_Michigan_University,Saginaw_Valley_State_University,Regular,2023-10-27
 17767,5,2,Final,York_College_of_Pennsylvania,West_Chester_University,Regular,2023-10-27
 16321,12,2,Final,Grand_Valley_State_University,Davenport_University,Regular,2023-10-27
-16668,2,2,Final OT,Springfield_College,University_of_Massachusetts,Regular,2023-10-27
+16668,3,2,03:51 1st OT,Springfield_College,University_of_Massachusetts,Regular,2023-10-27
 14560,4,1,Final,Indiana_University_of_Pennsylvania,Kent_State_University,Regular,2023-10-27
 17515,1,5,Final,Western_Colorado_University,Colorado_College,Regular,2023-10-27
 12878,7,3,Final,Dordt_University,University_of_Nebraska_at_Omaha,Regular,2023-10-27
@@ -814,6 +814,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 16359,6,4,Final,Central_Michigan_University,Northwood_University,Regular,2024-2-2
 12999,8,2,Final,Hope_College,Ferris_State_University,Regular,2024-2-2
 14468,0,3,Final,Kent_State_University,Indiana_University_of_Pennsylvania,Regular,2024-2-2
+18474,-,-,7:00 pm CST,East_Texas_Baptist_University,Louisiana_State_University,Regular,2024-2-2
 14999,5,0,Final,University_of_Nebraska,Creighton_University,Regular,2024-2-2
 16020,9,2,Final,Thomas_College,University_of_New_England,Regular,2024-2-2
 16605,4,5,Final,Michigan_State_University,Grand_Valley_State_University,Regular,2024-2-2
@@ -837,6 +838,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 13500,5,2,Final,Trine_University,Butler_University,Regular,2024-2-3
 17232,1,0,Visiting Forfeit,Colby_Sawyer_College,University_of_Southern_Maine,Regular,2024-2-3
 13942,3,1,Final,Northwood_University,Central_Michigan_University,Regular,2024-2-3
+18475,-,-,2:00 pm CST,East_Texas_Baptist_University,Louisiana_State_University,Regular,2024-2-3
 12564,11,2,Final,Missouri_State_University,Washington_University_of_Saint_Louis,Regular,2024-2-3
 14411,6,4,Final,Northwestern_University,Indiana_University,Regular,2024-2-3
 16380,1,8,Final,Curry_College,Bates_College,Regular,2024-2-3
