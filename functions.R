@@ -31,11 +31,21 @@ pull_url <-function(code){
   
   colnames(data) <- c("game_id", "date_w_day", "homeG", "awayG", "status", "home", "away")
   
-  if(code >= 21){
+  if(code > 34){
+    data <- data %>% mutate(
+      phase = case_when(
+        code == 44 ~ "Regional",
+        code == 35 ~ "Regular",
+        TRUE ~ "National"
+      )
+    )
+  }
+  
+  else if(code >= 21){
     data <- data %>% mutate(
       phase = case_when(
         code == 32 | code == 44 ~ "Regional",
-        code <= 23 | code >= 34 ~ "Regular",
+        code <= 23 | code == 34 ~ "Regular",
         TRUE ~ "National"
       )
     )
@@ -57,19 +67,19 @@ read_data <- function(lg = c("M1", "M2", "M3", "W1", "W2"), season, include_manu
   
   codes <- NULL
   codes <- case_when(
-    lg == "M1" & season == 23 ~ c(21, 24, 0, 0),
-    lg == "M2" & season == 23 ~ c(21, 32, 26, 27),
-    lg == "M3" & season == 23 ~ c(21, 28, 29, 0),
-    lg == "W1" & season == 23 ~ c(22, 25, 0, 0),
-    lg == "W2" & season == 23 ~ c(23, 30, 31, 0),
-    lg == "M1" & season == 22 ~ c(10, 15, 0, 0),
-    lg == "M2" & season == 22 ~ c(10, 12, 13, 14),
-    lg == "M3" & season == 22 ~ c(10, 16, 18, 0),
-    lg == "W1" & season == 22 ~ c(11, 17, 0, 0),
-    lg == "W2" & season == 22 ~ c(11, 19, 20, 0),
-    str_detect(lg, "M") & season == 24 ~ c(34, 44, 0, 0),
-    str_detect(lg, "W") & season == 24 ~ c(35, 0, 0, 0),
-    TRUE ~ c(0, 0, 0, 0)
+    lg == "M1" & season == 23 ~ c(21, 24, 0, 0, 0, 0, 0),
+    lg == "M2" & season == 23 ~ c(21, 32, 26, 27, 0, 0, 0),
+    lg == "M3" & season == 23 ~ c(21, 28, 29, 0, 0, 0, 0),
+    lg == "W1" & season == 23 ~ c(22, 25, 0, 0, 0, 0, 0),
+    lg == "W2" & season == 23 ~ c(23, 30, 31, 0, 0, 0, 0),
+    lg == "M1" & season == 22 ~ c(10, 15, 0, 0, 0, 0, 0),
+    lg == "M2" & season == 22 ~ c(10, 12, 13, 14, 0, 0, 0),
+    lg == "M3" & season == 22 ~ c(10, 16, 18, 0, 0, 0, 0),
+    lg == "W1" & season == 22 ~ c(11, 17, 0, 0, 0, 0, 0),
+    lg == "W2" & season == 22 ~ c(11, 19, 20, 0, 0, 0, 0),
+    str_detect(lg, "M") & season == 24 ~ c(34, 44, 41, 39, 40, 37, 38),
+    str_detect(lg, "W") & season == 24 ~ c(35, 42, 43, 36, 0, 0, 0),
+    TRUE ~ c(0, 0, 0, 0, 0, 0, 0)
   )
   codes <- codes[codes != 0]
   
@@ -89,17 +99,16 @@ read_data <- function(lg = c("M1", "M2", "M3", "W1", "W2"), season, include_manu
         prop_date = paste(Year, Mo, Date, sep = "-")
       ) %>% select(-c(Date, Mo, Year)) %>% 
       filter(
-        phase != "Regular" | 
-          (str_detect(home, lg) & str_detect(away, lg))
+        (str_detect(home, lg) & str_detect(away, lg))
       ) %>% 
       mutate(
         home = sub(".*? ", "", home),
         away = sub(".*? ", "", away),
         home = str_replace_all(home, c(" " = "_", "-" = "_")),
         away = str_replace_all(away, c(" " = "_", "-" = "_")),
-       
       ) %>% filter(
-        home != "TBD" & away != "TBD" & !str_detect(home, " Seed") & !str_detect(away, " Seed")
+        home != "TBD" & away != "TBD" & !str_detect(home, " Seed") & !str_detect(away, " Seed") & 
+          !str_detect(home, "Winner") & !str_detect(away, "Winner")
       )
 
   return(data)
@@ -608,3 +617,14 @@ game_probs <- function(home, away, rating_list, c = 0.01){
   exit
 }
 
+field <- tibble(
+  Group = c(rep("A", 4), rep("B", 4), rep("C", 4), rep("D", 4)),
+  Team = c("Providence College", "University of Delaware", "Saint Thomas University", 
+           "Liberty University", "Villanova University", "Dakota College at Bottineau", 
+           "Adrian College", "Assumption University", "Assiniboine Community College", 
+           "Central Michigan University", "Boston College", "Northern Michigan University", 
+           "Sault College", "Northeastern University", "United States Naval Academy", 
+           "Mercyhurst University")
+)
+
+write_csv(field, "Data/field/field_W2.csv")
