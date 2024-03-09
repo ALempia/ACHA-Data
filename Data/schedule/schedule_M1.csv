@@ -1118,10 +1118,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18044,5,1,Final,Calvin_University,Indiana_Tech,National,2024-3-7
 18047,1,4,Final,Niagara_University,Oswego_State_University,National,2024-3-7
 18046,3,4,Final,Illinois_State_University,Grand_Canyon_University,National,2024-3-7
-18048,-,-,10:15 am CST,University_of_Jamestown,University_of_Pittsburgh,National,2024-3-8
-18049,-,-,1:30 pm CST,University_of_Central_Oklahoma,Grand_Valley_State_University,National,2024-3-8
-18050,-,-,4:45 pm CST,Adrian_College,Calvin_University,National,2024-3-8
-18051,-,-,8:00 pm CST,Minot_State_University,Grand_Canyon_University,National,2024-3-8
+18048,1,4,Final,University_of_Jamestown,University_of_Pittsburgh,National,2024-3-8
+18049,4,1,Final,University_of_Central_Oklahoma,Grand_Valley_State_University,National,2024-3-8
+18050,4,1,Final,Adrian_College,Calvin_University,National,2024-3-8
+18051,5,0,Final,Minot_State_University,Grand_Canyon_University,National,2024-3-8
 18052,-,-,10:15 am CST,University_of_Nevada_Las_Vegas,Missouri_State_University,National,2024-3-9
 18053,-,-,1:30 pm CST,Maryville_University,Purdue_University_Northwest,National,2024-3-9
 18054,-,-,4:45 pm CST,Liberty_University,University_of_Mary,National,2024-3-9
