@@ -1108,8 +1108,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18379,1,4,Final,William_Paterson_University,Lehigh_University,Regular,2024-2-25
 12533,2,4,Final,University_of_Jamestown,Minot_State_University,Regular,2024-2-28
 13875,6,3,Final,Minot_State_University,University_of_Jamestown,Regular,2024-2-29
-12632,-,-,7:30 pm PST,University_of_Nevada_Las_Vegas,University_of_Colorado,Regular,2024-3-1
-12633,-,-,7:30 pm PST,University_of_Nevada_Las_Vegas,University_of_Colorado,Regular,2024-3-2
+12632,4,0,Final,University_of_Nevada_Las_Vegas,University_of_Colorado,Regular,2024-3-1
+12633,3,2,Final,University_of_Nevada_Las_Vegas,University_of_Colorado,Regular,2024-3-2
 18041,3,4,Final,University_of_Utah,Missouri_State_University,National,2024-3-7
 18040,2,5,Final,University_of_Arizona,University_of_Pittsburgh,National,2024-3-7
 18043,11,3,Final,Purdue_University_Northwest,Indiana_University_of_Pennsylvania,National,2024-3-7
@@ -1126,7 +1126,9 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18053,2,3,Final,Maryville_University,Purdue_University_Northwest,National,2024-3-9
 18054,2,1,Final,Liberty_University,University_of_Mary,National,2024-3-9
 18055,4,3,Final OT,Ohio_University,Oswego_State_University,National,2024-3-9
-18056,-,-,10:15 am CDT,University_of_Nevada_Las_Vegas,University_of_Pittsburgh,National,2024-3-10
-18057,-,-,1:30 pm CDT,University_of_Central_Oklahoma,Purdue_University_Northwest,National,2024-3-10
-18058,-,-,4:45 pm CDT,Adrian_College,Liberty_University,National,2024-3-10
-18059,-,-,8:00 pm CDT,Minot_State_University,Ohio_University,National,2024-3-10
+18056,5,1,Final,University_of_Nevada_Las_Vegas,University_of_Pittsburgh,National,2024-3-10
+18057,3,1,Final,University_of_Central_Oklahoma,Purdue_University_Northwest,National,2024-3-10
+18058,4,2,Final,Adrian_College,Liberty_University,National,2024-3-10
+18059,1,2,Unofficial Final,Minot_State_University,Ohio_University,National,2024-3-10
+18060,-,-,4:45 pm CDT,Adrian_College,Ohio_University,National,2024-3-11
+18061,-,-,8:00 pm CDT,University_of_Central_Oklahoma,University_of_Nevada_Las_Vegas,National,2024-3-11
