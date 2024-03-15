@@ -588,11 +588,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18076,5,4,Final,Dakota_College_at_Bottineau,Assumption_University,National,2024-3-13
 18077,2,6,Final,Central_Michigan_University,Northern_Michigan_University,National,2024-3-13
 18078,4,2,Final,Northeastern_University,Mercyhurst_University,National,2024-3-13
-18079,-,-,10:15 am CDT,Providence_College,University_of_Delaware,National,2024-3-14
-18081,-,-,12:45 pm CDT,Assiniboine_Community_College,Central_Michigan_University,National,2024-3-14
-18080,-,-,1:15 pm CDT,Villanova_University,Dakota_College_at_Bottineau,National,2024-3-14
-18083,-,-,3:15 pm CDT,University_of_Saint_Thomas,Liberty_University,National,2024-3-14
-18082,-,-,3:45 pm CDT,Sault_College,Northeastern_University,National,2024-3-14
-18085,-,-,5:45 pm CDT,Boston_College,Northern_Michigan_University,National,2024-3-14
-18084,-,-,6:15 pm CDT,Adrian_College,Assumption_University,National,2024-3-14
-18086,-,-,8:45 pm CDT,United_States_Naval_Academy,Mercyhurst_University,National,2024-3-14
+18079,5,1,Final,Providence_College,University_of_Delaware,National,2024-3-14
+18081,11,2,Final,Assiniboine_Community_College,Central_Michigan_University,National,2024-3-14
+18080,3,2,Final,Villanova_University,Dakota_College_at_Bottineau,National,2024-3-14
+18083,0,2,Final,University_of_Saint_Thomas,Liberty_University,National,2024-3-14
+18082,5,2,Final,Sault_College,Northeastern_University,National,2024-3-14
+18085,2,3,Final,Boston_College,Northern_Michigan_University,National,2024-3-14
+18084,2,5,Final,Adrian_College,Assumption_University,National,2024-3-14
+18086,7,1,Final,United_States_Naval_Academy,Mercyhurst_University,National,2024-3-14
+18087,-,-,1:00 pm CDT,Providence_College,Assiniboine_Community_College,National,2024-3-15
+18088,-,-,3:30 pm CDT,Sault_College,Dakota_College_at_Bottineau,National,2024-3-15

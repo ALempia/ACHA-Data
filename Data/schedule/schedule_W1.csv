@@ -381,6 +381,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 17973,1,0,Final,McKendree_University,University_of_Michigan_Dearborn,National,2024-3-13
 17974,2,4,Final,Maryville_University,Indiana_Tech,National,2024-3-13
 17975,3,2,Final OT,Minot_State_University,University_of_Michigan,National,2024-3-13
-17976,5,0,Unofficial Final,Adrian_College,Arizona_State_University,National,2024-3-13
-17977,-,-,10:00 am CDT,University_of_Michigan_Dearborn,University_of_Michigan,National,2024-3-14
-17978,-,-,1:00 pm CDT,Maryville_University,Arizona_State_University,National,2024-3-14
+17976,5,0,Final,Adrian_College,Arizona_State_University,National,2024-3-13
+17977,2,1,Final,University_of_Michigan_Dearborn,University_of_Michigan,National,2024-3-14
+17978,2,3,Final OT,Maryville_University,Arizona_State_University,National,2024-3-14
+17979,-,-,10:00 am CDT,Minot_State_University,McKendree_University,National,2024-3-15
+17980,-,-,1:00 pm CDT,Adrian_College,University_of_Michigan_Dearborn,National,2024-3-15
+17981,-,-,4:00 pm CDT,Midland_University,Indiana_Tech,National,2024-3-15
+17982,-,-,7:00 pm CDT,Liberty_University,Arizona_State_University,National,2024-3-15
