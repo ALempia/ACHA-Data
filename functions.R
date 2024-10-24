@@ -35,7 +35,7 @@ pull_url <-function(code){
     data <- data %>% mutate(
       phase = case_when(
         code == 44 ~ "Regional",
-        code == 35 ~ "Regular",
+        code == 35 | code == 45 | code == 46 ~ "Regular",
         TRUE ~ "National"
       )
     )
@@ -79,6 +79,8 @@ read_data <- function(lg = c("M1", "M2", "M3", "W1", "W2"), season, include_manu
     lg == "W2" & season == 22 ~ c(11, 19, 20, 0, 0, 0, 0),
     str_detect(lg, "M") & season == 24 ~ c(34, 44, 41, 39, 40, 37, 38),
     str_detect(lg, "W") & season == 24 ~ c(35, 42, 43, 36, 0, 0, 0),
+    str_detect(lg, "M") & season == 25 ~ c(46, 0, 0, 0, 0, 0, 0),
+    str_detect(lg, "W") & season == 25 ~ c(45, 0, 0, 0, 0, 0, 0),
     TRUE ~ c(0, 0, 0, 0, 0, 0, 0)
   )
   codes <- codes[codes != 0]
@@ -440,7 +442,7 @@ power_Rank <- function(ratings_list, date){
 update_schedule <- function(lg, date){
   require(tidyverse)
   # Get Schedule
-  live <- read_data(lg, 24) %>% mutate(game_id = as.numeric(game_id))
+  live <- read_data(lg, 25) %>% mutate(game_id = as.numeric(game_id))
   
  # missing <- read_csv(paste0("Data/missing/missing_", lg, ".csv"))
   
@@ -536,7 +538,7 @@ get_gh_full <- function(lg, m, s, cur_date){
 
 update_ratings <- function(lg, date){
   # Get Schedule
-  live <- read_data(lg, 24) %>% mutate(game_id = as.numeric(game_id))
+  live <- read_data(lg, 25) %>% mutate(game_id = as.numeric(game_id))
   
   # Update Ratings
   p <- read_rds(paste0("Data/prior/prior_", lg, ".rds"))
@@ -617,14 +619,3 @@ game_probs <- function(home, away, rating_list, c = 0.01){
   exit
 }
 
-field <- tibble(
-  Group = c(rep("A", 4), rep("B", 4), rep("C", 4), rep("D", 4)),
-  Team = c("Providence College", "University of Delaware", "Saint Thomas University", 
-           "Liberty University", "Villanova University", "Dakota College at Bottineau", 
-           "Adrian College", "Assumption University", "Assiniboine Community College", 
-           "Central Michigan University", "Boston College", "Northern Michigan University", 
-           "Sault College", "Northeastern University", "United States Naval Academy", 
-           "Mercyhurst University")
-)
-
-write_csv(field, "Data/field/field_W2.csv")
