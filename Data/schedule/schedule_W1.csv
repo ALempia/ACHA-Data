@@ -1,393 +1,397 @@
 game_id,homeG,awayG,status,home,away,phase,prop_date
-13532,5,2,Final,University_of_Michigan_Dearborn,Concordia_University_Ann_Arbor,Regular,2023-9-22
-13551,3,2,Final,McKendree_University,Maryville_University,Regular,2023-9-22
-12713,5,4,Final,Maryville_University,McKendree_University,Regular,2023-9-23
-15072,2,5,Final,Arizona_State_University,Maryville_University,Regular,2023-9-28
-12783,6,2,Final,Indiana_Tech,Lake_Superior_State_University,Regular,2023-9-29
-13658,3,1,Final,Midland_University,Minot_State_University,Regular,2023-9-29
-13675,2,3,Final,University_of_Massachusetts_Amherst,Penn_State_University,Regular,2023-9-29
-12728,2,5,Final,Concordia_University_Ann_Arbor,University_of_Michigan,Regular,2023-9-29
-15073,2,1,Final,Arizona_State_University,Maryville_University,Regular,2023-9-29
-14923,5,1,Final,University_of_Denver,Colorado_State_University,Regular,2023-9-29
-12738,0,4,Final,Montana_State_University,University_of_Utah,Regular,2023-9-29
-13676,2,0,Final,University_of_Massachusetts_Amherst,Penn_State_University,Regular,2023-9-30
-12784,5,1,Final,Indiana_Tech,Lake_Superior_State_University,Regular,2023-9-30
-14912,3,1,Final,University_of_Michigan,Michigan_State_University,Regular,2023-9-30
-13659,4,0,Final,Midland_University,Minot_State_University,Regular,2023-9-30
-15102,2,5,Final,Grand_Canyon_University,Maryville_University,Regular,2023-9-30
-13533,9,0,Final,Adrian_College,Lindenwood_University,Regular,2023-9-30
-14820,0,4,Final,Miami_University,Niagara_University,Regular,2023-9-30
-15081,5,1,Final,Colorado_State_University,University_of_Denver,Regular,2023-9-30
-12739,1,13,Final,Montana_State_University,University_of_Utah,Regular,2023-9-30
-14821,3,4,Final OT,Miami_University,Niagara_University,Regular,2023-10-1
-15103,2,9,Final,Grand_Canyon_University,Maryville_University,Regular,2023-10-1
-13534,9,0,Final,Adrian_College,Lindenwood_University,Regular,2023-10-1
-13660,4,1,Final,Midland_University,University_of_Jamestown,Regular,2023-10-5
-14924,1,3,Final,University_of_Denver,Michigan_State_University,Regular,2023-10-5
-14935,3,2,Final,Liberty_University,McKendree_University,Regular,2023-10-6
-14822,0,5,Final,Miami_University,Maryville_University,Regular,2023-10-6
-12764,3,1,Final,University_of_Jamestown,Grand_Canyon_University,Regular,2023-10-6
-15052,3,2,Final,Penn_State_University,University_of_Rhode_Island,Regular,2023-10-6
-14681,1,8,Final,Davenport_University,Indiana_Tech,Regular,2023-10-6
-14864,1,0,Final,Grand_Valley_State_University,Adrian_College,Regular,2023-10-6
-15082,3,3,Final OT,Colorado_State_University,Michigan_State_University,Regular,2023-10-6
-14925,5,3,Final,University_of_Denver,Montana_State_University,Regular,2023-10-6
-14823,1,2,Final,Miami_University,Maryville_University,Regular,2023-10-7
-15053,5,3,Final,Penn_State_University,University_of_Rhode_Island,Regular,2023-10-7
-14936,7,0,Final,Liberty_University,McKendree_University,Regular,2023-10-7
-14926,10,3,Final,University_of_Denver,Montana_State_University,Regular,2023-10-7
-12785,13,1,Final,Indiana_Tech,Davenport_University,Regular,2023-10-7
-13661,11,0,Final,Midland_University,Grand_Canyon_University,Regular,2023-10-7
-13403,0,12,Final,University_of_Wyoming,Colorado_State_University,Regular,2023-10-7
-14487,0,3,Final,University_of_Colorado,Michigan_State_University,Regular,2023-10-7
-14568,1,4,Final,Lake_Superior_State_University,University_of_Michigan,Regular,2023-10-7
-13535,7,1,Final,Adrian_College,Grand_Valley_State_University,Regular,2023-10-7
-14488,4,0,Final,University_of_Colorado,Montana_State_University,Regular,2023-10-8
-13404,1,9,Final,University_of_Wyoming,Colorado_State_University,Regular,2023-10-8
-14569,2,4,Final,Lake_Superior_State_University,University_of_Michigan,Regular,2023-10-8
-14824,2,5,Final,Miami_University,McKendree_University,Regular,2023-10-8
-13662,12,1,Final,Midland_University,Grand_Canyon_University,Regular,2023-10-8
-15649,0,4,Final,University_of_Rhode_Island,Midland_University,Regular,2023-10-12
-13552,4,1,Final,McKendree_University,University_of_Michigan_Dearborn,Regular,2023-10-13
-12746,2,5,Final,Minot_State_University,Liberty_University,Regular,2023-10-13
-13677,2,5,Final,University_of_Massachusetts_Amherst,Midland_University,Regular,2023-10-13
-14913,3,1,Final,University_of_Michigan,Grand_Valley_State_University,Regular,2023-10-13
-14722,1,2,Final OT,Michigan_State_University,Indiana_Tech,Regular,2023-10-13
-14771,1,2,Final,Aquinas_College,Davenport_University,Regular,2023-10-13
-12765,6,1,Final,University_of_Jamestown,University_of_Colorado,Regular,2023-10-13
-12740,5,2,Final,Montana_State_University,University_of_Wyoming,Regular,2023-10-13
-15074,3,2,Final,Arizona_State_University,University_of_Utah,Regular,2023-10-13
-13678,1,3,Final,University_of_Massachusetts_Amherst,Midland_University,Regular,2023-10-14
-12786,6,0,Final,Indiana_Tech,Michigan_State_University,Regular,2023-10-14
-14682,1,2,Final,Davenport_University,Aquinas_College,Regular,2023-10-14
-12766,4,2,Final,University_of_Jamestown,University_of_Colorado,Regular,2023-10-14
-12747,3,2,Final OT,Minot_State_University,Liberty_University,Regular,2023-10-14
-12741,6,1,Final,Montana_State_University,University_of_Wyoming,Regular,2023-10-14
-15092,7,1,Final,University_of_Minnesota,Concordia_University_Ann_Arbor,Regular,2023-10-14
-15267,2,0,Final,Maryville_University,University_of_Michigan_Dearborn,Regular,2023-10-14
-15538,2,5,Final,Lindenwood_University,McKendree_University,Regular,2023-10-14
-15075,7,1,Final,Arizona_State_University,University_of_Utah,Regular,2023-10-14
-15093,8,5,Final,University_of_Minnesota,Concordia_University_Ann_Arbor,Regular,2023-10-15
-15268,4,1,Final,Maryville_University,University_of_Michigan_Dearborn,Regular,2023-10-15
-15539,1,2,Final,Lindenwood_University,McKendree_University,Regular,2023-10-15
-13001,3,2,Final,University_of_Michigan_Dearborn,Penn_State_University,Regular,2023-10-20
-13553,12,1,Final,McKendree_University,University_of_Colorado,Regular,2023-10-20
-12748,4,3,Final OT,Minot_State_University,Lake_Superior_State_University,Regular,2023-10-20
-14671,3,2,Final OT,University_of_Utah,Colorado_State_University,Regular,2023-10-20
-13099,0,1,Final OT,Niagara_University,Indiana_Tech,Regular,2023-10-20
-12729,0,8,Final,Concordia_University_Ann_Arbor,Adrian_College,Regular,2023-10-20
-14937,5,0,Final,Liberty_University,University_of_Massachusetts_Amherst,Regular,2023-10-20
-13002,4,0,Final,University_of_Michigan_Dearborn,Penn_State_University,Regular,2023-10-21
-14938,3,2,Final OT,Liberty_University,University_of_Massachusetts_Amherst,Regular,2023-10-21
-13100,3,7,Final,Niagara_University,Indiana_Tech,Regular,2023-10-21
-13554,4,0,Final,McKendree_University,University_of_Colorado,Regular,2023-10-21
-12749,3,1,Final,Minot_State_University,Lake_Superior_State_University,Regular,2023-10-21
-13536,6,3,Final,Adrian_College,Concordia_University_Ann_Arbor,Regular,2023-10-21
-14672,2,1,Final,University_of_Utah,Colorado_State_University,Regular,2023-10-21
-12767,5,3,Final,University_of_Jamestown,Lake_Superior_State_University,Regular,2023-10-22
-12787,2,1,Final,Indiana_Tech,Minot_State_University,Regular,2023-10-26
-15540,0,3,Final,Lindenwood_University,Midland_University,Regular,2023-10-26
-15094,5,6,Final,University_of_Minnesota,University_of_Jamestown,Regular,2023-10-26
-13003,2,0,Final,University_of_Michigan_Dearborn,Niagara_University,Regular,2023-10-27
-14865,2,0,Final,Grand_Valley_State_University,Aquinas_College,Regular,2023-10-27
-15095,1,4,Final,University_of_Minnesota,University_of_Jamestown,Regular,2023-10-27
-12788,0,1,Final,Indiana_Tech,Minot_State_University,Regular,2023-10-27
-14489,0,7,Final,University_of_Colorado,Arizona_State_University,Regular,2023-10-27
-12730,2,3,Final,Concordia_University_Ann_Arbor,Michigan_State_University,Regular,2023-10-27
-15104,2,4,Final,Grand_Canyon_University,University_of_Utah,Regular,2023-10-27
-12714,1,2,Final,Maryville_University,Midland_University,Regular,2023-10-27
-14490,0,2,Final,University_of_Colorado,Arizona_State_University,Regular,2023-10-28
-14723,3,6,Final,Michigan_State_University,Concordia_University_Ann_Arbor,Regular,2023-10-28
-12715,2,3,Final,Maryville_University,Midland_University,Regular,2023-10-28
-15083,1,4,Final,Colorado_State_University,Arizona_State_University,Regular,2023-10-28
-13537,3,0,Final,Adrian_College,Minot_State_University,Regular,2023-10-28
-14491,6,2,Final,University_of_Colorado,University_of_Denver,Regular,2023-10-28
-13004,3,1,Final,University_of_Michigan_Dearborn,Niagara_University,Regular,2023-10-28
-14772,2,8,Final,Aquinas_College,Grand_Valley_State_University,Regular,2023-10-28
-14683,1,10,Final,Davenport_University,Lake_Superior_State_University,Regular,2023-10-28
-15105,4,2,Final,Grand_Canyon_University,University_of_Utah,Regular,2023-10-28
-15084,0,5,Final,Colorado_State_University,Arizona_State_University,Regular,2023-10-29
-13538,2,0,Final,Adrian_College,Minot_State_University,Regular,2023-10-29
-14914,3,0,Final,University_of_Michigan,Niagara_University,Regular,2023-10-29
-14684,0,8,Final,Davenport_University,Lake_Superior_State_University,Regular,2023-10-29
-15541,0,7,Final,Lindenwood_University,Midland_University,Regular,2023-10-29
-13539,2,3,Final,Adrian_College,Liberty_University,Regular,2023-11-3
-12750,0,2,Final,Minot_State_University,Maryville_University,Regular,2023-11-3
-15106,1,7,Final,Grand_Canyon_University,Arizona_State_University,Regular,2023-11-3
-13679,5,0,Final,University_of_Massachusetts_Amherst,Davenport_University,Regular,2023-11-3
-13005,4,3,Final,University_of_Michigan_Dearborn,Miami_University,Regular,2023-11-3
-15054,8,4,Final,Penn_State_University,Concordia_University_Ann_Arbor,Regular,2023-11-3
-14773,1,6,Final,Aquinas_College,Michigan_State_University,Regular,2023-11-3
-15055,3,8,Final,Penn_State_University,Concordia_University_Ann_Arbor,Regular,2023-11-4
-13680,7,0,Final,University_of_Massachusetts_Amherst,Davenport_University,Regular,2023-11-4
-14928,3,2,Final,University_of_Denver,University_of_Colorado,Regular,2023-11-4
-14825,0,2,Final,Miami_University,University_of_Michigan_Dearborn,Regular,2023-11-4
-12751,4,3,Final OT,Minot_State_University,Maryville_University,Regular,2023-11-4
-13663,2,1,Final,Midland_University,McKendree_University,Regular,2023-11-4
-15107,0,5,Final,Grand_Canyon_University,Arizona_State_University,Regular,2023-11-4
-13540,1,4,Final,Adrian_College,Liberty_University,Regular,2023-11-4
-14570,0,2,Final,Lake_Superior_State_University,Niagara_University,Regular,2023-11-4
-14826,0,4,Final,Miami_University,Liberty_University,Regular,2023-11-5
-14724,5,2,Final,Michigan_State_University,Aquinas_College,Regular,2023-11-5
-13664,1,1,Final OT,Midland_University,McKendree_University,Regular,2023-11-5
-14571,0,1,Final,Lake_Superior_State_University,Niagara_University,Regular,2023-11-5
-12768,0,2,Final,University_of_Jamestown,Maryville_University,Regular,2023-11-5
-16522,2,2,Final OT,Lindenwood_University,University_of_Michigan,Regular,2023-11-10
-13681,5,1,Final,University_of_Massachusetts_Amherst,University_of_Utah,Regular,2023-11-10
-12789,5,4,Final OT,Indiana_Tech,Miami_University,Regular,2023-11-10
-12752,1,3,Final,Minot_State_University,Midland_University,Regular,2023-11-10
-13006,10,0,Final,University_of_Michigan_Dearborn,Davenport_University,Regular,2023-11-10
-15056,2,4,Final,Penn_State_University,Michigan_State_University,Regular,2023-11-10
-14866,6,4,Final,Grand_Valley_State_University,University_of_Minnesota,Regular,2023-11-10
-13555,2,1,Final,McKendree_University,Adrian_College,Regular,2023-11-10
-15085,6,3,Final,Colorado_State_University,Montana_State_University,Regular,2023-11-10
-13682,1,0,Final,University_of_Massachusetts_Amherst,University_of_Utah,Regular,2023-11-11
-14827,4,1,Final,Miami_University,Indiana_Tech,Regular,2023-11-11
-14572,4,3,Final,Lake_Superior_State_University,Grand_Valley_State_University,Regular,2023-11-11
-14774,1,3,Final,Aquinas_College,University_of_Minnesota,Regular,2023-11-11
-15076,6,0,Final,Arizona_State_University,Grand_Canyon_University,Regular,2023-11-11
-12753,2,4,Final,Minot_State_University,Midland_University,Regular,2023-11-11
-12716,1,3,Final,Maryville_University,Adrian_College,Regular,2023-11-11
-14685,0,13,Final,Davenport_University,University_of_Michigan_Dearborn,Regular,2023-11-11
-15542,2,4,Final,Lindenwood_University,University_of_Michigan,Regular,2023-11-11
-13407,2,6,Final,University_of_Wyoming,Montana_State_University,Regular,2023-11-11
-15057,3,7,Final,Penn_State_University,Michigan_State_University,Regular,2023-11-12
-13408,2,3,Final,University_of_Wyoming,Montana_State_University,Regular,2023-11-12
-14573,3,2,Final,Lake_Superior_State_University,Grand_Valley_State_University,Regular,2023-11-12
-13556,0,3,Final,McKendree_University,University_of_Michigan,Regular,2023-11-12
-12717,1,6,Final,Maryville_University,Adrian_College,Regular,2023-11-12
-14686,0,1,Final,Davenport_University,Concordia_University_Ann_Arbor,Regular,2023-11-17
-13557,3,2,Final,McKendree_University,Colorado_State_University,Regular,2023-11-17
-13683,1,0,Final,University_of_Massachusetts_Amherst,Niagara_University,Regular,2023-11-17
-17544,4,1,Final,University_of_Utah,Montana_State_University,Regular,2023-11-17
-14574,0,6,Final,Lake_Superior_State_University,University_of_Michigan_Dearborn,Regular,2023-11-17
-14939,3,1,Final,Liberty_University,Maryville_University,Regular,2023-11-17
-12790,4,0,Final,Indiana_Tech,Grand_Valley_State_University,Regular,2023-11-17
-13684,4,5,Final,University_of_Massachusetts_Amherst,Niagara_University,Regular,2023-11-18
-14828,0,3,Final,Miami_University,Adrian_College,Regular,2023-11-18
-14575,1,1,Final,Lake_Superior_State_University,University_of_Michigan_Dearborn,Regular,2023-11-18
-17545,11,2,Final,University_of_Utah,Montana_State_University,Regular,2023-11-18
-14940,5,0,Final,Liberty_University,Maryville_University,Regular,2023-11-18
-12731,8,0,Final,Concordia_University_Ann_Arbor,Davenport_University,Regular,2023-11-18
-13665,5,2,Final,Midland_University,University_of_Minnesota,Regular,2023-11-18
-14775,1,4,Final,Aquinas_College,University_of_Michigan,Regular,2023-11-18
-14867,0,1,Final OT,Grand_Valley_State_University,Indiana_Tech,Regular,2023-11-18
-12772,1,6,Final,University_of_Jamestown,Minot_State_University,Regular,2023-11-18
-15543,9,2,Final,Lindenwood_University,Colorado_State_University,Regular,2023-11-18
-15655,0,3,Final,University_of_Rhode_Island,Niagara_University,Regular,2023-11-19
-13666,3,2,Final,Midland_University,University_of_Minnesota,Regular,2023-11-19
-15544,6,1,Final,Lindenwood_University,Colorado_State_University,Regular,2023-11-19
-12773,0,2,Final,University_of_Jamestown,Minot_State_University,Regular,2023-11-19
-13541,3,0,Final,Adrian_College,Miami_University,Regular,2023-11-19
-13667,2,1,Final,Midland_University,Liberty_University,Regular,2023-11-30
-15086,2,2,Final OT,Colorado_State_University,Grand_Canyon_University,Regular,2023-11-30
-12732,5,2,Final,Concordia_University_Ann_Arbor,Indiana_Tech,Regular,2023-12-1
-13668,5,0,Final,Midland_University,Liberty_University,Regular,2023-12-1
-13101,10,0,Final,Niagara_University,Davenport_University,Regular,2023-12-1
-14492,3,2,Final,University_of_Colorado,Grand_Canyon_University,Regular,2023-12-1
-15656,1,2,Final,University_of_Rhode_Island,University_of_Massachusetts_Amherst,Regular,2023-12-1
-14776,2,8,Final,Aquinas_College,University_of_Michigan_Dearborn,Regular,2023-12-1
-15545,4,2,Final,Lindenwood_University,Maryville_University,Regular,2023-12-1
-14725,7,3,Final,Michigan_State_University,Grand_Valley_State_University,Regular,2023-12-2
-13102,8,1,Final,Niagara_University,Davenport_University,Regular,2023-12-2
-12791,11,1,Final,Indiana_Tech,Concordia_University_Ann_Arbor,Regular,2023-12-2
-15657,1,0,Final,University_of_Rhode_Island,University_of_Massachusetts_Amherst,Regular,2023-12-2
-15087,7,3,Final,Colorado_State_University,Grand_Canyon_University,Regular,2023-12-2
-12774,1,3,Final,University_of_Jamestown,Liberty_University,Regular,2023-12-2
-13007,11,0,Final,University_of_Michigan_Dearborn,Aquinas_College,Regular,2023-12-2
-13542,6,0,Final,Adrian_College,Penn_State_University,Regular,2023-12-2
-15096,3,1,Final,University_of_Minnesota,Lake_Superior_State_University,Regular,2023-12-2
-15546,0,4,Final,Lindenwood_University,Maryville_University,Regular,2023-12-2
-13543,5,0,Final,Adrian_College,Penn_State_University,Regular,2023-12-3
-15097,5,4,Final,University_of_Minnesota,Lake_Superior_State_University,Regular,2023-12-3
-13669,4,0,Final,Midland_University,University_of_Jamestown,Regular,2023-12-3
-14493,5,2,Final,University_of_Colorado,Grand_Canyon_University,Regular,2023-12-3
-14868,2,3,Final,Grand_Valley_State_University,Michigan_State_University,Regular,2023-12-3
-13544,7,3,Final,Adrian_College,Indiana_Tech,Regular,2023-12-7
-12775,3,5,Final,University_of_Jamestown,Minot_State_University,Regular,2023-12-8
-12792,3,3,Final,Indiana_Tech,Adrian_College,Regular,2023-12-8
-13008,5,0,Final,University_of_Michigan_Dearborn,Grand_Valley_State_University,Regular,2023-12-8
-13103,3,2,Final,Niagara_University,University_of_Rhode_Island,Regular,2023-12-8
-13104,3,0,Final,Niagara_University,University_of_Rhode_Island,Regular,2023-12-9
-12776,0,2,Final,University_of_Jamestown,Minot_State_University,Regular,2023-12-9
-14869,2,3,Final,Grand_Valley_State_University,University_of_Michigan_Dearborn,Regular,2023-12-9
-12793,2,3,Final,Indiana_Tech,Niagara_University,Regular,2024-1-5
-12794,4,0,Final,Indiana_Tech,Niagara_University,Regular,2024-1-6
-13558,5,0,Final,McKendree_University,Arizona_State_University,Regular,2024-1-11
-12718,4,1,Final,Maryville_University,Michigan_State_University,Regular,2024-1-11
-14777,0,7,Final,Aquinas_College,Indiana_Tech,Regular,2024-1-12
-15548,3,3,Final,Lindenwood_University,University_of_Massachusetts_Amherst,Regular,2024-1-12
-12719,7,0,Final,Maryville_University,Arizona_State_University,Regular,2024-1-12
-12733,-,-,Postponed,Concordia_University_Ann_Arbor,Grand_Valley_State_University,Regular,2024-1-12
-13009,4,0,Final,University_of_Michigan_Dearborn,University_of_Rhode_Island,Regular,2024-1-12
-13559,8,1,Final,McKendree_University,Michigan_State_University,Regular,2024-1-12
-13010,7,1,Final,University_of_Michigan_Dearborn,University_of_Rhode_Island,Regular,2024-1-13
-12795,-,-,Postponed,Indiana_Tech,Aquinas_College,Regular,2024-1-13
-14870,-,-,Postponed,Grand_Valley_State_University,Concordia_University_Ann_Arbor,Regular,2024-1-13
-13560,2,1,Final,McKendree_University,University_of_Massachusetts_Amherst,Regular,2024-1-13
-12720,1,3,Final,Maryville_University,Arizona_State_University,Regular,2024-1-13
-15547,7,0,Final,Lindenwood_University,Michigan_State_University,Regular,2024-1-13
-13561,2,5,Final,McKendree_University,Arizona_State_University,Regular,2024-1-14
-12721,5,3,Final,Maryville_University,University_of_Massachusetts_Amherst,Regular,2024-1-14
-14915,8,1,Final,University_of_Michigan,University_of_Rhode_Island,Regular,2024-1-14
-16523,5,5,Final OT,Lindenwood_University,Arizona_State_University,Regular,2024-1-15
-12722,2,3,Final,Maryville_University,Lindenwood_University,Regular,2024-1-19
-14673,6,0,Final,University_of_Utah,Montana_State_University,Regular,2024-1-19
-12796,5,0,Final,Indiana_Tech,University_of_Massachusetts_Amherst,Regular,2024-1-19
-12734,2,1,Final,Concordia_University_Ann_Arbor,Lake_Superior_State_University,Regular,2024-1-19
-17053,2,2,Final OT,Michigan_State_University,Aquinas_College,Regular,2024-1-19
-14655,1,3,Final,University_of_Michigan_Dearborn,University_of_Michigan,Regular,2024-1-19
-14687,4,12,Final,Davenport_University,Grand_Valley_State_University,Regular,2024-1-19
-12757,2,4,Final,Minot_State_University,Midland_University,Regular,2024-1-19
-15058,2,5,Final,Penn_State_University,Miami_University,Regular,2024-1-19
-15077,10,1,Final,Arizona_State_University,University_of_Denver,Regular,2024-1-19
-15059,0,6,Final,Penn_State_University,Miami_University,Regular,2024-1-20
-15098,4,1,Final,University_of_Minnesota,University_of_Colorado,Regular,2024-1-20
-12797,3,0,Final,Indiana_Tech,University_of_Massachusetts_Amherst,Regular,2024-1-20
-12723,6,1,Final,Maryville_University,Lindenwood_University,Regular,2024-1-20
-12735,3,4,Final OT,Concordia_University_Ann_Arbor,Lake_Superior_State_University,Regular,2024-1-20
-14674,9,2,Final,University_of_Utah,Montana_State_University,Regular,2024-1-20
-14726,3,2,Final,Michigan_State_University,University_of_Michigan,Regular,2024-1-20
-15108,8,2,Final,Grand_Canyon_University,University_of_Denver,Regular,2024-1-20
-14871,4,2,Final,Grand_Valley_State_University,Davenport_University,Regular,2024-1-20
-13545,9,1,Final,Adrian_College,Niagara_University,Regular,2024-1-20
-12758,2,2,Final OT,Minot_State_University,Midland_University,Regular,2024-1-20
-15078,9,0,Final,Arizona_State_University,University_of_Denver,Regular,2024-1-20
-15099,3,2,Final,University_of_Minnesota,University_of_Colorado,Regular,2024-1-21
-14917,5,0,Final,University_of_Michigan,Aquinas_College,Regular,2024-1-21
-15109,5,3,Final,Grand_Canyon_University,University_of_Denver,Regular,2024-1-21
-13546,4,3,Final,Adrian_College,Niagara_University,Regular,2024-1-21
-13562,1,5,Final,McKendree_University,Liberty_University,Regular,2024-1-25
-13011,2,1,Final,University_of_Michigan_Dearborn,Adrian_College,Regular,2024-1-25
-12724,1,2,Final,Maryville_University,Minot_State_University,Regular,2024-1-25
-15549,1,2,Final,Lindenwood_University,University_of_Jamestown,Regular,2024-1-25
-13670,6,2,Final,Midland_University,University_of_Jamestown,Regular,2024-1-26
-13563,2,3,Final,McKendree_University,Minot_State_University,Regular,2024-1-26
-14675,0,3,Final,University_of_Utah,Arizona_State_University,Regular,2024-1-26
-14872,2,5,Final,Grand_Valley_State_University,Aquinas_College,Regular,2024-1-26
-12736,3,5,Final,Concordia_University_Ann_Arbor,University_of_Michigan_Dearborn,Regular,2024-1-26
-13107,2,1,Final,Niagara_University,University_of_Massachusetts_Amherst,Regular,2024-1-26
-12725,5,0,Final,Maryville_University,University_of_Minnesota,Regular,2024-1-26
-15550,1,10,Final,Lindenwood_University,Liberty_University,Regular,2024-1-26
-15088,2,5,Final,Colorado_State_University,University_of_Colorado,Regular,2024-1-26
-14929,1,7,Final,University_of_Denver,University_of_Rhode_Island,Regular,2024-1-26
-14778,3,1,Final,Aquinas_College,Grand_Valley_State_University,Regular,2024-1-27
-13108,2,0,Final,Niagara_University,University_of_Massachusetts_Amherst,Regular,2024-1-27
-13012,4,0,Final,University_of_Michigan_Dearborn,Concordia_University_Ann_Arbor,Regular,2024-1-27
-14676,2,3,Final,University_of_Utah,Arizona_State_University,Regular,2024-1-27
-13564,1,2,Final,McKendree_University,University_of_Jamestown,Regular,2024-1-27
-12726,0,3,Final,Maryville_University,Liberty_University,Regular,2024-1-27
-14688,0,5,Final,Davenport_University,Penn_State_University,Regular,2024-1-27
-13547,2,0,Final,Adrian_College,University_of_Michigan,Regular,2024-1-27
-14930,0,4,Final,University_of_Denver,University_of_Rhode_Island,Regular,2024-1-27
-14576,3,7,Final,Lake_Superior_State_University,Miami_University,Regular,2024-1-27
-13671,1,0,Final,Midland_University,University_of_Minnesota,Regular,2024-1-27
-15551,0,5,Final,Lindenwood_University,Minot_State_University,Regular,2024-1-27
-15089,2,5,Final,Colorado_State_University,University_of_Colorado,Regular,2024-1-27
-15090,2,2,Final OT,Colorado_State_University,University_of_Rhode_Island,Regular,2024-1-28
-14689,3,4,Final,Davenport_University,Penn_State_University,Regular,2024-1-28
-14577,3,2,Final,Lake_Superior_State_University,Miami_University,Regular,2024-1-28
-14918,1,3,Final,University_of_Michigan,Adrian_College,Regular,2024-1-28
-12755,1,4,Final,University_of_Jamestown,Minot_State_University,Regular,2024-1-31
-13548,4,2,Final,Adrian_College,Indiana_Tech,Regular,2024-2-2
-13685,1,0,Final,University_of_Massachusetts_Amherst,University_of_Rhode_Island,Regular,2024-2-2
-14677,1,4,Final,University_of_Utah,University_of_Colorado,Regular,2024-2-2
-14727,3,4,Final,Michigan_State_University,University_of_Michigan_Dearborn,Regular,2024-2-2
-14873,0,2,Final,Grand_Valley_State_University,Miami_University,Regular,2024-2-2
-12779,2,3,Final,University_of_Jamestown,University_of_Minnesota,Regular,2024-2-2
-14779,2,4,Final,Aquinas_College,Concordia_University_Ann_Arbor,Regular,2024-2-2
-15060,0,2,Final,Penn_State_University,University_of_Michigan,Regular,2024-2-2
-14931,9,0,Final,University_of_Denver,University_of_Wyoming,Regular,2024-2-2
-15079,6,0,Final,Arizona_State_University,Grand_Canyon_University,Regular,2024-2-2
-15061,2,4,Final,Penn_State_University,University_of_Michigan,Regular,2024-2-3
-14874,1,2,Final,Grand_Valley_State_University,Miami_University,Regular,2024-2-3
-13565,1,1,Final OT,McKendree_University,Lindenwood_University,Regular,2024-2-3
-12798,3,1,Final,Indiana_Tech,Adrian_College,Regular,2024-2-3
-12780,3,2,Final,University_of_Jamestown,University_of_Minnesota,Regular,2024-2-3
-13686,0,3,Final,University_of_Massachusetts_Amherst,University_of_Rhode_Island,Regular,2024-2-3
-13013,3,0,Final,University_of_Michigan_Dearborn,Michigan_State_University,Regular,2024-2-3
-14932,11,1,Final,University_of_Denver,University_of_Wyoming,Regular,2024-2-3
-12737,4,0,Final,Concordia_University_Ann_Arbor,Aquinas_College,Regular,2024-2-3
-14678,2,2,Final OT,University_of_Utah,University_of_Colorado,Regular,2024-2-3
-15080,7,0,Final,Arizona_State_University,Grand_Canyon_University,Regular,2024-2-3
-14690,1,7,Final,Davenport_University,Miami_University,Regular,2024-2-4
-13566,3,2,Final,McKendree_University,Lindenwood_University,Regular,2024-2-4
-12756,2,1,Final,Minot_State_University,University_of_Jamestown,Regular,2024-2-7
-12727,3,1,Final,Maryville_University,McKendree_University,Regular,2024-2-8
-14919,3,0,Final,University_of_Michigan,Concordia_University_Ann_Arbor,Regular,2024-2-8
-13567,2,1,Final,McKendree_University,Maryville_University,Regular,2024-2-9
-13014,3,2,Final,University_of_Michigan_Dearborn,Indiana_Tech,Regular,2024-2-9
-14944,3,4,Final OT,Liberty_University,Adrian_College,Regular,2024-2-9
-14578,4,2,Final,Lake_Superior_State_University,Aquinas_College,Regular,2024-2-9
-12781,0,3,Final,University_of_Jamestown,Midland_University,Regular,2024-2-9
-14933,6,4,Final,University_of_Denver,University_of_Utah,Regular,2024-2-9
-14579,7,2,Final,Lake_Superior_State_University,Aquinas_College,Regular,2024-2-10
-14934,2,4,Final,University_of_Denver,University_of_Utah,Regular,2024-2-10
-12782,1,5,Final,University_of_Jamestown,Midland_University,Regular,2024-2-10
-12799,2,3,Final,Indiana_Tech,University_of_Michigan_Dearborn,Regular,2024-2-10
-14875,1,6,Final,Grand_Valley_State_University,Lindenwood_University,Regular,2024-2-10
-14494,17,1,Final,University_of_Colorado,University_of_Wyoming,Regular,2024-2-10
-15100,1,0,Visiting Forfeit,University_of_Minnesota,Davenport_University,Regular,2024-2-10
-14943,1,1,Final OT,Liberty_University,Adrian_College,Regular,2024-2-10
-15101,1,0,Visiting Forfeit,University_of_Minnesota,Davenport_University,Regular,2024-2-11
-14876,3,4,Final OT,Grand_Valley_State_University,Lindenwood_University,Regular,2024-2-11
-14495,13,1,Final,University_of_Colorado,University_of_Wyoming,Regular,2024-2-11
-17856,2,3,Final,University_of_Denver,Colorado_State_University,Regular,2024-2-11
-13549,7,0,Final,Adrian_College,University_of_Michigan_Dearborn,Regular,2024-2-15
-14945,2,0,Final,Liberty_University,Indiana_Tech,Regular,2024-2-15
-14946,4,1,Final,Liberty_University,Indiana_Tech,Regular,2024-2-16
-12762,4,1,Final,Minot_State_University,University_of_Jamestown,Regular,2024-2-16
-13687,1,3,Final,University_of_Massachusetts_Amherst,Concordia_University_Ann_Arbor,Regular,2024-2-16
-14728,1,6,Final,Michigan_State_University,Adrian_College,Regular,2024-2-16
-14920,3,5,Final,University_of_Michigan,University_of_Michigan_Dearborn,Regular,2024-2-16
-14780,1,3,Final,Aquinas_College,Miami_University,Regular,2024-2-16
-18348,2,5,Final,Lindenwood_University,Maryville_University,Regular,2024-2-16
-13688,5,1,Final,University_of_Massachusetts_Amherst,Concordia_University_Ann_Arbor,Regular,2024-2-17
-14496,2,3,Final,University_of_Colorado,Colorado_State_University,Regular,2024-2-17
-14781,0,0,Final OT,Aquinas_College,Miami_University,Regular,2024-2-17
-12763,3,1,Final,Minot_State_University,University_of_Jamestown,Regular,2024-2-17
-13672,5,0,Final,Midland_University,University_of_Utah,Regular,2024-2-17
-14921,3,4,Final OT,University_of_Michigan,Lake_Superior_State_University,Regular,2024-2-17
-16751,5,2,Final,McKendree_University,Lindenwood_University,Regular,2024-2-17
-15662,2,4,Final,University_of_Rhode_Island,Concordia_University_Ann_Arbor,Regular,2024-2-18
-14691,0,9,Final,Davenport_University,Miami_University,Regular,2024-2-18
-13550,9,0,Final,Adrian_College,Michigan_State_University,Regular,2024-2-18
-13673,2,0,Final,Midland_University,University_of_Utah,Regular,2024-2-18
-14497,2,1,Final,University_of_Colorado,Colorado_State_University,Regular,2024-2-18
-14922,3,1,Final,University_of_Michigan,Lake_Superior_State_University,Regular,2024-2-18
-18431,2,1,Final,Maryville_University,McKendree_University,Regular,2024-2-22
-18432,1,0,Final,Minot_State_University,University_of_Jamestown,Regular,2024-2-22
-18434,5,2,Final,Liberty_University,Lindenwood_University,Regular,2024-2-22
-18433,6,1,Final,Midland_University,University_of_Minnesota,Regular,2024-2-22
-18437,5,0,Final,McKendree_University,University_of_Jamestown,Regular,2024-2-23
-18438,5,5,Final OT,University_of_Minnesota,Lindenwood_University,Regular,2024-2-23
-18443,3,1,Final,Adrian_College,Lake_Superior_State_University,Regular,2024-2-23
-18439,2,0,Final,Midland_University,Minot_State_University,Regular,2024-2-23
-18427,7,0,Final,Arizona_State_University,Colorado_State_University,Regular,2024-2-23
-15663,1,4,Final,University_of_Rhode_Island,University_of_Massachusetts_Amherst,Regular,2024-2-23
-18444,4,3,Final OT,University_of_Michigan,Miami_University,Regular,2024-2-23
-13105,6,2,Final,Niagara_University,Penn_State_University,Regular,2024-2-23
-18440,2,1,Final,Liberty_University,Maryville_University,Regular,2024-2-23
-18428,2,1,Final,University_of_Colorado,University_of_Utah,Regular,2024-2-23
-13689,2,0,Final,University_of_Massachusetts_Amherst,University_of_Rhode_Island,Regular,2024-2-24
-18451,4,0,Final,Indiana_Tech,University_of_Michigan,Regular,2024-2-24
-13106,6,2,Final,Niagara_University,Penn_State_University,Regular,2024-2-24
-18450,1,3,Final,University_of_Michigan_Dearborn,Adrian_College,Regular,2024-2-24
-18429,3,0,Final,Arizona_State_University,University_of_Utah,Regular,2024-2-24
-18452,3,2,Final,Liberty_University,Midland_University,Regular,2024-2-24
-18430,4,4,Final OT,University_of_Colorado,Colorado_State_University,Regular,2024-2-24
-18462,6,2,Final,Arizona_State_University,University_of_Colorado,Regular,2024-2-25
-18461,2,2,Final OT,Indiana_Tech,Adrian_College,Regular,2024-2-25
-17973,1,0,Final,McKendree_University,University_of_Michigan_Dearborn,National,2024-3-13
-17974,2,4,Final,Maryville_University,Indiana_Tech,National,2024-3-13
-17975,3,2,Final OT,Minot_State_University,University_of_Michigan,National,2024-3-13
-17976,5,0,Final,Adrian_College,Arizona_State_University,National,2024-3-13
-17977,2,1,Final,University_of_Michigan_Dearborn,University_of_Michigan,National,2024-3-14
-17978,2,3,Final OT,Maryville_University,Arizona_State_University,National,2024-3-14
-17979,2,1,Final OT,Minot_State_University,McKendree_University,National,2024-3-15
-17980,8,1,Final,Adrian_College,University_of_Michigan_Dearborn,National,2024-3-15
-17981,4,1,Final,Midland_University,Indiana_Tech,National,2024-3-15
-17982,3,2,Final OT,Liberty_University,Arizona_State_University,National,2024-3-15
-17983,3,5,Final,Midland_University,Adrian_College,National,2024-3-16
-17984,1,2,Final OT2,Liberty_University,Minot_State_University,National,2024-3-16
-17985,4,1,Final,Adrian_College,Minot_State_University,National,2024-3-17
+20636,3,2,Final,McKendree_University,Maryville_University,Regular,2024-9-20
+19427,4,0,Final,Midland_University,Lindenwood_University,Regular,2024-9-21
+18719,5,4,Final,Maryville_University,McKendree_University,Regular,2024-9-21
+21112,6,4,Final,Colorado_State_University,University_of_Denver,Regular,2024-9-21
+19428,3,1,Final,Midland_University,Lindenwood_University,Regular,2024-9-22
+20637,4,1,Final,McKendree_University,Niagara_University,Regular,2024-9-26
+21150,3,3,Final OT,Adrian_College,Indiana_Tech,Regular,2024-9-26
+20375,4,3,Final,University_of_Wyoming,Montana_State_University,Regular,2024-9-26
+19779,1,2,Final,University_of_Arizona,Grand_Canyon_University,Regular,2024-9-26
+20621,1,2,Final OT,Indiana_Tech,Adrian_College,Regular,2024-9-27
+19429,2,0,Final,Midland_University,Minot_State_University,Regular,2024-9-27
+21076,3,2,Final,University_of_Colorado,University_of_Utah,Regular,2024-9-27
+21262,2,5,Final,Concordia_University_Ann_Arbor,Miami_University,Regular,2024-9-27
+21113,3,2,Final,Colorado_State_University,Montana_State_University,Regular,2024-9-27
+18720,4,3,Final,Maryville_University,Niagara_University,Regular,2024-9-27
+21263,0,1,Final,Concordia_University_Ann_Arbor,Miami_University,Regular,2024-9-28
+19430,3,0,Final,Midland_University,Minot_State_University,Regular,2024-9-28
+21077,3,1,Final,University_of_Colorado,University_of_Utah,Regular,2024-9-28
+21216,4,5,Final,Grand_Canyon_University,University_of_Arizona,Regular,2024-9-28
+21114,3,0,Final,Colorado_State_University,Montana_State_University,Regular,2024-9-28
+18721,7,0,Final,Maryville_University,Niagara_University,Regular,2024-9-28
+21293,1,2,Final,Lindenwood_University,McKendree_University,Regular,2024-9-28
+20376,6,4,Final,University_of_Wyoming,Montana_State_University,Regular,2024-9-29
+21294,2,3,Final,Lindenwood_University,McKendree_University,Regular,2024-9-29
+21088,1,4,Final,University_of_Michigan,Maryville_University,Regular,2024-10-3
+21151,1,3,Final,Adrian_College,McKendree_University,Regular,2024-10-4
+20546,11,0,Final,University_of_Utah,University_of_Wyoming,Regular,2024-10-4
+23281,2,3,Final OT,University_of_Jamestown,Midland_University,Regular,2024-10-4
+21102,1,2,Final,University_of_Massachusetts_Amherst,University_of_Colorado,Regular,2024-10-4
+21232,0,2,Final,University_of_Michigan_Dearborn,Maryville_University,Regular,2024-10-4
+19264,5,1,Final,Minot_State_University,University_of_Arizona,Regular,2024-10-4
+21249,3,4,Final OT,Miami_University,Michigan_State_University,Regular,2024-10-4
+21180,0,4,Final,University_of_Denver,Colorado_State_University,Regular,2024-10-4
+21064,9,3,Final,Arizona_State_University,Grand_Canyon_University,Regular,2024-10-4
+23282,0,3,Final,University_of_Jamestown,Midland_University,Regular,2024-10-5
+21233,1,4,Final,University_of_Michigan_Dearborn,Maryville_University,Regular,2024-10-5
+20547,13,2,Final,University_of_Utah,University_of_Wyoming,Regular,2024-10-5
+20287,0,5,Final,Grand_Valley_State_University,McKendree_University,Regular,2024-10-5
+19265,8,1,Final,Minot_State_University,University_of_Arizona,Regular,2024-10-5
+21152,6,2,Final,Adrian_College,Lake_Superior_State_University,Regular,2024-10-5
+21181,4,5,Final,University_of_Denver,Colorado_State_University,Regular,2024-10-5
+21130,3,1,Final,University_of_Rhode_Island,University_of_Colorado,Regular,2024-10-5
+21250,2,1,Final,Miami_University,Michigan_State_University,Regular,2024-10-5
+21217,1,5,Final,Grand_Canyon_University,Arizona_State_University,Regular,2024-10-5
+21131,1,3,Final,University_of_Rhode_Island,University_of_Colorado,Regular,2024-10-6
+23283,8,1,Final,University_of_Jamestown,University_of_Arizona,Regular,2024-10-6
+21089,3,2,Final OT,University_of_Michigan,McKendree_University,Regular,2024-10-6
+21122,3,2,Final,Michigan_State_University,Grand_Valley_State_University,Regular,2024-10-6
+21153,5,0,Final,Adrian_College,Lake_Superior_State_University,Regular,2024-10-6
+20288,0,2,Final,Grand_Valley_State_University,University_of_Michigan_Dearborn,Regular,2024-10-11
+23294,5,1,Final,Minot_State_University,University_of_Jamestown,Regular,2024-10-11
+20638,5,1,Final,McKendree_University,University_of_Rhode_Island,Regular,2024-10-11
+21206,3,2,Final OT,Lake_Superior_State_University,Michigan_State_University,Regular,2024-10-11
+19784,0,6,Final,Montana_State_University,University_of_Utah,Regular,2024-10-11
+21297,2,1,Final,Lindenwood_University,University_of_Minnesota,Regular,2024-10-11
+21207,2,4,Final,Lake_Superior_State_University,Michigan_State_University,Regular,2024-10-12
+21234,4,1,Final,University_of_Michigan_Dearborn,Grand_Valley_State_University,Regular,2024-10-12
+23295,2,2,Final OT,Minot_State_University,University_of_Jamestown,Regular,2024-10-12
+20377,1,8,Final,University_of_Wyoming,University_of_Denver,Regular,2024-10-12
+20639,3,0,Final,McKendree_University,University_of_Rhode_Island,Regular,2024-10-12
+19785,0,7,Final,Montana_State_University,University_of_Utah,Regular,2024-10-12
+21154,3,2,Final,Adrian_College,Niagara_University,Regular,2024-10-12
+21115,6,2,Final,Colorado_State_University,University_of_Colorado,Regular,2024-10-12
+21298,7,3,Final,Lindenwood_University,University_of_Minnesota,Regular,2024-10-12
+20378,0,4,Final,University_of_Wyoming,University_of_Denver,Regular,2024-10-13
+21299,6,0,Final,Lindenwood_University,University_of_Rhode_Island,Regular,2024-10-13
+21155,2,1,Final,Adrian_College,Niagara_University,Regular,2024-10-13
+21116,2,4,Final,Colorado_State_University,University_of_Colorado,Regular,2024-10-13
+21156,3,2,Final OT,Adrian_College,Maryville_University,Regular,2024-10-17
+20640,3,1,Final,McKendree_University,University_of_Michigan_Dearborn,Regular,2024-10-18
+21157,2,4,Final,Adrian_College,Maryville_University,Regular,2024-10-18
+19431,2,3,Final OT,Midland_University,Indiana_Tech,Regular,2024-10-18
+21251,6,0,Final,Miami_University,Davenport_University,Regular,2024-10-18
+21218,2,6,Final,Grand_Canyon_University,University_of_Utah,Regular,2024-10-18
+23284,5,1,Final,University_of_Jamestown,University_of_Minnesota,Regular,2024-10-19
+21252,12,0,Final,Miami_University,Davenport_University,Regular,2024-10-19
+21172,3,2,Final,Penn_State_University,Lake_Superior_State_University,Regular,2024-10-19
+19432,2,1,Final,Midland_University,Indiana_Tech,Regular,2024-10-19
+21219,1,4,Final,Grand_Canyon_University,University_of_Utah,Regular,2024-10-19
+20289,1,2,Final,Grand_Valley_State_University,University_of_Michigan,Regular,2024-10-19
+21300,0,2,Final,Lindenwood_University,University_of_Michigan_Dearborn,Regular,2024-10-19
+21173,1,4,00:00 3rd,Penn_State_University,Lake_Superior_State_University,Regular,2024-10-20
+23607,3,5,Final,University_of_Arizona,University_of_Utah,Regular,2024-10-20
+21090,6,1,Final,University_of_Michigan,Grand_Valley_State_University,Regular,2024-10-20
+23285,4,2,Final,University_of_Jamestown,University_of_Minnesota,Regular,2024-10-20
+21182,1,2,Final,University_of_Denver,University_of_Colorado,Regular,2024-10-20
+21091,-,-,7:05 pm EDT,University_of_Michigan,Michigan_State_University,Regular,2024-10-24
+18722,-,-,8:15 pm CDT,Maryville_University,Arizona_State_University,Regular,2024-10-24
+21302,-,-,1:30 pm CDT,Lindenwood_University,Arizona_State_University,Regular,2024-10-25
+23296,-,-,2:00 pm CDT,McKendree_University,University_of_Jamestown,Regular,2024-10-25
+21264,-,-,5:30 pm EDT,Concordia_University_Ann_Arbor,Indiana_Tech,Regular,2024-10-25
+18723,-,-,5:15 pm CDT,Maryville_University,Miami_University,Regular,2024-10-25
+21158,-,-,7:00 pm EDT,Adrian_College,Liberty_University,Regular,2024-10-25
+21285,-,-,7:00 pm EDT,Niagara_University,University_of_Massachusetts_Amherst,Regular,2024-10-25
+19786,-,-,7:30 pm MDT,Montana_State_University,Grand_Canyon_University,Regular,2024-10-25
+21174,-,-,10:00 pm EDT,Penn_State_University,Aquinas_College,Regular,2024-10-25
+21117,-,-,8:15 pm MDT,Colorado_State_University,University_of_Utah,Regular,2024-10-25
+21175,-,-,11:30 am EDT,Penn_State_University,Aquinas_College,Regular,2024-10-26
+21159,-,-,12:00 pm EDT,Adrian_College,Liberty_University,Regular,2024-10-26
+21286,-,-,1:30 pm EDT,Niagara_University,University_of_Massachusetts_Amherst,Regular,2024-10-26
+20622,-,-,3:10 pm EDT,Indiana_Tech,Concordia_University_Ann_Arbor,Regular,2024-10-26
+23297,-,-,2:15 pm CDT,McKendree_University,University_of_Jamestown,Regular,2024-10-26
+19268,-,-,3:45 pm CDT,Minot_State_University,Midland_University,Regular,2024-10-26
+18724,-,-,5:15 pm CDT,Maryville_University,Miami_University,Regular,2024-10-26
+19787,-,-,4:30 pm MDT,Montana_State_University,Grand_Canyon_University,Regular,2024-10-26
+21303,-,-,8:30 pm CDT,Lindenwood_University,Arizona_State_University,Regular,2024-10-26
+21118,-,-,7:45 pm MDT,Colorado_State_University,University_of_Utah,Regular,2024-10-26
+20643,-,-,12:15 pm CDT,McKendree_University,Arizona_State_University,Regular,2024-10-27
+19269,-,-,1:00 pm CDT,Minot_State_University,Midland_University,Regular,2024-10-27
+21304,-,-,3:00 pm CDT,Lindenwood_University,Miami_University,Regular,2024-10-27
+21208,-,-,7:00 pm EDT,Lake_Superior_State_University,Indiana_Tech,Regular,2024-10-28
+21209,-,-,7:00 pm EDT,Lake_Superior_State_University,Indiana_Tech,Regular,2024-10-29
+21160,-,-,7:30 pm EDT,Adrian_College,Grand_Valley_State_University,Regular,2024-10-31
+20548,-,-,1:30 pm MDT,University_of_Utah,Montana_State_University,Regular,2024-11-1
+19270,-,-,3:45 pm CDT,Minot_State_University,Lindenwood_University,Regular,2024-11-1
+20623,-,-,4:45 pm EDT,Indiana_Tech,Niagara_University,Regular,2024-11-1
+20290,-,-,7:30 pm EDT,Grand_Valley_State_University,Adrian_College,Regular,2024-11-1
+21265,-,-,8:30 pm EDT,Concordia_University_Ann_Arbor,University_of_Michigan_Dearborn,Regular,2024-11-1
+21220,-,-,6:00 pm PDT,Grand_Canyon_University,University_of_Denver,Regular,2024-11-1
+21078,-,-,7:00 pm MDT,University_of_Colorado,University_of_Wyoming,Regular,2024-11-1
+21055,-,-,11:59 pm EDT,Liberty_University,Maryville_University,Regular,2024-11-1
+19212,-,-,9:30 am MDT,University_of_Arizona,University_of_Denver,Regular,2024-11-2
+21235,-,-,3:00 pm EDT,University_of_Michigan_Dearborn,Concordia_University_Ann_Arbor,Regular,2024-11-2
+20549,-,-,1:30 pm MDT,University_of_Utah,Montana_State_University,Regular,2024-11-2
+21056,-,-,4:30 pm EDT,Liberty_University,Maryville_University,Regular,2024-11-2
+19271,-,-,3:45 pm CDT,Minot_State_University,Lindenwood_University,Regular,2024-11-2
+20624,-,-,4:45 pm EDT,Indiana_Tech,Niagara_University,Regular,2024-11-2
+21079,-,-,4:00 pm MDT,University_of_Colorado,University_of_Wyoming,Regular,2024-11-2
+20278,-,-,7:30 pm EDT,Aquinas_College,Michigan_State_University,Regular,2024-11-2
+21221,-,-,6:00 pm PDT,Grand_Canyon_University,University_of_Denver,Regular,2024-11-2
+21253,-,-,9:30 pm EDT,Miami_University,University_of_Michigan,Regular,2024-11-2
+21123,-,-,12:30 pm EST,Michigan_State_University,Aquinas_College,Regular,2024-11-3
+23286,-,-,12:00 pm CST,University_of_Jamestown,Lindenwood_University,Regular,2024-11-3
+21254,-,-,2:20 pm EST,Miami_University,University_of_Michigan,Regular,2024-11-3
+21065,-,-,12:35 pm MST,Arizona_State_University,University_of_Denver,Regular,2024-11-3
+21305,-,-,1:30 pm CST,Lindenwood_University,Minot_State_University,Regular,2024-11-7
+23090,-,-,8:15 pm CST,Liberty_University,Midland_University,Regular,2024-11-7
+20644,-,-,8:15 pm CST,McKendree_University,University_of_Minnesota,Regular,2024-11-7
+23298,-,-,8:15 pm CST,Maryville_University,University_of_Jamestown,Regular,2024-11-7
+20645,-,-,2:00 pm CST,McKendree_University,Midland_University,Regular,2024-11-8
+21103,-,-,3:50 pm EST,University_of_Massachusetts_Amherst,University_of_Michigan,Regular,2024-11-8
+21236,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Adrian_College,Regular,2024-11-8
+21210,-,-,7:00 pm EST,Lake_Superior_State_University,Davenport_University,Regular,2024-11-8
+21080,-,-,5:00 pm MST,University_of_Colorado,Montana_State_University,Regular,2024-11-8
+20291,-,-,7:30 pm EST,Grand_Valley_State_University,Indiana_Tech,Regular,2024-11-8
+18726,-,-,8:15 pm CST,Maryville_University,Liberty_University,Regular,2024-11-8
+20379,-,-,7:30 pm MST,University_of_Wyoming,Colorado_State_University,Regular,2024-11-8
+21066,-,-,7:35 pm MST,Arizona_State_University,University_of_Arizona,Regular,2024-11-8
+23089,-,-,9:30 pm CST,Minot_State_University,University_of_Minnesota,Regular,2024-11-8
+23299,-,-,9:30 pm CST,Lindenwood_University,University_of_Jamestown,Regular,2024-11-8
+21104,-,-,11:20 am EST,University_of_Massachusetts_Amherst,University_of_Michigan,Regular,2024-11-9
+20380,-,-,10:30 am MST,University_of_Wyoming,Colorado_State_University,Regular,2024-11-9
+21211,-,-,1:00 pm EST,Lake_Superior_State_University,Davenport_University,Regular,2024-11-9
+23091,-,-,1:45 pm CST,Liberty_University,University_of_Jamestown,Regular,2024-11-9
+20625,-,-,3:00 pm EST,Indiana_Tech,Grand_Valley_State_University,Regular,2024-11-9
+18727,-,-,4:30 pm CST,Maryville_University,Midland_University,Regular,2024-11-9
+20646,-,-,5:00 pm CST,McKendree_University,Minot_State_University,Regular,2024-11-9
+21081,-,-,4:00 pm MST,University_of_Colorado,Montana_State_University,Regular,2024-11-9
+21161,-,-,7:00 pm EST,Adrian_College,University_of_Michigan_Dearborn,Regular,2024-11-9
+21307,-,-,9:00 pm CST,Lindenwood_University,University_of_Minnesota,Regular,2024-11-9
+21132,-,-,10:30 am EST,University_of_Rhode_Island,University_of_Michigan,Regular,2024-11-10
+20292,-,-,1:30 pm EST,Grand_Valley_State_University,Michigan_State_University,Regular,2024-11-10
+21133,-,-,1:00 pm EST,University_of_Rhode_Island,Liberty_University,Regular,2024-11-14
+19272,-,-,3:45 pm CST,Minot_State_University,Adrian_College,Regular,2024-11-15
+21105,-,-,6:20 pm EST,University_of_Massachusetts_Amherst,Liberty_University,Regular,2024-11-15
+21067,-,-,4:35 pm MST,Arizona_State_University,Grand_Canyon_University,Regular,2024-11-15
+20293,-,-,7:30 pm EST,Grand_Valley_State_University,Lake_Superior_State_University,Regular,2024-11-15
+20279,-,-,9:00 pm EST,Aquinas_College,Concordia_University_Ann_Arbor,Regular,2024-11-15
+21255,-,-,9:00 pm EST,Miami_University,Indiana_Tech,Regular,2024-11-15
+20550,-,-,7:30 pm MST,University_of_Utah,University_of_Colorado,Regular,2024-11-15
+19780,-,-,8:15 pm MST,University_of_Arizona,Colorado_State_University,Regular,2024-11-15
+21106,-,-,11:20 am EST,University_of_Massachusetts_Amherst,Liberty_University,Regular,2024-11-16
+21237,-,-,3:00 pm EST,University_of_Michigan_Dearborn,University_of_Michigan,Regular,2024-11-16
+20626,-,-,3:10 pm EST,Indiana_Tech,Miami_University,Regular,2024-11-16
+20294,-,-,4:30 pm EST,Grand_Valley_State_University,Lake_Superior_State_University,Regular,2024-11-16
+19273,-,-,3:45 pm CST,Minot_State_University,Adrian_College,Regular,2024-11-16
+21134,-,-,7:00 pm EST,University_of_Rhode_Island,Penn_State_University,Regular,2024-11-16
+21266,-,-,7:30 pm EST,Concordia_University_Ann_Arbor,Aquinas_College,Regular,2024-11-16
+21144,-,-,8:00 pm EST,Davenport_University,Michigan_State_University,Regular,2024-11-16
+21277,-,-,7:30 pm CST,University_of_Minnesota,Midland_University,Regular,2024-11-16
+21222,-,-,6:00 pm PST,Grand_Canyon_University,Colorado_State_University,Regular,2024-11-16
+20551,-,-,7:30 pm MST,University_of_Utah,University_of_Colorado,Regular,2024-11-16
+19788,-,-,7:30 pm MST,Montana_State_University,University_of_Washington,Regular,2024-11-16
+21135,-,-,10:30 am EST,University_of_Rhode_Island,Penn_State_University,Regular,2024-11-17
+19789,-,-,10:00 am MST,Montana_State_University,University_of_Washington,Regular,2024-11-17
+21124,-,-,12:30 pm EST,Michigan_State_University,Davenport_University,Regular,2024-11-17
+23287,-,-,12:00 pm CST,University_of_Jamestown,Adrian_College,Regular,2024-11-17
+21278,-,-,12:30 pm CST,University_of_Minnesota,Midland_University,Regular,2024-11-17
+21223,-,-,11:30 am PST,Grand_Canyon_University,Colorado_State_University,Regular,2024-11-17
+21092,-,-,4:05 pm EST,University_of_Michigan,University_of_Michigan_Dearborn,Regular,2024-11-17
+21093,-,-,8:05 pm EST,University_of_Michigan,Indiana_Tech,Regular,2024-11-21
+21057,-,-,8:30 pm EST,Liberty_University,Minot_State_University,Regular,2024-11-21
+20552,-,-,7:00 pm MST,University_of_Utah,Midland_University,Regular,2024-11-21
+21068,-,-,9:05 pm MST,Arizona_State_University,McKendree_University,Regular,2024-11-21
+21176,-,-,1:00 am EST,Penn_State_University,Davenport_University,Regular,2024-11-22
+20553,-,-,4:30 pm MST,University_of_Utah,Midland_University,Regular,2024-11-22
+20627,-,-,7:00 pm EST,Indiana_Tech,University_of_Michigan,Regular,2024-11-22
+21289,-,-,7:00 pm EST,Niagara_University,University_of_Michigan_Dearborn,Regular,2024-11-22
+21212,-,-,7:00 pm EST,Lake_Superior_State_University,Concordia_University_Ann_Arbor,Regular,2024-11-22
+21082,-,-,5:00 pm MST,University_of_Colorado,University_of_Minnesota,Regular,2024-11-22
+21136,-,-,7:00 pm EST,University_of_Rhode_Island,University_of_Massachusetts_Amherst,Regular,2024-11-22
+21058,-,-,7:30 pm EST,Liberty_University,Minot_State_University,Regular,2024-11-22
+20280,-,-,7:40 pm EST,Aquinas_College,Grand_Valley_State_University,Regular,2024-11-22
+21069,-,-,7:35 pm MST,Arizona_State_University,McKendree_University,Regular,2024-11-22
+21177,-,-,1:00 am EST,Penn_State_University,Davenport_University,Regular,2024-11-23
+21213,-,-,1:00 pm EST,Lake_Superior_State_University,Concordia_University_Ann_Arbor,Regular,2024-11-23
+19214,-,-,1:00 pm MST,University_of_Arizona,McKendree_University,Regular,2024-11-23
+21137,-,-,4:00 pm EST,University_of_Rhode_Island,University_of_Massachusetts_Amherst,Regular,2024-11-23
+21290,-,-,4:45 pm EST,Niagara_University,University_of_Michigan_Dearborn,Regular,2024-11-23
+21083,-,-,4:00 pm MST,University_of_Colorado,University_of_Minnesota,Regular,2024-11-23
+20554,-,-,4:15 pm MST,University_of_Utah,Midland_University,Regular,2024-11-23
+21162,-,-,7:00 pm EST,Adrian_College,Miami_University,Regular,2024-11-23
+20295,-,-,7:30 pm EST,Grand_Valley_State_University,Aquinas_College,Regular,2024-11-23
+21059,-,-,7:30 pm EST,Liberty_University,Minot_State_University,Regular,2024-11-23
+21308,-,-,9:10 pm CST,Lindenwood_University,Maryville_University,Regular,2024-11-23
+21183,-,-,1:00 am MST,University_of_Denver,University_of_Minnesota,Regular,2024-11-24
+21256,-,-,1:00 pm EST,Miami_University,Adrian_College,Regular,2024-11-24
+21224,-,-,11:30 am PST,Grand_Canyon_University,McKendree_University,Regular,2024-11-24
+21309,-,-,3:50 pm CST,Lindenwood_University,Maryville_University,Regular,2024-11-24
+21060,-,-,9:30 pm EST,Liberty_University,Niagara_University,Regular,2024-12-5
+21061,-,-,1:30 pm EST,Liberty_University,Niagara_University,Regular,2024-12-6
+19215,-,-,1:00 pm MST,University_of_Arizona,Grand_Canyon_University,Regular,2024-12-6
+20628,-,-,4:00 pm EST,Indiana_Tech,Penn_State_University,Regular,2024-12-6
+18728,-,-,5:15 pm CST,Maryville_University,Lindenwood_University,Regular,2024-12-6
+21238,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Lake_Superior_State_University,Regular,2024-12-6
+21267,-,-,8:00 pm EST,Concordia_University_Ann_Arbor,Adrian_College,Regular,2024-12-6
+23288,-,-,7:30 pm CST,University_of_Jamestown,Minot_State_University,Regular,2024-12-6
+20555,-,-,7:30 pm MST,University_of_Utah,University_of_Massachusetts_Amherst,Regular,2024-12-6
+21257,-,-,10:15 pm EST,Miami_University,Aquinas_College,Regular,2024-12-6
+21163,-,-,12:00 pm EST,Adrian_College,Concordia_University_Ann_Arbor,Regular,2024-12-7
+21239,-,-,1:00 pm EST,University_of_Michigan_Dearborn,Lake_Superior_State_University,Regular,2024-12-7
+20629,-,-,3:10 pm EST,Indiana_Tech,Penn_State_University,Regular,2024-12-7
+23289,-,-,3:30 pm CST,University_of_Jamestown,Minot_State_University,Regular,2024-12-7
+20556,-,-,4:30 pm MST,University_of_Utah,University_of_Massachusetts_Amherst,Regular,2024-12-7
+21258,-,-,7:45 pm EST,Miami_University,Aquinas_College,Regular,2024-12-7
+21279,-,-,7:30 pm CST,University_of_Minnesota,Grand_Valley_State_University,Regular,2024-12-7
+21225,-,-,6:30 pm PST,Grand_Canyon_University,University_of_Arizona,Regular,2024-12-7
+21280,-,-,11:30 am CST,University_of_Minnesota,Grand_Valley_State_University,Regular,2024-12-8
+19790,-,-,11:30 am MST,Montana_State_University,University_of_Massachusetts_Amherst,Regular,2024-12-8
+18729,-,-,3:30 pm CST,Maryville_University,Lindenwood_University,Regular,2024-12-8
+23290,-,-,7:00 pm CST,University_of_Jamestown,Midland_University,Regular,2024-12-13
+21145,-,-,8:30 pm EST,Davenport_University,Aquinas_College,Regular,2024-12-13
+23291,-,-,3:00 pm CST,University_of_Jamestown,Midland_University,Regular,2024-12-14
+19216,-,-,1:00 pm MST,University_of_Arizona,Grand_Canyon_University,Regular,2025-1-10
+20630,-,-,4:00 pm EST,Indiana_Tech,Concordia_University_Ann_Arbor,Regular,2025-1-10
+19275,-,-,4:00 pm CST,Minot_State_University,Maryville_University,Regular,2025-1-10
+21070,-,-,4:35 pm MST,Arizona_State_University,Michigan_State_University,Regular,2025-1-10
+21146,-,-,8:30 pm EST,Davenport_University,Grand_Valley_State_University,Regular,2025-1-10
+20281,-,-,12:00 pm EST,Aquinas_College,Davenport_University,Regular,2025-1-11
+19217,-,-,1:00 pm MST,University_of_Arizona,Michigan_State_University,Regular,2025-1-11
+19276,-,-,2:00 pm CST,Minot_State_University,Maryville_University,Regular,2025-1-11
+21268,-,-,5:00 pm EST,Concordia_University_Ann_Arbor,Indiana_Tech,Regular,2025-1-11
+21094,-,-,8:05 pm EST,University_of_Michigan,Penn_State_University,Regular,2025-1-11
+21184,-,-,1:00 am MST,University_of_Denver,University_of_Washington,Regular,2025-1-12
+20296,-,-,1:30 pm EST,Grand_Valley_State_University,Aquinas_College,Regular,2025-1-12
+21226,-,-,11:30 am PST,Grand_Canyon_University,Michigan_State_University,Regular,2025-1-12
+21095,-,-,4:05 pm EST,University_of_Michigan,Penn_State_University,Regular,2025-1-12
+20282,-,-,1:00 am EST,Aquinas_College,University_of_Wyoming,Regular,2025-1-16
+21269,-,-,9:00 pm EST,Concordia_University_Ann_Arbor,University_of_Massachusetts_Amherst,Regular,2025-1-16
+19793,-,-,9:15 pm MST,Montana_State_University,University_of_Denver,Regular,2025-1-16
+21242,-,-,3:00 pm EST,University_of_Michigan_Dearborn,University_of_Massachusetts_Amherst,Regular,2025-1-17
+19783,-,-,5:00 pm CST,Midland_University,Minot_State_University,Regular,2025-1-17
+20283,-,-,7:40 pm EST,Aquinas_College,University_of_Wyoming,Regular,2025-1-17
+21270,-,-,8:30 pm EST,Concordia_University_Ann_Arbor,University_of_Rhode_Island,Regular,2025-1-17
+20647,-,-,7:45 pm CST,McKendree_University,Grand_Valley_State_University,Regular,2025-1-17
+19794,-,-,8:00 pm MST,Montana_State_University,University_of_Denver,Regular,2025-1-17
+21125,-,-,10:00 am EST,Michigan_State_University,University_of_Massachusetts_Amherst,Regular,2025-1-18
+21243,-,-,3:00 pm EST,University_of_Michigan_Dearborn,Indiana_Tech,Regular,2025-1-18
+23301,-,-,3:00 pm CST,University_of_Minnesota,University_of_Jamestown,Regular,2025-1-18
+21271,-,-,4:30 pm EST,Concordia_University_Ann_Arbor,University_of_Rhode_Island,Regular,2025-1-18
+19433,-,-,4:00 pm CST,Midland_University,Minot_State_University,Regular,2025-1-18
+20648,-,-,7:00 pm CST,McKendree_University,University_of_Michigan,Regular,2025-1-18
+21147,-,-,8:45 pm EST,Davenport_University,University_of_Wyoming,Regular,2025-1-18
+21310,-,-,9:10 pm CST,Lindenwood_University,Grand_Canyon_University,Regular,2025-1-18
+19795,-,-,8:15 pm MST,Montana_State_University,University_of_Denver,Regular,2025-1-18
+23302,-,-,9:00 am CST,University_of_Minnesota,University_of_Jamestown,Regular,2025-1-19
+21164,-,-,1:00 pm EST,Adrian_College,University_of_Rhode_Island,Regular,2025-1-19
+20631,-,-,2:00 pm EST,Indiana_Tech,University_of_Michigan_Dearborn,Regular,2025-1-19
+21311,-,-,2:00 pm CST,Lindenwood_University,Grand_Canyon_University,Regular,2025-1-19
+18730,-,-,7:30 pm CST,Maryville_University,University_of_Michigan,Regular,2025-1-19
+18731,-,-,1:00 pm CST,Maryville_University,University_of_Michigan,Regular,2025-1-20
+21185,-,-,8:30 pm MST,University_of_Denver,Miami_University,Regular,2025-1-22
+23292,-,-,7:30 pm CST,University_of_Jamestown,Niagara_University,Regular,2025-1-23
+19218,-,-,7:30 pm MST,University_of_Arizona,University_of_Massachusetts_Amherst,Regular,2025-1-23
+21071,-,-,9:35 pm MST,Arizona_State_University,Midland_University,Regular,2025-1-23
+23293,-,-,3:30 pm CST,University_of_Jamestown,Niagara_University,Regular,2025-1-24
+21072,-,-,4:35 pm MST,Arizona_State_University,Midland_University,Regular,2025-1-24
+21244,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Adrian_College,Regular,2025-1-24
+21084,-,-,5:00 pm MST,University_of_Colorado,Miami_University,Regular,2025-1-24
+20297,-,-,7:30 pm EST,Grand_Valley_State_University,Davenport_University,Regular,2025-1-24
+20284,-,-,8:30 pm EST,Aquinas_College,Lake_Superior_State_University,Regular,2025-1-24
+21119,-,-,7:15 pm MST,Colorado_State_University,University_of_Denver,Regular,2025-1-24
+18732,-,-,8:30 pm CST,Maryville_University,Indiana_Tech,Regular,2025-1-24
+20285,-,-,12:30 pm EST,Aquinas_College,Lake_Superior_State_University,Regular,2025-1-25
+21085,-,-,11:00 am MST,University_of_Colorado,Miami_University,Regular,2025-1-25
+21073,-,-,2:35 pm MST,Arizona_State_University,University_of_Massachusetts_Amherst,Regular,2025-1-25
+19277,-,-,4:00 pm CST,Minot_State_University,Niagara_University,Regular,2025-1-25
+21227,-,-,2:45 pm PST,Grand_Canyon_University,Midland_University,Regular,2025-1-25
+21148,-,-,6:00 pm EST,Davenport_University,Grand_Valley_State_University,Regular,2025-1-25
+18733,-,-,5:30 pm CST,Maryville_University,Indiana_Tech,Regular,2025-1-25
+21165,-,-,7:00 pm EST,Adrian_College,University_of_Michigan_Dearborn,Regular,2025-1-25
+21272,-,-,8:00 pm EST,Concordia_University_Ann_Arbor,University_of_Michigan,Regular,2025-1-25
+21228,-,-,11:30 am PST,Grand_Canyon_University,Midland_University,Regular,2025-1-26
+21074,-,-,12:35 pm MST,Arizona_State_University,University_of_Massachusetts_Amherst,Regular,2025-1-26
+19278,-,-,2:00 pm CST,Minot_State_University,Niagara_University,Regular,2025-1-26
+21096,-,-,4:05 pm EST,University_of_Michigan,Concordia_University_Ann_Arbor,Regular,2025-1-26
+21186,-,-,4:00 pm MST,University_of_Denver,University_of_Colorado,Regular,2025-1-26
+21166,-,-,7:30 pm EST,Adrian_College,Indiana_Tech,Regular,2025-1-30
+18734,-,-,8:15 pm CST,Maryville_University,Liberty_University,Regular,2025-1-30
+21191,-,-,11:30 am MST,University_of_Washington,Colorado_State_University,Regular,2025-1-31
+20381,-,-,12:30 pm MST,University_of_Wyoming,Grand_Canyon_University,Regular,2025-1-31
+20649,-,-,2:00 pm CST,McKendree_University,Liberty_University,Regular,2025-1-31
+21259,-,-,6:45 pm EST,Miami_University,Lindenwood_University,Regular,2025-1-31
+20632,-,-,7:00 pm EST,Indiana_Tech,Adrian_College,Regular,2025-1-31
+21245,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Aquinas_College,Regular,2025-1-31
+21273,-,-,8:30 pm EST,Concordia_University_Ann_Arbor,Grand_Valley_State_University,Regular,2025-1-31
+20382,-,-,8:00 pm MST,University_of_Wyoming,Grand_Canyon_University,Regular,2025-1-31
+19796,-,-,8:30 pm MST,Montana_State_University,Colorado_State_University,Regular,2025-1-31
+21260,-,-,12:30 pm EST,Miami_University,Lindenwood_University,Regular,2025-2-1
+20298,-,-,4:30 pm EST,Grand_Valley_State_University,Concordia_University_Ann_Arbor,Regular,2025-2-1
+21126,-,-,5:30 pm EST,Michigan_State_University,Penn_State_University,Regular,2025-2-1
+20650,-,-,5:00 pm CST,McKendree_University,Maryville_University,Regular,2025-2-1
+19797,-,-,4:30 pm MST,Montana_State_University,Colorado_State_University,Regular,2025-2-1
+21167,-,-,7:00 pm EST,Adrian_College,University_of_Michigan,Regular,2025-2-1
+21284,-,-,7:00 pm CST,University_of_Minnesota,Minot_State_University,Regular,2025-2-1
+23303,-,-,7:00 pm CST,Midland_University,University_of_Jamestown,Regular,2025-2-1
+21075,-,-,7:35 pm MST,Arizona_State_University,University_of_Arizona,Regular,2025-2-1
+21187,-,-,7:40 pm MST,University_of_Denver,Grand_Canyon_University,Regular,2025-2-1
+21192,-,-,8:30 pm MST,University_of_Washington,Colorado_State_University,Regular,2025-2-1
+21127,-,-,10:30 am EST,Michigan_State_University,Penn_State_University,Regular,2025-2-2
+23304,-,-,12:00 pm CST,Midland_University,University_of_Jamestown,Regular,2025-2-2
+21283,-,-,1:00 pm CST,University_of_Minnesota,Minot_State_University,Regular,2025-2-2
+21188,-,-,12:30 pm MST,University_of_Denver,Grand_Canyon_University,Regular,2025-2-2
+21097,-,-,4:05 pm EST,University_of_Michigan,Adrian_College,Regular,2025-2-2
+18735,-,-,3:45 pm CST,Maryville_University,McKendree_University,Regular,2025-2-2
+18736,-,-,8:15 pm CST,Maryville_University,University_of_Arizona,Regular,2025-2-6
+21178,-,-,1:00 am EST,Penn_State_University,Grand_Valley_State_University,Regular,2025-2-7
+20286,-,-,2:30 pm EST,Aquinas_College,Indiana_Tech,Regular,2025-2-7
+20651,-,-,2:00 pm CST,McKendree_University,University_of_Arizona,Regular,2025-2-7
+21107,-,-,6:20 pm EST,University_of_Massachusetts_Amherst,University_of_Rhode_Island,Regular,2025-2-7
+21261,-,-,6:45 pm EST,Miami_University,University_of_Michigan_Dearborn,Regular,2025-2-7
+21312,-,-,8:20 pm CST,Lindenwood_University,Lake_Superior_State_University,Regular,2025-2-7
+19798,-,-,7:30 pm MST,Montana_State_University,University_of_Wyoming,Regular,2025-2-7
+21189,-,-,8:30 pm MST,University_of_Denver,University_of_Utah,Regular,2025-2-7
+21229,-,-,9:15 pm PST,Grand_Canyon_University,University_of_Colorado,Regular,2025-2-7
+21179,-,-,1:00 am EST,Penn_State_University,Grand_Valley_State_University,Regular,2025-2-8
+21108,-,-,11:20 am EST,University_of_Massachusetts_Amherst,University_of_Rhode_Island,Regular,2025-2-8
+19799,-,-,10:15 am MST,Montana_State_University,University_of_Wyoming,Regular,2025-2-8
+20633,-,-,4:00 pm EST,Indiana_Tech,Aquinas_College,Regular,2025-2-8
+19436,-,-,4:00 pm CST,Midland_University,University_of_Minnesota,Regular,2025-2-8
+21291,-,-,6:00 pm EST,Niagara_University,University_of_Michigan,Regular,2025-2-8
+20652,-,-,5:00 pm CST,McKendree_University,Lake_Superior_State_University,Regular,2025-2-8
+21246,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Miami_University,Regular,2025-2-8
+21168,-,-,7:00 pm EST,Adrian_College,Michigan_State_University,Regular,2025-2-8
+21190,-,-,5:15 pm MST,University_of_Denver,University_of_Utah,Regular,2025-2-8
+21230,-,-,6:30 pm PST,Grand_Canyon_University,University_of_Colorado,Regular,2025-2-8
+21313,-,-,9:10 pm CST,Lindenwood_University,University_of_Arizona,Regular,2025-2-8
+21314,-,-,8:30 am CST,Lindenwood_University,University_of_Arizona,Regular,2025-2-9
+21128,-,-,12:30 pm EST,Michigan_State_University,Adrian_College,Regular,2025-2-9
+18737,-,-,11:45 am CST,Maryville_University,Lake_Superior_State_University,Regular,2025-2-9
+21292,-,-,1:00 pm EST,Niagara_University,University_of_Michigan,Regular,2025-2-9
+19437,-,-,12:00 pm CST,Midland_University,University_of_Minnesota,Regular,2025-2-9
+21169,-,-,7:00 pm EST,Adrian_College,Arizona_State_University,Regular,2025-2-12
+21098,-,-,8:05 pm EST,University_of_Michigan,Arizona_State_University,Regular,2025-2-13
+21062,-,-,1:30 pm EST,Liberty_University,Adrian_College,Regular,2025-2-14
+23305,-,-,3:45 pm CST,Minot_State_University,University_of_Jamestown,Regular,2025-2-14
+20653,-,-,4:30 pm CST,McKendree_University,Lindenwood_University,Regular,2025-2-14
+21109,-,-,6:20 pm EST,University_of_Massachusetts_Amherst,Niagara_University,Regular,2025-2-14
+20557,-,-,4:30 pm MST,University_of_Utah,Grand_Canyon_University,Regular,2025-2-14
+21214,-,-,7:00 pm EST,Lake_Superior_State_University,Aquinas_College,Regular,2025-2-14
+21129,-,-,7:00 pm EST,Michigan_State_University,University_of_Michigan_Dearborn,Regular,2025-2-14
+21086,-,-,5:00 pm MST,University_of_Colorado,University_of_Denver,Regular,2025-2-14
+20634,-,-,7:00 pm EST,Indiana_Tech,University_of_Rhode_Island,Regular,2025-2-14
+20299,-,-,7:30 pm EST,Grand_Valley_State_University,Arizona_State_University,Regular,2025-2-14
+21149,-,-,8:30 pm EST,Davenport_University,Concordia_University_Ann_Arbor,Regular,2025-2-14
+21110,-,-,12:20 pm EST,University_of_Massachusetts_Amherst,Niagara_University,Regular,2025-2-15
+21215,-,-,1:00 pm EST,Lake_Superior_State_University,Aquinas_College,Regular,2025-2-15
+21063,-,-,1:30 pm EST,Liberty_University,Adrian_College,Regular,2025-2-15
+20635,-,-,3:00 pm EST,Indiana_Tech,University_of_Rhode_Island,Regular,2025-2-15
+20300,-,-,4:30 pm EST,Grand_Valley_State_University,Arizona_State_University,Regular,2025-2-15
+20654,-,-,3:45 pm CST,McKendree_University,Lindenwood_University,Regular,2025-2-15
+21247,-,-,5:00 pm EST,University_of_Michigan_Dearborn,Michigan_State_University,Regular,2025-2-15
+19438,-,-,4:00 pm CST,Midland_University,Maryville_University,Regular,2025-2-15
+23306,-,-,5:00 pm CST,Minot_State_University,University_of_Jamestown,Regular,2025-2-15
+21087,-,-,4:00 pm MST,University_of_Colorado,University_of_Denver,Regular,2025-2-15
+21274,-,-,7:00 pm EST,Concordia_University_Ann_Arbor,Davenport_University,Regular,2025-2-15
+20558,-,-,7:30 pm MST,University_of_Utah,Grand_Canyon_University,Regular,2025-2-15
+21120,-,-,8:00 pm MST,Colorado_State_University,University_of_Wyoming,Regular,2025-2-15
+21248,-,-,12:00 pm EST,University_of_Michigan_Dearborn,Arizona_State_University,Regular,2025-2-16
+19439,-,-,12:00 pm CST,Midland_University,Maryville_University,Regular,2025-2-16
+21099,-,-,4:05 pm EST,University_of_Michigan,University_of_Rhode_Island,Regular,2025-2-16
+21121,-,-,8:00 pm MST,Colorado_State_University,University_of_Wyoming,Regular,2025-2-16
+19221,-,-,1:00 pm MST,University_of_Arizona,Arizona_State_University,Regular,2025-2-21
+21140,-,-,7:00 pm EST,University_of_Rhode_Island,University_of_Massachusetts_Amherst,Regular,2025-2-21
+19222,-,-,1:00 pm MST,University_of_Arizona,Arizona_State_University,Regular,2025-2-22
+21111,-,-,4:20 pm EST,University_of_Massachusetts_Amherst,University_of_Rhode_Island,Regular,2025-2-22
