@@ -8,7 +8,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22377,0,18,Final,University_of_Nebraska,Iowa_State_University,Regular,2024-9-22
 20045,15,0,Final,University_of_Delaware,West_Chester_University,Regular,2024-9-22
 22572,-,-,5:20 pm EDT,College_of_the_Holy_Cross,Bentley_University,Regular,2024-9-22
-23703,-,-,7:00 pm EDT,Providence_College,Merrimack_College,Regular,2024-9-22
+23703,4,2,Final,Providence_College,Merrimack_College,Regular,2024-9-22
 21890,0,7,Final,West_Virginia_University_,Lawrence_Technological_University,Regular,2024-9-26
 20972,6,5,Final,Iowa_State_University,University_of_Iowa,Regular,2024-9-27
 21891,1,9,Final,West_Virginia_University_,Lawrence_Technological_University,Regular,2024-9-27
@@ -33,7 +33,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19815,0,5,Final,Robert_Morris_University,Lawrence_Technological_University,Regular,2024-9-29
 22573,2,4,Final,College_of_the_Holy_Cross,Sacred_Heart_University,Regular,2024-9-29
 20980,2,1,Final OT,Liberty_University,University_of_Delaware,Regular,2024-10-4
-23412,-,-,7:00 pm EDT,The_Ohio_State_University,Bowling_Green_State_University,Regular,2024-10-4
+23412,6,0,Final,The_Ohio_State_University,Bowling_Green_State_University,Regular,2024-10-4
 21725,1,0,Final,Brockport_State_University,Niagara_University,Regular,2024-10-4
 21892,3,0,Final,West_Virginia_University_,Robert_Morris_University,Regular,2024-10-4
 23533,-,-,10:50 pm EDT,George_Washington_University,University_of_North_Carolina,Regular,2024-10-4
@@ -119,7 +119,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23550,0,4,Final,Adrian_College,Central_Michigan_University,Regular,2024-10-20
 22133,3,4,Final,Saint_Anselm_College,Northeastern_University,Regular,2024-10-20
 22794,2,1,Final,Sacred_Heart_University,Merrimack_College,Regular,2024-10-20
-23705,-,-,6:00 pm EDT,Providence_College,University_of_New_Hampshire,Regular,2024-10-20
+23705,1,2,Final,Providence_College,University_of_New_Hampshire,Regular,2024-10-20
 19766,-,-,Postponed,West_Chester_University,George_Washington_University,Regular,2024-10-20
 22580,3,6,Final,Harvard_University,Merrimack_College,Regular,2024-10-23
 21894,-,-,10:00 pm EDT,West_Virginia_University_,Liberty_University,Regular,2024-10-24
