@@ -80,21 +80,21 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21219,1,4,Final,Grand_Canyon_University,University_of_Utah,Regular,2024-10-19
 20289,1,2,Final,Grand_Valley_State_University,University_of_Michigan,Regular,2024-10-19
 21300,0,2,Final,Lindenwood_University,University_of_Michigan_Dearborn,Regular,2024-10-19
-21173,1,4,00:00 3rd,Penn_State_University,Lake_Superior_State_University,Regular,2024-10-20
+21173,1,4,Final,Penn_State_University,Lake_Superior_State_University,Regular,2024-10-20
 23607,3,5,Final,University_of_Arizona,University_of_Utah,Regular,2024-10-20
 21090,6,1,Final,University_of_Michigan,Grand_Valley_State_University,Regular,2024-10-20
 23285,4,2,Final,University_of_Jamestown,University_of_Minnesota,Regular,2024-10-20
 21182,1,2,Final,University_of_Denver,University_of_Colorado,Regular,2024-10-20
 21091,6,2,Final,University_of_Michigan,Michigan_State_University,Regular,2024-10-24
 18722,6,0,Final,Maryville_University,Arizona_State_University,Regular,2024-10-24
-21302,-,-,1:30 pm CDT,Lindenwood_University,Arizona_State_University,Regular,2024-10-25
-23296,-,-,2:00 pm CDT,McKendree_University,University_of_Jamestown,Regular,2024-10-25
-21264,-,-,5:30 pm EDT,Concordia_University_Ann_Arbor,Indiana_Tech,Regular,2024-10-25
+21302,5,1,Final,Lindenwood_University,Arizona_State_University,Regular,2024-10-25
+23296,4,0,Final,McKendree_University,University_of_Jamestown,Regular,2024-10-25
+21264,0,4,Final,Concordia_University_Ann_Arbor,Indiana_Tech,Regular,2024-10-25
 18723,-,-,5:15 pm CDT,Maryville_University,Miami_University,Regular,2024-10-25
-21158,-,-,7:00 pm EDT,Adrian_College,Liberty_University,Regular,2024-10-25
+21158,1,0,Final,Adrian_College,Liberty_University,Regular,2024-10-25
 21285,-,-,7:00 pm EDT,Niagara_University,University_of_Massachusetts_Amherst,Regular,2024-10-25
 19786,-,-,7:30 pm MDT,Montana_State_University,Grand_Canyon_University,Regular,2024-10-25
-21174,-,-,10:00 pm EDT,Penn_State_University,Aquinas_College,Regular,2024-10-25
+21174,7,1,Final,Penn_State_University,Aquinas_College,Regular,2024-10-25
 21117,-,-,8:15 pm MDT,Colorado_State_University,University_of_Utah,Regular,2024-10-25
 21175,-,-,11:30 am EDT,Penn_State_University,Aquinas_College,Regular,2024-10-26
 21159,-,-,12:00 pm EDT,Adrian_College,Liberty_University,Regular,2024-10-26
