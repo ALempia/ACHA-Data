@@ -90,22 +90,22 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21302,5,1,Final,Lindenwood_University,Arizona_State_University,Regular,2024-10-25
 23296,4,0,Final,McKendree_University,University_of_Jamestown,Regular,2024-10-25
 21264,0,4,Final,Concordia_University_Ann_Arbor,Indiana_Tech,Regular,2024-10-25
-18723,-,-,5:15 pm CDT,Maryville_University,Miami_University,Regular,2024-10-25
+18723,4,1,Final,Maryville_University,Miami_University,Regular,2024-10-25
 21158,1,0,Final,Adrian_College,Liberty_University,Regular,2024-10-25
-21285,-,-,7:00 pm EDT,Niagara_University,University_of_Massachusetts_Amherst,Regular,2024-10-25
-19786,-,-,7:30 pm MDT,Montana_State_University,Grand_Canyon_University,Regular,2024-10-25
+21285,6,2,Final,Niagara_University,University_of_Massachusetts_Amherst,Regular,2024-10-25
+19786,2,3,Final,Montana_State_University,Grand_Canyon_University,Regular,2024-10-25
 21174,7,1,Final,Penn_State_University,Aquinas_College,Regular,2024-10-25
-21117,-,-,8:15 pm MDT,Colorado_State_University,University_of_Utah,Regular,2024-10-25
-21175,-,-,11:30 am EDT,Penn_State_University,Aquinas_College,Regular,2024-10-26
-21159,-,-,12:00 pm EDT,Adrian_College,Liberty_University,Regular,2024-10-26
-21286,-,-,1:30 pm EDT,Niagara_University,University_of_Massachusetts_Amherst,Regular,2024-10-26
+21117,2,2,Final OT,Colorado_State_University,University_of_Utah,Regular,2024-10-25
+21175,8,1,Final,Penn_State_University,Aquinas_College,Regular,2024-10-26
+21159,1,4,Final,Adrian_College,Liberty_University,Regular,2024-10-26
+21286,5,2,Final,Niagara_University,University_of_Massachusetts_Amherst,Regular,2024-10-26
 20622,-,-,3:10 pm EDT,Indiana_Tech,Concordia_University_Ann_Arbor,Regular,2024-10-26
-23297,-,-,2:15 pm CDT,McKendree_University,University_of_Jamestown,Regular,2024-10-26
-19268,-,-,3:45 pm CDT,Minot_State_University,Midland_University,Regular,2024-10-26
+23297,4,2,Final,McKendree_University,University_of_Jamestown,Regular,2024-10-26
+19268,4,1,Final,Minot_State_University,Midland_University,Regular,2024-10-26
 18724,-,-,5:15 pm CDT,Maryville_University,Miami_University,Regular,2024-10-26
-19787,-,-,4:30 pm MDT,Montana_State_University,Grand_Canyon_University,Regular,2024-10-26
-21303,-,-,8:30 pm CDT,Lindenwood_University,Arizona_State_University,Regular,2024-10-26
-21118,-,-,7:45 pm MDT,Colorado_State_University,University_of_Utah,Regular,2024-10-26
+19787,2,5,Final,Montana_State_University,Grand_Canyon_University,Regular,2024-10-26
+21303,4,3,Final OT,Lindenwood_University,Arizona_State_University,Regular,2024-10-26
+21118,2,5,Final,Colorado_State_University,University_of_Utah,Regular,2024-10-26
 20643,-,-,12:15 pm CDT,McKendree_University,Arizona_State_University,Regular,2024-10-27
 19269,-,-,1:00 pm CDT,Minot_State_University,Midland_University,Regular,2024-10-27
 21304,-,-,3:00 pm CDT,Lindenwood_University,Miami_University,Regular,2024-10-27

@@ -320,39 +320,39 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20582,5,4,Final SO,John_Carroll_University,Duquesne_University,Regular,2024-10-25
 18805,-,-,7:15 pm CDT,University_of_Alabama,Saginaw_Valley_State_University,Regular,2024-10-25
 18636,-,-,8:15 pm EDT,William_Paterson_University,George_Mason_University,Regular,2024-10-25
-19400,-,-,7:20 pm CDT,Roosevelt_University,Drury_University,Regular,2024-10-25
+19400,1,10,Final,Roosevelt_University,Drury_University,Regular,2024-10-25
 19165,9,4,Final,Davenport_University,University_of_Pittsburgh,Regular,2024-10-25
-20608,-,-,7:30 pm CDT,Kent_State_University,Indiana_University_of_Pennsylvania,Regular,2024-10-25
+20608,2,7,Final,Kent_State_University,Indiana_University_of_Pennsylvania,Regular,2024-10-25
 19151,-,-,8:30 pm EDT,The_College_of_New_Jersey,West_Chester_University,Regular,2024-10-25
-20510,5,4,Final,Colorado_State_University,San_Diego_State_University,Regular,2024-10-25
+20510,6,4,Final,Colorado_State_University,San_Diego_State_University,Regular,2024-10-25
 18674,4,2,Final,Maryville_University,Niagara_University,Regular,2024-10-25
 19874,3,0,Final,Lehigh_University,United_States_Naval_Academy,Regular,2024-10-25
 19360,3,4,Final,University_of_Oregon,Iowa_State_University,Regular,2024-10-25
-19875,-,-,2:30 pm EDT,Lehigh_University,George_Mason_University,Regular,2024-10-26
+19875,3,5,Final,Lehigh_University,George_Mason_University,Regular,2024-10-26
 20563,-,-,2:30 pm EDT,Robert_Morris_University,Temple_University,Regular,2024-10-26
 18637,-,-,2:30 pm EDT,William_Paterson_University,United_States_Naval_Academy,Regular,2024-10-26
-19166,-,-,3:30 pm EDT,Davenport_University,University_of_Pittsburgh,Regular,2024-10-26
-18552,-,-,4:00 pm EDT,University_of_Rhode_Island,Drexel_University,Regular,2024-10-26
-19370,-,-,5:00 pm EDT,Concordia_University_Ann_Arbor,Cleary_University,Regular,2024-10-26
-20583,-,-,6:00 pm EDT,John_Carroll_University,Indiana_University_of_Pennsylvania,Regular,2024-10-26
-18588,-,-,6:00 pm EDT,Mercyhurst_University,Rutgers_University,Regular,2024-10-26
-18951,-,-,6:00 pm CDT,Missouri_State_University,University_of_Oklahoma,Regular,2024-10-26
+19166,4,3,Final SO,Davenport_University,University_of_Pittsburgh,Regular,2024-10-26
+18552,2,5,Final,University_of_Rhode_Island,Drexel_University,Regular,2024-10-26
+19370,0,4,Final,Concordia_University_Ann_Arbor,Cleary_University,Regular,2024-10-26
+20583,4,3,Final,John_Carroll_University,Indiana_University_of_Pennsylvania,Regular,2024-10-26
+18588,2,7,Final,Mercyhurst_University,Rutgers_University,Regular,2024-10-26
+18951,2,3,Final,Missouri_State_University,University_of_Oklahoma,Regular,2024-10-26
 19387,-,-,7:00 pm EDT,University_of_Michigan_Dearborn,Aquinas_College,Regular,2024-10-26
-18929,-,-,7:00 pm EDT,Liberty_University,Stony_Brook_University,Regular,2024-10-26
+18929,8,5,Final,Liberty_University,Stony_Brook_University,Regular,2024-10-26
 19055,-,-,6:10 pm CDT,Illinois_State_University,Northern_Illinois_University,Regular,2024-10-26
 20521,-,-,7:30 pm EDT,Calvin_University,Purdue_University_Northwest,Regular,2024-10-26
 20609,-,-,6:45 pm CDT,Kent_State_University,Duquesne_University,Regular,2024-10-26
 18761,-,-,7:00 pm CDT,University_of_Central_Oklahoma,University_of_Utah,Regular,2024-10-26
-18867,-,-,7:00 pm CDT,University_of_Mary,Minot_State_University,Regular,2024-10-26
-18607,-,-,7:00 pm CDT,University_of_Illinois,University_of_Toledo,Regular,2024-10-26
-18625,-,-,8:00 pm EDT,Syracuse_University,Oswego_State_University,Regular,2024-10-26
+18867,1,6,Final,University_of_Mary,Minot_State_University,Regular,2024-10-26
+18607,5,1,Final,University_of_Illinois,University_of_Toledo,Regular,2024-10-26
+18625,4,5,Final,Syracuse_University,Oswego_State_University,Regular,2024-10-26
 19401,-,-,7:30 pm CDT,Roosevelt_University,Drury_University,Regular,2024-10-26
-19001,-,-,8:30 pm EDT,University_of_Delaware,New_York_University,Regular,2024-10-26
-20511,-,-,7:15 pm MDT,Colorado_State_University,San_Diego_State_University,Regular,2024-10-26
+19001,5,2,Final,University_of_Delaware,New_York_University,Regular,2024-10-26
+20511,5,1,Final,Colorado_State_University,San_Diego_State_University,Regular,2024-10-26
 18675,-,-,8:15 pm CDT,Maryville_University,Niagara_University,Regular,2024-10-26
-18966,-,-,7:00 pm PDT,Grand_Canyon_University,Arizona_State_University,Regular,2024-10-26
-20775,-,-,10:00 pm EDT,Rochester_Christian_University,Indiana_Tech,Regular,2024-10-26
-19361,-,-,7:30 pm PDT,University_of_Oregon,Iowa_State_University,Regular,2024-10-26
+18966,5,3,Final,Grand_Canyon_University,Arizona_State_University,Regular,2024-10-26
+20775,0,17,Final,Rochester_Christian_University,Indiana_Tech,Regular,2024-10-26
+19361,3,4,Final,University_of_Oregon,Iowa_State_University,Regular,2024-10-26
 18589,-,-,3:00 pm EDT,Mercyhurst_University,Rutgers_University,Regular,2024-10-27
 18985,-,-,7:30 pm EDT,Adrian_College,Indiana_Tech,Regular,2024-10-30
 20397,-,-,7:00 pm CDT,Minot_State_University,University_of_Mary,Regular,2024-10-30
