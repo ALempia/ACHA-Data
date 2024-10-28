@@ -124,9 +124,9 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23705,1,2,Final,Providence_College,University_of_New_Hampshire,Regular,2024-10-20
 19766,-,-,Postponed,West_Chester_University,George_Washington_University,Regular,2024-10-20
 22580,3,6,Final,Harvard_University,Merrimack_College,Regular,2024-10-23
-21894,-,9,10:00 pm EDT,West_Virginia_University_,Liberty_University,Regular,2024-10-24
+21894,0,10,Final,West_Virginia_University_,Liberty_University,Regular,2024-10-24
 23413,9,1,Final,The_Ohio_State_University,Bowling_Green_State_University,Regular,2024-10-25
-20943,-,-,4:00 pm EDT,Robert_Morris_University,Adrian_College,Regular,2024-10-25
+20943,0,1,Final,Robert_Morris_University,Adrian_College,Regular,2024-10-25
 20944,1,6,Final,Niagara_University,Liberty_University,Regular,2024-10-25
 21895,2,6,Final,West_Virginia_University_,University_of_Pittsburgh,Regular,2024-10-25
 20362,-,-,8:30 pm EDT,Montclair_State_University,Army,Regular,2024-10-25
@@ -135,30 +135,30 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20946,6,1,Final,Liberty_University,Robert_Morris_University,Regular,2024-10-26
 22378,-,-,10:00 am CDT,University_of_Nebraska,University_of_Wisconsin_Eau_Claire,Regular,2024-10-26
 20947,-,-,12:30 pm EDT,Rowan_University,Niagara_University,Regular,2024-10-26
-22904,-,-,1:20 pm EDT,University_of_Vermont,University_of_New_Hampshire,Regular,2024-10-26
+22904,3,1,Final,University_of_Vermont,University_of_New_Hampshire,Regular,2024-10-26
 23118,1,8,Final,University_of_Illinois,Lawrence_Technological_University,Regular,2024-10-26
 20948,2,2,Final OT,Adrian_College,Mercyhurst_University,Regular,2024-10-26
-21650,-,-,5:35 pm EDT,Eastern_Michigan_University,Northern_Michigan_University,Regular,2024-10-26
+21650,4,1,Final,Eastern_Michigan_University,Northern_Michigan_University,Regular,2024-10-26
 19667,3,5,Final,Villanova_University,Sacred_Heart_University,Regular,2024-10-26
 22473,4,5,Final,Assumption_University,University_Of_Connecticut,Regular,2024-10-26
-23273,-,-,7:00 pm CDT,University_of_Wisconsin_LaCrosse,Iowa_State_University,Regular,2024-10-26
+23273,2,4,03:34 3rd,University_of_Wisconsin_LaCrosse,Iowa_State_University,Regular,2024-10-26
 20967,1,5,Final,University_of_Pittsburgh,University_of_Maryland,Regular,2024-10-26
-21896,-,-,9:15 pm EDT,West_Virginia_University_,Rochester_Institute_Of_Technology,Regular,2024-10-26
+21896,4,2,Final,West_Virginia_University_,Rochester_Institute_Of_Technology,Regular,2024-10-26
 20035,6,0,Final,Assiniboine_College,Lake_Region_State_College,Regular,2024-10-26
-22141,-,-,10:00 pm EDT,Georgetown_University,George_Washington_University,Regular,2024-10-26
-21651,-,-,7:05 am EDT,Eastern_Michigan_University,Northern_Michigan_University,Regular,2024-10-27
-20949,-,-,8:00 am EDT,Mercyhurst_University,Liberty_University,Regular,2024-10-27
+22141,8,0,Final,Georgetown_University,George_Washington_University,Regular,2024-10-26
+21651,5,1,Final,Eastern_Michigan_University,Northern_Michigan_University,Regular,2024-10-27
+20949,0,10,Final,Mercyhurst_University,Liberty_University,Regular,2024-10-27
 20950,-,-,10:30 am EDT,Niagara_University,Adrian_College,Regular,2024-10-27
-21737,-,-,10:30 am EDT,University_of_Virginia,University_of_North_Carolina,Regular,2024-10-27
-21897,-,-,11:00 am EDT,West_Virginia_University_,Rochester_Institute_Of_Technology,Regular,2024-10-27
-23274,-,-,10:00 am CDT,University_of_Wisconsin_LaCrosse,Iowa_State_University,Regular,2024-10-27
-20036,-,-,10:30 am CDT,Assiniboine_College,Lake_Region_State_College,Regular,2024-10-27
+21737,12,2,Final,University_of_Virginia,University_of_North_Carolina,Regular,2024-10-27
+21897,2,2,Final OT,West_Virginia_University_,Rochester_Institute_Of_Technology,Regular,2024-10-27
+23274,4,3,04:34 3rd,University_of_Wisconsin_LaCrosse,Iowa_State_University,Regular,2024-10-27
+20036,1,0,Visiting Forfeit,Assiniboine_College,Lake_Region_State_College,Regular,2024-10-27
 20951,-,-,1:00 pm EDT,Robert_Morris_University,Rowan_University,Regular,2024-10-27
 22379,-,-,12:15 pm CDT,University_of_Nebraska,University_of_Wisconsin_Eau_Claire,Regular,2024-10-27
-22581,-,-,2:45 pm EDT,Harvard_University,University_Of_Connecticut,Regular,2024-10-27
-23559,-,-,4:30 pm EDT,Army,Sacred_Heart_University,Regular,2024-10-27
+22581,8,8,Final OT,Harvard_University,University_Of_Connecticut,Regular,2024-10-27
+23559,1,10,Final,Army,Sacred_Heart_University,Regular,2024-10-27
 22574,-,-,5:20 pm EDT,College_of_the_Holy_Cross,University_of_New_Hampshire,Regular,2024-10-27
-20058,-,-,5:30 pm EDT,University_of_Pennsylvania,Villanova_University,Regular,2024-10-27
+20058,0,10,Final,University_of_Pennsylvania,Villanova_University,Regular,2024-10-27
 22872,-,-,8:00 pm EDT,Merrimack_College,Northeastern_University,Regular,2024-10-27
 19806,-,-,7:00 pm EDT,Central_Michigan_University,Aurora_University,Regular,2024-11-1
 21571,-,-,7:00 pm EDT,United_States_Naval_Academy,Villanova_University,Regular,2024-11-1
