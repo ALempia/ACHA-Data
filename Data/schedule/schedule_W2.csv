@@ -90,7 +90,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23270,2,3,Final,Boston_University,Boston_College,Regular,2024-10-15
 20982,2,0,Final,Liberty_University,Rowan_University,Regular,2024-10-18
 21569,-,-,4:30 pm EDT,United_States_Naval_Academy,United_States_Air_Force_Academy,Regular,2024-10-18
-23782,-,-,6:00 pm EDT,Bowling_Green_State_University,Miami_University,Regular,2024-10-18
+23782,0,2,Final,Bowling_Green_State_University,Miami_University,Regular,2024-10-18
 23380,3,4,Final,Augustana_University,Lake_Region_State_College,Regular,2024-10-18
 22793,0,6,06:07 3rd,Sacred_Heart_University,Boston_College,Regular,2024-10-18
 21893,2,1,Final,West_Virginia_University_,Brockport_State_University,Regular,2024-10-18
@@ -104,7 +104,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23116,14,0,Final,University_of_Illinois,Hope_College,Regular,2024-10-19
 20938,7,2,Final,Mercyhurst_University,Brockport_State_University,Regular,2024-10-19
 20049,11,1,Final,University_of_Delaware,University_of_Pennsylvania,Regular,2024-10-19
-23783,-,-,5:30 pm EDT,Bowling_Green_State_University,Miami_University,Regular,2024-10-19
+23783,3,5,Final,Bowling_Green_State_University,Miami_University,Regular,2024-10-19
 18741,-,-,5:15 pm CDT,Maryville_University,Aurora_University,Regular,2024-10-19
 19805,3,0,Final,Central_Michigan_University,Adrian_College,Regular,2024-10-19
 22471,4,5,Final OT,Assumption_University,Sacred_Heart_University,Regular,2024-10-19
@@ -133,7 +133,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20945,1,2,Final,Mercyhurst_University,Rowan_University,Regular,2024-10-25
 23117,5,6,Final,University_of_Illinois,Lawrence_Technological_University,Regular,2024-10-25
 20946,6,1,Final,Liberty_University,Robert_Morris_University,Regular,2024-10-26
-22378,-,-,10:00 am CDT,University_of_Nebraska,University_of_Wisconsin_Eau_Claire,Regular,2024-10-26
+22378,0,10,Final,University_of_Nebraska,University_of_Wisconsin_Eau_Claire,Regular,2024-10-26
 20947,-,-,12:30 pm EDT,Rowan_University,Niagara_University,Regular,2024-10-26
 22904,3,1,Final,University_of_Vermont,University_of_New_Hampshire,Regular,2024-10-26
 23118,1,8,Final,University_of_Illinois,Lawrence_Technological_University,Regular,2024-10-26
@@ -154,12 +154,12 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23274,4,3,04:34 3rd,University_of_Wisconsin_LaCrosse,Iowa_State_University,Regular,2024-10-27
 20036,1,0,Visiting Forfeit,Assiniboine_College,Lake_Region_State_College,Regular,2024-10-27
 20951,-,-,1:00 pm EDT,Robert_Morris_University,Rowan_University,Regular,2024-10-27
-22379,-,-,12:15 pm CDT,University_of_Nebraska,University_of_Wisconsin_Eau_Claire,Regular,2024-10-27
+22379,0,10,Final,University_of_Nebraska,University_of_Wisconsin_Eau_Claire,Regular,2024-10-27
 22581,8,8,Final OT,Harvard_University,University_Of_Connecticut,Regular,2024-10-27
 23559,1,10,Final,Army,Sacred_Heart_University,Regular,2024-10-27
-22574,-,-,5:20 pm EDT,College_of_the_Holy_Cross,University_of_New_Hampshire,Regular,2024-10-27
+22574,2,10,Final,College_of_the_Holy_Cross,University_of_New_Hampshire,Regular,2024-10-27
 20058,0,10,Final,University_of_Pennsylvania,Villanova_University,Regular,2024-10-27
-22872,-,-,8:00 pm EDT,Merrimack_College,Northeastern_University,Regular,2024-10-27
+22872,1,4,Final,Merrimack_College,Northeastern_University,Regular,2024-10-27
 19806,-,-,7:00 pm EDT,Central_Michigan_University,Aurora_University,Regular,2024-11-1
 21571,-,-,7:00 pm EDT,United_States_Naval_Academy,Villanova_University,Regular,2024-11-1
 21872,-,-,7:00 pm EDT,Army,United_States_Air_Force_Academy,Regular,2024-11-1
