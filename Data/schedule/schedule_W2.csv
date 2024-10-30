@@ -36,7 +36,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23412,6,0,Final,The_Ohio_State_University,Bowling_Green_State_University,Regular,2024-10-4
 21725,1,0,Final,Brockport_State_University,Niagara_University,Regular,2024-10-4
 21892,3,0,Final,West_Virginia_University_,Robert_Morris_University,Regular,2024-10-4
-23533,-,-,10:50 pm EDT,George_Washington_University,University_of_North_Carolina,Regular,2024-10-4
+23533,0,0,20:00 1st,George_Washington_University,University_of_North_Carolina,Regular,2024-10-4
 22870,2,7,Final,Merrimack_College,Boston_University,Regular,2024-10-5
 20981,6,3,Final,Liberty_University,University_of_Delaware,Regular,2024-10-5
 22132,4,0,Final,Saint_Anselm_College,University_of_New_Hampshire,Regular,2024-10-5
@@ -92,7 +92,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21569,-,-,4:30 pm EDT,United_States_Naval_Academy,United_States_Air_Force_Academy,Regular,2024-10-18
 23782,0,2,Final,Bowling_Green_State_University,Miami_University,Regular,2024-10-18
 23380,3,4,Final,Augustana_University,Lake_Region_State_College,Regular,2024-10-18
-22793,0,6,06:07 3rd,Sacred_Heart_University,Boston_College,Regular,2024-10-18
+22793,0,6,Final,Sacred_Heart_University,Boston_College,Regular,2024-10-18
 21893,2,1,Final,West_Virginia_University_,Brockport_State_University,Regular,2024-10-18
 21610,6,1,Final,University_Of_Connecticut,Merrimack_College,Regular,2024-10-18
 18740,-,-,8:15 pm CDT,Maryville_University,Aurora_University,Regular,2024-10-18
@@ -153,7 +153,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21897,2,2,Final OT,West_Virginia_University_,Rochester_Institute_Of_Technology,Regular,2024-10-27
 23274,4,3,04:34 3rd,University_of_Wisconsin_LaCrosse,Iowa_State_University,Regular,2024-10-27
 20036,1,0,Visiting Forfeit,Assiniboine_College,Lake_Region_State_College,Regular,2024-10-27
-20951,-,-,1:00 pm EDT,Robert_Morris_University,Rowan_University,Regular,2024-10-27
+20951,5,6,Final OT,Robert_Morris_University,Rowan_University,Regular,2024-10-27
 22379,0,10,Final,University_of_Nebraska,University_of_Wisconsin_Eau_Claire,Regular,2024-10-27
 22581,8,8,Final OT,Harvard_University,University_Of_Connecticut,Regular,2024-10-27
 23559,1,10,Final,Army,Sacred_Heart_University,Regular,2024-10-27

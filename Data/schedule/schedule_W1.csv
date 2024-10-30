@@ -110,13 +110,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19269,3,0,Final,Minot_State_University,Midland_University,Regular,2024-10-27
 21304,2,4,Final,Lindenwood_University,Miami_University,Regular,2024-10-27
 21208,3,4,Final OT,Lake_Superior_State_University,Indiana_Tech,Regular,2024-10-28
-21209,-,-,7:00 pm EDT,Lake_Superior_State_University,Indiana_Tech,Regular,2024-10-29
+21209,3,4,Final,Lake_Superior_State_University,Indiana_Tech,Regular,2024-10-29
 21160,-,-,7:30 pm EDT,Adrian_College,Grand_Valley_State_University,Regular,2024-10-31
 20548,-,-,1:30 pm MDT,University_of_Utah,Montana_State_University,Regular,2024-11-1
 19270,-,-,3:45 pm CDT,Minot_State_University,Lindenwood_University,Regular,2024-11-1
 20623,-,-,4:45 pm EDT,Indiana_Tech,Niagara_University,Regular,2024-11-1
-20290,-,-,7:30 pm EDT,Grand_Valley_State_University,Adrian_College,Regular,2024-11-1
 21265,-,-,8:30 pm EDT,Concordia_University_Ann_Arbor,University_of_Michigan_Dearborn,Regular,2024-11-1
+20290,-,-,9:00 pm EDT,Grand_Valley_State_University,Adrian_College,Regular,2024-11-1
 21220,-,-,6:00 pm PDT,Grand_Canyon_University,University_of_Denver,Regular,2024-11-1
 21078,-,-,7:00 pm MDT,University_of_Colorado,University_of_Wyoming,Regular,2024-11-1
 21055,-,-,11:59 pm EDT,Liberty_University,Maryville_University,Regular,2024-11-1
@@ -175,8 +175,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20626,-,-,3:10 pm EST,Indiana_Tech,Miami_University,Regular,2024-11-16
 20294,-,-,4:30 pm EST,Grand_Valley_State_University,Lake_Superior_State_University,Regular,2024-11-16
 19273,-,-,3:45 pm CST,Minot_State_University,Adrian_College,Regular,2024-11-16
+21266,-,-,6:00 pm EST,Concordia_University_Ann_Arbor,Aquinas_College,Regular,2024-11-16
 21134,-,-,7:00 pm EST,University_of_Rhode_Island,Penn_State_University,Regular,2024-11-16
-21266,-,-,7:30 pm EST,Concordia_University_Ann_Arbor,Aquinas_College,Regular,2024-11-16
 21144,-,-,8:00 pm EST,Davenport_University,Michigan_State_University,Regular,2024-11-16
 21277,-,-,7:30 pm CST,University_of_Minnesota,Midland_University,Regular,2024-11-16
 21222,-,-,6:00 pm PST,Grand_Canyon_University,Colorado_State_University,Regular,2024-11-16
