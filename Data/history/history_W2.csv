@@ -43,8 +43,10 @@ Oct 5,Niagara University,West Virginia University ,6,0,Win,NA,NA,NA,NA,NA,NA,NA,
 Oct 5,Virginia Tech,University of North Carolina,9,1,Win,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 5,Northern Michigan University,Central Michigan University,4,2,Win,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 5,Brockport State University,University of Pittsburgh,5,3,Win,NA,NA,NA,NA,NA,NA,NA,NA,W2
+Oct 5,University of Wisconsin Eau Claire,University of Minnesota Duluth,4,3,Win,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 5,Miami University,Sault College,0,14,Loss,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 5,Rowan University,Villanova University,1,6,Loss,NA,NA,NA,NA,NA,NA,NA,NA,W2
+Oct 6,University of Wisconsin Eau Claire,University of Minnesota Duluth,0,3,Loss,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 6,Virginia Tech,University of Virginia,5,4,Win,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 6,University of Illinois,University of Iowa,0,3,Loss,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 6,Boston University,Providence College,3,0,Win,NA,NA,NA,NA,NA,NA,NA,NA,W2
@@ -113,6 +115,7 @@ Oct 25,Mercyhurst University,Rowan University,1,2,Loss,NA,NA,NA,NA,NA,NA,NA,NA,W
 Oct 25,University of Illinois,Lawrence Technological University,5,6,Loss,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 26,Liberty University,Robert Morris University,6,1,Win,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 26,University of Nebraska,University of Wisconsin Eau Claire,0,10,Loss,NA,NA,NA,NA,NA,NA,NA,NA,W2
+Oct 26,Rowan University,Niagara University,5,2,Win,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 26,University of Vermont,University of New Hampshire,3,1,Win,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 26,University of Illinois,Lawrence Technological University,1,8,Loss,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 26,Adrian College,Mercyhurst University,2,2,Tie,NA,NA,NA,NA,NA,NA,NA,NA,W2
@@ -178,8 +181,10 @@ Oct 5,West Virginia University ,Niagara University,0,6,Loss,NA,NA,NA,NA,NA,NA,NA
 Oct 5,University of North Carolina,Virginia Tech,1,9,Loss,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 5,Central Michigan University,Northern Michigan University,2,4,Loss,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 5,University of Pittsburgh,Brockport State University,3,5,Loss,NA,NA,NA,NA,NA,NA,NA,NA,W2
+Oct 5,University of Minnesota Duluth,University of Wisconsin Eau Claire,3,4,Loss,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 5,Sault College,Miami University,14,0,Win,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 5,Villanova University,Rowan University,6,1,Win,NA,NA,NA,NA,NA,NA,NA,NA,W2
+Oct 6,University of Minnesota Duluth,University of Wisconsin Eau Claire,3,0,Win,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 6,University of Virginia,Virginia Tech,4,5,Loss,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 6,University of Iowa,University of Illinois,3,0,Win,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 6,Providence College,Boston University,0,3,Loss,NA,NA,NA,NA,NA,NA,NA,NA,W2
@@ -248,6 +253,7 @@ Oct 25,Rowan University,Mercyhurst University,2,1,Win,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 25,Lawrence Technological University,University of Illinois,6,5,Win,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 26,Robert Morris University,Liberty University,1,6,Loss,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 26,University of Wisconsin Eau Claire,University of Nebraska,10,0,Win,NA,NA,NA,NA,NA,NA,NA,NA,W2
+Oct 26,Niagara University,Rowan University,2,5,Loss,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 26,University of New Hampshire,University of Vermont,1,3,Loss,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 26,Lawrence Technological University,University of Illinois,8,1,Win,NA,NA,NA,NA,NA,NA,NA,NA,W2
 Oct 26,Mercyhurst University,Adrian College,2,2,Tie,NA,NA,NA,NA,NA,NA,NA,NA,W2
