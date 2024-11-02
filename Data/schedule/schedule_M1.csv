@@ -356,33 +356,33 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18589,3,4,Final,Mercyhurst_University,Rutgers_University,Regular,2024-10-27
 18985,2,0,Final,Adrian_College,Indiana_Tech,Regular,2024-10-30
 20397,4,1,Final,Minot_State_University,University_of_Mary,Regular,2024-10-30
-19445,-,-,1:30 pm EDT,Niagara_University,Liberty_University,Regular,2024-11-1
-19371,-,-,5:30 pm EDT,Concordia_University_Ann_Arbor,Rochester_Christian_University,Regular,2024-11-1
-18501,-,-,5:30 pm EDT,University_of_Delaware,Ohio_University,Regular,2024-11-1
+19445,1,0,Final SO,Niagara_University,Liberty_University,Regular,2024-11-1
+19371,6,4,Final,Concordia_University_Ann_Arbor,Rochester_Christian_University,Regular,2024-11-1
+18501,2,7,Final,University_of_Delaware,Ohio_University,Regular,2024-11-1
 19388,-,-,7:00 pm EDT,University_of_Michigan_Dearborn,Lawrence_Tech,Regular,2024-11-1
-18590,-,-,7:00 pm EDT,Mercyhurst_University,Kent_State_University,Regular,2024-11-1
+18590,0,10,Final,Mercyhurst_University,Kent_State_University,Regular,2024-11-1
 19979,-,-,7:30 pm EDT,Stony_Brook_University,University_of_Rhode_Island,Regular,2024-11-1
 20522,-,-,7:30 pm EDT,Calvin_University,Illinois_State_University,Regular,2024-11-1
-19994,-,-,7:30 pm EDT,University_of_Toledo,Northwood_University,Regular,2024-11-1
-18881,-,-,7:30 pm EDT,Indiana_Tech,Adrian_College,Regular,2024-11-1
-18647,-,-,7:40 pm EDT,Aquinas_College,Cleary_University,Regular,2024-11-1
-20696,-,-,7:40 pm EDT,Villanova_University,United_States_Naval_Academy,Regular,2024-11-1
+19994,4,5,Final OT,University_of_Toledo,Northwood_University,Regular,2024-11-1
+18881,3,5,Final,Indiana_Tech,Adrian_College,Regular,2024-11-1
+18647,4,5,Final,Aquinas_College,Cleary_University,Regular,2024-11-1
+20696,2,1,Unofficial Final,Villanova_University,United_States_Naval_Academy,Regular,2024-11-1
 19082,-,-,7:50 pm EDT,Towson_University,George_Mason_University,Regular,2024-11-1
-18952,-,-,7:00 pm CDT,Missouri_State_University,Colorado_State_University,Regular,2024-11-1
-20479,-,-,7:00 pm CDT,University_of_Oklahoma,University_of_Arizona,Regular,2024-11-1
+18952,4,0,Final,Missouri_State_University,Colorado_State_University,Regular,2024-11-1
+20479,3,6,Final,University_of_Oklahoma,University_of_Arizona,Regular,2024-11-1
 21548,-,-,8:00 pm EDT,Indiana_University_of_Pennsylvania,Syracuse_University,Regular,2024-11-1
-18897,-,-,7:00 pm CDT,Waldorf_University,University_of_Jamestown,Regular,2024-11-1
-18608,-,-,7:00 pm CDT,University_of_Illinois,McKendree_University,Regular,2024-11-1
-20398,-,-,7:30 pm CDT,Minot_State_University,Grand_Canyon_University,Regular,2024-11-1
+18897,1,4,Final,Waldorf_University,University_of_Jamestown,Regular,2024-11-1
+18608,3,4,Final OT,University_of_Illinois,McKendree_University,Regular,2024-11-1
+20398,4,2,Final,Minot_State_University,Grand_Canyon_University,Regular,2024-11-1
 18638,-,-,8:30 pm EDT,William_Paterson_University,West_Chester_University,Regular,2024-11-1
-20769,-,-,5:30 pm PDT,San_Diego_State_University,Canisius_University,Regular,2024-11-1
-19947,-,-,7:45 pm CDT,Iowa_State_University,Midland_University,Regular,2024-11-1
+20769,3,4,Final SO,San_Diego_State_University,Canisius_University,Regular,2024-11-1
+19947,0,3,Final,Iowa_State_University,Midland_University,Regular,2024-11-1
 20495,-,-,8:55 pm EDT,Oakland_University,Saginaw_Valley_State_University,Regular,2024-11-1
-19129,-,-,9:20 pm EDT,University_of_Pittsburgh,Drexel_University,Regular,2024-11-1
-20536,-,-,7:30 pm MDT,University_of_Utah,Arizona_State_University,Regular,2024-11-1
+19129,5,2,Final,University_of_Pittsburgh,Drexel_University,Regular,2024-11-1
+20536,5,2,Final,University_of_Utah,Arizona_State_University,Regular,2024-11-1
 19963,-,-,10:00 pm EDT,West_Virginia_University,Duquesne_University,Regular,2024-11-1
-18567,-,-,7:30 pm PDT,University_of_Nevada_Las_Vegas,University_of_Colorado,Regular,2024-11-1
-19362,-,-,7:30 pm PDT,University_of_Oregon,University_of_Alabama,Regular,2024-11-1
+18567,5,1,Final,University_of_Nevada_Las_Vegas,University_of_Colorado,Regular,2024-11-1
+19362,3,1,Final,University_of_Oregon,University_of_Alabama,Regular,2024-11-1
 19067,-,-,12:30 pm EDT,Oswego_State_University,John_Carroll_University,Regular,2024-11-2
 19446,-,-,1:30 pm EDT,Niagara_University,Liberty_University,Regular,2024-11-2
 20776,-,-,2:30 pm EDT,Rochester_Christian_University,Concordia_University_Ann_Arbor,Regular,2024-11-2

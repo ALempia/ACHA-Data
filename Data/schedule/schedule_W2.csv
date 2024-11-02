@@ -25,7 +25,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19666,2,5,Final,Villanova_University,The_Ohio_State_University,Regular,2024-9-29
 22626,16,2,Final,North_Dakota_State_University,University_of_Nebraska,Regular,2024-9-29
 20046,0,2,Final,University_of_Delaware,United_States_Naval_Academy,Regular,2024-9-29
-21736,-,-,1:00 pm EDT,University_of_Virginia,George_Washington_University,Regular,2024-9-29
+21736,11,2,Final,University_of_Virginia,George_Washington_University,Regular,2024-9-29
 22774,4,2,Final,Miami_University,University_of_Illinois,Regular,2024-9-29
 22579,5,4,Final OT,Harvard_University,University_of_Pennsylvania,Regular,2024-9-29
 22131,2,4,Final,Saint_Anselm_College,Boston_University,Regular,2024-9-29
@@ -131,7 +131,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20944,1,6,Final,Niagara_University,Liberty_University,Regular,2024-10-25
 23953,-,-,5:45 pm CDT,Lake_Region_State_College,North_Dakota_State_University,Regular,2024-10-25
 21895,2,6,Final,West_Virginia_University_,University_of_Pittsburgh,Regular,2024-10-25
-23965,-,-,8:10 pm EDT,University_Of_Connecticut,Bentley_University,Regular,2024-10-25
+23965,8,2,Final,University_Of_Connecticut,Bentley_University,Regular,2024-10-25
 20362,3,13,Final,Montclair_State_University,Army,Regular,2024-10-25
 20945,1,2,Final,Mercyhurst_University,Rowan_University,Regular,2024-10-25
 23926,-,-,9:05 pm CDT,Aurora_University,University_of_Arkansas,Regular,2024-10-25
@@ -169,8 +169,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19806,-,-,7:00 pm EDT,Central_Michigan_University,Aurora_University,Regular,2024-11-1
 21571,-,-,7:00 pm EDT,United_States_Naval_Academy,Villanova_University,Regular,2024-11-1
 21872,-,-,7:00 pm EDT,Army,United_States_Air_Force_Academy,Regular,2024-11-1
-20050,-,-,8:00 pm EDT,University_of_Delaware,Rowan_University,Regular,2024-11-1
-20344,-,-,8:40 pm EDT,University_of_Maryland,West_Chester_University,Regular,2024-11-1
+20050,3,1,Final,University_of_Delaware,Rowan_University,Regular,2024-11-1
+20344,14,0,Final,University_of_Maryland,West_Chester_University,Regular,2024-11-1
 21572,-,-,11:00 am EDT,United_States_Naval_Academy,University_of_Delaware,Regular,2024-11-2
 19807,-,-,12:00 pm EDT,Central_Michigan_University,Aurora_University,Regular,2024-11-2
 22134,-,-,3:00 pm EDT,Saint_Anselm_College,Boston_College,Regular,2024-11-2
