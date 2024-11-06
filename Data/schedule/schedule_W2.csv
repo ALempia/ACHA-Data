@@ -43,7 +43,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22903,3,4,Final,University_of_Vermont,Boston_College,Regular,2024-10-5
 23113,1,4,Final,University_of_Illinois,University_of_Iowa,Regular,2024-10-5
 23417,6,0,Final,Niagara_University,West_Virginia_University_,Regular,2024-10-5
-21647,-,-,5:35 pm EDT,Eastern_Michigan_University,Aurora_University,Regular,2024-10-5
+21647,1,1,Final OT,Eastern_Michigan_University,Aurora_University,Regular,2024-10-5
 23384,9,1,Final,Virginia_Tech,University_of_North_Carolina,Regular,2024-10-5
 22036,4,2,Final,Northern_Michigan_University,Central_Michigan_University,Regular,2024-10-5
 21726,5,3,Final,Brockport_State_University,University_of_Pittsburgh,Regular,2024-10-5
@@ -51,7 +51,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22775,0,14,Final,Miami_University,Sault_College,Regular,2024-10-5
 20089,1,6,Final,Rowan_University,Villanova_University,Regular,2024-10-5
 23403,-,-,9:15 pm MDT,United_States_Air_Force_Academy,United_States_Naval_Academy,Regular,2024-10-5
-21648,-,-,7:05 am EDT,Eastern_Michigan_University,Aurora_University,Regular,2024-10-6
+21648,6,1,Final,Eastern_Michigan_University,Aurora_University,Regular,2024-10-6
 23439,0,3,Final,University_of_Wisconsin_Eau_Claire,University_of_Minnesota_Duluth,Regular,2024-10-6
 23385,5,4,Final,Virginia_Tech,University_of_Virginia,Regular,2024-10-6
 23114,0,3,Final,University_of_Illinois,University_of_Iowa,Regular,2024-10-6
@@ -166,18 +166,18 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20058,0,10,Final,University_of_Pennsylvania,Villanova_University,Regular,2024-10-27
 22872,1,4,Final,Merrimack_College,Northeastern_University,Regular,2024-10-27
 23954,-,-,5:45 pm CDT,Lake_Region_State_College,Dakota_College_at_Bottineau,Regular,2024-11-1
-19806,-,-,7:00 pm EDT,Central_Michigan_University,Aurora_University,Regular,2024-11-1
+19806,3,0,Final,Central_Michigan_University,Aurora_University,Regular,2024-11-1
 21571,3,2,Final,United_States_Naval_Academy,Villanova_University,Regular,2024-11-1
 21872,-,-,7:00 pm EDT,Army,United_States_Air_Force_Academy,Regular,2024-11-1
 20050,3,1,Final,University_of_Delaware,Rowan_University,Regular,2024-11-1
 20344,14,0,Final,University_of_Maryland,West_Chester_University,Regular,2024-11-1
 21572,4,1,Final,United_States_Naval_Academy,University_of_Delaware,Regular,2024-11-2
-19807,-,-,12:00 pm EDT,Central_Michigan_University,Aurora_University,Regular,2024-11-2
+19807,2,2,Final OT,Central_Michigan_University,Aurora_University,Regular,2024-11-2
 22134,2,1,Final,Saint_Anselm_College,Boston_College,Regular,2024-11-2
 22480,6,0,Final,Lawrence_Technological_University,University_of_Notre_Dame,Regular,2024-11-2
 22472,14,6,Final,Assumption_University,Harvard_University,Regular,2024-11-2
 21873,-,-,7:30 pm EDT,Army,United_States_Air_Force_Academy,Regular,2024-11-2
-19816,-,-,7:40 pm EDT,Robert_Morris_University,University_of_Pittsburgh,Regular,2024-11-2
+19816,5,1,Final,Robert_Morris_University,University_of_Pittsburgh,Regular,2024-11-2
 19767,2,7,Final,West_Chester_University,Mercyhurst_University,Regular,2024-11-2
 23951,3,0,Final,Liberty_University,Villanova_University,Regular,2024-11-2
 23375,-,-,8:40 pm EDT,Worcester_Polytechnic_Institute,Sacred_Heart_University,Regular,2024-11-2
@@ -189,10 +189,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22033,4,0,Final,Villanova_University,University_of_Delaware,Regular,2024-11-3
 22795,7,2,Final,Sacred_Heart_University,Bentley_University,Regular,2024-11-3
 22659,0,7,Final,University_of_North_Carolina,Virginia_Tech,Regular,2024-11-3
-23524,-,-,3:30 pm CST,Dakota_College_at_Bottineau,Lake_Region_State_College,Regular,2024-11-3
+23524,-,-,Postponed,Dakota_College_at_Bottineau,Lake_Region_State_College,Regular,2024-11-3
 22582,1,13,Final,Harvard_University,Northeastern_University,Regular,2024-11-3
 22575,1,7,Final,College_of_the_Holy_Cross,University_of_Vermont,Regular,2024-11-3
-23706,-,-,6:00 pm EST,Providence_College,University_Of_Connecticut,Regular,2024-11-3
+23706,5,1,Final,Providence_College,University_Of_Connecticut,Regular,2024-11-3
 22796,-,-,3:15 pm EST,Sacred_Heart_University,Saint_Anselm_College,Regular,2024-11-4
 23955,-,-,5:30 pm CST,Lake_Region_State_College,Augustana_University,Regular,2024-11-8
 22627,-,-,6:00 pm CST,North_Dakota_State_University,Assiniboine_College,Regular,2024-11-8
