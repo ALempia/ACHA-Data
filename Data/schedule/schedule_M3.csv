@@ -160,7 +160,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22340,3,11,Final,Harvard_University,University_of_Massachusetts,Regular,2024-10-6
 22516,-,-,4:00 pm EDT,University_of_New_England,Dartmouth_College,Regular,2024-10-6
 20594,2,5,Final,Worcester_Polytechnic_Institute,Curry_College,Regular,2024-10-6
-22194,-,-,8:00 pm EDT,University_of_Connecticut,Eastern_Connecticut_State_University,Regular,2024-10-6
+22194,6,2,Final,University_of_Connecticut,Eastern_Connecticut_State_University,Regular,2024-10-6
 21994,4,3,Final,Grand_Canyon_University,Colorado_Mesa_University,Regular,2024-10-10
 20878,2,5,Final,Central_Maine_Community_College,Colorado_School_of_Mines,Regular,2024-10-11
 19753,0,12,Final,Trine_University,Calvin_University,Regular,2024-10-11
@@ -369,7 +369,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21628,13,0,Final,Park_University,Western_Colorado_University,Regular,2024-11-1
 19686,3,2,Final SO,University_of_Nebraska_at_Omaha,Drury_University,Regular,2024-11-1
 19852,3,1,Final,Missouri_State_University,University_of_Nebraska,Regular,2024-11-1
-21461,-,-,9:50 pm CDT,Loyola_University_Chicago,Illinois_State_University,Regular,2024-11-1
+21461,2,8,Final,Loyola_University_Chicago,Illinois_State_University,Regular,2024-11-1
 19289,10,0,Final,Loyola_Marymount_University,University_of_San_Diego,Regular,2024-11-1
 23641,-,-,9:15 pm PDT,Santa_Clara_University,University_of_California_Davis,Regular,2024-11-1
 20011,7,1,Final,Miami_University,Trine_University,Regular,2024-11-2
@@ -388,7 +388,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23827,3,9,Final,York_College_of_Pennsylvania,Saint_Thomas_Aquinas_College,Regular,2024-11-2
 20068,-,-,4:15 pm CDT,University_of_Kansas,University_of_Arkansas,Regular,2024-11-2
 21378,3,1,Final,Central_Michigan_University,University_of_Michigan_Flint,Regular,2024-11-2
-22197,-,-,5:50 pm EDT,University_of_Connecticut,University_of_Massachusetts,Regular,2024-11-2
+22197,0,2,Final,University_of_Connecticut,University_of_Massachusetts,Regular,2024-11-2
 19712,6,0,Final,Kent_State_University,University_of_Cincinnati,Regular,2024-11-2
 23233,5,0,Final,Calvin_University,Grand_Valley_State_University,Regular,2024-11-2
 19587,3,1,Final,Hope_College,Oakland_University,Regular,2024-11-2
@@ -401,7 +401,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21007,-,-,9:45 pm EDT,West_Virginia_University,University_of_Akron,Regular,2024-11-2
 19307,12,1,Final,Colorado_School_of_Mines,University_of_Colorado_Colorado_Springs,Regular,2024-11-2
 19624,4,2,Final,George_Mason_University,Stevenson_University,Regular,2024-11-2
-21462,-,-,9:30 pm CDT,Loyola_University_Chicago,Illinois_State_University,Regular,2024-11-2
+21462,2,4,Final,Loyola_University_Chicago,Illinois_State_University,Regular,2024-11-2
 19687,5,6,Final,University_of_Nebraska_at_Omaha,Drury_University,Regular,2024-11-2
 21999,-,-,8:15 pm PDT,Grand_Canyon_University,Park_University,Regular,2024-11-2
 21435,-,-,8:30 pm PDT,University_of_California_Davis,University_of_California_Santa_Cruz,Regular,2024-11-2

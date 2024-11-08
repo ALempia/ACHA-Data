@@ -112,7 +112,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22038,3,2,Final,Northern_Michigan_University,The_Ohio_State_University,Regular,2024-10-19
 23560,4,2,Final,University_of_Saint_Thomas,University_of_Minnesota_Duluth,Regular,2024-10-19
 23440,-,-,7:00 pm CDT,University_of_Wisconsin_Eau_Claire,University_of_Wisconsin,Regular,2024-10-19
-20343,-,-,9:20 pm EDT,University_of_Maryland,United_States_Air_Force_Academy,Regular,2024-10-19
+20343,14,5,Final,University_of_Maryland,United_States_Air_Force_Academy,Regular,2024-10-19
 19765,14,1,Final,West_Chester_University,Montclair_State_University,Regular,2024-10-19
 22140,1,4,Final,Georgetown_University,University_of_Virginia,Regular,2024-10-19
 23441,-,-,10:00 am CDT,University_of_Wisconsin_Eau_Claire,University_of_Wisconsin,Regular,2024-10-20
@@ -277,10 +277,12 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21843,-,-,9:00 pm EST,Rowan_University,Liberty_University,Regular,2024-11-22
 21842,-,-,9:15 pm EST,Villanova_University,Brockport_State_University,Regular,2024-11-22
 23932,-,-,9:05 pm CST,Aurora_University,Bowling_Green_State_University,Regular,2024-11-22
+23987,-,-,10:00 pm CST,University_of_Arkansas,Maryville_University,Regular,2024-11-22
 22766,-,-,1:00 am EST,Michigan_State_University,Adrian_College,Regular,2024-11-23
 22136,-,-,9:00 am EST,Saint_Anselm_College,Providence_College,Regular,2024-11-23
 21845,-,-,10:15 am EST,Liberty_University,University_of_Maryland,Regular,2024-11-23
 21844,-,-,10:30 am EST,Loyola_University_Maryland,Brockport_State_University,Regular,2024-11-23
+23988,-,-,9:30 am CST,University_of_Arkansas,Maryville_University,Regular,2024-11-23
 22485,-,-,5:00 pm EST,Lawrence_Technological_University,Central_Michigan_University,Regular,2024-11-23
 22321,-,-,5:00 pm EST,Villanova_University,University_of_Pennsylvania,Regular,2024-11-23
 20037,-,-,4:30 pm CST,Assiniboine_College,University_of_Wisconsin_Eau_Claire,Regular,2024-11-23
