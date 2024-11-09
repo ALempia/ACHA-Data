@@ -138,17 +138,17 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23090,4,1,Final,Liberty_University,Midland_University,Regular,2024-11-7
 20644,1,0,Visiting Forfeit,McKendree_University,University_of_Minnesota,Regular,2024-11-7
 23298,5,0,Final,Maryville_University,University_of_Jamestown,Regular,2024-11-7
-20645,-,-,2:00 pm CST,McKendree_University,Midland_University,Regular,2024-11-8
+20645,2,0,Final,McKendree_University,Midland_University,Regular,2024-11-8
 21103,-,-,3:50 pm EST,University_of_Massachusetts_Amherst,University_of_Michigan,Regular,2024-11-8
-21236,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Adrian_College,Regular,2024-11-8
-21210,-,-,7:00 pm EST,Lake_Superior_State_University,Davenport_University,Regular,2024-11-8
+21236,1,2,Final,University_of_Michigan_Dearborn,Adrian_College,Regular,2024-11-8
+21210,7,0,Final,Lake_Superior_State_University,Davenport_University,Regular,2024-11-8
 21080,-,-,5:00 pm MST,University_of_Colorado,Montana_State_University,Regular,2024-11-8
 20291,-,-,7:30 pm EST,Grand_Valley_State_University,Indiana_Tech,Regular,2024-11-8
-18726,-,-,8:15 pm CST,Maryville_University,Liberty_University,Regular,2024-11-8
+18726,3,5,Final,Maryville_University,Liberty_University,Regular,2024-11-8
 20379,-,-,7:30 pm MST,University_of_Wyoming,Colorado_State_University,Regular,2024-11-8
 21066,-,-,7:35 pm MST,Arizona_State_University,University_of_Arizona,Regular,2024-11-8
-23089,-,-,9:30 pm CST,Minot_State_University,University_of_Minnesota,Regular,2024-11-8
-23299,-,-,9:30 pm CST,Lindenwood_University,University_of_Jamestown,Regular,2024-11-8
+23089,2,0,Final,Minot_State_University,University_of_Minnesota,Regular,2024-11-8
+23299,4,3,Final,Lindenwood_University,University_of_Jamestown,Regular,2024-11-8
 21104,-,-,11:20 am EST,University_of_Massachusetts_Amherst,University_of_Michigan,Regular,2024-11-9
 20380,-,-,10:30 am MST,University_of_Wyoming,Colorado_State_University,Regular,2024-11-9
 21211,-,-,1:00 pm EST,Lake_Superior_State_University,Davenport_University,Regular,2024-11-9

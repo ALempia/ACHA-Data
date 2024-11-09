@@ -36,7 +36,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23412,6,0,Final,The_Ohio_State_University,Bowling_Green_State_University,Regular,2024-10-4
 21725,1,0,Final,Brockport_State_University,Niagara_University,Regular,2024-10-4
 21892,3,0,Final,West_Virginia_University_,Robert_Morris_University,Regular,2024-10-4
-23533,15,2,04:46 3rd,George_Washington_University,University_of_North_Carolina,Regular,2024-10-4
+23533,15,2,Final,George_Washington_University,University_of_North_Carolina,Regular,2024-10-4
 22870,2,7,Final,Merrimack_College,Boston_University,Regular,2024-10-5
 20981,6,3,Final,Liberty_University,University_of_Delaware,Regular,2024-10-5
 22132,4,0,Final,Saint_Anselm_College,University_of_New_Hampshire,Regular,2024-10-5
@@ -194,11 +194,11 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22796,-,-,3:15 pm EST,Sacred_Heart_University,Saint_Anselm_College,Regular,2024-11-4
 23955,-,-,5:30 pm CST,Lake_Region_State_College,Augustana_University,Regular,2024-11-8
 22627,-,-,6:00 pm CST,North_Dakota_State_University,Assiniboine_College,Regular,2024-11-8
-22481,-,-,8:00 pm EST,Lawrence_Technological_University,Sault_College,Regular,2024-11-8
+22481,1,7,Final,Lawrence_Technological_University,Sault_College,Regular,2024-11-8
 19808,-,-,8:00 pm EST,Central_Michigan_University,Bowling_Green_State_University,Regular,2024-11-8
 23140,-,-,8:00 pm EST,Northeastern_University,Boston_College,Regular,2024-11-8
 19675,-,-,9:15 pm EST,Hope_College,Miami_University,Regular,2024-11-8
-23101,-,-,8:15 pm CST,University_of_Minnesota_Duluth,Iowa_State_University,Regular,2024-11-8
+23101,3,4,00:00 3rd,University_of_Minnesota_Duluth,Iowa_State_University,Regular,2024-11-8
 20345,-,-,9:20 pm EST,University_of_Maryland,University_of_Delaware,Regular,2024-11-8
 21898,-,-,9:30 pm EST,West_Virginia_University_,Mercyhurst_University,Regular,2024-11-8
 23928,-,-,9:05 pm CST,Aurora_University,Michigan_State_University,Regular,2024-11-8
