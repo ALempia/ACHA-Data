@@ -139,26 +139,26 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20644,1,0,Visiting Forfeit,McKendree_University,University_of_Minnesota,Regular,2024-11-7
 23298,5,0,Final,Maryville_University,University_of_Jamestown,Regular,2024-11-7
 20645,2,0,Final,McKendree_University,Midland_University,Regular,2024-11-8
-21103,-,-,3:50 pm EST,University_of_Massachusetts_Amherst,University_of_Michigan,Regular,2024-11-8
+21103,2,2,Final OT,University_of_Massachusetts_Amherst,University_of_Michigan,Regular,2024-11-8
 21236,1,2,Final,University_of_Michigan_Dearborn,Adrian_College,Regular,2024-11-8
 21210,7,0,Final,Lake_Superior_State_University,Davenport_University,Regular,2024-11-8
-21080,-,-,5:00 pm MST,University_of_Colorado,Montana_State_University,Regular,2024-11-8
-20291,-,-,7:30 pm EST,Grand_Valley_State_University,Indiana_Tech,Regular,2024-11-8
+21080,5,0,Final,University_of_Colorado,Montana_State_University,Regular,2024-11-8
+20291,3,4,Final,Grand_Valley_State_University,Indiana_Tech,Regular,2024-11-8
 18726,3,5,Final,Maryville_University,Liberty_University,Regular,2024-11-8
-20379,-,-,7:30 pm MST,University_of_Wyoming,Colorado_State_University,Regular,2024-11-8
-21066,-,-,7:35 pm MST,Arizona_State_University,University_of_Arizona,Regular,2024-11-8
+20379,2,9,Final,University_of_Wyoming,Colorado_State_University,Regular,2024-11-8
+21066,2,1,Final OT,Arizona_State_University,University_of_Arizona,Regular,2024-11-8
 23089,2,0,Final,Minot_State_University,University_of_Minnesota,Regular,2024-11-8
 23299,4,3,Final,Lindenwood_University,University_of_Jamestown,Regular,2024-11-8
-21104,-,-,11:20 am EST,University_of_Massachusetts_Amherst,University_of_Michigan,Regular,2024-11-9
+21104,3,3,Final OT,University_of_Massachusetts_Amherst,University_of_Michigan,Regular,2024-11-9
 20380,-,-,10:30 am MST,University_of_Wyoming,Colorado_State_University,Regular,2024-11-9
-21211,-,-,1:00 pm EST,Lake_Superior_State_University,Davenport_University,Regular,2024-11-9
+21211,8,0,Final,Lake_Superior_State_University,Davenport_University,Regular,2024-11-9
 20625,-,-,2:00 pm EST,Indiana_Tech,Grand_Valley_State_University,Regular,2024-11-9
-23091,-,-,1:45 pm CST,Liberty_University,University_of_Jamestown,Regular,2024-11-9
-18727,-,-,4:30 pm CST,Maryville_University,Midland_University,Regular,2024-11-9
-20646,-,-,5:00 pm CST,McKendree_University,Minot_State_University,Regular,2024-11-9
+23091,6,0,Final,Liberty_University,University_of_Jamestown,Regular,2024-11-9
+18727,1,2,Final,Maryville_University,Midland_University,Regular,2024-11-9
+20646,1,2,Final,McKendree_University,Minot_State_University,Regular,2024-11-9
 21081,-,-,4:00 pm MST,University_of_Colorado,Montana_State_University,Regular,2024-11-9
-21161,-,-,7:00 pm EST,Adrian_College,University_of_Michigan_Dearborn,Regular,2024-11-9
-21307,-,-,9:00 pm CST,Lindenwood_University,University_of_Minnesota,Regular,2024-11-9
+21161,4,2,Final,Adrian_College,University_of_Michigan_Dearborn,Regular,2024-11-9
+21307,3,2,Final,Lindenwood_University,University_of_Minnesota,Regular,2024-11-9
 21132,-,-,9:20 am EST,University_of_Rhode_Island,University_of_Michigan,Regular,2024-11-10
 20292,-,-,1:30 pm EST,Grand_Valley_State_University,Michigan_State_University,Regular,2024-11-10
 21133,-,-,1:00 pm EST,University_of_Rhode_Island,Liberty_University,Regular,2024-11-14

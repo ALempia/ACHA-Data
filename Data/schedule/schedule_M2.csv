@@ -673,7 +673,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22542,1,5,Final,Roosevelt_University,Illinois_State_University,Regular,2024-10-25
 21913,3,6,Final,University_of_North_Carolina_Wilmington,High_Point_University,Regular,2024-10-25
 22992,5,4,Final OT,West_Virginia_University,Central_Michigan_University,Regular,2024-10-25
-20912,-,-,10:00 pm EDT,Central_Connecticut_State_University,College_of_The_Holy_Cross,Regular,2024-10-25
+20912,-,-,Postponed,Central_Connecticut_State_University,College_of_The_Holy_Cross,Regular,2024-10-25
 23174,-,-,10:15 pm EDT,Duke_University,University_of_North_Carolina_Charlotte,Regular,2024-10-25
 21795,3,2,Final SO,Liberty_University,Miami_University,Regular,2024-10-25
 20153,3,5,Final,Texas_State_University,Texas_A&M_University,Regular,2024-10-25
@@ -764,7 +764,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23487,6,5,Final OT,Sacred_Heart_University,Army_(West_Point),Regular,2024-10-27
 20154,5,11,Final,Texas_State_University,Texas_A&M_University,Regular,2024-10-27
 23372,7,3,Final,College_of_The_Holy_Cross,Saint_Anselm_College,Regular,2024-10-27
-20333,0,6,Unofficial Final,Drexel_University,Saint_Josephs_University,Regular,2024-10-27
+20333,0,6,Final,Drexel_University,Saint_Josephs_University,Regular,2024-10-27
 19747,10,2,Final,Trine_University,Bowling_Green_State_University,Regular,2024-10-31
 22185,2,8,Final,Montana_Tech,Utah_Valley_University,Regular,2024-10-31
 22169,2,1,Final,University_of_Montana,Utah_State_University_,Regular,2024-10-31
@@ -838,7 +838,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21783,2,1,Final,Lake_Superior_State_University,Northern_Michigan_University,Regular,2024-11-2
 22953,1,7,Final,Saint_Johns_University,University_of_Minnesota,Regular,2024-11-2
 21798,0,2,Final,Liberty_University,Northeastern_University,Regular,2024-11-2
-23906,-,-,2:15 pm EDT,Rowan_University,Virginia_Tech,Regular,2024-11-2
+23906,5,1,Final,Virginia_Tech,Rowan_University,Regular,2024-11-2
 22456,2,7,Final,Bethel_University,University_of_Minnesota_Crookston,Regular,2024-11-2
 22415,1,2,Final SO,Roger_Williams_University,Marist_College,Regular,2024-11-2
 22838,1,4,Final,Idaho_State_University,University_of_Idaho,Regular,2024-11-2
@@ -859,7 +859,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22506,4,5,Final OT,University_of_Utah,University_of_Wyoming,Regular,2024-11-2
 23247,3,8,Final,Rensselaer_Polytechnic_Institute,Army_(West_Point),Regular,2024-11-2
 19520,2,6,Final,Illinois_State_University,University_of_Missouri,Regular,2024-11-2
-20334,1,9,Unofficial Final,Drexel_University,Millersville_University,Regular,2024-11-2
+20334,1,9,Final,Drexel_University,Millersville_University,Regular,2024-11-2
 23910,6,2,Final,Stevenson_University,Duke_University,Regular,2024-11-2
 23340,3,4,Final,University_of_Iowa,Maryville_University,Regular,2024-11-2
 20172,5,2,Final,University_of_Texas,Texas_A&M_University,Regular,2024-11-2
@@ -921,36 +921,36 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23249,5,1,Final,Rensselaer_Polytechnic_Institute,Marist_College,Regular,2024-11-8
 23181,-,-,7:00 pm EST,Bridgewater_State_University,University_of_Massachusetts_Lowell,Regular,2024-11-8
 22416,6,2,Final,Roger_Williams_University,Westfield_State_University,Regular,2024-11-8
-22465,-,-,6:00 pm CST,University_of_Minnesota_Duluth,Saint_Cloud_State_University,Regular,2024-11-8
+22465,5,6,Final,University_of_Minnesota_Duluth,Saint_Cloud_State_University,Regular,2024-11-8
 20660,-,-,7:25 pm EST,University_of_Pennsylvania,West_Chester_University,Regular,2024-11-8
 23342,-,-,6:30 pm CST,University_of_Iowa,University_of_Missouri,Regular,2024-11-8
 21698,-,-,7:35 pm EST,Schoolcraft_College,Central_Michigan_University,Regular,2024-11-8
-22744,-,-,6:45 pm CST,University_of_Wisconsin,University_of_Minnesota_Crookston,Regular,2024-11-8
+22744,2,5,Final,University_of_Wisconsin,University_of_Minnesota_Crookston,Regular,2024-11-8
 22543,-,-,6:50 pm CST,Roosevelt_University,Aurora_University,Regular,2024-11-8
 23804,-,-,7:00 pm CST,Oklahoma_State_University,University_of_Arkansas,Regular,2024-11-8
 20138,-,-,7:00 pm CST,Texas_A&M_University,Southern_Methodist_University,Regular,2024-11-8
-21394,-,-,7:00 pm CST,University_of_Saint_Thomas,Montana_State_University,Regular,2024-11-8
+21394,3,0,Final,University_of_Saint_Thomas,Montana_State_University,Regular,2024-11-8
 23593,-,-,7:00 pm CST,Williston_State_College,Montana_Tech,Regular,2024-11-8
 20147,-,-,7:00 pm CST,Texas_Christian_University,Dakota_College_Bottineau,Regular,2024-11-8
 22784,-,-,8:00 pm EST,Davenport_University,Trine_University,Regular,2024-11-8
 22328,-,-,8:00 pm EST,Rider_University,Providence_College,Regular,2024-11-8
 23614,-,-,8:00 pm EST,University_of_Connecticut,Connecticut_College,Regular,2024-11-8
 23741,-,-,7:00 pm CST,Lewis_University,Purdue_University_Northwest,Regular,2024-11-8
-22354,-,-,7:00 pm CST,Gustavus_Adolphus_College,University_of_North_Dakota,Regular,2024-11-8
+22354,8,4,Final,Gustavus_Adolphus_College,University_of_North_Dakota,Regular,2024-11-8
 23502,-,-,7:15 pm CST,Southern_Illinois_University_Edwardsville,University_of_Nebraska,Regular,2024-11-8
-20731,-,-,8:15 pm EST,North_Carolina_State_University,Michigan_State_University,Regular,2024-11-8
+20731,4,2,Final,North_Carolina_State_University,Michigan_State_University,Regular,2024-11-8
 22233,3,4,Final,University_of_Wisconsin_Oshkosh,Michigan_Technological_University,Regular,2024-11-8
 21834,-,-,8:30 pm EST,University_of_Michigan,University_of_Dayton,Regular,2024-11-8
 23989,-,-,8:30 pm EST,University_of_New_Hampshire,Florida_Gulf_Coast_University,Regular,2024-11-8
-21674,-,-,8:40 pm EST,University_of_Maryland,Rowan_University,Regular,2024-11-8
+21674,0,7,Final,University_of_Maryland,Rowan_University,Regular,2024-11-8
 22109,-,-,8:45 pm EST,Boston_College,Merrimack_College,Regular,2024-11-8
 22704,9,0,Final,Marian_University,Milwaukee_School_of_Engineering,Regular,2024-11-8
 22254,-,-,7:45 pm CST,University_of_Wisconsin_Eau_Claire,Saint_Johns_University,Regular,2024-11-8
-21021,-,-,9:00 pm EST,University_of_Cincinnati,University_of_Delaware,Regular,2024-11-8
+21021,1,2,Final OT,University_of_Cincinnati,University_of_Delaware,Regular,2024-11-8
 22172,0,2,Final,University_of_Montana,University_of_Providence,Regular,2024-11-8
 22840,-,-,7:00 pm MST,Idaho_State_University,University_of_Nevada_Reno,Regular,2024-11-8
 20217,4,2,Final,Lindenwood_University,Liberty_University,Regular,2024-11-8
-21476,-,-,7:15 pm MST,Weber_State_University,University_of_Utah,Regular,2024-11-8
+21476,3,0,Final,Weber_State_University,University_of_Utah,Regular,2024-11-8
 21768,-,-,9:15 pm EST,University_of_Scranton,Seton_Hall_University,Regular,2024-11-8
 21615,-,-,9:30 pm EST,James_Madison_University,George_Washington_University,Regular,2024-11-8
 21590,-,-,8:30 pm CST,Concordia_University_of_Wisconsin,Lake_Superior_State_University,Regular,2024-11-8
@@ -966,10 +966,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22223,-,-,9:45 pm CST,Minnesota_State_University_Mankato,Bethel_University,Regular,2024-11-8
 23666,-,-,8:45 pm PST,San_Jose_State_University,University_of_Southern_California,Regular,2024-11-8
 19292,-,-,8:50 pm PST,Loyola_Marymount_University,Boise_State_University,Regular,2024-11-8
-21047,8,0,17:50 2nd,University_of_Kentucky,Bowling_Green_State_University,Regular,2024-11-8
-21395,-,-,9:00 am CST,University_of_Saint_Thomas,Montana_State_University,Regular,2024-11-9
+21047,14,0,Final,University_of_Kentucky,Bowling_Green_State_University,Regular,2024-11-8
+21395,1,0,Final,University_of_Saint_Thomas,Montana_State_University,Regular,2024-11-9
 22255,-,-,10:00 am CST,University_of_Wisconsin_Eau_Claire,Saint_Johns_University,Regular,2024-11-9
-22745,-,-,10:00 am CST,University_of_Wisconsin,University_of_Minnesota_Crookston,Regular,2024-11-9
+22745,6,1,Final,University_of_Wisconsin,University_of_Minnesota_Crookston,Regular,2024-11-9
 23071,-,-,12:00 pm EST,Indiana_Tech,Adrian_College,Regular,2024-11-9
 23106,-,-,10:00 am PST,Western_Washington_University,University_of_Idaho,Regular,2024-11-9
 23777,-,-,12:00 pm CST,Milwaukee_School_of_Engineering,Marian_University,Regular,2024-11-9
@@ -977,16 +977,16 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21022,-,-,1:30 pm EST,University_of_Cincinnati,University_of_Delaware,Regular,2024-11-9
 20121,-,-,1:00 pm CST,Baylor_University,University_of_North_Texas,Regular,2024-11-9
 22355,-,-,1:00 pm CST,Gustavus_Adolphus_College,University_of_North_Dakota,Regular,2024-11-9
-22466,-,-,1:00 pm CST,University_of_Minnesota_Duluth,Saint_Cloud_State_University,Regular,2024-11-9
-22122,-,-,2:00 pm CST,DePaul_University,University_of_Wisconsin_Milwaukee,Regular,2024-11-9
-22234,-,-,2:15 pm CST,University_of_Wisconsin_Oshkosh,Michigan_Technological_University,Regular,2024-11-9
+22466,5,1,Final,University_of_Minnesota_Duluth,Saint_Cloud_State_University,Regular,2024-11-9
+22122,0,2,20:00 3rd,DePaul_University,University_of_Wisconsin_Milwaukee,Regular,2024-11-9
+22234,3,7,Final,University_of_Wisconsin_Oshkosh,Michigan_Technological_University,Regular,2024-11-9
 20218,-,-,2:30 pm CST,Lindenwood_University,Liberty_University,Regular,2024-11-9
 20100,-,-,3:50 pm EST,Millersville_University,Stockton_University,Regular,2024-11-9
 22651,-,-,4:00 pm EST,Central_Michigan_University,Schoolcraft_College,Regular,2024-11-9
 23353,-,-,4:15 pm EST,High_Point_University,Duke_University,Regular,2024-11-9
 23503,-,-,3:15 pm CST,Southern_Illinois_University_Edwardsville,University_of_Nebraska,Regular,2024-11-9
 21508,-,-,4:30 pm EST,Siena_College,Montclair_State_University,Regular,2024-11-9
-20817,-,-,2:30 pm MST,Metropolitan_State_University_Denver,University_of_Denver,Regular,2024-11-9
+20817,3,2,Final OT,Metropolitan_State_University_Denver,University_of_Denver,Regular,2024-11-9
 21769,-,-,4:30 pm EST,University_of_Scranton,University_of_Pennsylvania,Regular,2024-11-9
 23026,-,-,4:30 pm EST,Keene_State_College,Northeastern_University,Regular,2024-11-9
 23742,-,-,3:30 pm CST,Lewis_University,Purdue_University_Northwest,Regular,2024-11-9
@@ -995,12 +995,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21835,-,-,6:00 pm EST,University_of_Michigan,University_of_Dayton,Regular,2024-11-9
 23046,-,-,3:00 pm PST,Washington_State_University,University_of_California_Berkeley,Regular,2024-11-9
 23013,-,-,6:00 pm EST,University_of_Massachusetts_Amherst,Florida_Gulf_Coast_University,Regular,2024-11-9
-23250,-,-,7:00 pm EST,Rensselaer_Polytechnic_Institute,Boston_University,Regular,2024-11-9
-19748,-,-,7:15 pm EST,Trine_University,Davenport_University,Regular,2024-11-9
+23250,3,5,Final,Rensselaer_Polytechnic_Institute,Boston_University,Regular,2024-11-9
+19748,4,2,Final,Trine_University,Davenport_University,Regular,2024-11-9
 23098,-,-,7:30 pm EST,University_of_Virginia,East_Carolina_University,Regular,2024-11-9
 23343,-,-,6:30 pm CST,University_of_Iowa,University_of_Missouri,Regular,2024-11-9
 20174,-,-,6:30 pm CST,University_of_Texas,University_of_New_Mexico,Regular,2024-11-9
 23167,-,-,8:00 pm EST,Rowan_University,University_of_Maryland,Regular,2024-11-9
+23996,3,2,Final,Maryville_University,University_of_Illinois,Regular,2024-11-9
 20139,-,-,7:00 pm CST,Texas_A&M_University,Southern_Methodist_University,Regular,2024-11-9
 23594,-,-,7:00 pm CST,Williston_State_College,Montana_Tech,Regular,2024-11-9
 19022,-,-,7:00 pm CST,Waldorf_University,South_Dakota_State_University,Regular,2024-11-9
@@ -1010,14 +1011,14 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20762,-,-,5:30 pm PST,University_of_California_Los_Angeles,Boise_State_University,Regular,2024-11-9
 22329,-,-,8:30 pm EST,Rider_University,Providence_College,Regular,2024-11-9
 21868,-,-,8:45 pm EST,Seton_Hall_University,West_Chester_University,Regular,2024-11-9
-21605,-,-,7:00 pm MST,University_of_Providence,University_of_Montana,Regular,2024-11-9
+21605,3,2,Final,University_of_Providence,University_of_Montana,Regular,2024-11-9
 22083,-,-,9:00 pm EST,Northern_Michigan_University,University_of_Wisconsin_LaCrosse,Regular,2024-11-9
-23313,-,-,8:00 pm CST,Lake_Region_State_College,Augustana_University,Regular,2024-11-9
+23313,6,2,Final,Lake_Region_State_College,Augustana_University,Regular,2024-11-9
 21477,-,-,7:15 pm MST,Weber_State_University,Utah_Valley_University,Regular,2024-11-9
 22691,-,-,9:30 pm EST,Bowling_Green_State_University,University_of_Kentucky,Regular,2024-11-9
 20856,-,-,7:30 pm MST,University_of_Wyoming,University_of_Colorado,Regular,2024-11-9
 22308,-,-,10:00 pm EST,University_of_North_Carolina_Charlotte,Wake_Forest_University,Regular,2024-11-9
-21745,-,-,7:00 pm PST,Eastern_Washington_University,University_of_California_San_Diego,Regular,2024-11-9
+21745,4,2,Final,Eastern_Washington_University,University_of_California_San_Diego,Regular,2024-11-9
 23451,-,-,9:00 pm CST,Aurora_University,Roosevelt_University,Regular,2024-11-9
 20156,-,-,9:15 pm CST,Texas_State_University,East_Texas_Baptist_University,Regular,2024-11-9
 22067,-,-,10:15 pm EST,University_of_North_Carolina_Chapel_Hill,Michigan_State_University,Regular,2024-11-9
@@ -1029,6 +1030,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23991,-,-,11:00 am EST,Sacred_Heart_University,Florida_Gulf_Coast_University,Regular,2024-11-10
 22554,-,-,11:30 am EST,University_of_Maine,Merrimack_College,Regular,2024-11-10
 20688,-,-,12:30 pm EST,Bentley_University,Clarkson_University,Regular,2024-11-10
+23997,-,-,12:00 pm CST,Maryville_University,University_of_Illinois,Regular,2024-11-10
 23312,-,-,12:00 pm CST,Lake_Region_State_College,Augustana_University,Regular,2024-11-10
 20271,-,-,1:15 pm EST,Westfield_State_University,Roger_Williams_University,Regular,2024-11-10
 23014,-,-,1:30 pm EST,University_of_Massachusetts_Amherst,University_of_New_Hampshire,Regular,2024-11-10
@@ -1111,7 +1113,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23463,-,-,8:45 pm PST,University_of_California_Santa_Barbara,Arizona_State_University,Regular,2024-11-15
 21048,-,-,11:55 pm EST,University_of_Kentucky,University_of_Cincinnati,Regular,2024-11-15
 22096,-,-,9:00 pm PST,California_State_University_Fullerton,University_of_California_Los_Angeles,Regular,2024-11-15
-22110,-,-,1:00 am EST,Boston_College,University_of_Massachusetts_Amherst,Regular,2024-11-16
 20894,-,-,8:00 am CST,North_Dakota_State_University,Williston_State_College,Regular,2024-11-16
 22747,-,-,9:00 am CST,University_of_Wisconsin,University_of_Minnesota_Duluth,Regular,2024-11-16
 23152,-,-,11:00 am EST,Elon_University,Duke_University,Regular,2024-11-16
@@ -1163,6 +1164,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23489,-,-,9:15 pm EST,Sacred_Heart_University,Clarkson_University,Regular,2024-11-16
 20846,-,-,7:15 pm MST,University_of_Denver,University_of_Wyoming,Regular,2024-11-16
 20804,-,-,7:15 pm MST,Colorado_State_University,Metropolitan_State_University_Denver,Regular,2024-11-16
+22110,-,-,9:15 pm EST,Boston_College,University_of_Massachusetts_Amherst,Regular,2024-11-16
 21676,-,-,9:20 pm EST,University_of_Maryland,University_of_North_Carolina_Chapel_Hill,Regular,2024-11-16
 20336,-,-,9:20 pm EST,Drexel_University,Bryn_Athyn_College,Regular,2024-11-16
 21748,-,-,7:00 pm PST,Eastern_Washington_University,University_of_Montana,Regular,2024-11-16
@@ -1195,6 +1197,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23490,-,-,7:00 pm EST,Sacred_Heart_University,Clarkson_University,Regular,2024-11-17
 22371,-,-,9:15 pm CST,University_of_Minnesota,University_of_Saint_Thomas,Regular,2024-11-20
 23109,-,-,4:00 pm MST,Loyola_Marymount_University,Montana_State_University,Regular,2024-11-21
+23992,-,-,4:00 pm MST,Boise_State_University,University_of_Providence,Regular,2024-11-21
 21933,-,-,7:00 pm MST,Utah_State_University_,California_State_University_Northridge,Regular,2024-11-21
 21478,-,-,7:15 pm MST,Weber_State_University,Colorado_State_University,Regular,2024-11-21
 21855,-,-,7:25 pm MST,Utah_Valley_University,Montana_Tech,Regular,2024-11-21
@@ -1204,6 +1207,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22920,-,-,5:30 pm EST,University_of_Delaware,University_of_Maryland,Regular,2024-11-22
 23110,-,-,4:00 pm MST,Northern_Arizona_University,University_of_Montana,Regular,2024-11-22
 23623,-,-,4:00 pm MST,Colorado_State_University,Montana_Tech,Regular,2024-11-22
+23993,-,-,4:00 pm MST,University_of_Providence,Arizona_State_University,Regular,2024-11-22
 20205,-,-,5:30 pm CST,Bradley_University,Maryville_University,Regular,2024-11-22
 23132,-,-,7:00 pm EST,Sault_College,Lake_Superior_State_University,Regular,2024-11-22
 23362,-,-,6:00 pm CST,Augustana_University,South_Dakota_State_University,Regular,2024-11-22
@@ -1289,6 +1293,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23252,-,-,12:00 pm EST,Rensselaer_Polytechnic_Institute,Liberty_University,Regular,2024-11-24
 22468,-,-,11:15 am CST,University_of_Minnesota_Duluth,University_of_Saint_Thomas,Regular,2024-11-24
 23974,-,-,11:00 am MST,Montana_Tech,California_State_University_Northridge,Regular,2024-11-24
+23994,-,-,11:00 am MST,University_of_Providence,Loyola_Marymount_University,Regular,2024-11-24
 23522,-,-,2:00 pm EST,Princeton_University,Saint_Josephs_University,Regular,2024-11-24
 20732,-,-,2:00 pm EST,North_Carolina_State_University,Army_(West_Point),Regular,2024-11-24
 20220,-,-,1:00 pm CST,Lindenwood_University,University_of_Kentucky,Regular,2024-11-24
@@ -1309,7 +1314,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22446,-,-,12:00 pm CST,University_of_Minnesota_Crookston,North_Dakota_State_University,Regular,2024-12-1
 22155,-,-,6:10 pm EST,Providence_College,University_of_New_Hampshire,Regular,2024-12-1
 23374,-,-,7:00 pm EST,College_of_The_Holy_Cross,Sacred_Heart_University,Regular,2024-12-1
-22112,-,-,1:00 am EST,Boston_College,Providence_College,Regular,2024-12-6
 19934,-,-,12:00 pm CST,University_of_Jamestown,Dakota_College_Bottineau,Regular,2024-12-6
 20221,-,-,2:00 pm CST,Lindenwood_University,Concordia_University_of_Wisconsin,Regular,2024-12-6
 22921,-,-,6:00 pm EST,University_of_Delaware,Rowan_University,Regular,2024-12-6
@@ -1338,6 +1342,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23805,-,-,7:30 pm CST,Oklahoma_State_University,University_of_Missouri,Regular,2024-12-6
 23225,-,-,7:30 pm CST,Saint_Cloud_State_University,North_Dakota_State_University,Regular,2024-12-6
 22286,-,-,8:30 pm EST,Florida_Gulf_Coast_University,University_of_Massachusetts_Amherst,Regular,2024-12-6
+22112,-,-,8:40 pm EST,Boston_College,Providence_College,Regular,2024-12-6
 22174,-,-,7:00 pm MST,University_of_Montana,Montana_State_University,Regular,2024-12-6
 21937,-,-,7:00 pm MST,Utah_State_University_,University_of_Utah,Regular,2024-12-6
 20915,-,-,9:00 pm EST,Central_Connecticut_State_University,Westfield_State_University,Regular,2024-12-6
@@ -1365,7 +1370,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21802,-,-,1:30 pm EST,Liberty_University,Ohio_University,Regular,2024-12-7
 23347,-,-,1:00 pm CST,University_of_Iowa,California_State_University_Northridge,Regular,2024-12-7
 22333,-,-,2:15 pm EST,Rider_University,University_of_Maryland,Regular,2024-12-7
-22113,-,-,2:15 pm EST,Boston_College,Bryant_University,Regular,2024-12-7
 22593,-,-,2:30 pm EST,Georgetown_University,Drexel_University,Regular,2024-12-7
 20222,-,-,1:45 pm CST,Lindenwood_University,Sault_College,Regular,2024-12-7
 20249,-,-,3:00 pm EST,University_of_Louisville,University_of_Michigan,Regular,2024-12-7
@@ -1373,6 +1377,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22448,-,-,2:00 pm CST,University_of_Minnesota_Crookston,Saint_Johns_University,Regular,2024-12-7
 22567,-,-,3:15 pm EST,Michigan_Technological_University,Lake_Superior_State_University,Regular,2024-12-7
 23861,-,-,2:15 pm CST,University_of_Wisconsin_LaCrosse,University_of_Wisconsin_Milwaukee,Regular,2024-12-7
+22113,-,-,3:30 pm EST,Boston_College,Bryant_University,Regular,2024-12-7
 20103,-,-,3:55 pm EST,Millersville_University,University_of_Pennsylvania,Regular,2024-12-7
 23600,-,-,3:00 pm CST,Williston_State_College,University_of_Providence,Regular,2024-12-7
 23365,-,-,3:00 pm CST,Augustana_University,Waldorf_University,Regular,2024-12-7
