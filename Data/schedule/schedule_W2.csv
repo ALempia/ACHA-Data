@@ -27,13 +27,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20046,0,2,Final,University_of_Delaware,United_States_Naval_Academy,Regular,2024-9-29
 21736,11,2,Final,University_of_Virginia,George_Washington_University,Regular,2024-9-29
 22774,4,2,Final,Miami_University,University_of_Illinois,Regular,2024-9-29
-22579,5,4,Final OT,Harvard_University,University_of_Pennsylvania,Regular,2024-9-29
+22579,5,4,Home Forfeit OT,Harvard_University,University_of_Pennsylvania,Regular,2024-9-29
 22131,2,4,Final,Saint_Anselm_College,Boston_University,Regular,2024-9-29
 22712,1,4,Final,University_of_New_Hampshire,University_Of_Connecticut,Regular,2024-9-29
 19815,0,5,Final,Robert_Morris_University,Lawrence_Technological_University,Regular,2024-9-29
 22573,2,4,Final,College_of_the_Holy_Cross,Sacred_Heart_University,Regular,2024-9-29
 20980,2,1,Final OT,Liberty_University,University_of_Delaware,Regular,2024-10-4
-23412,6,0,Final,The_Ohio_State_University,Bowling_Green_State_University,Regular,2024-10-4
+23412,6,0,Visiting Forfeit,The_Ohio_State_University,Bowling_Green_State_University,Regular,2024-10-4
 21725,1,0,Final,Brockport_State_University,Niagara_University,Regular,2024-10-4
 21892,3,0,Final,West_Virginia_University_,Robert_Morris_University,Regular,2024-10-4
 23533,15,2,Final,George_Washington_University,University_of_North_Carolina,Regular,2024-10-4
@@ -72,7 +72,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20057,1,5,Final,University_of_Pennsylvania,United_States_Naval_Academy,Regular,2024-10-11
 18738,3,0,Final,Maryville_University,Liberty_University,Regular,2024-10-11
 23608,0,1,Home Forfeit,University_of_Arkansas,University_of_Nebraska,Regular,2024-10-12
-22764,3,3,Final,Michigan_State_University,Bowling_Green_State_University,Regular,2024-10-12
+22764,3,3,Visiting Forfeit,Michigan_State_University,Bowling_Green_State_University,Regular,2024-10-12
 23549,0,4,Final,Adrian_College,Sault_College,Regular,2024-10-12
 18739,4,6,Final,Maryville_University,Liberty_University,Regular,2024-10-12
 20321,6,1,Final,University_of_Wisconsin,University_of_Wisconsin_LaCrosse,Regular,2024-10-12
@@ -82,7 +82,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20974,1,5,Final,Iowa_State_University,University_of_Saint_Thomas,Regular,2024-10-12
 22813,3,0,Final,University_of_Minnesota_Duluth,North_Dakota_State_University,Regular,2024-10-12
 23609,0,1,Home Forfeit,University_of_Arkansas,University_of_Nebraska,Regular,2024-10-13
-22765,5,3,Final,Michigan_State_University,Bowling_Green_State_University,Regular,2024-10-13
+22765,5,3,Visiting Forfeit,Michigan_State_University,Bowling_Green_State_University,Regular,2024-10-13
 22814,3,4,Final OT,University_of_Minnesota_Duluth,North_Dakota_State_University,Regular,2024-10-13
 20322,3,0,Final,University_of_Wisconsin,University_of_Wisconsin_LaCrosse,Regular,2024-10-13
 20975,3,3,Final OT,Iowa_State_University,University_of_Saint_Thomas,Regular,2024-10-13
@@ -105,7 +105,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23116,14,0,Final,University_of_Illinois,Hope_College,Regular,2024-10-19
 20938,7,2,Final,Mercyhurst_University,Brockport_State_University,Regular,2024-10-19
 20049,11,1,Final,University_of_Delaware,University_of_Pennsylvania,Regular,2024-10-19
-23783,3,5,Final,Bowling_Green_State_University,Miami_University,Regular,2024-10-19
+23783,3,5,Home Forfeit,Bowling_Green_State_University,Miami_University,Regular,2024-10-19
 18741,6,5,Final,Maryville_University,Aurora_University,Regular,2024-10-19
 19805,3,0,Final,Central_Michigan_University,Adrian_College,Regular,2024-10-19
 22471,4,5,Final OT,Assumption_University,Sacred_Heart_University,Regular,2024-10-19
@@ -126,7 +126,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19766,-,-,Postponed,West_Chester_University,George_Washington_University,Regular,2024-10-20
 22580,3,6,Final,Harvard_University,Merrimack_College,Regular,2024-10-23
 21894,0,10,Final,West_Virginia_University_,Liberty_University,Regular,2024-10-24
-23413,9,1,Final,The_Ohio_State_University,Bowling_Green_State_University,Regular,2024-10-25
+23413,9,1,Visiting Forfeit,The_Ohio_State_University,Bowling_Green_State_University,Regular,2024-10-25
 20943,0,1,Final,Robert_Morris_University,Adrian_College,Regular,2024-10-25
 20944,1,6,Final,Niagara_University,Liberty_University,Regular,2024-10-25
 23953,-,-,5:45 pm CDT,Lake_Region_State_College,North_Dakota_State_University,Regular,2024-10-25
@@ -198,14 +198,14 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19808,4,0,Final,Central_Michigan_University,Bowling_Green_State_University,Regular,2024-11-8
 23140,3,1,14:11 3rd,Northeastern_University,Boston_College,Regular,2024-11-8
 19675,0,24,Final,Hope_College,Miami_University,Regular,2024-11-8
-23101,3,4,00:00 3rd,University_of_Minnesota_Duluth,Iowa_State_University,Regular,2024-11-8
+23101,3,4,Final,University_of_Minnesota_Duluth,Iowa_State_University,Regular,2024-11-8
 20345,5,4,Final OT,University_of_Maryland,University_of_Delaware,Regular,2024-11-8
 21898,2,6,Final,West_Virginia_University_,Mercyhurst_University,Regular,2024-11-8
 23928,2,0,Final,Aurora_University,Michigan_State_University,Regular,2024-11-8
 19809,5,1,Final,Central_Michigan_University,Bowling_Green_State_University,Regular,2024-11-9
 19676,0,30,Final,Hope_College,Miami_University,Regular,2024-11-9
 21899,4,3,Final,West_Virginia_University_,Mercyhurst_University,Regular,2024-11-9
-23141,-,-,4:00 pm EST,Northeastern_University,University_of_New_Hampshire,Regular,2024-11-9
+23141,-,-,Postponed,Northeastern_University,University_of_New_Hampshire,Regular,2024-11-9
 23043,3,0,Final,Assiniboine_College,University_of_Minnesota_Duluth,Regular,2024-11-9
 22482,0,9,Final,Lawrence_Technological_University,Sault_College,Regular,2024-11-9
 21727,2,3,Final,Brockport_State_University,Robert_Morris_University,Regular,2024-11-9
@@ -226,12 +226,12 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20324,-,-,11:00 am CST,University_of_Wisconsin,University_of_Wisconsin_Eau_Claire,Regular,2024-11-10
 22905,-,-,12:30 pm EST,University_of_Vermont,Boston_University,Regular,2024-11-10
 23551,1,2,Final OT,Adrian_College,Bowling_Green_State_University,Regular,2024-11-10
-23398,-,-,2:00 pm EST,Rochester_Institute_Of_Technology,Robert_Morris_University,Regular,2024-11-10
+23398,3,3,Final OT,Rochester_Institute_Of_Technology,Robert_Morris_University,Regular,2024-11-10
 22674,3,7,Final,Bentley_University,University_Of_Connecticut,Regular,2024-11-10
 18743,5,1,Final,Maryville_University,University_of_Wisconsin_LaCrosse,Regular,2024-11-10
 20346,8,4,Final,University_of_Maryland,University_of_Pennsylvania,Regular,2024-11-10
 22873,3,5,Final,Merrimack_College,Assumption_University,Regular,2024-11-10
-22583,-,-,5:15 pm EST,Harvard_University,University_of_New_Hampshire,Regular,2024-11-10
+22583,0,1,Home Forfeit,Harvard_University,University_of_New_Hampshire,Regular,2024-11-10
 22576,0,11,Final,College_of_the_Holy_Cross,Providence_College,Regular,2024-11-10
 20952,-,-,4:00 pm EST,Mercyhurst_University,University_of_Maryland,Regular,2024-11-15
 20953,-,-,6:30 pm EST,University_of_Delaware,Niagara_University,Regular,2024-11-15
