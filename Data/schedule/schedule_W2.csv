@@ -196,7 +196,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22627,1,6,Final,North_Dakota_State_University,Assiniboine_College,Regular,2024-11-8
 22481,1,7,Final,Lawrence_Technological_University,Sault_College,Regular,2024-11-8
 19808,4,0,Final,Central_Michigan_University,Bowling_Green_State_University,Regular,2024-11-8
-23140,3,1,14:11 3rd,Northeastern_University,Boston_College,Regular,2024-11-8
+23140,3,1,Final,Northeastern_University,Boston_College,Regular,2024-11-8
 19675,0,24,Final,Hope_College,Miami_University,Regular,2024-11-8
 23101,3,4,Final,University_of_Minnesota_Duluth,Iowa_State_University,Regular,2024-11-8
 20345,5,4,Final OT,University_of_Maryland,University_of_Delaware,Regular,2024-11-8
@@ -209,12 +209,11 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23043,3,0,Final,Assiniboine_College,University_of_Minnesota_Duluth,Regular,2024-11-9
 22482,0,9,Final,Lawrence_Technological_University,Sault_College,Regular,2024-11-9
 21727,2,3,Final,Brockport_State_University,Robert_Morris_University,Regular,2024-11-9
-20323,-,-,4:45 pm CST,University_of_Wisconsin,University_of_Wisconsin_Eau_Claire,Regular,2024-11-9
+20323,4,2,Final,University_of_Wisconsin,University_of_Wisconsin_Eau_Claire,Regular,2024-11-9
 20090,3,1,Final,Rowan_University,University_of_Delaware,Regular,2024-11-9
 22628,2,3,Final OT,North_Dakota_State_University,Iowa_State_University,Regular,2024-11-9
 23956,-,-,5:30 pm CST,Lake_Region_State_College,Augustana_University,Regular,2024-11-9
 19668,4,2,Final,Villanova_University,United_States_Naval_Academy,Regular,2024-11-9
-23410,-,-,7:00 pm EST,Assumption_University,University_of_Vermont,Regular,2024-11-9
 23929,1,1,Final OT,Aurora_University,Michigan_State_University,Regular,2024-11-9
 23562,6,3,Final,University_of_Saint_Thomas,Dakota_College_at_Bottineau,Regular,2024-11-9
 18742,3,0,Final,Maryville_University,University_of_Wisconsin_LaCrosse,Regular,2024-11-9
@@ -223,8 +222,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23621,-,-,8:00 am CST,Iowa_State_University,Assiniboine_College,Regular,2024-11-10
 19669,3,5,Final,Villanova_University,United_States_Naval_Academy,Regular,2024-11-10
 22629,2,3,Final OT,North_Dakota_State_University,University_of_Minnesota_Duluth,Regular,2024-11-10
-20324,-,-,11:00 am CST,University_of_Wisconsin,University_of_Wisconsin_Eau_Claire,Regular,2024-11-10
-22905,-,-,12:30 pm EST,University_of_Vermont,Boston_University,Regular,2024-11-10
+20324,7,0,Final,University_of_Wisconsin,University_of_Wisconsin_Eau_Claire,Regular,2024-11-10
+22905,0,1,Final,University_of_Vermont,Boston_University,Regular,2024-11-10
 23551,1,2,Final OT,Adrian_College,Bowling_Green_State_University,Regular,2024-11-10
 23398,3,3,Final OT,Rochester_Institute_Of_Technology,Robert_Morris_University,Regular,2024-11-10
 22674,3,7,Final,Bentley_University,University_Of_Connecticut,Regular,2024-11-10
@@ -289,8 +288,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22474,-,-,7:00 pm EST,Assumption_University,Boston_University,Regular,2024-11-23
 23399,-,-,7:30 pm EST,Rochester_Institute_Of_Technology,Niagara_University,Regular,2024-11-23
 23933,-,-,6:50 pm CST,Aurora_University,Bowling_Green_State_University,Regular,2024-11-23
-23957,-,-,7:00 pm CST,Lake_Region_State_College,Dakota_College_at_Bottineau,Regular,2024-11-23
 23571,-,-,8:00 pm EST,University_of_Notre_Dame,Hope_College,Regular,2024-11-23
+23957,-,-,7:00 pm CST,Lake_Region_State_College,Dakota_College_at_Bottineau,Regular,2024-11-23
 19817,-,-,8:10 pm EST,Robert_Morris_University,Mercyhurst_University,Regular,2024-11-23
 20038,-,-,9:00 am CST,Assiniboine_College,University_of_Wisconsin_Eau_Claire,Regular,2024-11-24
 22322,-,-,10:30 am EST,Brockport_State_University,West_Chester_University,Regular,2024-11-24

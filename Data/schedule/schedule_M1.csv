@@ -468,7 +468,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22045,2,7,Final,Lawrence_Tech,Cleary_University,Regular,2024-11-9
 18611,2,0,Final,University_of_Illinois,Iowa_State_University,Regular,2024-11-9
 19896,3,2,Final,West_Chester_University,Temple_University,Regular,2024-11-9
-18639,-,-,8:30 pm EST,William_Paterson_University,Lehigh_University,Regular,2024-11-9
+18639,2,5,Final,William_Paterson_University,Lehigh_University,Regular,2024-11-9
 21964,-,-,Postponed,Canisius_University,University_at_Buffalo,Regular,2024-11-9
 20467,3,2,Final,University_of_Colorado,University_of_Oregon,Regular,2024-11-9
 21881,8,6,Final,Duquesne_University,Robert_Morris_University,Regular,2024-11-9
@@ -477,7 +477,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19083,2,7,Final,Towson_University,New_York_University,Regular,2024-11-10
 20677,1,8,Final,Rochester_Institute_of_Technology,Oswego_State_University,Regular,2024-11-10
 20468,3,1,Final,University_of_Colorado,University_of_Oregon,Regular,2024-11-10
-20402,-,-,7:30 pm CST,Minot_State_University,University_of_Jamestown,Regular,2024-11-12
+20402,6,1,Final,Minot_State_University,University_of_Jamestown,Regular,2024-11-12
 18986,-,-,7:30 pm EST,Adrian_College,Davenport_University,Regular,2024-11-14
 18569,-,-,11:59 pm PST,University_of_Nevada_Las_Vegas,University_of_Utah,Regular,2024-11-14
 18912,-,-,7:00 pm EST,Cleary_University,University_of_Michigan_Dearborn,Regular,2024-11-15
