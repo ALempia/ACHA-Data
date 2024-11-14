@@ -207,7 +207,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20314,8,2,Final,Case_Western_Reserve_University,University_of_Akron,Regular,2024-10-12
 22101,-,-,10:00 pm EDT,SUNY_Maritime_College,New_Jersey_Institute_of_Technology,Regular,2024-10-12
 22973,-,-,7:30 pm PDT,California_Lutheran_University,University_of_California_Irvine,Regular,2024-10-12
-21563,-,-,7:30 pm PDT,California_State_University_Long_Beach,University_of_San_Diego,Regular,2024-10-12
 21996,-,-,8:15 pm PDT,Grand_Canyon_University,Loyola_Marymount_University,Regular,2024-10-12
 21627,2,14,Final,Park_University,Colorado_Mesa_University,Regular,2024-10-12
 22008,-,-,Postponed,University_of_Notre_Dame,University_of_Massachusetts,Regular,2024-10-13
@@ -402,7 +401,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19624,4,2,Final,George_Mason_University,Stevenson_University,Regular,2024-11-2
 21462,2,4,Final,Loyola_University_Chicago,Illinois_State_University,Regular,2024-11-2
 19687,5,6,Final,University_of_Nebraska_at_Omaha,Drury_University,Regular,2024-11-2
-21999,-,-,8:15 pm PDT,Grand_Canyon_University,Park_University,Regular,2024-11-2
 21435,-,-,8:30 pm PDT,University_of_California_Davis,University_of_California_Santa_Cruz,Regular,2024-11-2
 19659,-,-,8:45 pm PDT,University_of_California_Irvine,California_State_University_Long_Beach,Regular,2024-11-2
 21629,-,-,10:45 pm MDT,Park_University,Western_Colorado_University,Regular,2024-11-2
@@ -424,7 +422,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19854,3,2,Final,Drury_University,University_of_Arkansas,Regular,2024-11-8
 19855,2,1,Final OT,Maryville_University,Central_Michigan_University,Regular,2024-11-8
 22010,6,5,Final,University_of_Notre_Dame,Michigan_State_University,Regular,2024-11-8
-21318,-,-,7:00 pm EST,United_States_Coast_Guard_Academy,University_of_Massachusetts,Regular,2024-11-8
+21318,2,6,Final,United_States_Coast_Guard_Academy,University_of_Massachusetts,Regular,2024-11-8
 21403,-,-,7:00 pm EST,Adrian_College,Arizona_State_University,Regular,2024-11-8
 20316,4,10,Final,Case_Western_Reserve_University,University_of_Pittsburgh_Johnstown,Regular,2024-11-8
 20881,6,2,Final,Central_Maine_Community_College,Bates_College,Regular,2024-11-8
@@ -442,7 +440,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19755,0,12,Final,Trine_University,Lawrence_Tech,Regular,2024-11-8
 21338,3,5,Final,Duquesne_University,PennWest_California,Regular,2024-11-8
 21360,3,2,Final,Northwestern_University,Illinois_State_University,Regular,2024-11-8
-19625,-,-,10:55 pm EST,George_Mason_University,Stevenson_University,Regular,2024-11-8
+19625,-,-,Postponed,George_Mason_University,Stevenson_University,Regular,2024-11-8
 22866,12,0,Final,University_of_Wisconsin_Platteville,"Wheaton_College,_IL.",Regular,2024-11-8
 23642,-,-,9:15 pm PST,Santa_Clara_University,Northern_Arizona_University,Regular,2024-11-8
 22977,-,-,9:45 pm PST,California_Lutheran_University,Grand_Canyon_University,Regular,2024-11-8
@@ -462,7 +460,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22845,7,1,Final,Lawrence_Tech,Trine_University,Regular,2024-11-9
 19858,10,2,Final,Arizona_State_University,Drury_University,Regular,2024-11-9
 20070,3,4,Final,University_of_Kansas,Dallas_Baptist_University,Regular,2024-11-9
-23752,-,-,5:30 pm EST,PennWest_California,University_of_Pittsburgh_Johnstown,Regular,2024-11-9
+23752,6,3,Final,PennWest_California,University_of_Pittsburgh_Johnstown,Regular,2024-11-9
 20964,1,6,Final,Dartmouth_College,Colby_College,Regular,2024-11-9
 20901,0,9,Final,Davenport_University,University_of_Michigan_Flint,Regular,2024-11-9
 23643,-,-,3:00 pm PST,Santa_Clara_University,Northern_Arizona_University,Regular,2024-11-9
@@ -474,7 +472,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22861,8,3,Final,Wentworth_Institute_of_Technology,United_States_Coast_Guard_Academy,Regular,2024-11-9
 19844,4,1,Final,Xavier_University,Butler_University,Regular,2024-11-9
 19859,2,4,Final,Missouri_State_University,Central_Michigan_University,Regular,2024-11-9
-19610,-,-,8:45 pm EST,Yeshiva_University,New_Jersey_Institute_of_Technology,Regular,2024-11-9
+19610,-,-,Postponed,Yeshiva_University,New_Jersey_Institute_of_Technology,Regular,2024-11-9
 21339,1,7,Final,Duquesne_University,Kent_State_University,Regular,2024-11-9
 20317,5,4,Final,Case_Western_Reserve_University,Indiana_University_of_Pennsylvania,Regular,2024-11-9
 22103,-,-,10:00 pm EST,SUNY_Maritime_College,Saint_Thomas_Aquinas_College,Regular,2024-11-9
