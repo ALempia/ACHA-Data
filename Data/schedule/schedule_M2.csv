@@ -959,14 +959,14 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22082,-,-,10:00 pm EST,Northern_Michigan_University,University_of_Wisconsin_LaCrosse,Regular,2024-11-8
 20155,-,-,9:15 pm CST,Texas_State_University,East_Texas_Baptist_University,Regular,2024-11-8
 23461,-,-,7:15 pm PST,University_of_California_Santa_Barbara,Stanford_University,Regular,2024-11-8
-19736,-,-,8:40 pm MST,Northern_Arizona_University,Arizona_State_University,Regular,2024-11-8
+19736,5,6,Final,Northern_Arizona_University,Arizona_State_University,Regular,2024-11-8
 22394,2,7,Final,Indiana_University,Miami_University,Regular,2024-11-8
 22223,3,4,Final OT,Minnesota_State_University_Mankato,Bethel_University,Regular,2024-11-8
 23666,9,6,Final,San_Jose_State_University,University_of_Southern_California,Regular,2024-11-8
 19292,3,1,Final,Loyola_Marymount_University,Boise_State_University,Regular,2024-11-8
 21047,14,0,Final,University_of_Kentucky,Bowling_Green_State_University,Regular,2024-11-8
 21395,1,0,Final,University_of_Saint_Thomas,Montana_State_University,Regular,2024-11-9
-22255,-,-,10:00 am CST,University_of_Wisconsin_Eau_Claire,Saint_Johns_University,Regular,2024-11-9
+22255,7,4,Final,University_of_Wisconsin_Eau_Claire,Saint_Johns_University,Regular,2024-11-9
 22745,6,1,Final,University_of_Wisconsin,University_of_Minnesota_Crookston,Regular,2024-11-9
 23071,1,10,Final,Indiana_Tech,Adrian_College,Regular,2024-11-9
 23106,6,3,Final,Western_Washington_University,University_of_Idaho,Regular,2024-11-9
@@ -976,7 +976,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20121,-,-,1:00 pm CST,Baylor_University,University_of_North_Texas,Regular,2024-11-9
 22355,8,10,Final,Gustavus_Adolphus_College,University_of_North_Dakota,Regular,2024-11-9
 22466,5,1,Final,University_of_Minnesota_Duluth,Saint_Cloud_State_University,Regular,2024-11-9
-22122,1,4,Unofficial Final,DePaul_University,University_of_Wisconsin_Milwaukee,Regular,2024-11-9
+22122,1,4,Final,DePaul_University,University_of_Wisconsin_Milwaukee,Regular,2024-11-9
 22234,3,7,Final,University_of_Wisconsin_Oshkosh,Michigan_Technological_University,Regular,2024-11-9
 20218,5,4,Final OT,Lindenwood_University,Liberty_University,Regular,2024-11-9
 20100,3,2,Final,Millersville_University,Stockton_University,Regular,2024-11-9
@@ -1028,7 +1028,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22368,2,1,Final SO,University_of_Minnesota,Montana_State_University,Regular,2024-11-10
 23991,4,8,Final,Sacred_Heart_University,Florida_Gulf_Coast_University,Regular,2024-11-10
 22554,7,4,Final,University_of_Maine,Merrimack_College,Regular,2024-11-10
-20688,-,-,12:30 pm EST,Bentley_University,Clarkson_University,Regular,2024-11-10
+20688,3,5,Final,Bentley_University,Clarkson_University,Regular,2024-11-10
 23997,-,-,Postponed,Maryville_University,University_of_Illinois,Regular,2024-11-10
 23312,-,-,12:00 pm CST,Lake_Region_State_College,Augustana_University,Regular,2024-11-10
 20271,4,6,Final,Westfield_State_University,Roger_Williams_University,Regular,2024-11-10
@@ -1051,10 +1051,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21746,3,5,Final,Eastern_Washington_University,University_of_California_Berkeley,Regular,2024-11-10
 21747,3,5,Final,Eastern_Washington_University,University_of_California_San_Diego,Regular,2024-11-11
 23048,1,6,Final,Washington_State_University,University_of_California_Berkeley,Regular,2024-11-11
-20129,-,-,1:00 pm CST,Southern_Methodist_University,Dakota_College_Bottineau,Regular,2024-11-11
+20129,3,4,Final OT,Southern_Methodist_University,Dakota_College_Bottineau,Regular,2024-11-11
 22507,2,3,Final,University_of_Utah,Weber_State_University,Regular,2024-11-13
 23224,-,-,2:00 pm CST,Saint_Cloud_State_University,North_Dakota_State_University,Regular,2024-11-14
-22356,-,-,7:30 pm CST,Gustavus_Adolphus_College,Minnesota_State_University_Mankato,Regular,2024-11-14
+22356,3,10,Final,Gustavus_Adolphus_College,Minnesota_State_University_Mankato,Regular,2024-11-14
 23061,-,-,7:00 pm MST,Boise_State_University,University_of_Utah,Regular,2024-11-14
 22692,-,-,10:00 pm EST,Bowling_Green_State_University,Miami_University,Regular,2024-11-14
 22242,-,-,9:15 pm CST,University_of_Illinois,Bradley_University,Regular,2024-11-14

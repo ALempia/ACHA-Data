@@ -336,7 +336,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21953,6,7,Final,Saint_Vincent_College,PennWest_California,Regular,2024-10-27
 19832,9,1,Final,Colby_College,University_of_New_England,Regular,2024-10-27
 20596,4,3,Final OT,Worcester_Polytechnic_Institute,University_of_Connecticut,Regular,2024-10-27
-23711,-,-,3:00 pm EDT,Springfield_College,Thomas_College,Regular,2024-10-27
+23711,2,3,Final,Springfield_College,Thomas_College,Regular,2024-10-27
 22018,2,4,Final,Sacred_Heart_University,Saint_Thomas_Aquinas_College,Regular,2024-10-27
 22341,3,4,Final,Harvard_University,Tufts_University,Regular,2024-10-27
 19571,4,3,Final SO,New_Jersey_Institute_of_Technology,SUNY_Maritime_College,Regular,2024-10-27
@@ -377,7 +377,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21945,3,5,Final,Eastern_Connecticut_State_University,United_States_Coast_Guard_Academy,Regular,2024-11-2
 20994,-,-,2:45 pm EDT,West_Chester_University,Loyola_University_Maryland,Regular,2024-11-2
 19853,1,2,Final,Missouri_State_University,University_of_Nebraska,Regular,2024-11-2
-23712,-,-,3:30 pm EDT,Springfield_College,Harvard_University,Regular,2024-11-2
+23712,4,2,Final,Springfield_College,Harvard_University,Regular,2024-11-2
 23826,5,1,Final,Sacred_Heart_University,Indiana_University_of_Pennsylvania,Regular,2024-11-2
 20315,4,10,Final,Case_Western_Reserve_University,Robert_Morris_University,Regular,2024-11-2
 19478,2,4,Final,Washington_University_of_Saint_Louis,Northwestern_University,Regular,2024-11-2
@@ -483,7 +483,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19867,2,3,Final,Maryville_University,Arizona_State_University,Regular,2024-11-10
 19688,1,2,Final OT,University_of_Nebraska_at_Omaha,East_Texas_Baptist_University,Regular,2024-11-10
 23721,-,-,12:00 pm EST,University_of_New_Hampshire,Tufts_University,Regular,2024-11-10
-19860,0,0,Unofficial Final,Central_Michigan_University,Drury_University,Regular,2024-11-10
+19860,6,2,Final,Central_Michigan_University,Drury_University,Regular,2024-11-10
 21660,1,4,Final,Curry_College,University_of_Massachusetts,Regular,2024-11-10
 19834,11,2,Final,Colby_College,Worcester_Polytechnic_Institute,Regular,2024-11-10
 21954,9,3,Final,Saint_Vincent_College,University_of_Akron,Regular,2024-11-10
