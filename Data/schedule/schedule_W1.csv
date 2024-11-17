@@ -163,25 +163,25 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20292,1,3,Final,Grand_Valley_State_University,Michigan_State_University,Regular,2024-11-10
 21133,2,6,Final,University_of_Rhode_Island,Liberty_University,Regular,2024-11-14
 19272,2,4,Final,Minot_State_University,Adrian_College,Regular,2024-11-15
-21105,-,-,6:20 pm EST,University_of_Massachusetts_Amherst,Liberty_University,Regular,2024-11-15
+21105,0,7,Final,University_of_Massachusetts_Amherst,Liberty_University,Regular,2024-11-15
 21067,7,1,Final,Arizona_State_University,Grand_Canyon_University,Regular,2024-11-15
-20293,-,-,7:30 pm EST,Grand_Valley_State_University,Lake_Superior_State_University,Regular,2024-11-15
+20293,0,3,Final,Grand_Valley_State_University,Lake_Superior_State_University,Regular,2024-11-15
 20279,0,4,Final,Aquinas_College,Concordia_University_Ann_Arbor,Regular,2024-11-15
-21255,-,-,9:00 pm EST,Miami_University,Indiana_Tech,Regular,2024-11-15
+21255,1,2,Final OT,Miami_University,Indiana_Tech,Regular,2024-11-15
 20550,0,1,Final,University_of_Utah,University_of_Colorado,Regular,2024-11-15
-19780,-,-,8:15 pm MST,University_of_Arizona,Colorado_State_University,Regular,2024-11-15
-21106,-,-,11:20 am EST,University_of_Massachusetts_Amherst,Liberty_University,Regular,2024-11-16
+19780,5,4,Final OT,University_of_Arizona,Colorado_State_University,Regular,2024-11-15
+21106,0,11,Final,University_of_Massachusetts_Amherst,Liberty_University,Regular,2024-11-16
 21237,-,-,3:00 pm EST,University_of_Michigan_Dearborn,University_of_Michigan,Regular,2024-11-16
 20626,-,-,3:10 pm EST,Indiana_Tech,Miami_University,Regular,2024-11-16
 20294,-,-,4:30 pm EST,Grand_Valley_State_University,Lake_Superior_State_University,Regular,2024-11-16
-19273,-,-,3:45 pm CST,Minot_State_University,Adrian_College,Regular,2024-11-16
-21266,-,-,6:00 pm EST,Concordia_University_Ann_Arbor,Aquinas_College,Regular,2024-11-16
-21134,-,-,7:00 pm EST,University_of_Rhode_Island,Penn_State_University,Regular,2024-11-16
+19273,2,2,Final OT,Minot_State_University,Adrian_College,Regular,2024-11-16
+21266,7,0,Final,Concordia_University_Ann_Arbor,Aquinas_College,Regular,2024-11-16
+21134,4,2,Final,University_of_Rhode_Island,Penn_State_University,Regular,2024-11-16
 21144,-,-,8:00 pm EST,Davenport_University,Michigan_State_University,Regular,2024-11-16
-21277,-,-,7:30 pm CST,University_of_Minnesota,Midland_University,Regular,2024-11-16
-21222,-,-,6:00 pm PST,Grand_Canyon_University,Colorado_State_University,Regular,2024-11-16
-20551,-,-,7:30 pm MST,University_of_Utah,University_of_Colorado,Regular,2024-11-16
-19788,-,-,7:30 pm MST,Montana_State_University,University_of_Washington,Regular,2024-11-16
+21277,1,3,Final,University_of_Minnesota,Midland_University,Regular,2024-11-16
+21222,6,5,Final OT,Grand_Canyon_University,Colorado_State_University,Regular,2024-11-16
+20551,1,2,Final,University_of_Utah,University_of_Colorado,Regular,2024-11-16
+19788,8,1,Final,Montana_State_University,University_of_Washington,Regular,2024-11-16
 21135,-,-,10:30 am EST,University_of_Rhode_Island,Penn_State_University,Regular,2024-11-17
 19789,-,-,10:00 am MST,Montana_State_University,University_of_Washington,Regular,2024-11-17
 21124,-,-,12:30 pm EST,Michigan_State_University,Davenport_University,Regular,2024-11-17
