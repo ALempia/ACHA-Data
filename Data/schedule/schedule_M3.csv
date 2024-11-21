@@ -508,7 +508,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21955,-,-,7:00 pm EST,Saint_Vincent_College,Indiana_University_of_Pennsylvania,Regular,2024-11-15
 21008,0,6,Final,West_Virginia_University,Kent_State_University,Regular,2024-11-15
 20713,3,2,Final OT,University_of_Nebraska,Dordt_University,Regular,2024-11-15
-19256,-,-,7:15 pm CST,Saint_Louis_University,Illinois_State_University,Regular,2024-11-15
+19256,1,3,Final,Saint_Louis_University,Illinois_State_University,Regular,2024-11-15
 23203,6,4,Final,Michigan_State_University,Calvin_University,Regular,2024-11-15
 19330,1,0,Visiting Forfeit,Oakland_University,University_of_Akron,Regular,2024-11-15
 19827,3,5,Final,Robert_Morris_University,University_of_Pittsburgh_Johnstown,Regular,2024-11-15
@@ -543,7 +543,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21379,0,5,Final,Central_Michigan_University,Lawrence_Tech,Regular,2024-11-16
 19246,6,0,Final,Olivet_Nazarene_University,Loyola_University_Chicago,Regular,2024-11-16
 22198,-,-,5:50 pm EST,University_of_Connecticut,United_States_Coast_Guard_Academy,Regular,2024-11-16
-23683,-,-,6:30 pm EST,Tufts_University,Harvard_University,Regular,2024-11-16
+23683,6,5,Final OT,Tufts_University,Harvard_University,Regular,2024-11-16
 19331,1,0,Visiting Forfeit,Oakland_University,University_of_Akron,Regular,2024-11-16
 21405,4,3,Final,Adrian_College,Butler_University,Regular,2024-11-16
 20386,3,5,Final,Thomas_College,University_of_Massachusetts,Regular,2024-11-16
