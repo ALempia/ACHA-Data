@@ -537,7 +537,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19154,4,5,Final,The_College_of_New_Jersey,Rochester_Institute_of_Technology,Regular,2024-11-17
 19069,0,9,Final,Oswego_State_University,Niagara_University,Regular,2024-11-17
 19997,3,4,Final,University_of_Toledo,West_Virginia_University,Regular,2024-11-17
-19390,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Adrian_College,Regular,2024-11-19
+19390,0,8,Final,University_of_Michigan_Dearborn,Adrian_College,Regular,2024-11-19
 18541,2,0,Final,Northwood_University,Calvin_University,Regular,2024-11-20
 20527,5,3,Final,Calvin_University,Northwood_University,Regular,2024-11-21
 18686,2,3,Final,University_of_Arizona,Minot_State_University,Regular,2024-11-21
@@ -594,8 +594,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19155,0,8,Final,The_College_of_New_Jersey,Oswego_State_University,Regular,2024-11-23
 18955,6,3,Final,Missouri_State_University,University_of_Central_Oklahoma,Regular,2024-11-23
 18650,7,2,Final,Aquinas_College,Concordia_University_Ann_Arbor,Regular,2024-11-23
-18884,-,-,7:30 pm EST,Indiana_Tech,Lawrence_Tech,Regular,2024-11-23
-18820,4,3,Unofficial Final,Drexel_University,Villanova_University,Regular,2024-11-23
+18884,4,1,Final,Indiana_Tech,Lawrence_Tech,Regular,2024-11-23
+18820,4,3,Final,Drexel_University,Villanova_University,Regular,2024-11-23
 19086,1,5,Final,Towson_University,United_States_Naval_Academy,Regular,2024-11-23
 19418,2,4,Final,Midland_University,University_of_Colorado,Regular,2024-11-23
 19951,7,4,Final,Iowa_State_University,Northern_Illinois_University,Regular,2024-11-23
@@ -671,12 +671,12 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18575,-,-,7:30 pm PST,University_of_Nevada_Las_Vegas,Grand_Canyon_University,Regular,2024-12-7
 20454,-,-,8:30 pm PST,San_Diego_State_University,University_of_Utah,Regular,2024-12-7
 18597,-,-,Postponed,Mercyhurst_University,University_at_Buffalo,Regular,2024-12-8
-19450,-,-,3:30 pm EST,Niagara_University,Rochester_Institute_of_Technology,Regular,2024-12-8
+19450,-,-,Postponed,Niagara_University,Rochester_Institute_of_Technology,Regular,2024-12-8
 18989,-,-,7:30 pm EST,Adrian_College,University_of_Michigan_Dearborn,Regular,2024-12-12
 18486,-,-,7:00 pm CST,Purdue_University_Northwest,Calvin_University,Regular,2024-12-12
 19200,-,-,7:30 pm MST,University_of_Arizona,Minot_State_University,Regular,2024-12-12
 18509,-,-,Postponed,Ohio_University,University_of_Pittsburgh,Regular,2024-12-13
-19466,-,-,7:00 pm EST,Rutgers_University,University_at_Buffalo,Regular,2024-12-13
+19466,-,-,Postponed,Rutgers_University,University_at_Buffalo,Regular,2024-12-13
 19392,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Grand_Valley_State_University,Regular,2024-12-13
 18915,-,-,7:00 pm EST,Cleary_University,Davenport_University,Regular,2024-12-13
 20528,-,-,7:30 pm EST,Calvin_University,Purdue_University_Northwest,Regular,2024-12-13
@@ -685,7 +685,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18969,-,-,7:00 pm MST,Grand_Canyon_University,Minot_State_University,Regular,2024-12-13
 18576,-,-,7:30 pm PST,University_of_Nevada_Las_Vegas,Arizona_State_University,Regular,2024-12-13
 18510,-,-,Postponed,Ohio_University,University_of_Pittsburgh,Regular,2024-12-14
-19467,-,-,7:00 pm EST,Rutgers_University,University_at_Buffalo,Regular,2024-12-14
+19467,-,-,Postponed,Rutgers_University,University_at_Buffalo,Regular,2024-12-14
 18529,-,-,7:00 pm CST,University_of_Jamestown,University_of_Mary,Regular,2024-12-14
 19420,-,-,7:30 pm CST,Midland_University,University_of_Central_Oklahoma,Regular,2024-12-14
 19170,-,-,8:30 pm EST,Davenport_University,Cleary_University,Regular,2024-12-14
@@ -897,6 +897,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18795,-,-,7:30 pm MST,Arizona_State_University,University_of_Central_Oklahoma,Regular,2025-1-30
 19207,-,-,1:00 pm MST,University_of_Arizona,University_of_Central_Oklahoma,Regular,2025-1-31
 20538,-,-,1:30 pm MST,University_of_Utah,University_of_Nevada_Las_Vegas,Regular,2025-1-31
+18875,-,-,4:00 pm CST,University_of_Mary,Waldorf_University,Regular,2025-1-31
 19378,-,-,5:30 pm EST,Concordia_University_Ann_Arbor,Indiana_Tech,Regular,2025-1-31
 18515,-,-,7:00 pm EST,Ohio_University,Niagara_University,Regular,2025-1-31
 18938,-,-,7:00 pm EST,Liberty_University,Adrian_College,Regular,2025-1-31
@@ -932,6 +933,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19011,-,-,5:30 pm EST,University_of_Delaware,University_of_Rhode_Island,Regular,2025-2-1
 20702,-,-,5:30 pm EST,Villanova_University,New_York_University,Regular,2025-2-1
 18842,-,-,5:30 pm EST,United_States_Naval_Academy,Temple_University,Regular,2025-2-1
+18874,-,-,5:00 pm CST,University_of_Mary,Waldorf_University,Regular,2025-2-1
 20589,-,-,6:00 pm EST,John_Carroll_University,Kent_State_University,Regular,2025-2-1
 18919,-,-,6:30 pm EST,Cleary_University,Lawrence_Tech,Regular,2025-2-1
 19984,-,-,7:00 pm EST,Stony_Brook_University,University_of_Pittsburgh,Regular,2025-2-1
@@ -939,7 +941,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19045,-,-,6:00 pm CST,Drury_University,McKendree_University,Regular,2025-2-1
 18890,-,-,7:30 pm EST,Indiana_Tech,Concordia_University_Ann_Arbor,Regular,2025-2-1
 19091,-,-,7:50 pm EST,Towson_University,Mercyhurst_University,Regular,2025-2-1
-18874,-,-,7:00 pm CST,University_of_Mary,Waldorf_University,Regular,2025-2-1
 18614,-,-,7:00 pm CST,University_of_Illinois,Northern_Illinois_University,Regular,2025-2-1
 21887,-,-,8:00 pm EST,Duquesne_University,West_Virginia_University,Regular,2025-2-1
 19075,-,-,8:00 pm EST,Oswego_State_University,University_at_Buffalo,Regular,2025-2-1
@@ -951,7 +952,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20516,-,-,7:15 pm MST,Colorado_State_University,Missouri_State_University,Regular,2025-2-1
 19092,-,-,12:20 pm EST,Towson_University,Mercyhurst_University,Regular,2025-2-2
 19985,-,-,1:30 pm EST,Stony_Brook_University,University_of_Pittsburgh,Regular,2025-2-2
-18875,-,-,2:00 pm CST,University_of_Mary,Waldorf_University,Regular,2025-2-2
 18992,-,-,7:00 pm EST,Adrian_College,Oakland_University,Regular,2025-2-6
 18973,-,-,8:00 pm MST,Grand_Canyon_University,Arizona_State_University,Regular,2025-2-6
 20681,-,-,6:30 pm EST,Rochester_Institute_of_Technology,Rutgers_University,Regular,2025-2-7
