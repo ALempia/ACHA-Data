@@ -1115,7 +1115,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22747,7,1,Final,University_of_Wisconsin,University_of_Minnesota_Duluth,Regular,2024-11-16
 23430,3,1,Final,Adrian_College,Illinois_State_University,Regular,2024-11-16
 23131,1,0,Visiting Forfeit,Sault_College,Davenport_University,Regular,2024-11-16
-22639,-,-,12:30 pm EST,University_of_Vermont,University_of_Massachusetts_Lowell,Regular,2024-11-16
+22639,3,4,Final,University_of_Vermont,University_of_Massachusetts_Lowell,Regular,2024-11-16
 22955,2,5,Final,Saint_Johns_University,University_of_Jamestown,Regular,2024-11-16
 20107,2,10,Final,Wake_Forest_University,Virginia_Tech,Regular,2024-11-16
 21800,0,1,Final,Liberty_University,Rensselaer_Polytechnic_Institute,Regular,2024-11-16
@@ -1218,7 +1218,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22546,-,-,6:50 pm CST,Roosevelt_University,Davenport_University,Regular,2024-11-22
 20246,3,4,Final,University_of_Louisville,University_of_North_Carolina_Wilmington,Regular,2024-11-22
 23190,1,5,Final,Purdue_University_Northwest,University_of_Cincinnati,Regular,2024-11-22
-20140,-,-,7:00 pm CST,Texas_A&M_University,East_Texas_Baptist_University,Regular,2024-11-22
+20140,3,2,Final,Texas_A&M_University,East_Texas_Baptist_University,Regular,2024-11-22
 22808,3,4,Final OT,Northeastern_University,Liberty_University,Regular,2024-11-22
 22785,3,6,Final,Davenport_University,Roosevelt_University,Regular,2024-11-22
 19932,7,4,Final,University_of_Jamestown,Bethel_University,Regular,2024-11-22
@@ -1272,7 +1272,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23973,2,17,Final,Montana_Tech,Arizona_State_University,Regular,2024-11-23
 23111,7,3,Final,Montana_State_University,Northern_Arizona_University,Regular,2024-11-23
 24074,9,2,Final,University_of_Montana,California_State_University_Northridge,Regular,2024-11-23
-24091,-,-,7:00 pm EST,North_Carolina_State_University,University_of_South_Carolina,Regular,2024-11-23
+24091,2,6,Final,North_Carolina_State_University,University_of_South_Carolina,Regular,2024-11-23
 23251,1,5,Final,Rensselaer_Polytechnic_Institute,Northeastern_University,Regular,2024-11-23
 22467,1,8,Final,University_of_Minnesota_Duluth,University_of_Saint_Thomas,Regular,2024-11-23
 23543,13,2,Final,Connecticut_College,Montclair_State_University,Regular,2024-11-23
