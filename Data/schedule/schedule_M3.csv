@@ -582,8 +582,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23204,5,2,Final,Michigan_State_University,Ferris_State_University,Regular,2024-11-22
 24068,2,6,Final,Purdue_University,University_of_Notre_Dame,Regular,2024-11-22
 20027,7,4,Final,Western_Michigan_University,Trine_University,Regular,2024-11-22
-21362,0,6,00:00 3rd,Northwestern_University,University_of_Nebraska,Regular,2024-11-22
-22895,-,-,8:00 pm CST,Northern_Illinois_University,Illinois_State_University,Regular,2024-11-22
+21362,0,6,Final,Northwestern_University,University_of_Nebraska,Regular,2024-11-22
+22895,2,4,Final,Northern_Illinois_University,Illinois_State_University,Regular,2024-11-22
 20071,9,2,Final,University_of_Kansas,Drake_University,Regular,2024-11-22
 23753,3,2,Final OT,PennWest_California,Indiana_University_of_Pennsylvania,Regular,2024-11-22
 22025,-,-,9:10 pm EST,University_of_Akron,West_Virginia_University,Regular,2024-11-22
@@ -601,7 +601,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20072,5,3,Final,University_of_Kansas,Drake_University,Regular,2024-11-23
 23754,3,4,Final OT,PennWest_California,Case_Western_Reserve_University,Regular,2024-11-23
 20387,5,3,Final,Thomas_College,Springfield_College,Regular,2024-11-23
-22896,-,-,5:00 pm CST,Northern_Illinois_University,Illinois_State_University,Regular,2024-11-23
+22896,0,4,Final,Northern_Illinois_University,Illinois_State_University,Regular,2024-11-23
 19756,0,8,Final,Trine_University,Western_Michigan_University,Regular,2024-11-23
 20902,0,14,Final,Davenport_University,Grand_Valley_State_University,Regular,2024-11-23
 21639,2,5,Final,Ferris_State_University,Michigan_State_University,Regular,2024-11-23

@@ -1293,7 +1293,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 24057,4,5,Final SO,University_of_Wisconsin,Indiana_University,Regular,2024-11-23
 21480,6,1,Final,Weber_State_University,Boise_State_University,Regular,2024-11-23
 24067,4,2,Final,Metropolitan_State_University_Denver,University_of_New_Mexico,Regular,2024-11-23
-21677,-,-,9:20 pm EST,University_of_Maryland,University_of_Delaware,Regular,2024-11-23
+21677,4,5,Final,University_of_Maryland,University_of_Delaware,Regular,2024-11-23
 21857,5,3,Final,Utah_Valley_University,Colorado_State_University,Regular,2024-11-23
 22068,3,4,Final,University_of_North_Carolina_Chapel_Hill,Army_(West_Point),Regular,2024-11-23
 24081,4,2,Final,University_of_Illinois,University_of_California_Los_Angeles,Regular,2024-11-24
@@ -1320,13 +1320,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 24082,4,5,Final OT,University_of_Wisconsin,University_of_Minnesota,Regular,2024-11-24
 24083,5,2,Final,University_of_Iowa,Indiana_University,Regular,2024-11-24
 23596,4,5,Final,Williston_State_College,Dakota_College_Bottineau,Regular,2024-11-26
-23597,-,-,7:00 pm CST,Williston_State_College,University_of_Jamestown,Regular,2024-11-29
-23598,-,-,2:00 pm CST,Williston_State_College,University_of_Jamestown,Regular,2024-11-30
+23597,1,7,Final,Williston_State_College,University_of_Jamestown,Regular,2024-11-29
+23598,1,7,Final,Williston_State_College,University_of_Jamestown,Regular,2024-11-30
 22445,5,2,Final,University_of_Minnesota_Crookston,North_Dakota_State_University,Regular,2024-11-30
 22318,-,-,12:00 pm EST,University_of_Massachusetts_Lowell,Norwich_University,Regular,2024-12-1
-22446,-,-,12:00 pm CST,University_of_Minnesota_Crookston,North_Dakota_State_University,Regular,2024-12-1
+22446,5,7,Final,University_of_Minnesota_Crookston,North_Dakota_State_University,Regular,2024-12-1
 22155,-,-,6:10 pm EST,Providence_College,University_of_New_Hampshire,Regular,2024-12-1
-23374,-,-,7:00 pm EST,College_of_The_Holy_Cross,Sacred_Heart_University,Regular,2024-12-1
+23374,6,5,Final OT,College_of_The_Holy_Cross,Sacred_Heart_University,Regular,2024-12-1
 22357,-,-,7:30 pm CST,Gustavus_Adolphus_College,Minnesota_State_University_Mankato,Regular,2024-12-4
 19934,-,-,12:00 pm CST,University_of_Jamestown,Dakota_College_Bottineau,Regular,2024-12-6
 20221,-,-,2:00 pm CST,Lindenwood_University,Concordia_University_of_Wisconsin,Regular,2024-12-6
