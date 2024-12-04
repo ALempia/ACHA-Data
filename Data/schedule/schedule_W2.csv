@@ -72,7 +72,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20057,1,5,Final,University_of_Pennsylvania,United_States_Naval_Academy,Regular,2024-10-11
 18738,3,0,Final,Maryville_University,Liberty_University,Regular,2024-10-11
 23608,0,1,Home Forfeit,University_of_Arkansas,University_of_Nebraska,Regular,2024-10-12
-22764,3,3,Visiting Forfeit,Michigan_State_University,Bowling_Green_State_University,Regular,2024-10-12
+22764,3,3,Final,Michigan_State_University,Bowling_Green_State_University,Regular,2024-10-12
 23549,0,4,Final,Adrian_College,Sault_College,Regular,2024-10-12
 18739,4,6,Final,Maryville_University,Liberty_University,Regular,2024-10-12
 20321,6,1,Final,University_of_Wisconsin,University_of_Wisconsin_LaCrosse,Regular,2024-10-12
@@ -82,7 +82,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20974,1,5,Final,Iowa_State_University,University_of_Saint_Thomas,Regular,2024-10-12
 22813,3,0,Final,University_of_Minnesota_Duluth,North_Dakota_State_University,Regular,2024-10-12
 23609,0,1,Home Forfeit,University_of_Arkansas,University_of_Nebraska,Regular,2024-10-13
-22765,5,3,Visiting Forfeit,Michigan_State_University,Bowling_Green_State_University,Regular,2024-10-13
+22765,5,3,Final,Michigan_State_University,Bowling_Green_State_University,Regular,2024-10-13
 22814,3,4,Final OT,University_of_Minnesota_Duluth,North_Dakota_State_University,Regular,2024-10-13
 20322,3,0,Final,University_of_Wisconsin,University_of_Wisconsin_LaCrosse,Regular,2024-10-13
 20975,3,3,Final OT,Iowa_State_University,University_of_Saint_Thomas,Regular,2024-10-13
@@ -288,7 +288,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23932,2,1,Final,Aurora_University,Bowling_Green_State_University,Regular,2024-11-22
 23987,-,-,10:00 pm CST,University_of_Arkansas,Maryville_University,Regular,2024-11-22
 24047,-,-,10:00 pm CST,Loyola_University_Chicago,University_of_Illinois,Regular,2024-11-22
-22766,-,-,1:00 am EST,Michigan_State_University,Adrian_College,Regular,2024-11-23
+22766,3,1,Final,Michigan_State_University,Adrian_College,Regular,2024-11-23
 22136,0,2,Final,Saint_Anselm_College,Providence_College,Regular,2024-11-23
 21845,3,0,Final,Liberty_University,University_of_Maryland,Regular,2024-11-23
 21844,1,10,Final,Loyola_University_Maryland,Brockport_State_University,Regular,2024-11-23
