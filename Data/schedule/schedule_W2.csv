@@ -264,7 +264,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18744,2,3,Final,Maryville_University,Adrian_College,Regular,2024-11-16
 24012,4,3,Final,University_of_Virginia,Virginia_Tech,Regular,2024-11-16
 23564,3,2,Final,University_of_Saint_Thomas,Assiniboine_College,Regular,2024-11-16
-20957,-,-,8:00 am EST,Niagara_University,United_States_Naval_Academy,Regular,2024-11-17
+20957,2,3,Final OT,Niagara_University,United_States_Naval_Academy,Regular,2024-11-17
 22041,1,1,Final OT,Northern_Michigan_University,Michigan_State_University,Regular,2024-11-17
 23565,0,1,Final,University_of_Saint_Thomas,Assiniboine_College,Regular,2024-11-17
 24005,7,2,Final,West_Chester_University,Virginia_Tech,Regular,2024-11-17
@@ -317,18 +317,18 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19801,3,2,Final,Sault_College,Niagara_University,Regular,2024-12-1
 23142,-,-,Postponed,Northeastern_University,Providence_College,Regular,2024-12-1
 19818,-,-,7:40 pm EST,Robert_Morris_University,West_Chester_University,Regular,2024-12-6
-24084,-,-,8:30 pm EST,Niagara_University,Central_Michigan_University,Regular,2024-12-6
+24084,1,5,Final,Niagara_University,Central_Michigan_University,Regular,2024-12-6
 23934,2,3,Final,Aurora_University,Maryville_University,Regular,2024-12-6
 20059,-,-,12:50 pm EST,University_of_Pennsylvania,University_of_Delaware,Regular,2024-12-7
 22906,-,-,2:00 pm EST,University_of_Vermont,Sacred_Heart_University,Regular,2024-12-7
 19819,-,-,2:10 pm EST,Robert_Morris_University,West_Chester_University,Regular,2024-12-7
 24085,-,-,4:30 pm EST,Mercyhurst_University,Central_Michigan_University,Regular,2024-12-7
 20325,-,-,4:45 pm CST,University_of_Wisconsin,Dakota_College_at_Bottineau,Regular,2024-12-7
-23566,-,-,6:00 pm CST,University_of_Saint_Thomas,North_Dakota_State_University,Regular,2024-12-7
-23935,-,-,6:50 pm CST,Aurora_University,Maryville_University,Regular,2024-12-7
+23566,7,1,Final,University_of_Saint_Thomas,North_Dakota_State_University,Regular,2024-12-7
+23935,3,1,Final,Aurora_University,Maryville_University,Regular,2024-12-7
 23572,-,-,8:00 pm EST,University_of_Notre_Dame,Adrian_College,Regular,2024-12-7
 23958,-,-,8:00 pm CST,Lake_Region_State_College,Assiniboine_College,Regular,2024-12-7
-20347,-,-,9:20 pm EST,University_of_Maryland,Rowan_University,Regular,2024-12-7
+20347,3,2,Final OT,University_of_Maryland,Rowan_University,Regular,2024-12-7
 23442,-,-,8:30 pm CST,University_of_Wisconsin_Eau_Claire,University_of_Wisconsin_LaCrosse,Regular,2024-12-7
 23443,-,-,9:00 am CST,University_of_Wisconsin_Eau_Claire,University_of_Wisconsin_LaCrosse,Regular,2024-12-8
 23567,-,-,9:40 am CST,University_of_Saint_Thomas,North_Dakota_State_University,Regular,2024-12-8

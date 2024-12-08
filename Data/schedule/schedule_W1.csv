@@ -220,21 +220,21 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21309,0,6,Final,Lindenwood_University,Maryville_University,Regular,2024-11-24
 21060,5,1,Final,Liberty_University,Niagara_University,Regular,2024-12-5
 21061,3,2,Final OT,Liberty_University,Niagara_University,Regular,2024-12-6
-19215,-,-,1:00 pm MST,University_of_Arizona,Grand_Canyon_University,Regular,2024-12-6
-20628,-,-,4:00 pm EST,Indiana_Tech,Penn_State_University,Regular,2024-12-6
-18728,-,-,5:15 pm CST,Maryville_University,Lindenwood_University,Regular,2024-12-6
+19215,4,3,Final,University_of_Arizona,Grand_Canyon_University,Regular,2024-12-6
+20628,5,1,Final,Indiana_Tech,Penn_State_University,Regular,2024-12-6
+18728,4,4,Final OT,Maryville_University,Lindenwood_University,Regular,2024-12-6
 21238,4,0,Final,University_of_Michigan_Dearborn,Lake_Superior_State_University,Regular,2024-12-6
 21267,0,7,Final,Concordia_University_Ann_Arbor,Adrian_College,Regular,2024-12-6
 23288,1,2,Final,University_of_Jamestown,Minot_State_University,Regular,2024-12-6
 20555,1,4,Final,University_of_Utah,University_of_Massachusetts_Amherst,Regular,2024-12-6
 21257,-,-,10:15 pm EST,Miami_University,Aquinas_College,Regular,2024-12-6
-21163,-,-,12:00 pm EST,Adrian_College,Concordia_University_Ann_Arbor,Regular,2024-12-7
+21163,9,0,Final,Adrian_College,Concordia_University_Ann_Arbor,Regular,2024-12-7
 21239,-,-,1:00 pm EST,University_of_Michigan_Dearborn,Lake_Superior_State_University,Regular,2024-12-7
 20629,-,-,3:10 pm EST,Indiana_Tech,Penn_State_University,Regular,2024-12-7
-23289,-,-,3:30 pm CST,University_of_Jamestown,Minot_State_University,Regular,2024-12-7
-20556,-,-,4:30 pm MST,University_of_Utah,University_of_Massachusetts_Amherst,Regular,2024-12-7
+23289,1,2,Final OT,University_of_Jamestown,Minot_State_University,Regular,2024-12-7
+20556,0,2,Final,University_of_Utah,University_of_Massachusetts_Amherst,Regular,2024-12-7
 21258,-,-,7:45 pm EST,Miami_University,Aquinas_College,Regular,2024-12-7
-21279,-,-,7:30 pm CST,University_of_Minnesota,Grand_Valley_State_University,Regular,2024-12-7
+21279,3,0,Final,University_of_Minnesota,Grand_Valley_State_University,Regular,2024-12-7
 21225,-,-,6:30 pm PST,Grand_Canyon_University,University_of_Arizona,Regular,2024-12-7
 21280,-,-,11:30 am CST,University_of_Minnesota,Grand_Valley_State_University,Regular,2024-12-8
 19790,-,-,11:30 am MST,Montana_State_University,University_of_Massachusetts_Amherst,Regular,2024-12-8
