@@ -50,7 +50,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21726,5,3,Final,Brockport_State_University,University_of_Pittsburgh,Regular,2024-10-5
 22775,0,14,Final,Miami_University,Sault_College,Regular,2024-10-5
 20089,1,6,Final,Rowan_University,Villanova_University,Regular,2024-10-5
-23403,-,-,9:15 pm MDT,United_States_Air_Force_Academy,United_States_Naval_Academy,Regular,2024-10-5
 21648,6,1,Final,Eastern_Michigan_University,Aurora_University,Regular,2024-10-6
 23439,0,3,Final,University_of_Wisconsin_Eau_Claire,University_of_Minnesota_Duluth,Regular,2024-10-6
 23385,5,4,Final,Virginia_Tech,University_of_Virginia,Regular,2024-10-6
@@ -81,7 +80,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23925,18,0,Final,Aurora_University,Hope_College,Regular,2024-10-12
 20974,1,5,Final,Iowa_State_University,University_of_Saint_Thomas,Regular,2024-10-12
 22813,3,0,Final,University_of_Minnesota_Duluth,North_Dakota_State_University,Regular,2024-10-12
-24097,-,-,9:10 pm EDT,Robert_Morris_University,Slippery_Rock_University,Regular,2024-10-12
+24097,9,0,Final,Robert_Morris_University,Slippery_Rock_University,Regular,2024-10-12
 23609,0,1,Home Forfeit,University_of_Arkansas,University_of_Nebraska,Regular,2024-10-13
 22814,3,4,Final OT,University_of_Minnesota_Duluth,North_Dakota_State_University,Regular,2024-10-13
 22765,5,3,Final,Michigan_State_University,Bowling_Green_State_University,Regular,2024-10-13
@@ -316,14 +315,14 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19800,10,1,Final,Sault_College,Niagara_University,Regular,2024-11-30
 19801,3,2,Final,Sault_College,Niagara_University,Regular,2024-12-1
 23142,-,-,Postponed,Northeastern_University,Providence_College,Regular,2024-12-1
-19818,-,-,7:40 pm EST,Robert_Morris_University,West_Chester_University,Regular,2024-12-6
+19818,5,1,Final,Robert_Morris_University,West_Chester_University,Regular,2024-12-6
 24084,1,5,Final,Niagara_University,Central_Michigan_University,Regular,2024-12-6
 23934,2,3,Final,Aurora_University,Maryville_University,Regular,2024-12-6
 20059,0,2,Final,University_of_Pennsylvania,University_of_Delaware,Regular,2024-12-7
-22906,-,-,2:00 pm EST,University_of_Vermont,Sacred_Heart_University,Regular,2024-12-7
-19819,-,-,2:10 pm EST,Robert_Morris_University,West_Chester_University,Regular,2024-12-7
-24085,-,-,4:30 pm EST,Mercyhurst_University,Central_Michigan_University,Regular,2024-12-7
-20325,-,-,4:45 pm CST,University_of_Wisconsin,Dakota_College_at_Bottineau,Regular,2024-12-7
+22906,2,1,Final,University_of_Vermont,Sacred_Heart_University,Regular,2024-12-7
+19819,6,1,Final,Robert_Morris_University,West_Chester_University,Regular,2024-12-7
+24085,3,5,Final,Mercyhurst_University,Central_Michigan_University,Regular,2024-12-7
+20325,5,3,Final,University_of_Wisconsin,Dakota_College_at_Bottineau,Regular,2024-12-7
 23566,7,1,Final,University_of_Saint_Thomas,North_Dakota_State_University,Regular,2024-12-7
 23935,3,1,Final,Aurora_University,Maryville_University,Regular,2024-12-7
 23572,0,1,Final,University_of_Notre_Dame,Adrian_College,Regular,2024-12-7
@@ -335,12 +334,12 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23959,-,-,10:30 am CST,Lake_Region_State_College,Assiniboine_College,Regular,2024-12-8
 22677,3,7,00:00 3rd,Bentley_University,Boston_College,Regular,2024-12-8
 22717,2,1,Final,University_of_New_Hampshire,Sacred_Heart_University,Regular,2024-12-8
-20326,-,-,11:00 am CST,University_of_Wisconsin,Dakota_College_at_Bottineau,Regular,2024-12-8
+20326,3,3,Final OT,University_of_Wisconsin,Dakota_College_at_Bottineau,Regular,2024-12-8
 23400,5,4,Final,Rochester_Institute_Of_Technology,Brockport_State_University,Regular,2024-12-8
-22874,-,-,3:00 pm EST,Merrimack_College,University_of_Vermont,Regular,2024-12-8
+22874,1,4,Final,Merrimack_College,University_of_Vermont,Regular,2024-12-8
 24086,-,-,3:00 pm EST,Niagara_University,Central_Michigan_University,Regular,2024-12-8
 20051,5,7,00:36 3rd,University_of_Delaware,University_of_Pennsylvania,Regular,2024-12-8
-23553,-,-,4:00 pm EST,Adrian_College,University_of_Notre_Dame,Regular,2024-12-8
+23553,0,0,Final OT,Adrian_College,University_of_Notre_Dame,Regular,2024-12-8
 23376,-,-,4:50 pm EST,Worcester_Polytechnic_Institute,Boston_University,Regular,2024-12-8
 21654,-,-,8:25 pm EST,Eastern_Michigan_University,Lawrence_Technological_University,Regular,2025-1-10
 22486,-,-,5:00 pm EST,Lawrence_Technological_University,Eastern_Michigan_University,Regular,2025-1-11
