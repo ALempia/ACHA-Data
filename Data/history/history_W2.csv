@@ -1,607 +1,615 @@
 Date,Team,Opp.,GF,GA,Result,GFax,GAax,GDax,PTSax,Win Prob.,xGF,xGA,xPts,Lg.
-Sep 15,The Ohio State University,Miami University,6,2,Win,-0.09,1.03,-1.12,0.053,98.5,6.09,0.97,2.947,W2
-Sep 20,Villanova University,West Chester University,14,0,Win,5.44,-0.49,5.93,0.002,100,8.56,0.49,2.998,W2
-Sep 20,University of Pennsylvania,University of Pittsburgh,1,5,Loss,0.14,2.81,-2.67,-0.651,19.6,0.86,2.19,0.651,W2
-Sep 21,Villanova University,University of Pittsburgh,6,1,Win,2.14,0.04,2.1,0.246,93,3.86,0.96,2.754,W2
-Sep 21,University of Nebraska,Iowa State University,0,15,Loss,-1.37,3.37,-4.74,-0,0,1.37,11.63,0,W2
-Sep 21,Rowan University,University of Maryland,5,0,Win,1.34,-1.65,2.99,0.558,82.9,3.66,1.65,2.442,W2
-Sep 22,University of Nebraska,Iowa State University,0,18,Loss,-1.37,6.37,-7.74,-0,0,1.37,11.63,0,W2
-Sep 22,University of Delaware,West Chester University,15,0,Win,8.85,-0.7,9.54,0.03,99.2,6.15,0.7,2.97,W2
-Sep 22,Providence College,Merrimack College,4,2,Win,2.39,1.45,0.94,0.691,79.7,1.61,0.55,2.309,W2
-Sep 26,West Virginia University ,Lawrence Technological University,0,7,Loss,-1,3.14,-4.15,-0.262,7.5,1,3.86,0.262,W2
-Sep 27,Iowa State University,University of Iowa,6,5,Win,0.05,-0.13,0.18,1.194,60.6,5.95,5.13,1.806,W2
-Sep 27,West Virginia University ,Lawrence Technological University,1,9,Loss,-0,5.14,-5.15,-0.262,7.5,1,3.86,0.262,W2
-Sep 27,West Chester University,University of Delaware,0,7,Loss,-0.72,1.03,-1.75,-0.036,1,0.72,5.97,0.036,W2
-Sep 27,Boston University,University of Pennsylvania,6,1,Win,2.46,0.76,1.7,0.084,97.9,3.54,0.24,2.916,W2
-Sep 28,Iowa State University,University of Iowa,7,6,Win,1.05,0.87,0.18,1.194,60.6,5.95,5.13,1.806,W2
-Sep 28,Robert Morris University,Lawrence Technological University,4,3,OT Win,1.67,-0.29,1.96,1.479,15.8,1.33,3.29,0.521,W2
-Sep 28,Central Michigan University,Eastern Michigan University,2,3,Loss,0.78,1.2,-0.41,-1.099,35.4,1.22,1.8,1.099,W2
-Sep 28,University Of Connecticut,Sacred Heart University,7,6,Win,6.17,5.29,0.89,1.39,54.3,0.83,0.71,1.61,W2
-Sep 28,North Dakota State University,University of Nebraska,17,0,Win,5.56,-1.35,6.91,0,100,11.44,1.35,3,W2
-Sep 28,Villanova University,The Ohio State University,1,3,Loss,-0.26,0.42,-0.69,-0.742,23,1.26,2.58,0.742,W2
-Sep 28,University of Maryland,Montclair State University,12,0,Win,4.72,-0.47,5.19,0.006,99.8,7.28,0.47,2.994,W2
-Sep 28,Miami University,University of Illinois,1,2,Loss,-3.25,-0.81,-2.44,-2.129,72,4.25,2.81,2.129,W2
-Sep 29,Villanova University,The Ohio State University,2,5,Loss,0.74,2.42,-1.69,-0.742,23,1.26,2.58,0.742,W2
-Sep 29,North Dakota State University,University of Nebraska,16,2,Win,4.56,0.65,3.91,0,100,11.44,1.35,3,W2
-Sep 29,University of Delaware,United States Naval Academy,0,2,Loss,-1.28,-0.33,-0.95,-0.859,27,1.28,2.33,0.859,W2
-Sep 29,University of Virginia,George Washington University,11,2,Win,0.33,0.67,-0.34,0,100,10.67,1.33,3,W2
-Sep 29,Miami University,University of Illinois,4,2,Win,-0.25,-0.81,0.56,0.871,72,4.25,2.81,2.129,W2
-Sep 29,Saint Anselm College,Boston University,2,4,Loss,1.08,2.76,-1.68,-1.238,40.1,0.92,1.24,1.238,W2
+Sep 15,The Ohio State University,Miami University,6,2,Win,-0.15,1.04,-1.19,0.05,98.6,6.15,0.96,2.95,W2
+Sep 20,Villanova University,West Chester University,14,0,Win,5.39,-0.49,5.88,0.001,100,8.61,0.49,2.999,W2
+Sep 20,University of Pennsylvania,University of Pittsburgh,1,5,Loss,0.14,2.8,-2.66,-0.65,19.6,0.86,2.2,0.65,W2
+Sep 21,Villanova University,University of Pittsburgh,6,1,Win,2.13,0.04,2.09,0.245,93,3.87,0.96,2.755,W2
+Sep 21,University of Nebraska,Iowa State University,0,15,Loss,-1.41,3.38,-4.79,-0,0,1.41,11.62,0,W2
+Sep 21,Rowan University,University of Maryland,5,0,Win,1.31,-1.66,2.97,0.551,83.1,3.69,1.66,2.449,W2
+Sep 22,University of Nebraska,Iowa State University,0,18,Loss,-1.41,6.38,-7.79,-0,0,1.41,11.62,0,W2
+Sep 22,University of Delaware,West Chester University,15,0,Win,8.78,-0.7,9.48,0.029,99.2,6.22,0.7,2.971,W2
+Sep 22,Providence College,Merrimack College,4,2,Win,2.39,1.45,0.94,0.688,79.8,1.61,0.55,2.312,W2
+Sep 26,West Virginia University ,Lawrence Technological University,0,7,Loss,-1.02,3.14,-4.15,-0.264,7.6,1.02,3.86,0.264,W2
+Sep 27,Iowa State University,University of Iowa,6,5,Win,0.46,-0.16,0.62,1.357,55,5.54,5.16,1.643,W2
+Sep 27,West Virginia University ,Lawrence Technological University,1,9,Loss,-0.02,5.14,-5.15,-0.264,7.6,1.02,3.86,0.264,W2
+Sep 27,West Chester University,University of Delaware,0,7,Loss,-0.73,0.98,-1.71,-0.035,0.9,0.73,6.02,0.035,W2
+Sep 27,Boston University,University of Pennsylvania,6,1,Win,2.43,0.76,1.67,0.082,98,3.57,0.24,2.918,W2
+Sep 28,Iowa State University,University of Iowa,7,6,Win,1.46,0.84,0.62,1.357,55,5.54,5.16,1.643,W2
+Sep 28,Robert Morris University,Lawrence Technological University,4,3,OT Win,1.66,-0.3,1.95,1.474,15.9,1.34,3.3,0.526,W2
+Sep 28,Central Michigan University,Eastern Michigan University,2,3,Loss,0.78,1.2,-0.42,-1.104,35.6,1.22,1.8,1.104,W2
+Sep 28,University Of Connecticut,Sacred Heart University,7,6,Win,6.17,5.29,0.88,1.387,54.4,0.83,0.71,1.613,W2
+Sep 28,North Dakota State University,University of Nebraska,17,0,Win,5.54,-1.35,6.89,0,100,11.46,1.35,3,W2
+Sep 28,Villanova University,The Ohio State University,1,3,Loss,-0.26,0.43,-0.69,-0.742,23,1.26,2.57,0.742,W2
+Sep 28,University of Maryland,Montclair State University,12,0,Win,4.67,-0.47,5.14,0.006,99.9,7.33,0.47,2.994,W2
+Sep 28,Miami University,University of Illinois,1,2,Loss,-3.33,-0.79,-2.54,-2.165,73.3,4.33,2.79,2.165,W2
+Sep 29,Villanova University,The Ohio State University,2,5,Loss,0.74,2.43,-1.69,-0.742,23,1.26,2.57,0.742,W2
+Sep 29,North Dakota State University,University of Nebraska,16,2,Win,4.54,0.65,3.89,0,100,11.46,1.35,3,W2
+Sep 29,University of Delaware,United States Naval Academy,0,2,Loss,-1.28,-0.34,-0.95,-0.86,27,1.28,2.34,0.86,W2
+Sep 29,University of Virginia,George Washington University,11,2,Win,0.31,0.67,-0.36,0,100,10.69,1.33,3,W2
+Sep 29,Miami University,University of Illinois,4,2,Win,-0.33,-0.79,0.46,0.835,73.3,4.33,2.79,2.165,W2
+Sep 29,Saint Anselm College,Boston University,2,4,Loss,1.08,2.75,-1.68,-1.238,40.1,0.92,1.25,1.238,W2
 Sep 29,University of New Hampshire,University Of Connecticut,1,4,Loss,0.27,3.24,-2.97,-1.47,48.8,0.73,0.76,1.47,W2
-Sep 29,Robert Morris University,Lawrence Technological University,0,5,Loss,-1.33,1.71,-3.04,-0.521,15.8,1.33,3.29,0.521,W2
-Sep 29,College of the Holy Cross,Sacred Heart University,2,4,Loss,1.66,2.12,-0.46,-0.415,11.1,0.34,1.88,0.415,W2
-Oct 4,Liberty University,University of Delaware,2,1,OT Win,-1.43,0.19,-1.62,-0.469,84.3,2.43,0.81,2.469,W2
-Oct 4,Brockport State University,Niagara University,1,0,Win,-0.09,-5.44,5.35,2.898,2.8,1.09,5.44,0.102,W2
-Oct 4,West Virginia University ,Robert Morris University,3,0,Win,1.04,-2.94,3.98,2.02,31.5,1.96,2.94,0.98,W2
-Oct 4,George Washington University,University of North Carolina,15,2,Win,10.74,-1.93,12.67,1.36,54.9,4.26,3.93,1.64,W2
-Oct 5,Merrimack College,Boston University,2,7,Loss,1.53,5.27,-3.75,-0.574,16.3,0.47,1.73,0.574,W2
-Oct 5,Liberty University,University of Delaware,6,3,Win,3.57,2.19,1.38,0.531,84.3,2.43,0.81,2.469,W2
-Oct 5,Saint Anselm College,University of New Hampshire,4,0,Win,2.87,-0.79,3.66,1.209,61.1,1.13,0.79,1.791,W2
-Oct 5,University of Vermont,Boston College,3,4,Loss,2.33,2.87,-0.54,-1.095,34.6,0.67,1.13,1.095,W2
-Oct 5,University of Illinois,University of Iowa,1,4,Loss,-1.53,-0.7,-0.83,-0.613,19.2,2.53,4.7,0.613,W2
-Oct 5,Niagara University,West Virginia University ,6,0,Win,0.98,-1.12,2.1,0.142,96,5.02,1.12,2.858,W2
-Oct 5,Eastern Michigan University,Aurora University,1,1,Tie,-1.54,0.11,-1.65,-0.964,84.1,2.54,0.89,2.464,W2
-Oct 5,Virginia Tech,University of North Carolina,9,1,Win,1.98,0.18,1.8,0.019,99.5,7.02,0.82,2.981,W2
-Oct 5,University of Wisconsin Eau Claire,University of Minnesota Duluth,4,3,Win,-2.98,-6.17,3.19,2.262,23.7,6.98,9.17,0.738,W2
+Sep 29,Robert Morris University,Lawrence Technological University,0,5,Loss,-1.34,1.7,-3.05,-0.526,15.9,1.34,3.3,0.526,W2
+Sep 29,College of the Holy Cross,Sacred Heart University,2,4,Loss,1.66,2.11,-0.45,-0.412,11,0.34,1.89,0.412,W2
+Oct 4,Liberty University,University of Delaware,2,1,OT Win,-1.45,0.19,-1.63,-0.474,84.5,2.45,0.81,2.474,W2
+Oct 4,Brockport State University,Niagara University,1,0,Win,-0.09,-5.47,5.37,2.899,2.8,1.09,5.47,0.101,W2
+Oct 4,West Virginia University ,Robert Morris University,3,0,Win,1.02,-2.96,3.98,2.018,31.6,1.98,2.96,0.982,W2
+Oct 4,George Washington University,University of North Carolina,15,2,Win,10.71,-1.97,12.68,1.363,54.8,4.29,3.97,1.637,W2
+Oct 5,Merrimack College,Boston University,2,7,Loss,1.53,5.27,-3.74,-0.574,16.3,0.47,1.73,0.574,W2
+Oct 5,Liberty University,University of Delaware,6,3,Win,3.55,2.19,1.37,0.526,84.5,2.45,0.81,2.474,W2
+Oct 5,Saint Anselm College,University of New Hampshire,4,0,Win,2.87,-0.79,3.66,1.207,61.1,1.13,0.79,1.793,W2
+Oct 5,University of Vermont,Boston College,3,4,Loss,2.33,2.87,-0.54,-1.094,34.5,0.67,1.13,1.094,W2
+Oct 5,University of Illinois,University of Iowa,1,4,Loss,-1.64,-0.36,-1.28,-0.763,24.3,2.64,4.36,0.763,W2
+Oct 5,Niagara University,West Virginia University ,6,0,Win,0.93,-1.12,2.06,0.138,96.1,5.07,1.12,2.862,W2
+Oct 5,Eastern Michigan University,Aurora University,1,1,Tie,-1.54,0.11,-1.64,-0.96,84,2.54,0.89,2.46,W2
+Oct 5,Virginia Tech,University of North Carolina,9,1,Win,1.94,0.17,1.76,0.018,99.5,7.06,0.83,2.982,W2
+Oct 5,University of Wisconsin Eau Claire,University of Minnesota Duluth,4,3,Win,-3.29,-6.26,2.97,2.201,25.8,7.29,9.26,0.799,W2
 Oct 5,Northern Michigan University,Central Michigan University,4,2,Win,2.85,0.35,2.5,1.856,36.9,1.15,1.65,1.144,W2
-Oct 5,Brockport State University,University of Pittsburgh,5,3,Win,3.42,0.08,3.34,2.22,24.5,1.58,2.92,0.78,W2
-Oct 5,Miami University,Sault College,0,14,Loss,-0.74,4.3,-5.04,-0.001,0,0.74,9.7,0.001,W2
-Oct 5,Rowan University,Villanova University,1,6,Loss,-0.53,3.21,-3.74,-0.804,25.3,1.53,2.79,0.804,W2
-Oct 6,Eastern Michigan University,Aurora University,6,1,Win,3.46,0.11,3.35,0.536,84.1,2.54,0.89,2.464,W2
-Oct 6,University of Wisconsin Eau Claire,University of Minnesota Duluth,0,3,Loss,-6.98,-6.17,-0.81,-0.738,23.7,6.98,9.17,0.738,W2
-Oct 6,Virginia Tech,University of Virginia,5,4,Win,2.66,0.57,2.1,2.036,31.1,2.34,3.43,0.964,W2
-Oct 6,University of Illinois,University of Iowa,0,3,Loss,-2.53,-1.7,-0.83,-0.613,19.2,2.53,4.7,0.613,W2
-Oct 6,Boston University,Providence College,3,0,Win,1.94,-0.77,2.71,1.243,59.8,1.06,0.77,1.757,W2
-Oct 6,University of New Hampshire,Harvard University,8,1,Win,6.17,0.67,5.49,0.423,88.7,1.83,0.33,2.577,W2
-Oct 6,Rochester Institute Of Technology,University of Pittsburgh,0,7,Loss,-1.92,2.73,-4.65,-0.499,15.3,1.92,4.27,0.499,W2
+Oct 5,Brockport State University,University of Pittsburgh,5,3,Win,3.41,0.05,3.35,2.225,24.3,1.59,2.95,0.775,W2
+Oct 5,Miami University,Sault College,0,14,Loss,-0.74,4.27,-5.01,-0.001,0,0.74,9.73,0.001,W2
+Oct 5,Rowan University,Villanova University,1,6,Loss,-0.54,3.2,-3.74,-0.805,25.3,1.54,2.8,0.805,W2
+Oct 6,Eastern Michigan University,Aurora University,6,1,Win,3.46,0.11,3.36,0.54,84,2.54,0.89,2.46,W2
+Oct 6,University of Wisconsin Eau Claire,University of Minnesota Duluth,0,3,Loss,-7.29,-6.26,-1.03,-0.799,25.8,7.29,9.26,0.799,W2
+Oct 6,Virginia Tech,University of Virginia,5,4,Win,2.65,0.56,2.09,2.032,31.2,2.35,3.44,0.968,W2
+Oct 6,University of Illinois,University of Iowa,0,3,Loss,-2.64,-1.36,-1.28,-0.763,24.3,2.64,4.36,0.763,W2
+Oct 6,Boston University,Providence College,3,0,Win,1.93,-0.77,2.7,1.239,60,1.07,0.77,1.761,W2
+Oct 6,University of New Hampshire,Harvard University,8,1,Win,6.16,0.67,5.48,0.42,88.8,1.84,0.33,2.58,W2
+Oct 6,Rochester Institute Of Technology,University of Pittsburgh,0,7,Loss,-1.93,2.69,-4.62,-0.491,15.1,1.93,4.31,0.491,W2
 Oct 6,Northern Michigan University,Central Michigan University,0,1,OT Loss,-1.15,-1.65,0.5,-0.144,36.9,1.15,1.65,1.144,W2
-Oct 6,Northeastern University,Bentley University,10,0,Win,6.45,-0.29,6.74,0.095,97.6,3.55,0.29,2.905,W2
-Oct 6,Miami University,Sault College,0,12,Loss,-0.74,2.3,-3.04,-0.001,0,0.74,9.7,0.001,W2
-Oct 6,Niagara University,West Virginia University ,6,1,Win,0.98,-0.12,1.1,0.142,96,5.02,1.12,2.858,W2
-Oct 6,University of Maryland,Georgetown University,8,1,Win,1.43,-0.22,1.65,0.055,98.5,6.57,1.22,2.945,W2
-Oct 6,West Chester University,Villanova University,2,16,Loss,1.49,7.61,-6.12,-0.002,0.1,0.51,8.39,0.002,W2
-Oct 6,Merrimack College,Saint Anselm College,2,3,OT Loss,1.32,0.2,1.12,0.297,21,0.68,1.8,0.703,W2
-Oct 6,Boston College,Assumption University,6,1,Win,3.33,0.36,2.97,0.364,89.7,2.67,0.64,2.636,W2
-Oct 10,Boston College,Harvard University,11,0,Win,7.42,-0.24,7.66,0.082,98,3.58,0.24,2.918,W2
-Oct 11,Adrian College,Sault College,0,12,Loss,-0.72,4.13,-4.85,-0.007,0.2,0.72,7.87,0.007,W2
-Oct 11,University of Iowa,University of Wisconsin Eau Claire,4,2,Win,-3.08,-2.39,-0.69,0.596,81.1,7.08,4.39,2.404,W2
-Oct 11,University of Pennsylvania,United States Naval Academy,1,5,Loss,0.56,1.23,-0.67,-0.112,2.9,0.44,3.77,0.112,W2
-Oct 11,Maryville University,Liberty University,3,0,Win,1.85,-1.76,3.61,1.926,34.4,1.15,1.76,1.074,W2
-Oct 12,Michigan State University,Bowling Green State University,3,3,Tie,-1.83,0.25,-2.08,-0.841,79.2,4.83,2.75,2.341,W2
-Oct 12,Adrian College,Sault College,0,4,Loss,-0.72,-3.87,3.15,-0.007,0.2,0.72,7.87,0.007,W2
-Oct 12,Maryville University,Liberty University,4,6,Loss,2.85,4.24,-1.39,-1.074,34.4,1.15,1.76,1.074,W2
-Oct 12,University of Wisconsin,University of Wisconsin LaCrosse,6,1,Win,-5.4,-2.02,-3.38,0.001,100,11.4,3.02,2.999,W2
-Oct 12,University of Iowa,University of Wisconsin Eau Claire,1,0,OT Win,-7.08,-4.39,-2.69,-0.404,81.1,7.08,4.39,2.404,W2
-Oct 12,University of Delaware,Northeastern University,0,6,Loss,-0.74,3.19,-3.93,-0.377,10.8,0.74,2.81,0.377,W2
-Oct 12,Aurora University,Hope College,18,0,Win,7.18,-0.28,7.47,0,100,10.82,0.28,3,W2
-Oct 12,Iowa State University,University of Saint Thomas,1,5,Loss,-3.85,-4.81,0.96,-0.16,4.9,4.85,9.81,0.16,W2
-Oct 12,University of Minnesota Duluth,North Dakota State University,3,0,Win,-4.78,-6.37,1.59,1.006,67.1,7.78,6.37,1.994,W2
+Oct 6,Northeastern University,Bentley University,10,0,Win,6.44,-0.29,6.73,0.094,97.7,3.56,0.29,2.906,W2
+Oct 6,Miami University,Sault College,0,12,Loss,-0.74,2.27,-3.01,-0.001,0,0.74,9.73,0.001,W2
+Oct 6,Niagara University,West Virginia University ,6,1,Win,0.93,-0.12,1.06,0.138,96.1,5.07,1.12,2.862,W2
+Oct 6,University of Maryland,Georgetown University,8,1,Win,1.39,-0.23,1.62,0.054,98.5,6.61,1.23,2.946,W2
+Oct 6,West Chester University,Villanova University,2,16,Loss,1.49,7.57,-6.09,-0.002,0,0.51,8.43,0.002,W2
+Oct 6,Merrimack College,Saint Anselm College,2,3,OT Loss,1.31,0.2,1.11,0.295,21.1,0.69,1.8,0.705,W2
+Oct 6,Boston College,Assumption University,6,1,Win,3.32,0.36,2.95,0.359,89.9,2.68,0.64,2.641,W2
+Oct 10,Boston College,Harvard University,11,0,Win,7.4,-0.24,7.64,0.08,98.1,3.6,0.24,2.92,W2
+Oct 11,Adrian College,Sault College,0,12,Loss,-0.72,4.11,-4.83,-0.007,0.2,0.72,7.89,0.007,W2
+Oct 11,University of Iowa,University of Wisconsin Eau Claire,4,2,Win,-3.03,-2.45,-0.58,0.626,80.1,7.03,4.45,2.374,W2
+Oct 11,University of Pennsylvania,United States Naval Academy,1,5,Loss,0.56,1.21,-0.65,-0.111,2.9,0.44,3.79,0.111,W2
+Oct 11,Maryville University,Liberty University,3,0,Win,1.83,-1.75,3.58,1.903,35.3,1.17,1.75,1.097,W2
+Oct 12,Michigan State University,Bowling Green State University,3,3,Tie,-1.84,0.24,-2.09,-0.842,79.2,4.84,2.76,2.342,W2
+Oct 12,Adrian College,Sault College,0,4,Loss,-0.72,-3.89,3.17,-0.007,0.2,0.72,7.89,0.007,W2
+Oct 12,Maryville University,Liberty University,4,6,Loss,2.83,4.25,-1.42,-1.097,35.3,1.17,1.75,1.097,W2
+Oct 12,University of Wisconsin,University of Wisconsin LaCrosse,6,1,Win,-5.04,-2.56,-2.48,0.008,99.8,11.04,3.56,2.992,W2
+Oct 12,University of Iowa,University of Wisconsin Eau Claire,1,0,OT Win,-7.03,-4.45,-2.58,-0.374,80.1,7.03,4.45,2.374,W2
+Oct 12,University of Delaware,Northeastern University,0,6,Loss,-0.74,3.18,-3.92,-0.375,10.7,0.74,2.82,0.375,W2
+Oct 12,Aurora University,Hope College,18,0,Win,7.15,-0.28,7.43,0,100,10.85,0.28,3,W2
+Oct 12,Iowa State University,University of Saint Thomas,1,5,Loss,-3.71,-4.95,1.24,-0.129,3.9,4.71,9.95,0.129,W2
+Oct 12,University of Minnesota Duluth,North Dakota State University,3,0,Win,-4.87,-6.41,1.55,0.992,67.6,7.87,6.41,2.008,W2
 Oct 12,Robert Morris University,Slippery Rock University,9,0,Win,NA,NA,NA,NA,NA,NA,NA,NA,W2
-Oct 13,University of Minnesota Duluth,North Dakota State University,3,4,OT Loss,-4.78,-3.37,-1.41,-0.994,67.1,7.78,6.37,1.994,W2
-Oct 13,Michigan State University,Bowling Green State University,5,3,Win,0.17,0.25,-0.08,0.659,79.2,4.83,2.75,2.341,W2
-Oct 13,University of Wisconsin,University of Wisconsin LaCrosse,3,0,Win,-8.4,-3.02,-5.38,0.001,100,11.4,3.02,2.999,W2
-Oct 13,Iowa State University,University of Saint Thomas,3,3,Tie,-1.85,-6.81,4.96,1.34,4.9,4.85,9.81,0.16,W2
-Oct 13,University of New Hampshire,University of Vermont,0,1,Loss,-0.6,0.12,-0.72,-1.23,39.4,0.6,0.88,1.23,W2
-Oct 13,University of Delaware,Northeastern University,1,3,Loss,0.26,0.19,0.07,-0.377,10.8,0.74,2.81,0.377,W2
-Oct 15,Boston University,Boston College,2,3,Loss,1.2,1.94,-0.74,-1.274,41.4,0.8,1.06,1.274,W2
-Oct 18,Liberty University,Rowan University,2,0,Win,-0.57,-0.99,0.42,0.581,82.5,2.57,0.99,2.419,W2
-Oct 18,United States Naval Academy,United States Air Force Academy,12,1,Win,8.74,0.65,8.09,0.14,96.4,3.26,0.35,2.86,W2
-Oct 18,Augustana University,Lake Region State College,3,4,Loss,-5.54,-3.99,-1.55,-1.705,57.1,8.54,7.99,1.705,W2
+Oct 13,University of Minnesota Duluth,North Dakota State University,3,4,OT Loss,-4.87,-3.41,-1.45,-1.008,67.6,7.87,6.41,2.008,W2
+Oct 13,Michigan State University,Bowling Green State University,5,3,Win,0.16,0.24,-0.09,0.658,79.2,4.84,2.76,2.342,W2
+Oct 13,University of Wisconsin,University of Wisconsin LaCrosse,3,0,Win,-8.04,-3.56,-4.48,0.008,99.8,11.04,3.56,2.992,W2
+Oct 13,Iowa State University,University of Saint Thomas,3,3,Tie,-1.71,-6.95,5.24,1.371,3.9,4.71,9.95,0.129,W2
+Oct 13,University of New Hampshire,University of Vermont,0,1,Loss,-0.6,0.12,-0.72,-1.231,39.4,0.6,0.88,1.231,W2
+Oct 13,University of Delaware,Northeastern University,1,3,Loss,0.26,0.18,0.08,-0.375,10.7,0.74,2.82,0.375,W2
+Oct 15,Boston University,Boston College,2,3,Loss,1.2,1.94,-0.74,-1.273,41.3,0.8,1.06,1.273,W2
+Oct 18,Liberty University,Rowan University,2,0,Win,-0.59,-0.99,0.39,0.573,82.8,2.59,0.99,2.427,W2
+Oct 18,United States Naval Academy,United States Air Force Academy,12,1,Win,8.73,0.65,8.08,0.14,96.4,3.27,0.35,2.86,W2
+Oct 18,Augustana University,Lake Region State College,3,4,Loss,-4.5,-2.84,-1.66,-1.735,58.1,7.5,6.84,1.735,W2
 Oct 18,Sacred Heart University,Boston College,0,6,Loss,-0.51,4.63,-5.15,-0.791,23.5,0.51,1.37,0.791,W2
-Oct 18,West Virginia University ,Brockport State University,2,1,Win,-0.58,-1.08,0.5,1.223,59.9,2.58,2.08,1.777,W2
-Oct 18,University Of Connecticut,Merrimack College,6,1,Win,4.71,0.41,4.3,0.91,72.2,1.29,0.59,2.09,W2
-Oct 18,Maryville University,Aurora University,0,2,Loss,-1.61,0.35,-1.96,-1.474,49.1,1.61,1.65,1.474,W2
-Oct 18,Georgetown University,University of Virginia,0,6,Loss,-2.04,1.2,-3.25,-0.417,12.7,2.04,4.8,0.417,W2
-Oct 18,University of Illinois,Hope College,10,0,Win,-0.24,-0.84,0.6,0,100,10.24,0.84,3,W2
-Oct 19,United States Naval Academy,United States Air Force Academy,12,0,Win,8.74,-0.35,9.09,0.14,96.4,3.26,0.35,2.86,W2
-Oct 19,Liberty University,Rowan University,5,2,Win,2.43,1.01,1.42,0.581,82.5,2.57,0.99,2.419,W2
-Oct 19,Augustana University,Lake Region State College,1,5,Loss,-7.54,-2.99,-4.55,-1.705,57.1,8.54,7.99,1.705,W2
-Oct 19,University of Illinois,Hope College,14,0,Win,3.76,-0.84,4.6,0,100,10.24,0.84,3,W2
-Oct 19,Mercyhurst University,Brockport State University,7,2,Win,1.64,0.82,0.82,0.123,96.5,5.36,1.18,2.877,W2
-Oct 19,University of Delaware,University of Pennsylvania,11,1,Win,8.11,0.41,7.7,0.288,92,2.89,0.59,2.712,W2
-Oct 19,Maryville University,Aurora University,6,5,Win,4.39,3.35,1.04,1.526,49.1,1.61,1.65,1.474,W2
-Oct 19,Central Michigan University,Adrian College,3,0,Win,-0.36,-0.97,0.61,0.346,90,3.36,0.97,2.654,W2
-Oct 19,Assumption University,Sacred Heart University,4,5,OT Loss,3.05,2.67,0.39,-0.193,38.5,0.95,1.33,1.193,W2
-Oct 19,Northern Michigan University,The Ohio State University,3,2,Win,1.89,-0.07,1.97,2.128,27.3,1.11,2.07,0.872,W2
-Oct 19,University of Saint Thomas,University of Minnesota Duluth,4,2,Win,-6.09,-2.19,-3.9,0.073,97.9,10.09,4.19,2.927,W2
-Oct 19,University of Wisconsin Eau Claire,University of Wisconsin,0,5,Loss,-3.66,-5.64,1.97,-0.02,0.6,3.66,10.64,0.02,W2
-Oct 19,University of Maryland,United States Air Force Academy,14,5,Win,11.81,4.18,7.64,0.628,81.2,2.19,0.82,2.372,W2
-Oct 19,West Chester University,Montclair State University,14,1,Win,10.64,0.04,10.59,0.34,90.1,3.36,0.96,2.66,W2
-Oct 19,Georgetown University,University of Virginia,1,4,Loss,-1.04,-0.8,-0.25,-0.417,12.7,2.04,4.8,0.417,W2
-Oct 20,University of Wisconsin Eau Claire,University of Wisconsin,0,9,Loss,-3.66,-1.64,-2.03,-0.02,0.6,3.66,10.64,0.02,W2
-Oct 20,University of Saint Thomas,University of Minnesota Duluth,7,2,Win,-3.09,-2.19,-0.9,0.073,97.9,10.09,4.19,2.927,W2
-Oct 20,Northern Michigan University,The Ohio State University,2,6,Loss,0.89,3.93,-3.03,-0.872,27.3,1.11,2.07,0.872,W2
-Oct 20,Boston University,University Of Connecticut,5,4,Win,3.85,3.38,0.47,1.035,67.7,1.15,0.62,1.965,W2
-Oct 20,Adrian College,Central Michigan University,0,4,Loss,-1,0.74,-1.75,-0.385,11.3,1,3.26,0.385,W2
-Oct 20,Saint Anselm College,Northeastern University,3,4,Loss,2.05,2.35,-0.3,-0.989,31.2,0.95,1.65,0.989,W2
-Oct 20,Sacred Heart University,Merrimack College,2,1,Win,0.86,0.41,0.45,1.009,68.8,1.14,0.59,1.991,W2
-Oct 20,Providence College,University of New Hampshire,1,2,Loss,0.02,1.35,-1.32,-1.798,61.5,0.98,0.65,1.798,W2
-Oct 23,Harvard University,Merrimack College,3,6,Loss,2.45,4.52,-2.07,-0.756,22.4,0.55,1.48,0.756,W2
-Oct 24,West Virginia University ,Liberty University,0,10,Loss,-0.56,5.49,-6.05,-0.082,2.2,0.56,4.51,0.082,W2
-Oct 25,Robert Morris University,Adrian College,0,1,Loss,-1.77,-2.3,0.53,-0.73,22.9,1.77,3.3,0.73,W2
-Oct 25,Niagara University,Liberty University,1,6,Loss,-0.23,3.72,-3.95,-0.853,26.8,1.23,2.28,0.853,W2
-Oct 25,Lake Region State College,North Dakota State University,4,7,Loss,-2.64,-1.95,-0.69,-0.711,22.9,6.64,8.95,0.711,W2
-Oct 25,West Virginia University ,University of Pittsburgh,2,6,Loss,0.31,3.4,-3.09,-0.982,31.5,1.69,2.6,0.982,W2
-Oct 25,University Of Connecticut,Bentley University,8,2,Win,6.06,1.64,4.43,0.415,88.8,1.94,0.36,2.585,W2
-Oct 25,Montclair State University,Army,3,13,Loss,2.63,11.44,-8.81,-0.566,15.7,0.37,1.56,0.566,W2
-Oct 25,Mercyhurst University,Rowan University,1,2,Loss,-1.64,-0.29,-1.35,-1.689,56.8,2.64,2.29,1.689,W2
-Oct 25,University of Illinois,Lawrence Technological University,5,6,Loss,3.51,2.05,1.45,-0.417,12.5,1.49,3.95,0.417,W2
-Oct 26,Liberty University,Robert Morris University,6,1,Win,2.02,0.28,1.74,0.161,95.6,3.98,0.72,2.839,W2
-Oct 26,University of Nebraska,University of Wisconsin Eau Claire,0,10,Loss,-1.89,-1.47,-0.42,-0,0,1.89,11.47,0,W2
-Oct 26,Rowan University,Niagara University,5,2,Win,2.9,-0.68,3.58,1.819,38.6,2.1,2.68,1.181,W2
-Oct 26,University of Vermont,University of New Hampshire,3,1,Win,2.09,0.42,1.67,1.185,62.3,0.91,0.58,1.815,W2
-Oct 26,University of Illinois,Lawrence Technological University,1,8,Loss,-0.49,4.05,-4.55,-0.417,12.5,1.49,3.95,0.417,W2
-Oct 26,Adrian College,Mercyhurst University,2,2,Tie,-0.28,-0.7,0.43,0.231,41.7,2.28,2.7,1.269,W2
-Oct 26,Eastern Michigan University,Northern Michigan University,4,1,Win,1.8,0.06,1.74,0.699,78.7,2.2,0.94,2.301,W2
-Oct 26,Villanova University,Sacred Heart University,3,5,Loss,1.58,4.04,-2.46,-1.855,63.2,1.42,0.96,1.855,W2
-Oct 26,Assumption University,University Of Connecticut,4,5,Loss,3.05,3.49,-0.44,-1.079,34.4,0.95,1.51,1.079,W2
-Oct 26,University of Pittsburgh,University of Maryland,1,5,Loss,-1.37,2.79,-4.15,-1.587,53.1,2.37,2.21,1.587,W2
-Oct 26,West Virginia University ,Rochester Institute Of Technology,4,2,Win,0.23,-0.52,0.76,0.922,70.3,3.77,2.52,2.078,W2
-Oct 26,Assiniboine College,Lake Region State College,6,0,Win,-5.15,-2.82,-2.33,0.002,100,11.15,2.82,2.998,W2
-Oct 26,Georgetown University,George Washington University,8,0,Win,-1.09,-2.01,0.92,0.019,99.5,9.09,2.01,2.981,W2
-Oct 27,Eastern Michigan University,Northern Michigan University,5,1,Win,2.8,0.06,2.74,0.699,78.7,2.2,0.94,2.301,W2
-Oct 27,Mercyhurst University,Liberty University,0,10,Loss,-1.17,7.43,-8.6,-0.69,21.2,1.17,2.57,0.69,W2
-Oct 27,Niagara University,Adrian College,5,3,Win,2.07,1.05,1.02,0.979,68.5,2.93,1.95,2.021,W2
-Oct 27,University of Virginia,University of North Carolina,12,2,Win,3.1,1.24,1.86,0.002,99.9,8.9,0.76,2.998,W2
-Oct 27,West Virginia University ,Rochester Institute Of Technology,2,2,Tie,-1.77,-0.52,-1.24,-0.578,70.3,3.77,2.52,2.078,W2
-Oct 27,Robert Morris University,Rowan University,5,6,OT Loss,3.33,1.56,1.77,0.364,19.7,1.67,3.44,0.636,W2
-Oct 27,University of Nebraska,University of Wisconsin Eau Claire,0,10,Loss,-1.89,-1.47,-0.42,-0,0,1.89,11.47,0,W2
-Oct 27,Harvard University,University Of Connecticut,8,8,Tie,7.64,5.97,1.67,1.119,10.2,0.36,2.03,0.381,W2
-Oct 27,Army,Sacred Heart University,1,10,Loss,0.81,8.24,-7.43,-0.345,8.5,0.19,1.76,0.345,W2
-Oct 27,College of the Holy Cross,University of New Hampshire,2,10,Loss,1.68,8.14,-6.46,-0.409,10.9,0.32,1.86,0.409,W2
-Oct 27,University of Pennsylvania,Villanova University,0,10,Loss,-0.43,5.74,-6.17,-0.075,1.9,0.43,4.26,0.075,W2
-Oct 27,Merrimack College,Northeastern University,1,4,Loss,0.51,1.71,-1.2,-0.383,10.6,0.49,2.29,0.383,W2
-Nov 1,United States Naval Academy,Villanova University,3,2,Win,1.3,0.11,1.19,1.619,45.7,1.7,1.89,1.381,W2
-Nov 1,Central Michigan University,Aurora University,3,0,Win,1.03,-1.06,2.08,0.89,72.1,1.97,1.06,2.11,W2
-Nov 1,University of Delaware,Rowan University,3,1,Win,1.11,-1.1,2.21,1.625,45.5,1.89,2.1,1.375,W2
-Nov 1,University of Maryland,West Chester University,14,0,Win,8.4,-1.17,9.58,0.103,97.1,5.6,1.17,2.897,W2
-Nov 2,United States Naval Academy,University of Delaware,4,1,Win,1.59,-0.24,1.83,0.797,75.1,2.41,1.24,2.203,W2
-Nov 2,Central Michigan University,Aurora University,2,2,Tie,0.03,0.94,-0.92,-0.61,72.1,1.97,1.06,2.11,W2
-Nov 2,Saint Anselm College,Boston College,2,1,Win,1.17,-0.54,1.71,2.037,30.1,0.83,1.54,0.963,W2
-Nov 2,Lawrence Technological University,University of Notre Dame,6,0,Win,3.44,-1.29,4.72,0.76,76.3,2.56,1.29,2.24,W2
-Nov 2,Assumption University,Harvard University,14,6,Win,11.6,5.36,6.25,0.441,87.4,2.4,0.64,2.559,W2
-Nov 2,Robert Morris University,University of Pittsburgh,5,1,Win,2.76,-1.22,3.99,1.491,50.3,2.24,2.22,1.509,W2
-Nov 2,West Chester University,Mercyhurst University,2,7,Loss,1.21,-0.9,2.11,-0.008,0.2,0.79,7.9,0.008,W2
-Nov 2,Liberty University,Villanova University,3,0,Win,1.29,-1.24,2.53,1.17,62.1,1.71,1.24,1.83,W2
-Nov 2,Worcester Polytechnic Institute,Sacred Heart University,1,15,Loss,0.73,11.77,-11.04,-0.119,2.9,0.27,3.23,0.119,W2
-Nov 3,United States Naval Academy,Liberty University,2,5,Loss,0.87,3.32,-2.45,-1.111,35.7,1.13,1.68,1.111,W2
-Nov 3,West Chester University,Mercyhurst University,1,10,Loss,0.21,2.1,-1.89,-0.008,0.2,0.79,7.9,0.008,W2
+Oct 18,West Virginia University ,Brockport State University,2,1,Win,-0.6,-1.1,0.5,1.221,60,2.6,2.1,1.779,W2
+Oct 18,University Of Connecticut,Merrimack College,6,1,Win,4.7,0.41,4.29,0.905,72.4,1.3,0.59,2.095,W2
+Oct 18,Maryville University,Aurora University,0,2,Loss,-1.63,0.37,-2,-1.502,50.1,1.63,1.63,1.502,W2
+Oct 18,Georgetown University,University of Virginia,0,6,Loss,-2.05,1.18,-3.23,-0.415,12.7,2.05,4.82,0.415,W2
+Oct 18,University of Illinois,Hope College,10,0,Win,-0.24,-0.85,0.61,0,100,10.24,0.85,3,W2
+Oct 19,United States Naval Academy,United States Air Force Academy,12,0,Win,8.73,-0.35,9.08,0.14,96.4,3.27,0.35,2.86,W2
+Oct 19,Liberty University,Rowan University,5,2,Win,2.41,1.01,1.39,0.573,82.8,2.59,0.99,2.427,W2
+Oct 19,Augustana University,Lake Region State College,1,5,Loss,-6.5,-1.84,-4.66,-1.735,58.1,7.5,6.84,1.735,W2
+Oct 19,University of Illinois,Hope College,14,0,Win,3.76,-0.85,4.61,0,100,10.24,0.85,3,W2
+Oct 19,Mercyhurst University,Brockport State University,7,2,Win,1.6,0.81,0.79,0.12,96.6,5.4,1.19,2.88,W2
+Oct 19,University of Delaware,University of Pennsylvania,11,1,Win,8.09,0.41,7.68,0.284,92.2,2.91,0.59,2.716,W2
+Oct 19,Maryville University,Aurora University,6,5,Win,4.37,3.37,1,1.498,50.1,1.63,1.63,1.502,W2
+Oct 19,Central Michigan University,Adrian College,3,0,Win,-0.39,-0.97,0.59,0.342,90.1,3.39,0.97,2.658,W2
+Oct 19,Assumption University,Sacred Heart University,4,5,OT Loss,3.05,2.66,0.39,-0.193,38.5,0.95,1.34,1.193,W2
+Oct 19,Northern Michigan University,The Ohio State University,3,2,Win,1.9,-0.07,1.97,2.13,27.2,1.1,2.07,0.87,W2
+Oct 19,University of Saint Thomas,University of Minnesota Duluth,4,2,Win,-6.17,-2.33,-3.84,0.075,97.8,10.17,4.33,2.925,W2
+Oct 19,University of Wisconsin Eau Claire,University of Wisconsin,0,5,Loss,-3.79,-5.79,2,-0.018,0.5,3.79,10.79,0.018,W2
+Oct 19,University of Maryland,United States Air Force Academy,14,5,Win,11.81,4.17,7.64,0.63,81.1,2.19,0.83,2.37,W2
+Oct 19,West Chester University,Montclair State University,14,1,Win,10.61,0.03,10.57,0.337,90.2,3.39,0.97,2.663,W2
+Oct 19,Georgetown University,University of Virginia,1,4,Loss,-1.05,-0.82,-0.23,-0.415,12.7,2.05,4.82,0.415,W2
+Oct 20,University of Wisconsin Eau Claire,University of Wisconsin,0,9,Loss,-3.79,-1.79,-2,-0.018,0.5,3.79,10.79,0.018,W2
+Oct 20,University of Saint Thomas,University of Minnesota Duluth,7,2,Win,-3.17,-2.33,-0.84,0.075,97.8,10.17,4.33,2.925,W2
+Oct 20,Northern Michigan University,The Ohio State University,2,6,Loss,0.9,3.93,-3.03,-0.87,27.2,1.1,2.07,0.87,W2
+Oct 20,Boston University,University Of Connecticut,5,4,Win,3.85,3.38,0.47,1.033,67.8,1.15,0.62,1.967,W2
+Oct 20,Adrian College,Central Michigan University,0,4,Loss,-1.01,0.73,-1.74,-0.384,11.2,1.01,3.27,0.384,W2
+Oct 20,Saint Anselm College,Northeastern University,3,4,Loss,2.05,2.35,-0.3,-0.988,31.2,0.95,1.65,0.988,W2
+Oct 20,Sacred Heart University,Merrimack College,2,1,Win,0.85,0.41,0.44,1.004,68.9,1.15,0.59,1.996,W2
+Oct 20,Providence College,University of New Hampshire,1,2,Loss,0.02,1.35,-1.33,-1.801,61.6,0.98,0.65,1.801,W2
+Oct 23,Harvard University,Merrimack College,3,6,Loss,2.45,4.51,-2.06,-0.757,22.5,0.55,1.49,0.757,W2
+Oct 24,West Virginia University ,Liberty University,0,10,Loss,-0.57,5.44,-6.01,-0.08,2.1,0.57,4.56,0.08,W2
+Oct 25,Robert Morris University,Adrian College,0,1,Loss,-1.78,-2.33,0.55,-0.728,22.8,1.78,3.33,0.728,W2
+Oct 25,Niagara University,Liberty University,1,6,Loss,-0.23,3.71,-3.94,-0.849,26.6,1.23,2.29,0.849,W2
+Oct 25,Lake Region State College,North Dakota State University,4,7,Loss,-2.12,-1.33,-0.79,-0.752,24.2,6.12,8.33,0.752,W2
+Oct 25,West Virginia University ,University of Pittsburgh,2,6,Loss,0.3,3.37,-3.07,-0.975,31.2,1.7,2.63,0.975,W2
+Oct 25,University Of Connecticut,Bentley University,8,2,Win,6.06,1.64,4.42,0.413,88.9,1.94,0.36,2.587,W2
+Oct 25,Montclair State University,Army,3,13,Loss,2.63,11.43,-8.8,-0.562,15.6,0.37,1.57,0.562,W2
+Oct 25,Mercyhurst University,Rowan University,1,2,Loss,-1.65,-0.3,-1.35,-1.691,56.8,2.65,2.3,1.691,W2
+Oct 25,University of Illinois,Lawrence Technological University,5,6,Loss,3.52,1.98,1.53,-0.397,11.9,1.48,4.02,0.397,W2
+Oct 26,Liberty University,Robert Morris University,6,1,Win,1.97,0.28,1.69,0.155,95.8,4.03,0.72,2.845,W2
+Oct 26,University of Nebraska,University of Wisconsin Eau Claire,0,10,Loss,-1.91,-1.51,-0.39,-0,0,1.91,11.51,0,W2
+Oct 26,Rowan University,Niagara University,5,2,Win,2.89,-0.69,3.57,1.814,38.8,2.11,2.69,1.186,W2
+Oct 26,University of Vermont,University of New Hampshire,3,1,Win,2.09,0.42,1.67,1.181,62.5,0.91,0.58,1.819,W2
+Oct 26,University of Illinois,Lawrence Technological University,1,8,Loss,-0.48,3.98,-4.47,-0.397,11.9,1.48,4.02,0.397,W2
+Oct 26,Adrian College,Mercyhurst University,2,2,Tie,-0.29,-0.72,0.42,0.229,41.8,2.29,2.72,1.271,W2
+Oct 26,Eastern Michigan University,Northern Michigan University,4,1,Win,1.8,0.06,1.73,0.696,78.8,2.2,0.94,2.304,W2
+Oct 26,Villanova University,Sacred Heart University,3,5,Loss,1.58,4.04,-2.46,-1.853,63.1,1.42,0.96,1.853,W2
+Oct 26,Assumption University,University Of Connecticut,4,5,Loss,3.05,3.49,-0.44,-1.078,34.4,0.95,1.51,1.078,W2
+Oct 26,University of Wisconsin LaCrosse,Iowa State University,2,4,Loss,-4.93,-5.89,0.96,-0.504,15.8,6.93,9.89,0.504,W2
+Oct 26,University of Pittsburgh,University of Maryland,1,5,Loss,-1.39,2.78,-4.17,-1.597,53.5,2.39,2.22,1.597,W2
+Oct 26,West Virginia University ,Rochester Institute Of Technology,4,2,Win,0.19,-0.54,0.73,0.914,70.6,3.81,2.54,2.086,W2
+Oct 26,Assiniboine College,Lake Region State College,6,0,Win,-5.05,-2.68,-2.37,0.002,99.9,11.05,2.68,2.998,W2
+Oct 26,Georgetown University,George Washington University,8,0,Win,-1.14,-2.02,0.88,0.019,99.5,9.14,2.02,2.981,W2
+Oct 27,Eastern Michigan University,Northern Michigan University,5,1,Win,2.8,0.06,2.73,0.696,78.8,2.2,0.94,2.304,W2
+Oct 27,Mercyhurst University,Liberty University,0,10,Loss,-1.17,7.42,-8.59,-0.685,21,1.17,2.58,0.685,W2
+Oct 27,Niagara University,Adrian College,5,3,Win,2.04,1.04,1,0.972,68.8,2.96,1.96,2.028,W2
+Oct 27,University of Virginia,University of North Carolina,12,2,Win,3.07,1.24,1.83,0.002,99.9,8.93,0.76,2.998,W2
+Oct 27,University of Wisconsin LaCrosse,Iowa State University,4,3,Win,-2.93,-6.89,3.96,2.496,15.8,6.93,9.89,0.504,W2
+Oct 27,West Virginia University ,Rochester Institute Of Technology,2,2,Tie,-1.81,-0.54,-1.27,-0.586,70.6,3.81,2.54,2.086,W2
+Oct 27,Robert Morris University,Rowan University,5,6,OT Loss,3.32,1.53,1.79,0.369,19.6,1.68,3.47,0.631,W2
+Oct 27,University of Nebraska,University of Wisconsin Eau Claire,0,10,Loss,-1.91,-1.51,-0.39,-0,0,1.91,11.51,0,W2
+Oct 27,Harvard University,University Of Connecticut,8,8,Tie,7.64,5.97,1.68,1.12,10.2,0.36,2.03,0.38,W2
+Oct 27,Army,Sacred Heart University,1,10,Loss,0.81,8.24,-7.43,-0.344,8.5,0.19,1.76,0.344,W2
+Oct 27,College of the Holy Cross,University of New Hampshire,2,10,Loss,1.68,8.13,-6.45,-0.407,10.8,0.32,1.87,0.407,W2
+Oct 27,University of Pennsylvania,Villanova University,0,10,Loss,-0.43,5.72,-6.15,-0.074,1.9,0.43,4.28,0.074,W2
+Oct 27,Merrimack College,Northeastern University,1,4,Loss,0.51,1.71,-1.19,-0.382,10.6,0.49,2.29,0.382,W2
+Nov 1,United States Naval Academy,Villanova University,3,2,Win,1.29,0.11,1.18,1.613,45.9,1.71,1.89,1.387,W2
+Nov 1,Central Michigan University,Aurora University,3,0,Win,1.03,-1.06,2.09,0.892,72,1.97,1.06,2.108,W2
+Nov 1,University of Delaware,Rowan University,3,1,Win,1.1,-1.1,2.2,1.619,45.7,1.9,2.1,1.381,W2
+Nov 1,University of Maryland,West Chester University,14,0,Win,8.34,-1.18,9.53,0.1,97.2,5.66,1.18,2.9,W2
+Nov 2,United States Naval Academy,University of Delaware,4,1,Win,1.58,-0.24,1.82,0.792,75.3,2.42,1.24,2.208,W2
+Nov 2,Central Michigan University,Aurora University,2,2,Tie,0.03,0.94,-0.91,-0.608,72,1.97,1.06,2.108,W2
+Nov 2,Saint Anselm College,Boston College,2,1,Win,1.17,-0.54,1.71,2.04,30,0.83,1.54,0.96,W2
+Nov 2,Lawrence Technological University,University of Notre Dame,6,0,Win,3.42,-1.29,4.71,0.756,76.5,2.58,1.29,2.244,W2
+Nov 2,Assumption University,Harvard University,14,6,Win,11.59,5.36,6.23,0.438,87.5,2.41,0.64,2.562,W2
+Nov 2,Robert Morris University,University of Pittsburgh,5,1,Win,2.76,-1.24,4,1.499,50.1,2.24,2.24,1.501,W2
+Nov 2,West Chester University,Mercyhurst University,2,7,Loss,1.21,-0.93,2.14,-0.007,0.2,0.79,7.93,0.007,W2
+Nov 2,Liberty University,Villanova University,3,0,Win,1.27,-1.24,2.51,1.162,62.4,1.73,1.24,1.838,W2
+Nov 2,Worcester Polytechnic Institute,Sacred Heart University,1,15,Loss,0.73,11.76,-11.03,-0.118,2.9,0.27,3.24,0.118,W2
+Nov 3,United States Naval Academy,Liberty University,2,5,Loss,0.86,3.32,-2.45,-1.111,35.7,1.14,1.68,1.111,W2
+Nov 3,West Chester University,Mercyhurst University,1,10,Loss,0.21,2.07,-1.86,-0.007,0.2,0.79,7.93,0.007,W2
 Nov 3,University of New Hampshire,Boston University,1,2,Loss,0.44,0.95,-0.51,-1.052,32.7,0.56,1.05,1.052,W2
-Nov 3,University of Notre Dame,Lawrence Technological University,1,2,Loss,-0.33,-0.48,0.15,-0.823,25.8,1.33,2.48,0.823,W2
-Nov 3,Niagara University,Brockport State University,8,1,Win,2.39,-0.05,2.44,0.085,97.6,5.61,1.05,2.915,W2
-Nov 3,Villanova University,University of Delaware,4,0,Win,1.27,-1.22,2.49,0.656,79.9,2.73,1.22,2.344,W2
-Nov 3,Sacred Heart University,Bentley University,7,2,Win,5.29,1.64,3.65,0.495,86.5,1.71,0.36,2.505,W2
-Nov 3,University of North Carolina,Virginia Tech,0,7,Loss,-0.85,0.17,-1.02,-0.024,0.6,0.85,6.83,0.024,W2
-Nov 3,Harvard University,Northeastern University,1,13,Loss,0.72,9.29,-8.57,-0.082,2,0.28,3.71,0.082,W2
-Nov 3,College of the Holy Cross,University of Vermont,1,7,Loss,0.72,4.53,-3.81,-0.23,5.9,0.28,2.47,0.23,W2
-Nov 3,Providence College,University Of Connecticut,5,1,Win,3.96,0.25,3.71,1.243,59.8,1.04,0.75,1.757,W2
-Nov 4,Sacred Heart University,Saint Anselm College,0,1,Loss,-0.82,-0.15,-0.67,-1.223,39.5,0.82,1.15,1.223,W2
-Nov 8,Lake Region State College,Augustana University,1,4,Loss,-7.17,-4.36,-2.81,-1.427,47.5,8.17,8.36,1.427,W2
-Nov 8,North Dakota State University,Assiniboine College,1,6,Loss,-1.79,-4.03,2.24,-0.017,0.5,2.79,10.03,0.017,W2
-Nov 8,Lawrence Technological University,Sault College,1,7,Loss,0.29,0.8,-0.52,-0.03,0.8,0.71,6.2,0.03,W2
-Nov 8,Central Michigan University,Bowling Green State University,4,0,Win,-0.52,-0.98,0.46,0.163,95.4,4.52,0.98,2.837,W2
-Nov 8,Northeastern University,Boston College,3,1,Win,1.94,-0.09,2.03,1.526,49,1.06,1.09,1.474,W2
-Nov 8,University of Minnesota Duluth,Iowa State University,3,4,Loss,-4.67,-4.4,-0.27,-1.234,40.8,7.67,8.4,1.234,W2
-Nov 8,Hope College,Miami University,0,24,Loss,-0.72,13.35,-14.07,-0,0,0.72,10.65,0,W2
-Nov 8,University of Maryland,University of Delaware,5,4,OT Win,2.38,1.08,1.31,1.202,25.1,1.62,2.92,0.798,W2
-Nov 8,West Virginia University ,Mercyhurst University,2,6,Loss,0.69,1.37,-0.67,-0.229,6.6,1.31,4.63,0.229,W2
-Nov 8,Aurora University,Michigan State University,2,0,Win,-1.08,-2.04,0.97,0.964,69,3.08,2.04,2.036,W2
-Nov 9,Central Michigan University,Bowling Green State University,5,1,Win,0.48,0.02,0.46,0.163,95.4,4.52,0.98,2.837,W2
-Nov 9,Hope College,Miami University,0,30,Loss,-0.72,19.35,-20.07,-0,0,0.72,10.65,0,W2
-Nov 9,West Virginia University ,Mercyhurst University,4,3,Win,2.69,-1.63,4.33,2.771,6.6,1.31,4.63,0.229,W2
-Nov 9,Assiniboine College,University of Minnesota Duluth,3,0,Win,-7.23,-3.43,-3.8,0.028,99.2,10.23,3.43,2.972,W2
-Nov 9,Lawrence Technological University,Sault College,0,9,Loss,-0.71,2.8,-3.52,-0.03,0.8,0.71,6.2,0.03,W2
-Nov 9,Brockport State University,Robert Morris University,2,3,Loss,0.17,-0.3,0.47,-0.764,24.1,1.83,3.3,0.764,W2
-Nov 9,University of Wisconsin,University of Wisconsin Eau Claire,4,2,Win,-6.71,-1.54,-5.16,0.016,99.6,10.71,3.54,2.984,W2
-Nov 9,Rowan University,University of Delaware,3,1,Win,0.83,-0.83,1.66,1.297,57.3,2.17,1.83,1.703,W2
-Nov 9,North Dakota State University,Iowa State University,2,3,OT Loss,-4.28,-6.24,1.96,0.172,26.8,6.28,8.24,0.828,W2
-Nov 9,Lake Region State College,Augustana University,4,5,OT Loss,-4.17,-4.36,0.19,-0.427,47.5,8.17,8.36,1.427,W2
-Nov 9,Villanova University,United States Naval Academy,4,2,Win,2.05,0.35,1.7,1.307,57,1.95,1.65,1.693,W2
-Nov 9,Aurora University,Michigan State University,1,1,Tie,-2.08,-1.04,-1.03,-0.536,69,3.08,2.04,2.036,W2
-Nov 9,University of Saint Thomas,Dakota College at Bottineau,6,3,Win,0.83,-0.36,1.19,0.789,74.7,5.17,3.36,2.211,W2
-Nov 9,Maryville University,University of Wisconsin LaCrosse,3,0,Win,-6.64,-1.97,-4.67,0.009,99.7,9.64,1.97,2.991,W2
-Nov 9,George Washington University,Georgetown University,0,13,Loss,-2.08,4.07,-6.15,-0.025,0.7,2.08,8.93,0.025,W2
-Nov 10,University of Saint Thomas,Dakota College at Bottineau,8,5,Win,2.83,1.64,1.19,0.789,74.7,5.17,3.36,2.211,W2
-Nov 10,Iowa State University,Assiniboine College,0,6,Loss,-3.97,-3.97,-0,-0.068,2,3.97,9.97,0.068,W2
-Nov 10,Villanova University,United States Naval Academy,3,5,Loss,1.05,3.35,-2.3,-1.693,57,1.95,1.65,1.693,W2
-Nov 10,North Dakota State University,University of Minnesota Duluth,2,3,OT Loss,-4.55,-5.59,1.03,-0.134,37.3,6.55,7.59,1.134,W2
-Nov 10,University of Wisconsin,University of Wisconsin Eau Claire,7,0,Win,-3.71,-3.54,-0.16,0.016,99.6,10.71,3.54,2.984,W2
-Nov 10,University of Vermont,Boston University,0,1,Loss,-0.74,0.08,-0.83,-1.339,43.8,0.74,0.92,1.339,W2
-Nov 10,Adrian College,Bowling Green State University,1,2,OT Loss,-2.14,-1.27,-0.87,-0.942,65.7,3.14,2.27,1.942,W2
-Nov 10,Rochester Institute Of Technology,Robert Morris University,3,3,Tie,0.78,-1.81,2.58,1.025,14.6,2.22,4.81,0.475,W2
-Nov 10,Bentley University,University Of Connecticut,3,7,Loss,2.62,5.13,-2.5,-0.445,12.1,0.38,1.87,0.445,W2
-Nov 10,Maryville University,University of Wisconsin LaCrosse,5,1,Win,-4.64,-0.97,-3.67,0.009,99.7,9.64,1.97,2.991,W2
-Nov 10,University of Maryland,University of Pennsylvania,8,4,Win,5.39,3.01,2.38,0.57,82.9,2.61,0.99,2.43,W2
-Nov 10,Merrimack College,Assumption University,3,5,Loss,1.86,3.57,-1.71,-1.286,42.1,1.14,1.43,1.286,W2
-Nov 10,College of the Holy Cross,Providence College,0,11,Loss,-0.32,8.35,-8.67,-0.213,5.5,0.32,2.65,0.213,W2
-Nov 15,Liberty University,University of North Carolina,23,0,Win,11.98,-0.13,12.11,0,100,11.02,0.13,3,W2
-Nov 15,Georgetown University,Virginia Tech,1,5,Loss,-1.21,1.58,-2.79,-0.906,29,2.21,3.42,0.906,W2
-Nov 15,Mercyhurst University,University of Maryland,10,1,Win,5.79,-0.71,6.49,0.433,86.9,4.21,1.71,2.567,W2
-Nov 15,University of Delaware,Niagara University,1,5,Loss,-0.73,2.47,-3.2,-1.04,33.5,1.73,2.53,1.04,W2
-Nov 15,Iowa State University,University of Wisconsin,1,2,Loss,-3.84,-7.68,3.84,-0.178,5.4,4.84,9.68,0.178,W2
-Nov 15,Lawrence Technological University,Miami University,2,1,OT Win,-2.38,-0.76,-1.63,-0.305,78.3,3.38,1.76,2.305,W2
-Nov 15,West Chester University,West Virginia University ,4,9,Loss,2.62,4.97,-2.35,-0.355,10.5,1.38,4.03,0.355,W2
-Nov 15,Bowling Green State University,University of Pittsburgh,3,5,Loss,0.04,2.96,-2.92,-1.988,67.3,2.96,2.04,1.988,W2
-Nov 15,Aurora University,The Ohio State University,4,4,Tie,2.95,1.6,1.35,0.813,21,1.05,2.4,0.687,W2
-Nov 15,University of Illinois,Adrian College,3,4,Loss,1.01,0.04,0.97,-0.613,19.1,1.99,3.96,0.613,W2
-Nov 16,Saint Anselm College,Harvard University,20,6,Win,16.98,5.61,11.37,0.183,95.2,3.02,0.39,2.817,W2
-Nov 16,Liberty University,Georgetown University,9,0,Win,0.14,-0.34,0.49,0.001,100,8.86,0.34,2.999,W2
-Nov 16,Robert Morris University,University of Delaware,5,7,Loss,3.42,4.16,-0.75,-0.814,25.7,1.58,2.84,0.814,W2
-Nov 16,George Washington University,University of Virginia,0,13,Loss,-1.37,2.41,-3.78,-0,0,1.37,10.59,0,W2
-Nov 16,Mercyhurst University,United States Naval Academy,2,4,Loss,0.22,1.45,-1.24,-1.064,34.4,1.78,2.55,1.064,W2
-Nov 16,Bowling Green State University,University of Pittsburgh,2,1,Win,-0.96,-1.04,0.08,1.012,67.3,2.96,2.04,1.988,W2
-Nov 16,Lawrence Technological University,Miami University,1,1,Tie,-2.38,-0.76,-1.63,-0.805,78.3,3.38,1.76,2.305,W2
-Nov 16,Iowa State University,University of Wisconsin,1,6,Loss,-3.84,-3.68,-0.16,-0.178,5.4,4.84,9.68,0.178,W2
-Nov 16,University of Iowa,Augustana University,3,4,OT Loss,-3.87,-0.64,-3.23,-1.56,86.3,6.87,3.64,2.56,W2
-Nov 16,University of Maryland,Niagara University,0,6,Loss,-1.56,1.72,-3.29,-0.368,11,1.56,4.28,0.368,W2
-Nov 16,Assumption University,University of Vermont,2,7,Loss,1.22,5.25,-4.03,-0.805,24.6,0.78,1.75,0.805,W2
-Nov 16,Eastern Michigan University,Central Michigan University,6,5,Win,4.14,3.82,0.31,1.036,66.9,1.86,1.18,1.964,W2
-Nov 16,Aurora University,The Ohio State University,0,3,Loss,-1.05,0.6,-1.65,-0.687,21,1.05,2.4,0.687,W2
-Nov 16,Northern Michigan University,Michigan State University,2,2,Tie,-1.23,0.24,-1.47,-0.746,76.3,3.23,1.76,2.246,W2
-Nov 16,University Of Connecticut,Northeastern University,2,3,Loss,1.34,1.53,-0.19,-0.859,26.2,0.66,1.47,0.859,W2
-Nov 16,Liberty University,West Virginia University ,4,0,Win,-0.66,-0.55,-0.12,0.07,98.2,4.66,0.55,2.93,W2
-Nov 16,Maryville University,Adrian College,2,3,Loss,-0.74,1.49,-2.23,-2.185,74.3,2.74,1.51,2.185,W2
-Nov 16,University of Virginia,Virginia Tech,4,3,Win,0.45,0.74,-0.29,0.88,71.8,3.55,2.26,2.12,W2
-Nov 16,University of Saint Thomas,Assiniboine College,3,2,Win,-2.66,-4.86,2.2,1.929,35.1,5.66,6.86,1.071,W2
-Nov 17,Niagara University,United States Naval Academy,2,3,OT Loss,0.13,-0.26,0.39,-0.27,41.7,1.87,2.26,1.27,W2
-Nov 17,Northern Michigan University,Michigan State University,1,1,Tie,-2.23,-0.76,-1.47,-0.746,76.3,3.23,1.76,2.246,W2
-Nov 17,University of Saint Thomas,Assiniboine College,0,1,Loss,-5.66,-5.86,0.2,-1.071,35.1,5.66,6.86,1.071,W2
-Nov 17,West Chester University,Virginia Tech,7,2,Win,4.87,-0.88,5.75,1.899,35.8,2.13,2.88,1.101,W2
-Nov 17,Mercyhurst University,University of Delaware,6,2,Win,3.51,0.11,3.39,1.154,62.4,2.49,1.89,1.846,W2
-Nov 17,University of Iowa,Augustana University,3,4,OT Loss,-3.87,-0.64,-3.23,-1.56,86.3,6.87,3.64,2.56,W2
-Nov 17,Robert Morris University,University of Maryland,4,1,Win,1.33,-1.56,2.89,1.443,52,2.67,2.56,1.557,W2
-Nov 17,George Washington University,University of North Carolina,9,6,Win,4.74,2.07,2.67,1.36,54.9,4.26,3.93,1.64,W2
-Nov 17,Maryville University,Adrian College,0,1,Loss,-2.74,-0.51,-2.23,-2.185,74.3,2.74,1.51,2.185,W2
-Nov 17,University of New Hampshire,Saint Anselm College,1,3,Loss,0.18,1.91,-1.72,-1.261,40.9,0.82,1.09,1.261,W2
-Nov 17,Sacred Heart University,Army,11,2,Win,9.18,1.82,7.36,0.324,92.1,1.82,0.18,2.676,W2
-Nov 17,Liberty University,University of Virginia,11,2,Win,4.47,1.45,3.02,0.015,99.6,6.53,0.55,2.985,W2
-Nov 17,Harvard University,Boston University,1,10,Loss,0.72,7.2,-6.48,-0.172,4.3,0.28,2.8,0.172,W2
-Nov 17,College of the Holy Cross,Northeastern University,0,7,Loss,-0.27,3.1,-3.37,-0.067,1.7,0.27,3.9,0.067,W2
-Nov 17,Providence College,Assumption University,1,3,Loss,-0.94,2.15,-3.09,-2.241,76.8,1.94,0.85,2.241,W2
-Nov 17,University Of Connecticut,Boston College,4,5,Loss,3.42,3.62,-0.2,-0.846,25.6,0.58,1.38,0.846,W2
-Nov 22,Loyola University Maryland,Montclair State University,3,11,Loss,1.48,7.76,-6.28,-0.63,19.5,1.52,3.24,0.63,W2
-Nov 22,Rowan University,Liberty University,1,3,Loss,-0.02,0.51,-0.53,-0.631,19.1,1.02,2.49,0.631,W2
-Nov 22,Villanova University,Brockport State University,9,1,Win,3.17,0.23,2.93,0.044,98.8,5.83,0.77,2.956,W2
-Nov 22,Aurora University,Bowling Green State University,2,1,Win,-1.42,-0.33,-1.08,0.487,85.3,3.42,1.33,2.513,W2
-Nov 23,Michigan State University,Adrian College,3,1,Win,-0.6,-1.73,1.13,1.09,64.5,3.6,2.73,1.91,W2
-Nov 23,Saint Anselm College,Providence College,0,2,Loss,-1.11,0.88,-1.99,-1.49,49.6,1.11,1.12,1.49,W2
-Nov 23,Liberty University,University of Maryland,3,0,Win,-1.1,-0.74,-0.37,0.151,95.8,4.1,0.74,2.849,W2
-Nov 23,Loyola University Maryland,Brockport State University,1,10,Loss,0.3,0.12,0.18,-0,0,0.7,9.88,0,W2
-Nov 23,Lawrence Technological University,Central Michigan University,1,9,Loss,0,6.56,-6.56,-0.639,19.3,1,2.44,0.639,W2
-Nov 23,Villanova University,University of Pennsylvania,12,3,Win,7.59,2.58,5.01,0.065,98.3,4.41,0.42,2.935,W2
-Nov 23,Assiniboine College,University of Wisconsin Eau Claire,4,0,Win,-6.86,-2.9,-3.96,0.005,99.9,10.86,2.9,2.995,W2
-Nov 23,Rochester Institute Of Technology,Niagara University,3,10,Loss,1.69,2.41,-0.73,-0.029,0.8,1.31,7.59,0.029,W2
-Nov 23,Aurora University,Bowling Green State University,2,2,Tie,-1.42,0.67,-2.08,-1.013,85.3,3.42,1.33,2.513,W2
-Nov 23,University of Notre Dame,Hope College,23,0,Win,13.14,-0.53,13.67,0,100,9.86,0.53,3,W2
-Nov 23,Robert Morris University,Mercyhurst University,1,4,Loss,-0.73,0.04,-0.77,-0.505,15.4,1.73,3.96,0.505,W2
-Nov 24,Assiniboine College,University of Wisconsin Eau Claire,4,0,Win,-6.86,-2.9,-3.96,0.005,99.9,10.86,2.9,2.995,W2
-Nov 24,Brockport State University,West Chester University,7,4,Win,3.1,2.5,0.6,0.429,87.1,3.9,1.5,2.571,W2
-Nov 24,Rowan University,University of Maryland,5,3,Win,1.34,1.35,-0.01,0.558,82.9,3.66,1.65,2.442,W2
-Nov 24,Central Michigan University,Lawrence Technological University,6,5,OT Win,2.48,4.03,-1.55,-0.411,82.3,2.52,0.97,2.411,W2
-Nov 24,Sacred Heart University,Assumption University,6,1,Win,4.62,0.08,4.54,1.137,63.6,1.38,0.92,1.863,W2
-Nov 24,Virginia Tech,University of North Carolina,7,0,Win,-0.02,-0.82,0.8,0.019,99.5,7.02,0.82,2.981,W2
-Nov 24,Adrian College,Michigan State University,2,3,OT Loss,-0.82,-1.48,0.66,-0.185,38.9,2.82,3.48,1.185,W2
-Nov 24,Mercyhurst University,Niagara University,3,1,Win,0.58,-1.77,2.35,1.687,43.3,2.42,2.77,1.313,W2
-Nov 30,Sault College,Niagara University,10,1,Win,2.78,0.13,2.65,0.018,99.5,7.22,0.87,2.982,W2
-Dec 1,Sault College,Niagara University,3,2,Win,-4.22,1.13,-5.35,0.018,99.5,7.22,0.87,2.982,W2
-Dec 6,Robert Morris University,West Chester University,5,1,Win,-0.48,-0.14,-0.34,0.107,97,5.48,1.14,2.893,W2
-Dec 6,Niagara University,Central Michigan University,1,5,Loss,-0.26,2.19,-2.45,-0.645,19.8,1.26,2.81,0.645,W2
-Dec 6,Aurora University,Maryville University,2,3,Loss,0.3,1.44,-1.15,-1.597,53.5,1.7,1.56,1.597,W2
-Dec 7,University of Pennsylvania,University of Delaware,0,2,Loss,-0.61,-0.8,0.19,-0.317,8.8,0.61,2.8,0.317,W2
-Dec 7,University of Vermont,Sacred Heart University,2,1,Win,1.04,0.41,0.63,1.15,63.6,0.96,0.59,1.85,W2
-Dec 7,Robert Morris University,West Chester University,6,1,Win,0.52,-0.14,0.66,0.107,97,5.48,1.14,2.893,W2
-Dec 7,Mercyhurst University,Central Michigan University,3,5,Loss,1.8,1.82,-0.03,-0.496,14.9,1.2,3.18,0.496,W2
-Dec 7,University of Wisconsin,Dakota College at Bottineau,5,3,Win,-0,-0.36,0.36,0.843,72.9,5,3.36,2.157,W2
-Dec 7,University of Saint Thomas,North Dakota State University,7,1,Win,-2.99,-2.3,-0.69,0.033,99,9.99,3.3,2.967,W2
-Dec 7,Aurora University,Maryville University,3,1,Win,1.3,-0.56,1.85,1.403,53.5,1.7,1.56,1.597,W2
-Dec 7,University of Notre Dame,Adrian College,0,1,Loss,-1.77,-1.49,-0.28,-1.087,35.2,1.77,2.49,1.087,W2
-Dec 7,University of Maryland,Rowan University,3,2,OT Win,0.29,-1.54,1.83,1.381,19.2,1.71,3.54,0.619,W2
-Dec 8,University of Saint Thomas,North Dakota State University,2,1,Win,-7.99,-2.3,-5.69,0.033,99,9.99,3.3,2.967,W2
+Nov 3,University of Notre Dame,Lawrence Technological University,1,2,Loss,-0.34,-0.49,0.15,-0.824,25.8,1.34,2.49,0.824,W2
+Nov 3,Niagara University,Brockport State University,8,1,Win,2.34,-0.05,2.4,0.083,97.7,5.66,1.05,2.917,W2
+Nov 3,Villanova University,University of Delaware,4,0,Win,1.26,-1.22,2.48,0.653,80,2.74,1.22,2.347,W2
+Nov 3,Sacred Heart University,Bentley University,7,2,Win,5.28,1.64,3.65,0.493,86.5,1.72,0.36,2.507,W2
+Nov 3,University of North Carolina,Virginia Tech,0,7,Loss,-0.86,0.15,-1,-0.023,0.6,0.86,6.85,0.023,W2
+Nov 3,Harvard University,Northeastern University,1,13,Loss,0.72,9.27,-8.56,-0.081,2,0.28,3.73,0.081,W2
+Nov 3,College of the Holy Cross,University of Vermont,1,7,Loss,0.72,4.52,-3.81,-0.229,5.8,0.28,2.48,0.229,W2
+Nov 3,Providence College,University Of Connecticut,5,1,Win,3.96,0.25,3.71,1.243,59.9,1.04,0.75,1.757,W2
+Nov 4,Sacred Heart University,Saint Anselm College,0,1,Loss,-0.83,-0.15,-0.68,-1.227,39.7,0.83,1.15,1.227,W2
+Nov 8,Lake Region State College,Augustana University,1,4,Loss,-6.05,-3.29,-2.76,-1.415,47.1,7.05,7.29,1.415,W2
+Nov 8,North Dakota State University,Assiniboine College,1,6,Loss,-1.92,-4.17,2.24,-0.017,0.5,2.92,10.17,0.017,W2
+Nov 8,Lawrence Technological University,Sault College,1,7,Loss,0.28,0.77,-0.49,-0.029,0.8,0.72,6.23,0.029,W2
+Nov 8,Central Michigan University,Bowling Green State University,4,0,Win,-0.52,-0.98,0.45,0.163,95.4,4.52,0.98,2.837,W2
+Nov 8,Northeastern University,Boston College,3,1,Win,1.94,-0.09,2.03,1.525,49,1.06,1.09,1.475,W2
+Nov 8,University of Minnesota Duluth,Iowa State University,3,4,Loss,-4.9,-4.16,-0.74,-1.405,46.7,7.9,8.16,1.405,W2
+Nov 8,Hope College,Miami University,0,24,Loss,-0.72,13.34,-14.06,-0,0,0.72,10.66,0,W2
+Nov 8,University of Maryland,University of Delaware,5,4,OT Win,2.38,1.06,1.31,1.204,25.1,1.62,2.94,0.796,W2
+Nov 8,West Virginia University ,Mercyhurst University,2,6,Loss,0.68,1.33,-0.65,-0.226,6.6,1.32,4.67,0.226,W2
+Nov 8,Aurora University,Michigan State University,2,0,Win,-1.09,-2.04,0.94,0.954,69.4,3.09,2.04,2.046,W2
+Nov 9,Central Michigan University,Bowling Green State University,5,1,Win,0.48,0.02,0.45,0.163,95.4,4.52,0.98,2.837,W2
+Nov 9,Hope College,Miami University,0,30,Loss,-0.72,19.34,-20.06,-0,0,0.72,10.66,0,W2
+Nov 9,West Virginia University ,Mercyhurst University,4,3,Win,2.68,-1.67,4.35,2.774,6.6,1.32,4.67,0.226,W2
+Nov 9,Assiniboine College,University of Minnesota Duluth,3,0,Win,-7.38,-3.63,-3.75,0.029,99.2,10.38,3.63,2.971,W2
+Nov 9,Lawrence Technological University,Sault College,0,9,Loss,-0.72,2.77,-3.49,-0.029,0.8,0.72,6.23,0.029,W2
+Nov 9,Brockport State University,Robert Morris University,2,3,Loss,0.14,-0.32,0.46,-0.769,24.2,1.86,3.32,0.769,W2
+Nov 9,University of Wisconsin,University of Wisconsin Eau Claire,4,2,Win,-6.86,-1.66,-5.2,0.014,99.6,10.86,3.66,2.986,W2
+Nov 9,Rowan University,University of Delaware,3,1,Win,0.82,-0.84,1.66,1.295,57.4,2.18,1.84,1.705,W2
+Nov 9,North Dakota State University,Iowa State University,2,3,OT Loss,-4.43,-5.94,1.51,0.027,31.8,6.43,7.94,0.973,W2
+Nov 9,Lake Region State College,Augustana University,4,5,OT Loss,-3.05,-3.29,0.24,-0.415,47.1,7.05,7.29,1.415,W2
+Nov 9,Villanova University,United States Naval Academy,4,2,Win,2.04,0.35,1.69,1.306,57.1,1.96,1.65,1.694,W2
+Nov 9,Aurora University,Michigan State University,1,1,Tie,-2.09,-1.04,-1.06,-0.546,69.4,3.09,2.04,2.046,W2
+Nov 9,University of Saint Thomas,Dakota College at Bottineau,6,3,Win,0.74,-0.58,1.32,0.844,72.8,5.26,3.58,2.156,W2
+Nov 9,Maryville University,University of Wisconsin LaCrosse,3,0,Win,-5.26,-2.14,-3.12,0.05,98.6,8.26,2.14,2.95,W2
+Nov 9,George Washington University,Georgetown University,0,13,Loss,-2.1,4.03,-6.13,-0.025,0.7,2.1,8.97,0.025,W2
+Nov 10,University of Saint Thomas,Dakota College at Bottineau,8,5,Win,2.74,1.42,1.32,0.844,72.8,5.26,3.58,2.156,W2
+Nov 10,Iowa State University,Assiniboine College,0,6,Loss,-3.95,-4.18,0.23,-0.052,1.5,3.95,10.18,0.052,W2
+Nov 10,Villanova University,United States Naval Academy,3,5,Loss,1.04,3.35,-2.31,-1.694,57.1,1.96,1.65,1.694,W2
+Nov 10,North Dakota State University,University of Minnesota Duluth,2,3,OT Loss,-4.62,-5.66,1.04,-0.132,37.2,6.62,7.66,1.132,W2
+Nov 10,University of Wisconsin,University of Wisconsin Eau Claire,7,0,Win,-3.86,-3.66,-0.2,0.014,99.6,10.86,3.66,2.986,W2
+Nov 10,University of Vermont,Boston University,0,1,Loss,-0.74,0.08,-0.83,-1.341,43.8,0.74,0.92,1.341,W2
+Nov 10,Adrian College,Bowling Green State University,1,2,OT Loss,-2.15,-1.28,-0.86,-0.939,65.6,3.15,2.28,1.939,W2
+Nov 10,Rochester Institute Of Technology,Robert Morris University,3,3,Tie,0.75,-1.84,2.6,1.026,14.6,2.25,4.84,0.474,W2
+Nov 10,Bentley University,University Of Connecticut,3,7,Loss,2.62,5.12,-2.5,-0.445,12.1,0.38,1.88,0.445,W2
+Nov 10,Maryville University,University of Wisconsin LaCrosse,5,1,Win,-3.26,-1.14,-2.12,0.05,98.6,8.26,2.14,2.95,W2
+Nov 10,University of Maryland,University of Pennsylvania,8,4,Win,5.37,3,2.37,0.566,83,2.63,1,2.434,W2
+Nov 10,Merrimack College,Assumption University,3,5,Loss,1.85,3.57,-1.72,-1.289,42.2,1.15,1.43,1.289,W2
+Nov 10,College of the Holy Cross,Providence College,0,11,Loss,-0.32,8.34,-8.66,-0.211,5.4,0.32,2.66,0.211,W2
+Nov 15,Liberty University,University of North Carolina,23,0,Win,11.97,-0.13,12.1,0,100,11.03,0.13,3,W2
+Nov 15,Georgetown University,Virginia Tech,1,5,Loss,-1.22,1.56,-2.78,-0.903,29,2.22,3.44,0.903,W2
+Nov 15,Mercyhurst University,University of Maryland,10,1,Win,5.76,-0.72,6.47,0.429,87,4.24,1.72,2.571,W2
+Nov 15,University of Delaware,Niagara University,1,5,Loss,-0.74,2.46,-3.21,-1.047,33.8,1.74,2.54,1.047,W2
+Nov 15,Iowa State University,University of Wisconsin,1,2,Loss,-3.57,-8.02,4.44,-0.108,3.2,4.57,10.02,0.108,W2
+Nov 15,Lawrence Technological University,Miami University,2,1,OT Win,-2.41,-0.76,-1.65,-0.314,78.6,3.41,1.76,2.314,W2
+Nov 15,West Chester University,West Virginia University ,4,9,Loss,2.6,4.94,-2.34,-0.356,10.6,1.4,4.06,0.356,W2
+Nov 15,Bowling Green State University,University of Pittsburgh,3,5,Loss,0.02,2.96,-2.94,-1.993,67.5,2.98,2.04,1.993,W2
+Nov 15,Aurora University,The Ohio State University,4,4,Tie,2.95,1.61,1.33,0.807,21.2,1.05,2.39,0.693,W2
+Nov 15,University of Illinois,Adrian College,3,4,Loss,1.03,-0.06,1.08,-0.577,17.9,1.97,4.06,0.577,W2
+Nov 16,Saint Anselm College,Harvard University,20,6,Win,16.97,5.61,11.35,0.181,95.3,3.03,0.39,2.819,W2
+Nov 16,Liberty University,Georgetown University,9,0,Win,0.11,-0.34,0.45,0.001,100,8.89,0.34,2.999,W2
+Nov 16,Robert Morris University,University of Delaware,5,7,Loss,3.41,4.14,-0.73,-0.808,25.4,1.59,2.86,0.808,W2
+Nov 16,George Washington University,University of Virginia,0,13,Loss,-1.38,2.39,-3.77,-0,0,1.38,10.61,0,W2
+Nov 16,Mercyhurst University,United States Naval Academy,2,4,Loss,0.21,1.44,-1.23,-1.061,34.3,1.79,2.56,1.061,W2
+Nov 16,Bowling Green State University,University of Pittsburgh,2,1,Win,-0.98,-1.04,0.06,1.007,67.5,2.98,2.04,1.993,W2
+Nov 16,Lawrence Technological University,Miami University,1,1,Tie,-2.41,-0.76,-1.65,-0.814,78.6,3.41,1.76,2.314,W2
+Nov 16,Iowa State University,University of Wisconsin,1,6,Loss,-3.57,-4.02,0.44,-0.108,3.2,4.57,10.02,0.108,W2
+Nov 16,University of Iowa,Augustana University,3,4,OT Loss,-3.19,-0.31,-2.88,-1.502,84.4,6.19,3.31,2.502,W2
+Nov 16,University of Maryland,Niagara University,0,6,Loss,-1.58,1.71,-3.28,-0.368,11,1.58,4.29,0.368,W2
+Nov 16,Assumption University,University of Vermont,2,7,Loss,1.21,5.25,-4.03,-0.805,24.6,0.79,1.75,0.805,W2
+Nov 16,Eastern Michigan University,Central Michigan University,6,5,Win,4.13,3.82,0.31,1.035,67,1.87,1.18,1.965,W2
+Nov 16,Aurora University,The Ohio State University,0,3,Loss,-1.05,0.61,-1.67,-0.693,21.2,1.05,2.39,0.693,W2
+Nov 16,Northern Michigan University,Michigan State University,2,2,Tie,-1.24,0.23,-1.47,-0.747,76.3,3.24,1.77,2.247,W2
+Nov 16,University Of Connecticut,Northeastern University,2,3,Loss,1.34,1.53,-0.19,-0.86,26.2,0.66,1.47,0.86,W2
+Nov 16,Liberty University,West Virginia University ,4,0,Win,-0.72,-0.55,-0.18,0.067,98.2,4.72,0.55,2.933,W2
+Nov 16,Maryville University,Adrian College,2,3,Loss,-0.81,1.5,-2.31,-2.22,75.6,2.81,1.5,2.22,W2
+Nov 16,University of Virginia,Virginia Tech,4,3,Win,0.43,0.73,-0.3,0.876,72,3.57,2.27,2.124,W2
+Nov 16,University of Saint Thomas,Assiniboine College,3,2,Win,-2.99,-5.23,2.24,1.937,34.9,5.99,7.23,1.063,W2
+Nov 17,Niagara University,United States Naval Academy,2,3,OT Loss,0.12,-0.27,0.39,-0.269,41.7,1.88,2.27,1.269,W2
+Nov 17,Northern Michigan University,Michigan State University,1,1,Tie,-2.24,-0.77,-1.47,-0.747,76.3,3.24,1.77,2.247,W2
+Nov 17,University of Saint Thomas,Assiniboine College,0,1,Loss,-5.99,-6.23,0.24,-1.063,34.9,5.99,7.23,1.063,W2
+Nov 17,West Chester University,Virginia Tech,7,2,Win,4.86,-0.9,5.77,1.908,35.5,2.14,2.9,1.092,W2
+Nov 17,Mercyhurst University,University of Delaware,6,2,Win,3.49,0.1,3.39,1.155,62.4,2.51,1.9,1.845,W2
+Nov 17,University of Iowa,Augustana University,3,4,OT Loss,-3.19,-0.31,-2.88,-1.502,84.4,6.19,3.31,2.502,W2
+Nov 17,Robert Morris University,University of Maryland,4,1,Win,1.31,-1.58,2.9,1.445,52,2.69,2.58,1.555,W2
+Nov 17,George Washington University,University of North Carolina,9,6,Win,4.71,2.03,2.68,1.363,54.8,4.29,3.97,1.637,W2
+Nov 17,Maryville University,Adrian College,0,1,Loss,-2.81,-0.5,-2.31,-2.22,75.6,2.81,1.5,2.22,W2
+Nov 17,University of New Hampshire,Saint Anselm College,1,3,Loss,0.18,1.91,-1.73,-1.264,41,0.82,1.09,1.264,W2
+Nov 17,Sacred Heart University,Army,11,2,Win,9.17,1.82,7.36,0.321,92.1,1.83,0.18,2.679,W2
+Nov 17,Liberty University,University of Virginia,11,2,Win,4.44,1.45,2.99,0.015,99.6,6.56,0.55,2.985,W2
+Nov 17,Harvard University,Boston University,1,10,Loss,0.72,7.19,-6.47,-0.172,4.3,0.28,2.81,0.172,W2
+Nov 17,College of the Holy Cross,Northeastern University,0,7,Loss,-0.27,3.08,-3.35,-0.066,1.6,0.27,3.92,0.066,W2
+Nov 17,Providence College,Assumption University,1,3,Loss,-0.95,2.15,-3.1,-2.245,77,1.95,0.85,2.245,W2
+Nov 17,University Of Connecticut,Boston College,4,5,Loss,3.42,3.63,-0.21,-0.847,25.6,0.58,1.37,0.847,W2
+Nov 22,Loyola University Maryland,Montclair State University,3,11,Loss,1.46,7.72,-6.25,-0.623,19.2,1.54,3.28,0.623,W2
+Nov 22,Rowan University,Liberty University,1,3,Loss,-0.02,0.5,-0.52,-0.628,19,1.02,2.5,0.628,W2
+Nov 22,Villanova University,Brockport State University,9,1,Win,3.12,0.23,2.89,0.043,98.9,5.88,0.77,2.957,W2
+Nov 22,Aurora University,Bowling Green State University,2,1,Win,-1.43,-0.33,-1.1,0.483,85.5,3.43,1.33,2.517,W2
+Nov 23,Michigan State University,Adrian College,3,1,Win,-0.63,-1.74,1.11,1.081,64.8,3.63,2.74,1.919,W2
+Nov 23,Saint Anselm College,Providence College,0,2,Loss,-1.11,0.88,-1.99,-1.492,49.7,1.11,1.12,1.492,W2
+Nov 23,Liberty University,University of Maryland,3,0,Win,-1.14,-0.74,-0.41,0.147,96,4.14,0.74,2.853,W2
+Nov 23,Loyola University Maryland,Brockport State University,1,10,Loss,0.29,0.08,0.21,-0,0,0.71,9.92,0,W2
+Nov 23,Lawrence Technological University,Central Michigan University,1,9,Loss,0,6.55,-6.54,-0.632,19.1,1,2.45,0.632,W2
+Nov 23,Villanova University,University of Pennsylvania,12,3,Win,7.56,2.58,4.98,0.063,98.4,4.44,0.42,2.937,W2
+Nov 23,Assiniboine College,University of Wisconsin Eau Claire,4,0,Win,-6.95,-3.16,-3.79,0.006,99.8,10.95,3.16,2.994,W2
+Nov 23,Rochester Institute Of Technology,Niagara University,3,10,Loss,1.68,2.37,-0.69,-0.028,0.8,1.32,7.63,0.028,W2
+Nov 23,Aurora University,Bowling Green State University,2,2,Tie,-1.43,0.67,-2.1,-1.017,85.5,3.43,1.33,2.517,W2
+Nov 23,University of Notre Dame,Hope College,23,0,Win,13.1,-0.53,13.63,0,100,9.9,0.53,3,W2
+Nov 23,Robert Morris University,Mercyhurst University,1,4,Loss,-0.74,0.01,-0.75,-0.501,15.3,1.74,3.99,0.501,W2
+Nov 24,Assiniboine College,University of Wisconsin Eau Claire,4,0,Win,-6.95,-3.16,-3.79,0.006,99.8,10.95,3.16,2.994,W2
+Nov 24,Brockport State University,West Chester University,7,4,Win,3.05,2.49,0.56,0.423,87.3,3.95,1.51,2.577,W2
+Nov 24,Rowan University,University of Maryland,5,3,Win,1.31,1.34,-0.03,0.551,83.1,3.69,1.66,2.449,W2
+Nov 24,Central Michigan University,Lawrence Technological University,6,5,OT Win,2.46,4.04,-1.58,-0.423,82.7,2.54,0.96,2.423,W2
+Nov 24,Sacred Heart University,Assumption University,6,1,Win,4.61,0.08,4.53,1.131,63.8,1.39,0.92,1.869,W2
+Nov 24,Virginia Tech,University of North Carolina,7,0,Win,-0.06,-0.83,0.76,0.018,99.5,7.06,0.83,2.982,W2
+Nov 24,Adrian College,Michigan State University,2,3,OT Loss,-0.84,-1.5,0.66,-0.185,38.9,2.84,3.5,1.185,W2
+Nov 24,Mercyhurst University,Niagara University,3,1,Win,0.57,-1.78,2.35,1.684,43.4,2.43,2.78,1.316,W2
+Nov 30,Sault College,Niagara University,10,1,Win,2.76,0.13,2.63,0.017,99.5,7.24,0.87,2.983,W2
+Dec 1,Sault College,Niagara University,3,2,Win,-4.24,1.13,-5.37,0.017,99.5,7.24,0.87,2.983,W2
+Dec 6,Robert Morris University,West Chester University,5,1,Win,-0.53,-0.15,-0.38,0.105,97.1,5.53,1.15,2.895,W2
+Dec 6,Niagara University,Central Michigan University,1,5,Loss,-0.27,2.18,-2.45,-0.647,19.8,1.27,2.82,0.647,W2
+Dec 6,Aurora University,Maryville University,2,3,Loss,0.31,1.43,-1.11,-1.576,52.8,1.69,1.57,1.576,W2
+Dec 7,University of Pennsylvania,University of Delaware,0,2,Loss,-0.61,-0.81,0.2,-0.316,8.8,0.61,2.81,0.316,W2
+Dec 7,University of Vermont,Sacred Heart University,2,1,Win,1.04,0.41,0.63,1.148,63.7,0.96,0.59,1.852,W2
+Dec 7,Robert Morris University,West Chester University,6,1,Win,0.47,-0.15,0.62,0.105,97.1,5.53,1.15,2.895,W2
+Dec 7,Mercyhurst University,Central Michigan University,3,5,Loss,1.79,1.82,-0.02,-0.496,14.9,1.21,3.18,0.496,W2
+Dec 7,University of Wisconsin,Dakota College at Bottineau,5,3,Win,-0.37,-0.48,0.11,0.77,75.3,5.37,3.48,2.23,W2
+Dec 7,University of Saint Thomas,North Dakota State University,7,1,Win,-3.05,-2.37,-0.68,0.034,99,10.05,3.37,2.966,W2
+Dec 7,Aurora University,Maryville University,3,1,Win,1.31,-0.57,1.89,1.424,52.8,1.69,1.57,1.576,W2
+Dec 7,University of Notre Dame,Adrian College,0,1,Loss,-1.78,-1.52,-0.26,-1.079,34.9,1.78,2.52,1.079,W2
+Dec 7,Lake Region State College,Assiniboine College,0,8,Loss,-2.78,-3,0.21,-0.003,0.1,2.78,11,0.003,W2
+Dec 7,University of Maryland,Rowan University,3,2,OT Win,0.28,-1.56,1.84,1.381,19.2,1.72,3.56,0.619,W2
+Dec 8,University of Saint Thomas,North Dakota State University,2,1,Win,-8.05,-2.37,-5.68,0.034,99,10.05,3.37,2.966,W2
+Dec 8,Lake Region State College,Assiniboine College,1,8,Loss,-1.78,-3,1.21,-0.003,0.1,2.78,11,0.003,W2
 Dec 8,University of New Hampshire,Sacred Heart University,2,1,Win,1.27,0.33,0.95,1.447,52.1,0.73,0.67,1.553,W2
-Dec 8,University of Wisconsin,Dakota College at Bottineau,3,3,Tie,-2,-0.36,-1.64,-0.657,72.9,5,3.36,2.157,W2
-Dec 8,Rochester Institute Of Technology,Brockport State University,5,4,Win,2.07,0.59,1.48,1.732,41.8,2.93,3.41,1.268,W2
-Dec 8,Merrimack College,University of Vermont,1,4,Loss,0.5,2.55,-2.06,-0.737,21.7,0.5,1.45,0.737,W2
-Dec 8,Adrian College,University of Notre Dame,0,0,Tie,-2.58,-1.72,-0.86,-0.489,67.5,2.58,1.72,1.989,W2
-Sep 15,Miami University,The Ohio State University,2,6,Loss,1.03,-0.09,1.12,-0.053,1.5,0.97,6.09,0.053,W2
-Sep 20,West Chester University,Villanova University,0,14,Loss,-0.49,5.44,-5.93,-0.002,0,0.49,8.56,0.002,W2
-Sep 20,University of Pittsburgh,University of Pennsylvania,5,1,Win,2.81,0.14,2.67,0.651,80.4,2.19,0.86,2.349,W2
-Sep 21,University of Pittsburgh,Villanova University,1,6,Loss,0.04,2.14,-2.1,-0.246,7,0.96,3.86,0.246,W2
-Sep 21,Iowa State University,University of Nebraska,15,0,Win,3.37,-1.37,4.74,0,100,11.63,1.37,3,W2
-Sep 21,University of Maryland,Rowan University,0,5,Loss,-1.65,1.34,-2.99,-0.558,17.1,1.65,3.66,0.558,W2
-Sep 22,Iowa State University,University of Nebraska,18,0,Win,6.37,-1.37,7.74,0,100,11.63,1.37,3,W2
-Sep 22,West Chester University,University of Delaware,0,15,Loss,-0.7,8.85,-9.54,-0.03,0.8,0.7,6.15,0.03,W2
-Sep 22,Merrimack College,Providence College,2,4,Loss,1.45,2.39,-0.94,-0.691,20.3,0.55,1.61,0.691,W2
-Sep 26,Lawrence Technological University,West Virginia University ,7,0,Win,3.14,-1,4.15,0.262,92.5,3.86,1,2.738,W2
-Sep 27,University of Iowa,Iowa State University,5,6,Loss,-0.13,0.05,-0.18,-1.194,39.4,5.13,5.95,1.194,W2
-Sep 27,Lawrence Technological University,West Virginia University ,9,1,Win,5.14,-0,5.15,0.262,92.5,3.86,1,2.738,W2
-Sep 27,University of Delaware,West Chester University,7,0,Win,1.03,-0.72,1.75,0.036,99,5.97,0.72,2.964,W2
-Sep 27,University of Pennsylvania,Boston University,1,6,Loss,0.76,2.46,-1.7,-0.084,2.1,0.24,3.54,0.084,W2
-Sep 28,University of Iowa,Iowa State University,6,7,Loss,0.87,1.05,-0.18,-1.194,39.4,5.13,5.95,1.194,W2
-Sep 28,Lawrence Technological University,Robert Morris University,3,4,OT Loss,-0.29,1.67,-1.96,-1.479,84.2,3.29,1.33,2.479,W2
-Sep 28,Eastern Michigan University,Central Michigan University,3,2,Win,1.2,0.78,0.41,1.099,64.6,1.8,1.22,1.901,W2
-Sep 28,Sacred Heart University,University Of Connecticut,6,7,Loss,5.29,6.17,-0.89,-1.39,45.7,0.71,0.83,1.39,W2
-Sep 28,University of Nebraska,North Dakota State University,0,17,Loss,-1.35,5.56,-6.91,-0,0,1.35,11.44,0,W2
-Sep 28,The Ohio State University,Villanova University,3,1,Win,0.42,-0.26,0.69,0.742,77,2.58,1.26,2.258,W2
-Sep 28,Montclair State University,University of Maryland,0,12,Loss,-0.47,4.72,-5.19,-0.006,0.2,0.47,7.28,0.006,W2
-Sep 28,University of Illinois,Miami University,2,1,Win,-0.81,-3.25,2.44,2.129,28,2.81,4.25,0.871,W2
-Sep 29,The Ohio State University,Villanova University,5,2,Win,2.42,0.74,1.69,0.742,77,2.58,1.26,2.258,W2
-Sep 29,University of Nebraska,North Dakota State University,2,16,Loss,0.65,4.56,-3.91,-0,0,1.35,11.44,0,W2
-Sep 29,United States Naval Academy,University of Delaware,2,0,Win,-0.33,-1.28,0.95,0.859,73,2.33,1.28,2.141,W2
-Sep 29,George Washington University,University of Virginia,2,11,Loss,0.67,0.33,0.34,-0,0,1.33,10.67,0,W2
-Sep 29,University of Illinois,Miami University,2,4,Loss,-0.81,-0.25,-0.56,-0.871,28,2.81,4.25,0.871,W2
-Sep 29,Boston University,Saint Anselm College,4,2,Win,2.76,1.08,1.68,1.238,59.9,1.24,0.92,1.762,W2
+Dec 8,University of Wisconsin,Dakota College at Bottineau,3,3,Tie,-2.37,-0.48,-1.89,-0.73,75.3,5.37,3.48,2.23,W2
+Dec 8,Rochester Institute Of Technology,Brockport State University,5,4,Win,2.05,0.56,1.49,1.733,41.8,2.95,3.44,1.267,W2
+Dec 8,Merrimack College,University of Vermont,1,4,Loss,0.49,2.55,-2.06,-0.737,21.7,0.51,1.45,0.737,W2
+Dec 8,Adrian College,University of Notre Dame,0,0,Tie,-2.61,-1.72,-0.89,-0.504,68,2.61,1.72,2.004,W2
+Sep 15,Miami University,The Ohio State University,2,6,Loss,1.04,-0.15,1.19,-0.05,1.4,0.96,6.15,0.05,W2
+Sep 20,West Chester University,Villanova University,0,14,Loss,-0.49,5.39,-5.88,-0.001,0,0.49,8.61,0.001,W2
+Sep 20,University of Pittsburgh,University of Pennsylvania,5,1,Win,2.8,0.14,2.66,0.65,80.4,2.2,0.86,2.35,W2
+Sep 21,University of Pittsburgh,Villanova University,1,6,Loss,0.04,2.13,-2.09,-0.245,7,0.96,3.87,0.245,W2
+Sep 21,Iowa State University,University of Nebraska,15,0,Win,3.38,-1.41,4.79,0,100,11.62,1.41,3,W2
+Sep 21,University of Maryland,Rowan University,0,5,Loss,-1.66,1.31,-2.97,-0.551,16.9,1.66,3.69,0.551,W2
+Sep 22,Iowa State University,University of Nebraska,18,0,Win,6.38,-1.41,7.79,0,100,11.62,1.41,3,W2
+Sep 22,West Chester University,University of Delaware,0,15,Loss,-0.7,8.78,-9.48,-0.029,0.8,0.7,6.22,0.029,W2
+Sep 22,Merrimack College,Providence College,2,4,Loss,1.45,2.39,-0.94,-0.688,20.2,0.55,1.61,0.688,W2
+Sep 26,Lawrence Technological University,West Virginia University ,7,0,Win,3.14,-1.02,4.15,0.264,92.4,3.86,1.02,2.736,W2
+Sep 27,University of Iowa,Iowa State University,5,6,Loss,-0.16,0.46,-0.62,-1.357,45,5.16,5.54,1.357,W2
+Sep 27,Lawrence Technological University,West Virginia University ,9,1,Win,5.14,-0.02,5.15,0.264,92.4,3.86,1.02,2.736,W2
+Sep 27,University of Delaware,West Chester University,7,0,Win,0.98,-0.73,1.71,0.035,99.1,6.02,0.73,2.965,W2
+Sep 27,University of Pennsylvania,Boston University,1,6,Loss,0.76,2.43,-1.67,-0.082,2,0.24,3.57,0.082,W2
+Sep 28,University of Iowa,Iowa State University,6,7,Loss,0.84,1.46,-0.62,-1.357,45,5.16,5.54,1.357,W2
+Sep 28,Lawrence Technological University,Robert Morris University,3,4,OT Loss,-0.3,1.66,-1.95,-1.474,84.1,3.3,1.34,2.474,W2
+Sep 28,Eastern Michigan University,Central Michigan University,3,2,Win,1.2,0.78,0.42,1.104,64.4,1.8,1.22,1.896,W2
+Sep 28,Sacred Heart University,University Of Connecticut,6,7,Loss,5.29,6.17,-0.88,-1.387,45.6,0.71,0.83,1.387,W2
+Sep 28,University of Nebraska,North Dakota State University,0,17,Loss,-1.35,5.54,-6.89,-0,0,1.35,11.46,0,W2
+Sep 28,The Ohio State University,Villanova University,3,1,Win,0.43,-0.26,0.69,0.742,77,2.57,1.26,2.258,W2
+Sep 28,Montclair State University,University of Maryland,0,12,Loss,-0.47,4.67,-5.14,-0.006,0.1,0.47,7.33,0.006,W2
+Sep 28,University of Illinois,Miami University,2,1,Win,-0.79,-3.33,2.54,2.165,26.7,2.79,4.33,0.835,W2
+Sep 29,The Ohio State University,Villanova University,5,2,Win,2.43,0.74,1.69,0.742,77,2.57,1.26,2.258,W2
+Sep 29,University of Nebraska,North Dakota State University,2,16,Loss,0.65,4.54,-3.89,-0,0,1.35,11.46,0,W2
+Sep 29,United States Naval Academy,University of Delaware,2,0,Win,-0.34,-1.28,0.95,0.86,73,2.34,1.28,2.14,W2
+Sep 29,George Washington University,University of Virginia,2,11,Loss,0.67,0.31,0.36,-0,0,1.33,10.69,0,W2
+Sep 29,University of Illinois,Miami University,2,4,Loss,-0.79,-0.33,-0.46,-0.835,26.7,2.79,4.33,0.835,W2
+Sep 29,Boston University,Saint Anselm College,4,2,Win,2.75,1.08,1.68,1.238,59.9,1.25,0.92,1.762,W2
 Sep 29,University Of Connecticut,University of New Hampshire,4,1,Win,3.24,0.27,2.97,1.47,51.2,0.76,0.73,1.53,W2
-Sep 29,Lawrence Technological University,Robert Morris University,5,0,Win,1.71,-1.33,3.04,0.521,84.2,3.29,1.33,2.479,W2
-Sep 29,Sacred Heart University,College of the Holy Cross,4,2,Win,2.12,1.66,0.46,0.415,88.9,1.88,0.34,2.585,W2
-Oct 4,University of Delaware,Liberty University,1,2,OT Loss,0.19,-1.43,1.62,0.469,15.7,0.81,2.43,0.531,W2
-Oct 4,Niagara University,Brockport State University,0,1,Loss,-5.44,-0.09,-5.35,-2.898,97.2,5.44,1.09,2.898,W2
-Oct 4,Robert Morris University,West Virginia University ,0,3,Loss,-2.94,1.04,-3.98,-2.02,68.5,2.94,1.96,2.02,W2
-Oct 4,University of North Carolina,George Washington University,2,15,Loss,-1.93,10.74,-12.67,-1.36,45.1,3.93,4.26,1.36,W2
-Oct 5,Boston University,Merrimack College,7,2,Win,5.27,1.53,3.75,0.574,83.7,1.73,0.47,2.426,W2
-Oct 5,University of Delaware,Liberty University,3,6,Loss,2.19,3.57,-1.38,-0.531,15.7,0.81,2.43,0.531,W2
-Oct 5,University of New Hampshire,Saint Anselm College,0,4,Loss,-0.79,2.87,-3.66,-1.209,38.9,0.79,1.13,1.209,W2
-Oct 5,Boston College,University of Vermont,4,3,Win,2.87,2.33,0.54,1.095,65.4,1.13,0.67,1.905,W2
-Oct 5,University of Iowa,University of Illinois,4,1,Win,-0.7,-1.53,0.83,0.613,80.8,4.7,2.53,2.387,W2
-Oct 5,West Virginia University ,Niagara University,0,6,Loss,-1.12,0.98,-2.1,-0.142,4,1.12,5.02,0.142,W2
-Oct 5,Aurora University,Eastern Michigan University,1,1,Tie,0.11,-1.54,1.65,0.964,15.9,0.89,2.54,0.536,W2
-Oct 5,University of North Carolina,Virginia Tech,1,9,Loss,0.18,1.98,-1.8,-0.019,0.5,0.82,7.02,0.019,W2
-Oct 5,University of Minnesota Duluth,University of Wisconsin Eau Claire,3,4,Loss,-6.17,-2.98,-3.19,-2.262,76.3,9.17,6.98,2.262,W2
+Sep 29,Lawrence Technological University,Robert Morris University,5,0,Win,1.7,-1.34,3.05,0.526,84.1,3.3,1.34,2.474,W2
+Sep 29,Sacred Heart University,College of the Holy Cross,4,2,Win,2.11,1.66,0.45,0.412,89,1.89,0.34,2.588,W2
+Oct 4,University of Delaware,Liberty University,1,2,OT Loss,0.19,-1.45,1.63,0.474,15.5,0.81,2.45,0.526,W2
+Oct 4,Niagara University,Brockport State University,0,1,Loss,-5.47,-0.09,-5.37,-2.899,97.2,5.47,1.09,2.899,W2
+Oct 4,Robert Morris University,West Virginia University ,0,3,Loss,-2.96,1.02,-3.98,-2.018,68.4,2.96,1.98,2.018,W2
+Oct 4,University of North Carolina,George Washington University,2,15,Loss,-1.97,10.71,-12.68,-1.363,45.2,3.97,4.29,1.363,W2
+Oct 5,Boston University,Merrimack College,7,2,Win,5.27,1.53,3.74,0.574,83.7,1.73,0.47,2.426,W2
+Oct 5,University of Delaware,Liberty University,3,6,Loss,2.19,3.55,-1.37,-0.526,15.5,0.81,2.45,0.526,W2
+Oct 5,University of New Hampshire,Saint Anselm College,0,4,Loss,-0.79,2.87,-3.66,-1.207,38.9,0.79,1.13,1.207,W2
+Oct 5,Boston College,University of Vermont,4,3,Win,2.87,2.33,0.54,1.094,65.5,1.13,0.67,1.906,W2
+Oct 5,University of Iowa,University of Illinois,4,1,Win,-0.36,-1.64,1.28,0.763,75.7,4.36,2.64,2.237,W2
+Oct 5,West Virginia University ,Niagara University,0,6,Loss,-1.12,0.93,-2.06,-0.138,3.9,1.12,5.07,0.138,W2
+Oct 5,Aurora University,Eastern Michigan University,1,1,Tie,0.11,-1.54,1.64,0.96,16,0.89,2.54,0.54,W2
+Oct 5,University of North Carolina,Virginia Tech,1,9,Loss,0.17,1.94,-1.76,-0.018,0.5,0.83,7.06,0.018,W2
+Oct 5,University of Minnesota Duluth,University of Wisconsin Eau Claire,3,4,Loss,-6.26,-3.29,-2.97,-2.201,74.2,9.26,7.29,2.201,W2
 Oct 5,Central Michigan University,Northern Michigan University,2,4,Loss,0.35,2.85,-2.5,-1.856,63.1,1.65,1.15,1.856,W2
-Oct 5,University of Pittsburgh,Brockport State University,3,5,Loss,0.08,3.42,-3.34,-2.22,75.5,2.92,1.58,2.22,W2
-Oct 5,Sault College,Miami University,14,0,Win,4.3,-0.74,5.04,0.001,100,9.7,0.74,2.999,W2
-Oct 5,Villanova University,Rowan University,6,1,Win,3.21,-0.53,3.74,0.804,74.7,2.79,1.53,2.196,W2
-Oct 6,Aurora University,Eastern Michigan University,1,6,Loss,0.11,3.46,-3.35,-0.536,15.9,0.89,2.54,0.536,W2
-Oct 6,University of Minnesota Duluth,University of Wisconsin Eau Claire,3,0,Win,-6.17,-6.98,0.81,0.738,76.3,9.17,6.98,2.262,W2
-Oct 6,University of Virginia,Virginia Tech,4,5,Loss,0.57,2.66,-2.1,-2.036,68.9,3.43,2.34,2.036,W2
-Oct 6,University of Iowa,University of Illinois,3,0,Win,-1.7,-2.53,0.83,0.613,80.8,4.7,2.53,2.387,W2
-Oct 6,Providence College,Boston University,0,3,Loss,-0.77,1.94,-2.71,-1.243,40.2,0.77,1.06,1.243,W2
-Oct 6,Harvard University,University of New Hampshire,1,8,Loss,0.67,6.17,-5.49,-0.423,11.3,0.33,1.83,0.423,W2
-Oct 6,University of Pittsburgh,Rochester Institute Of Technology,7,0,Win,2.73,-1.92,4.65,0.499,84.7,4.27,1.92,2.501,W2
+Oct 5,University of Pittsburgh,Brockport State University,3,5,Loss,0.05,3.41,-3.35,-2.225,75.7,2.95,1.59,2.225,W2
+Oct 5,Sault College,Miami University,14,0,Win,4.27,-0.74,5.01,0.001,100,9.73,0.74,2.999,W2
+Oct 5,Villanova University,Rowan University,6,1,Win,3.2,-0.54,3.74,0.805,74.7,2.8,1.54,2.195,W2
+Oct 6,Aurora University,Eastern Michigan University,1,6,Loss,0.11,3.46,-3.36,-0.54,16,0.89,2.54,0.54,W2
+Oct 6,University of Minnesota Duluth,University of Wisconsin Eau Claire,3,0,Win,-6.26,-7.29,1.03,0.799,74.2,9.26,7.29,2.201,W2
+Oct 6,University of Virginia,Virginia Tech,4,5,Loss,0.56,2.65,-2.09,-2.032,68.8,3.44,2.35,2.032,W2
+Oct 6,University of Iowa,University of Illinois,3,0,Win,-1.36,-2.64,1.28,0.763,75.7,4.36,2.64,2.237,W2
+Oct 6,Providence College,Boston University,0,3,Loss,-0.77,1.93,-2.7,-1.239,40,0.77,1.07,1.239,W2
+Oct 6,Harvard University,University of New Hampshire,1,8,Loss,0.67,6.16,-5.48,-0.42,11.2,0.33,1.84,0.42,W2
+Oct 6,University of Pittsburgh,Rochester Institute Of Technology,7,0,Win,2.69,-1.93,4.62,0.491,84.9,4.31,1.93,2.509,W2
 Oct 6,Central Michigan University,Northern Michigan University,1,0,OT Win,-1.65,-1.15,-0.5,0.144,63.1,1.65,1.15,1.856,W2
-Oct 6,Bentley University,Northeastern University,0,10,Loss,-0.29,6.45,-6.74,-0.095,2.4,0.29,3.55,0.095,W2
-Oct 6,Sault College,Miami University,12,0,Win,2.3,-0.74,3.04,0.001,100,9.7,0.74,2.999,W2
-Oct 6,West Virginia University ,Niagara University,1,6,Loss,-0.12,0.98,-1.1,-0.142,4,1.12,5.02,0.142,W2
-Oct 6,Georgetown University,University of Maryland,1,8,Loss,-0.22,1.43,-1.65,-0.055,1.5,1.22,6.57,0.055,W2
-Oct 6,Villanova University,West Chester University,16,2,Win,7.61,1.49,6.12,0.002,99.9,8.39,0.51,2.998,W2
-Oct 6,Saint Anselm College,Merrimack College,3,2,OT Win,0.2,1.32,-1.12,-0.297,79,1.8,0.68,2.297,W2
-Oct 6,Assumption University,Boston College,1,6,Loss,0.36,3.33,-2.97,-0.364,10.3,0.64,2.67,0.364,W2
-Oct 10,Harvard University,Boston College,0,11,Loss,-0.24,7.42,-7.66,-0.082,2,0.24,3.58,0.082,W2
-Oct 11,Sault College,Adrian College,12,0,Win,4.13,-0.72,4.85,0.007,99.8,7.87,0.72,2.993,W2
-Oct 11,University of Wisconsin Eau Claire,University of Iowa,2,4,Loss,-2.39,-3.08,0.69,-0.596,18.9,4.39,7.08,0.596,W2
-Oct 11,United States Naval Academy,University of Pennsylvania,5,1,Win,1.23,0.56,0.67,0.112,97.1,3.77,0.44,2.888,W2
-Oct 11,Liberty University,Maryville University,0,3,Loss,-1.76,1.85,-3.61,-1.926,65.6,1.76,1.15,1.926,W2
-Oct 12,Bowling Green State University,Michigan State University,3,3,Tie,0.25,-1.83,2.08,0.841,20.8,2.75,4.83,0.659,W2
-Oct 12,Sault College,Adrian College,4,0,Win,-3.87,-0.72,-3.15,0.007,99.8,7.87,0.72,2.993,W2
-Oct 12,Liberty University,Maryville University,6,4,Win,4.24,2.85,1.39,1.074,65.6,1.76,1.15,1.926,W2
-Oct 12,University of Wisconsin LaCrosse,University of Wisconsin,1,6,Loss,-2.02,-5.4,3.38,-0.001,0,3.02,11.4,0.001,W2
-Oct 12,University of Wisconsin Eau Claire,University of Iowa,0,1,OT Loss,-4.39,-7.08,2.69,0.404,18.9,4.39,7.08,0.596,W2
-Oct 12,Northeastern University,University of Delaware,6,0,Win,3.19,-0.74,3.93,0.377,89.2,2.81,0.74,2.623,W2
-Oct 12,Hope College,Aurora University,0,18,Loss,-0.28,7.18,-7.47,-0,0,0.28,10.82,0,W2
-Oct 12,University of Saint Thomas,Iowa State University,5,1,Win,-4.81,-3.85,-0.96,0.16,95.1,9.81,4.85,2.84,W2
-Oct 12,North Dakota State University,University of Minnesota Duluth,0,3,Loss,-6.37,-4.78,-1.59,-1.006,32.9,6.37,7.78,1.006,W2
+Oct 6,Bentley University,Northeastern University,0,10,Loss,-0.29,6.44,-6.73,-0.094,2.3,0.29,3.56,0.094,W2
+Oct 6,Sault College,Miami University,12,0,Win,2.27,-0.74,3.01,0.001,100,9.73,0.74,2.999,W2
+Oct 6,West Virginia University ,Niagara University,1,6,Loss,-0.12,0.93,-1.06,-0.138,3.9,1.12,5.07,0.138,W2
+Oct 6,Georgetown University,University of Maryland,1,8,Loss,-0.23,1.39,-1.62,-0.054,1.5,1.23,6.61,0.054,W2
+Oct 6,Villanova University,West Chester University,16,2,Win,7.57,1.49,6.09,0.002,100,8.43,0.51,2.998,W2
+Oct 6,Saint Anselm College,Merrimack College,3,2,OT Win,0.2,1.31,-1.11,-0.295,78.9,1.8,0.69,2.295,W2
+Oct 6,Assumption University,Boston College,1,6,Loss,0.36,3.32,-2.95,-0.359,10.1,0.64,2.68,0.359,W2
+Oct 10,Harvard University,Boston College,0,11,Loss,-0.24,7.4,-7.64,-0.08,1.9,0.24,3.6,0.08,W2
+Oct 11,Sault College,Adrian College,12,0,Win,4.11,-0.72,4.83,0.007,99.8,7.89,0.72,2.993,W2
+Oct 11,University of Wisconsin Eau Claire,University of Iowa,2,4,Loss,-2.45,-3.03,0.58,-0.626,19.9,4.45,7.03,0.626,W2
+Oct 11,United States Naval Academy,University of Pennsylvania,5,1,Win,1.21,0.56,0.65,0.111,97.1,3.79,0.44,2.889,W2
+Oct 11,Liberty University,Maryville University,0,3,Loss,-1.75,1.83,-3.58,-1.903,64.7,1.75,1.17,1.903,W2
+Oct 12,Bowling Green State University,Michigan State University,3,3,Tie,0.24,-1.84,2.09,0.842,20.8,2.76,4.84,0.658,W2
+Oct 12,Sault College,Adrian College,4,0,Win,-3.89,-0.72,-3.17,0.007,99.8,7.89,0.72,2.993,W2
+Oct 12,Liberty University,Maryville University,6,4,Win,4.25,2.83,1.42,1.097,64.7,1.75,1.17,1.903,W2
+Oct 12,University of Wisconsin LaCrosse,University of Wisconsin,1,6,Loss,-2.56,-5.04,2.48,-0.008,0.2,3.56,11.04,0.008,W2
+Oct 12,University of Wisconsin Eau Claire,University of Iowa,0,1,OT Loss,-4.45,-7.03,2.58,0.374,19.9,4.45,7.03,0.626,W2
+Oct 12,Northeastern University,University of Delaware,6,0,Win,3.18,-0.74,3.92,0.375,89.3,2.82,0.74,2.625,W2
+Oct 12,Hope College,Aurora University,0,18,Loss,-0.28,7.15,-7.43,-0,0,0.28,10.85,0,W2
+Oct 12,University of Saint Thomas,Iowa State University,5,1,Win,-4.95,-3.71,-1.24,0.129,96.1,9.95,4.71,2.871,W2
+Oct 12,North Dakota State University,University of Minnesota Duluth,0,3,Loss,-6.41,-4.87,-1.55,-0.992,32.4,6.41,7.87,0.992,W2
 Oct 12,Slippery Rock University,Robert Morris University,0,9,Loss,NA,NA,NA,NA,NA,NA,NA,NA,W2
-Oct 13,North Dakota State University,University of Minnesota Duluth,4,3,OT Win,-3.37,-4.78,1.41,0.994,32.9,6.37,7.78,1.006,W2
-Oct 13,Bowling Green State University,Michigan State University,3,5,Loss,0.25,0.17,0.08,-0.659,20.8,2.75,4.83,0.659,W2
-Oct 13,University of Wisconsin LaCrosse,University of Wisconsin,0,3,Loss,-3.02,-8.4,5.38,-0.001,0,3.02,11.4,0.001,W2
-Oct 13,University of Saint Thomas,Iowa State University,3,3,Tie,-6.81,-1.85,-4.96,-1.34,95.1,9.81,4.85,2.84,W2
-Oct 13,University of Vermont,University of New Hampshire,1,0,Win,0.12,-0.6,0.72,1.23,60.6,0.88,0.6,1.77,W2
-Oct 13,Northeastern University,University of Delaware,3,1,Win,0.19,0.26,-0.07,0.377,89.2,2.81,0.74,2.623,W2
-Oct 15,Boston College,Boston University,3,2,Win,1.94,1.2,0.74,1.274,58.6,1.06,0.8,1.726,W2
-Oct 18,Rowan University,Liberty University,0,2,Loss,-0.99,-0.57,-0.42,-0.581,17.5,0.99,2.57,0.581,W2
-Oct 18,United States Air Force Academy,United States Naval Academy,1,12,Loss,0.65,8.74,-8.09,-0.14,3.6,0.35,3.26,0.14,W2
-Oct 18,Lake Region State College,Augustana University,4,3,Win,-3.99,-5.54,1.55,1.705,42.9,7.99,8.54,1.295,W2
+Oct 13,North Dakota State University,University of Minnesota Duluth,4,3,OT Win,-3.41,-4.87,1.45,1.008,32.4,6.41,7.87,0.992,W2
+Oct 13,Bowling Green State University,Michigan State University,3,5,Loss,0.24,0.16,0.09,-0.658,20.8,2.76,4.84,0.658,W2
+Oct 13,University of Wisconsin LaCrosse,University of Wisconsin,0,3,Loss,-3.56,-8.04,4.48,-0.008,0.2,3.56,11.04,0.008,W2
+Oct 13,University of Saint Thomas,Iowa State University,3,3,Tie,-6.95,-1.71,-5.24,-1.371,96.1,9.95,4.71,2.871,W2
+Oct 13,University of Vermont,University of New Hampshire,1,0,Win,0.12,-0.6,0.72,1.231,60.6,0.88,0.6,1.769,W2
+Oct 13,Northeastern University,University of Delaware,3,1,Win,0.18,0.26,-0.08,0.375,89.3,2.82,0.74,2.625,W2
+Oct 15,Boston College,Boston University,3,2,Win,1.94,1.2,0.74,1.273,58.7,1.06,0.8,1.727,W2
+Oct 18,Rowan University,Liberty University,0,2,Loss,-0.99,-0.59,-0.39,-0.573,17.2,0.99,2.59,0.573,W2
+Oct 18,United States Air Force Academy,United States Naval Academy,1,12,Loss,0.65,8.73,-8.08,-0.14,3.6,0.35,3.27,0.14,W2
+Oct 18,Lake Region State College,Augustana University,4,3,Win,-2.84,-4.5,1.66,1.735,41.9,6.84,7.5,1.265,W2
 Oct 18,Boston College,Sacred Heart University,6,0,Win,4.63,-0.51,5.15,0.791,76.5,1.37,0.51,2.209,W2
-Oct 18,Brockport State University,West Virginia University ,1,2,Loss,-1.08,-0.58,-0.5,-1.223,40.1,2.08,2.58,1.223,W2
-Oct 18,Merrimack College,University Of Connecticut,1,6,Loss,0.41,4.71,-4.3,-0.91,27.8,0.59,1.29,0.91,W2
-Oct 18,Aurora University,Maryville University,2,0,Win,0.35,-1.61,1.96,1.474,50.9,1.65,1.61,1.526,W2
-Oct 18,University of Virginia,Georgetown University,6,0,Win,1.2,-2.04,3.25,0.417,87.3,4.8,2.04,2.583,W2
-Oct 18,Hope College,University of Illinois,0,10,Loss,-0.84,-0.24,-0.6,-0,0,0.84,10.24,0,W2
-Oct 19,United States Air Force Academy,United States Naval Academy,0,12,Loss,-0.35,8.74,-9.09,-0.14,3.6,0.35,3.26,0.14,W2
-Oct 19,Rowan University,Liberty University,2,5,Loss,1.01,2.43,-1.42,-0.581,17.5,0.99,2.57,0.581,W2
-Oct 19,Lake Region State College,Augustana University,5,1,Win,-2.99,-7.54,4.55,1.705,42.9,7.99,8.54,1.295,W2
-Oct 19,Hope College,University of Illinois,0,14,Loss,-0.84,3.76,-4.6,-0,0,0.84,10.24,0,W2
-Oct 19,Brockport State University,Mercyhurst University,2,7,Loss,0.82,1.64,-0.82,-0.123,3.5,1.18,5.36,0.123,W2
-Oct 19,University of Pennsylvania,University of Delaware,1,11,Loss,0.41,8.11,-7.7,-0.288,8,0.59,2.89,0.288,W2
-Oct 19,Aurora University,Maryville University,5,6,Loss,3.35,4.39,-1.04,-1.526,50.9,1.65,1.61,1.526,W2
-Oct 19,Adrian College,Central Michigan University,0,3,Loss,-0.97,-0.36,-0.61,-0.346,10,0.97,3.36,0.346,W2
-Oct 19,Sacred Heart University,Assumption University,5,4,OT Win,2.67,3.05,-0.39,0.193,61.5,1.33,0.95,1.807,W2
-Oct 19,The Ohio State University,Northern Michigan University,2,3,Loss,-0.07,1.89,-1.97,-2.128,72.7,2.07,1.11,2.128,W2
-Oct 19,University of Minnesota Duluth,University of Saint Thomas,2,4,Loss,-2.19,-6.09,3.9,-0.073,2.1,4.19,10.09,0.073,W2
-Oct 19,University of Wisconsin,University of Wisconsin Eau Claire,5,0,Win,-5.64,-3.66,-1.97,0.02,99.4,10.64,3.66,2.98,W2
-Oct 19,United States Air Force Academy,University of Maryland,5,14,Loss,4.18,11.81,-7.64,-0.628,18.8,0.82,2.19,0.628,W2
-Oct 19,Montclair State University,West Chester University,1,14,Loss,0.04,10.64,-10.59,-0.34,9.9,0.96,3.36,0.34,W2
-Oct 19,University of Virginia,Georgetown University,4,1,Win,-0.8,-1.04,0.25,0.417,87.3,4.8,2.04,2.583,W2
-Oct 20,University of Wisconsin,University of Wisconsin Eau Claire,9,0,Win,-1.64,-3.66,2.03,0.02,99.4,10.64,3.66,2.98,W2
-Oct 20,University of Minnesota Duluth,University of Saint Thomas,2,7,Loss,-2.19,-3.09,0.9,-0.073,2.1,4.19,10.09,0.073,W2
-Oct 20,The Ohio State University,Northern Michigan University,6,2,Win,3.93,0.89,3.03,0.872,72.7,2.07,1.11,2.128,W2
-Oct 20,University Of Connecticut,Boston University,4,5,Loss,3.38,3.85,-0.47,-1.035,32.3,0.62,1.15,1.035,W2
-Oct 20,Central Michigan University,Adrian College,4,0,Win,0.74,-1,1.75,0.385,88.7,3.26,1,2.615,W2
-Oct 20,Northeastern University,Saint Anselm College,4,3,Win,2.35,2.05,0.3,0.989,68.8,1.65,0.95,2.011,W2
-Oct 20,Merrimack College,Sacred Heart University,1,2,Loss,0.41,0.86,-0.45,-1.009,31.2,0.59,1.14,1.009,W2
-Oct 20,University of New Hampshire,Providence College,2,1,Win,1.35,0.02,1.32,1.798,38.5,0.65,0.98,1.202,W2
-Oct 23,Merrimack College,Harvard University,6,3,Win,4.52,2.45,2.07,0.756,77.6,1.48,0.55,2.244,W2
-Oct 24,Liberty University,West Virginia University ,10,0,Win,5.49,-0.56,6.05,0.082,97.8,4.51,0.56,2.918,W2
-Oct 25,Adrian College,Robert Morris University,1,0,Win,-2.3,-1.77,-0.53,0.73,77.1,3.3,1.77,2.27,W2
-Oct 25,Liberty University,Niagara University,6,1,Win,3.72,-0.23,3.95,0.853,73.2,2.28,1.23,2.147,W2
-Oct 25,North Dakota State University,Lake Region State College,7,4,Win,-1.95,-2.64,0.69,0.711,77.1,8.95,6.64,2.289,W2
-Oct 25,University of Pittsburgh,West Virginia University ,6,2,Win,3.4,0.31,3.09,0.982,68.5,2.6,1.69,2.018,W2
-Oct 25,Bentley University,University Of Connecticut,2,8,Loss,1.64,6.06,-4.43,-0.415,11.2,0.36,1.94,0.415,W2
-Oct 25,Army,Montclair State University,13,3,Win,11.44,2.63,8.81,0.566,84.3,1.56,0.37,2.434,W2
-Oct 25,Rowan University,Mercyhurst University,2,1,Win,-0.29,-1.64,1.35,1.689,43.2,2.29,2.64,1.311,W2
-Oct 25,Lawrence Technological University,University of Illinois,6,5,Win,2.05,3.51,-1.45,0.417,87.5,3.95,1.49,2.583,W2
-Oct 26,Robert Morris University,Liberty University,1,6,Loss,0.28,2.02,-1.74,-0.161,4.4,0.72,3.98,0.161,W2
-Oct 26,University of Wisconsin Eau Claire,University of Nebraska,10,0,Win,-1.47,-1.89,0.42,0,100,11.47,1.89,3,W2
-Oct 26,Niagara University,Rowan University,2,5,Loss,-0.68,2.9,-3.58,-1.819,61.4,2.68,2.1,1.819,W2
-Oct 26,University of New Hampshire,University of Vermont,1,3,Loss,0.42,2.09,-1.67,-1.185,37.7,0.58,0.91,1.185,W2
-Oct 26,Lawrence Technological University,University of Illinois,8,1,Win,4.05,-0.49,4.55,0.417,87.5,3.95,1.49,2.583,W2
-Oct 26,Mercyhurst University,Adrian College,2,2,Tie,-0.7,-0.28,-0.43,-0.231,58.3,2.7,2.28,1.731,W2
-Oct 26,Northern Michigan University,Eastern Michigan University,1,4,Loss,0.06,1.8,-1.74,-0.699,21.3,0.94,2.2,0.699,W2
-Oct 26,Sacred Heart University,Villanova University,5,3,Win,4.04,1.58,2.46,1.855,36.8,0.96,1.42,1.145,W2
-Oct 26,University Of Connecticut,Assumption University,5,4,Win,3.49,3.05,0.44,1.079,65.6,1.51,0.95,1.921,W2
-Oct 26,University of Maryland,University of Pittsburgh,5,1,Win,2.79,-1.37,4.15,1.587,46.9,2.21,2.37,1.413,W2
-Oct 26,Rochester Institute Of Technology,West Virginia University ,2,4,Loss,-0.52,0.23,-0.76,-0.922,29.7,2.52,3.77,0.922,W2
-Oct 26,Lake Region State College,Assiniboine College,0,6,Loss,-2.82,-5.15,2.33,-0.002,0,2.82,11.15,0.002,W2
-Oct 26,George Washington University,Georgetown University,0,8,Loss,-2.01,-1.09,-0.92,-0.019,0.5,2.01,9.09,0.019,W2
-Oct 27,Northern Michigan University,Eastern Michigan University,1,5,Loss,0.06,2.8,-2.74,-0.699,21.3,0.94,2.2,0.699,W2
-Oct 27,Liberty University,Mercyhurst University,10,0,Win,7.43,-1.17,8.6,0.69,78.8,2.57,1.17,2.31,W2
-Oct 27,Adrian College,Niagara University,3,5,Loss,1.05,2.07,-1.02,-0.979,31.5,1.95,2.93,0.979,W2
-Oct 27,University of North Carolina,University of Virginia,2,12,Loss,1.24,3.1,-1.86,-0.002,0.1,0.76,8.9,0.002,W2
-Oct 27,Rochester Institute Of Technology,West Virginia University ,2,2,Tie,-0.52,-1.77,1.24,0.578,29.7,2.52,3.77,0.922,W2
-Oct 27,Rowan University,Robert Morris University,6,5,OT Win,1.56,3.33,-1.77,-0.364,80.3,3.44,1.67,2.364,W2
-Oct 27,University of Wisconsin Eau Claire,University of Nebraska,10,0,Win,-1.47,-1.89,0.42,0,100,11.47,1.89,3,W2
-Oct 27,University Of Connecticut,Harvard University,8,8,Tie,5.97,7.64,-1.67,-1.119,89.8,2.03,0.36,2.619,W2
-Oct 27,Sacred Heart University,Army,10,1,Win,8.24,0.81,7.43,0.345,91.5,1.76,0.19,2.655,W2
-Oct 27,University of New Hampshire,College of the Holy Cross,10,2,Win,8.14,1.68,6.46,0.409,89.1,1.86,0.32,2.591,W2
-Oct 27,Villanova University,University of Pennsylvania,10,0,Win,5.74,-0.43,6.17,0.075,98.1,4.26,0.43,2.925,W2
-Oct 27,Northeastern University,Merrimack College,4,1,Win,1.71,0.51,1.2,0.383,89.4,2.29,0.49,2.617,W2
-Nov 1,Villanova University,United States Naval Academy,2,3,Loss,0.11,1.3,-1.19,-1.619,54.3,1.89,1.7,1.619,W2
-Nov 1,Aurora University,Central Michigan University,0,3,Loss,-1.06,1.03,-2.08,-0.89,27.9,1.06,1.97,0.89,W2
-Nov 1,Rowan University,University of Delaware,1,3,Loss,-1.1,1.11,-2.21,-1.625,54.5,2.1,1.89,1.625,W2
-Nov 1,West Chester University,University of Maryland,0,14,Loss,-1.17,8.4,-9.58,-0.103,2.9,1.17,5.6,0.103,W2
-Nov 2,University of Delaware,United States Naval Academy,1,4,Loss,-0.24,1.59,-1.83,-0.797,24.9,1.24,2.41,0.797,W2
-Nov 2,Aurora University,Central Michigan University,2,2,Tie,0.94,0.03,0.92,0.61,27.9,1.06,1.97,0.89,W2
-Nov 2,Boston College,Saint Anselm College,1,2,Loss,-0.54,1.17,-1.71,-2.037,69.9,1.54,0.83,2.037,W2
-Nov 2,University of Notre Dame,Lawrence Technological University,0,6,Loss,-1.29,3.44,-4.72,-0.76,23.7,1.29,2.56,0.76,W2
-Nov 2,Harvard University,Assumption University,6,14,Loss,5.36,11.6,-6.25,-0.441,12.6,0.64,2.4,0.441,W2
-Nov 2,University of Pittsburgh,Robert Morris University,1,5,Loss,-1.22,2.76,-3.99,-1.491,49.7,2.22,2.24,1.491,W2
-Nov 2,Mercyhurst University,West Chester University,7,2,Win,-0.9,1.21,-2.11,0.008,99.8,7.9,0.79,2.992,W2
-Nov 2,Villanova University,Liberty University,0,3,Loss,-1.24,1.29,-2.53,-1.17,37.9,1.24,1.71,1.17,W2
-Nov 2,Sacred Heart University,Worcester Polytechnic Institute,15,1,Win,11.77,0.73,11.04,0.119,97.1,3.23,0.27,2.881,W2
-Nov 3,Liberty University,United States Naval Academy,5,2,Win,3.32,0.87,2.45,1.111,64.3,1.68,1.13,1.889,W2
-Nov 3,Mercyhurst University,West Chester University,10,1,Win,2.1,0.21,1.89,0.008,99.8,7.9,0.79,2.992,W2
+Oct 18,Brockport State University,West Virginia University ,1,2,Loss,-1.1,-0.6,-0.5,-1.221,40,2.1,2.6,1.221,W2
+Oct 18,Merrimack College,University Of Connecticut,1,6,Loss,0.41,4.7,-4.29,-0.905,27.6,0.59,1.3,0.905,W2
+Oct 18,Aurora University,Maryville University,2,0,Win,0.37,-1.63,2,1.502,49.9,1.63,1.63,1.498,W2
+Oct 18,University of Virginia,Georgetown University,6,0,Win,1.18,-2.05,3.23,0.415,87.3,4.82,2.05,2.585,W2
+Oct 18,Hope College,University of Illinois,0,10,Loss,-0.85,-0.24,-0.61,-0,0,0.85,10.24,0,W2
+Oct 19,United States Air Force Academy,United States Naval Academy,0,12,Loss,-0.35,8.73,-9.08,-0.14,3.6,0.35,3.27,0.14,W2
+Oct 19,Rowan University,Liberty University,2,5,Loss,1.01,2.41,-1.39,-0.573,17.2,0.99,2.59,0.573,W2
+Oct 19,Lake Region State College,Augustana University,5,1,Win,-1.84,-6.5,4.66,1.735,41.9,6.84,7.5,1.265,W2
+Oct 19,Hope College,University of Illinois,0,14,Loss,-0.85,3.76,-4.61,-0,0,0.85,10.24,0,W2
+Oct 19,Brockport State University,Mercyhurst University,2,7,Loss,0.81,1.6,-0.79,-0.12,3.4,1.19,5.4,0.12,W2
+Oct 19,University of Pennsylvania,University of Delaware,1,11,Loss,0.41,8.09,-7.68,-0.284,7.8,0.59,2.91,0.284,W2
+Oct 19,Aurora University,Maryville University,5,6,Loss,3.37,4.37,-1,-1.498,49.9,1.63,1.63,1.498,W2
+Oct 19,Adrian College,Central Michigan University,0,3,Loss,-0.97,-0.39,-0.59,-0.342,9.9,0.97,3.39,0.342,W2
+Oct 19,Sacred Heart University,Assumption University,5,4,OT Win,2.66,3.05,-0.39,0.193,61.5,1.34,0.95,1.807,W2
+Oct 19,The Ohio State University,Northern Michigan University,2,3,Loss,-0.07,1.9,-1.97,-2.13,72.8,2.07,1.1,2.13,W2
+Oct 19,University of Minnesota Duluth,University of Saint Thomas,2,4,Loss,-2.33,-6.17,3.84,-0.075,2.2,4.33,10.17,0.075,W2
+Oct 19,University of Wisconsin,University of Wisconsin Eau Claire,5,0,Win,-5.79,-3.79,-2,0.018,99.5,10.79,3.79,2.982,W2
+Oct 19,United States Air Force Academy,University of Maryland,5,14,Loss,4.17,11.81,-7.64,-0.63,18.9,0.83,2.19,0.63,W2
+Oct 19,Montclair State University,West Chester University,1,14,Loss,0.03,10.61,-10.57,-0.337,9.8,0.97,3.39,0.337,W2
+Oct 19,University of Virginia,Georgetown University,4,1,Win,-0.82,-1.05,0.23,0.415,87.3,4.82,2.05,2.585,W2
+Oct 20,University of Wisconsin,University of Wisconsin Eau Claire,9,0,Win,-1.79,-3.79,2,0.018,99.5,10.79,3.79,2.982,W2
+Oct 20,University of Minnesota Duluth,University of Saint Thomas,2,7,Loss,-2.33,-3.17,0.84,-0.075,2.2,4.33,10.17,0.075,W2
+Oct 20,The Ohio State University,Northern Michigan University,6,2,Win,3.93,0.9,3.03,0.87,72.8,2.07,1.1,2.13,W2
+Oct 20,University Of Connecticut,Boston University,4,5,Loss,3.38,3.85,-0.47,-1.033,32.2,0.62,1.15,1.033,W2
+Oct 20,Central Michigan University,Adrian College,4,0,Win,0.73,-1.01,1.74,0.384,88.8,3.27,1.01,2.616,W2
+Oct 20,Northeastern University,Saint Anselm College,4,3,Win,2.35,2.05,0.3,0.988,68.8,1.65,0.95,2.012,W2
+Oct 20,Merrimack College,Sacred Heart University,1,2,Loss,0.41,0.85,-0.44,-1.004,31.1,0.59,1.15,1.004,W2
+Oct 20,University of New Hampshire,Providence College,2,1,Win,1.35,0.02,1.33,1.801,38.4,0.65,0.98,1.199,W2
+Oct 23,Merrimack College,Harvard University,6,3,Win,4.51,2.45,2.06,0.757,77.5,1.49,0.55,2.243,W2
+Oct 24,Liberty University,West Virginia University ,10,0,Win,5.44,-0.57,6.01,0.08,97.9,4.56,0.57,2.92,W2
+Oct 25,Adrian College,Robert Morris University,1,0,Win,-2.33,-1.78,-0.55,0.728,77.2,3.33,1.78,2.272,W2
+Oct 25,Liberty University,Niagara University,6,1,Win,3.71,-0.23,3.94,0.849,73.4,2.29,1.23,2.151,W2
+Oct 25,North Dakota State University,Lake Region State College,7,4,Win,-1.33,-2.12,0.79,0.752,75.8,8.33,6.12,2.248,W2
+Oct 25,University of Pittsburgh,West Virginia University ,6,2,Win,3.37,0.3,3.07,0.975,68.8,2.63,1.7,2.025,W2
+Oct 25,Bentley University,University Of Connecticut,2,8,Loss,1.64,6.06,-4.42,-0.413,11.1,0.36,1.94,0.413,W2
+Oct 25,Army,Montclair State University,13,3,Win,11.43,2.63,8.8,0.562,84.4,1.57,0.37,2.438,W2
+Oct 25,Rowan University,Mercyhurst University,2,1,Win,-0.3,-1.65,1.35,1.691,43.2,2.3,2.65,1.309,W2
+Oct 25,Lawrence Technological University,University of Illinois,6,5,Win,1.98,3.52,-1.53,0.397,88.1,4.02,1.48,2.603,W2
+Oct 26,Robert Morris University,Liberty University,1,6,Loss,0.28,1.97,-1.69,-0.155,4.2,0.72,4.03,0.155,W2
+Oct 26,University of Wisconsin Eau Claire,University of Nebraska,10,0,Win,-1.51,-1.91,0.39,0,100,11.51,1.91,3,W2
+Oct 26,Niagara University,Rowan University,2,5,Loss,-0.69,2.89,-3.57,-1.814,61.2,2.69,2.11,1.814,W2
+Oct 26,University of New Hampshire,University of Vermont,1,3,Loss,0.42,2.09,-1.67,-1.181,37.5,0.58,0.91,1.181,W2
+Oct 26,Lawrence Technological University,University of Illinois,8,1,Win,3.98,-0.48,4.47,0.397,88.1,4.02,1.48,2.603,W2
+Oct 26,Mercyhurst University,Adrian College,2,2,Tie,-0.72,-0.29,-0.42,-0.229,58.2,2.72,2.29,1.729,W2
+Oct 26,Northern Michigan University,Eastern Michigan University,1,4,Loss,0.06,1.8,-1.73,-0.696,21.2,0.94,2.2,0.696,W2
+Oct 26,Sacred Heart University,Villanova University,5,3,Win,4.04,1.58,2.46,1.853,36.9,0.96,1.42,1.147,W2
+Oct 26,University Of Connecticut,Assumption University,5,4,Win,3.49,3.05,0.44,1.078,65.6,1.51,0.95,1.922,W2
+Oct 26,Iowa State University,University of Wisconsin LaCrosse,4,2,Win,-5.89,-4.93,-0.96,0.504,84.2,9.89,6.93,2.496,W2
+Oct 26,University of Maryland,University of Pittsburgh,5,1,Win,2.78,-1.39,4.17,1.597,46.5,2.22,2.39,1.403,W2
+Oct 26,Rochester Institute Of Technology,West Virginia University ,2,4,Loss,-0.54,0.19,-0.73,-0.914,29.4,2.54,3.81,0.914,W2
+Oct 26,Lake Region State College,Assiniboine College,0,6,Loss,-2.68,-5.05,2.37,-0.002,0.1,2.68,11.05,0.002,W2
+Oct 26,George Washington University,Georgetown University,0,8,Loss,-2.02,-1.14,-0.88,-0.019,0.5,2.02,9.14,0.019,W2
+Oct 27,Northern Michigan University,Eastern Michigan University,1,5,Loss,0.06,2.8,-2.73,-0.696,21.2,0.94,2.2,0.696,W2
+Oct 27,Liberty University,Mercyhurst University,10,0,Win,7.42,-1.17,8.59,0.685,79,2.58,1.17,2.315,W2
+Oct 27,Adrian College,Niagara University,3,5,Loss,1.04,2.04,-1,-0.972,31.2,1.96,2.96,0.972,W2
+Oct 27,University of North Carolina,University of Virginia,2,12,Loss,1.24,3.07,-1.83,-0.002,0.1,0.76,8.93,0.002,W2
+Oct 27,Iowa State University,University of Wisconsin LaCrosse,3,4,Loss,-6.89,-2.93,-3.96,-2.496,84.2,9.89,6.93,2.496,W2
+Oct 27,Rochester Institute Of Technology,West Virginia University ,2,2,Tie,-0.54,-1.81,1.27,0.586,29.4,2.54,3.81,0.914,W2
+Oct 27,Rowan University,Robert Morris University,6,5,OT Win,1.53,3.32,-1.79,-0.369,80.4,3.47,1.68,2.369,W2
+Oct 27,University of Wisconsin Eau Claire,University of Nebraska,10,0,Win,-1.51,-1.91,0.39,0,100,11.51,1.91,3,W2
+Oct 27,University Of Connecticut,Harvard University,8,8,Tie,5.97,7.64,-1.68,-1.12,89.8,2.03,0.36,2.62,W2
+Oct 27,Sacred Heart University,Army,10,1,Win,8.24,0.81,7.43,0.344,91.5,1.76,0.19,2.656,W2
+Oct 27,University of New Hampshire,College of the Holy Cross,10,2,Win,8.13,1.68,6.45,0.407,89.2,1.87,0.32,2.593,W2
+Oct 27,Villanova University,University of Pennsylvania,10,0,Win,5.72,-0.43,6.15,0.074,98.1,4.28,0.43,2.926,W2
+Oct 27,Northeastern University,Merrimack College,4,1,Win,1.71,0.51,1.19,0.382,89.4,2.29,0.49,2.618,W2
+Nov 1,Villanova University,United States Naval Academy,2,3,Loss,0.11,1.29,-1.18,-1.613,54.1,1.89,1.71,1.613,W2
+Nov 1,Aurora University,Central Michigan University,0,3,Loss,-1.06,1.03,-2.09,-0.892,28,1.06,1.97,0.892,W2
+Nov 1,Rowan University,University of Delaware,1,3,Loss,-1.1,1.1,-2.2,-1.619,54.3,2.1,1.9,1.619,W2
+Nov 1,West Chester University,University of Maryland,0,14,Loss,-1.18,8.34,-9.53,-0.1,2.8,1.18,5.66,0.1,W2
+Nov 2,University of Delaware,United States Naval Academy,1,4,Loss,-0.24,1.58,-1.82,-0.792,24.7,1.24,2.42,0.792,W2
+Nov 2,Aurora University,Central Michigan University,2,2,Tie,0.94,0.03,0.91,0.608,28,1.06,1.97,0.892,W2
+Nov 2,Boston College,Saint Anselm College,1,2,Loss,-0.54,1.17,-1.71,-2.04,70,1.54,0.83,2.04,W2
+Nov 2,University of Notre Dame,Lawrence Technological University,0,6,Loss,-1.29,3.42,-4.71,-0.756,23.5,1.29,2.58,0.756,W2
+Nov 2,Harvard University,Assumption University,6,14,Loss,5.36,11.59,-6.23,-0.438,12.5,0.64,2.41,0.438,W2
+Nov 2,University of Pittsburgh,Robert Morris University,1,5,Loss,-1.24,2.76,-4,-1.499,49.9,2.24,2.24,1.499,W2
+Nov 2,Mercyhurst University,West Chester University,7,2,Win,-0.93,1.21,-2.14,0.007,99.8,7.93,0.79,2.993,W2
+Nov 2,Villanova University,Liberty University,0,3,Loss,-1.24,1.27,-2.51,-1.162,37.6,1.24,1.73,1.162,W2
+Nov 2,Sacred Heart University,Worcester Polytechnic Institute,15,1,Win,11.76,0.73,11.03,0.118,97.1,3.24,0.27,2.882,W2
+Nov 3,Liberty University,United States Naval Academy,5,2,Win,3.32,0.86,2.45,1.111,64.3,1.68,1.14,1.889,W2
+Nov 3,Mercyhurst University,West Chester University,10,1,Win,2.07,0.21,1.86,0.007,99.8,7.93,0.79,2.993,W2
 Nov 3,Boston University,University of New Hampshire,2,1,Win,0.95,0.44,0.51,1.052,67.3,1.05,0.56,1.948,W2
-Nov 3,Lawrence Technological University,University of Notre Dame,2,1,Win,-0.48,-0.33,-0.15,0.823,74.2,2.48,1.33,2.177,W2
-Nov 3,Brockport State University,Niagara University,1,8,Loss,-0.05,2.39,-2.44,-0.085,2.4,1.05,5.61,0.085,W2
-Nov 3,University of Delaware,Villanova University,0,4,Loss,-1.22,1.27,-2.49,-0.656,20.1,1.22,2.73,0.656,W2
-Nov 3,Bentley University,Sacred Heart University,2,7,Loss,1.64,5.29,-3.65,-0.495,13.5,0.36,1.71,0.495,W2
-Nov 3,Virginia Tech,University of North Carolina,7,0,Win,0.17,-0.85,1.02,0.024,99.4,6.83,0.85,2.976,W2
-Nov 3,Northeastern University,Harvard University,13,1,Win,9.29,0.72,8.57,0.082,98,3.71,0.28,2.918,W2
-Nov 3,University of Vermont,College of the Holy Cross,7,1,Win,4.53,0.72,3.81,0.23,94.1,2.47,0.28,2.77,W2
-Nov 3,University Of Connecticut,Providence College,1,5,Loss,0.25,3.96,-3.71,-1.243,40.2,0.75,1.04,1.243,W2
-Nov 4,Saint Anselm College,Sacred Heart University,1,0,Win,-0.15,-0.82,0.67,1.223,60.5,1.15,0.82,1.777,W2
-Nov 8,Augustana University,Lake Region State College,4,1,Win,-4.36,-7.17,2.81,1.427,52.5,8.36,8.17,1.573,W2
-Nov 8,Assiniboine College,North Dakota State University,6,1,Win,-4.03,-1.79,-2.24,0.017,99.5,10.03,2.79,2.983,W2
-Nov 8,Sault College,Lawrence Technological University,7,1,Win,0.8,0.29,0.52,0.03,99.2,6.2,0.71,2.97,W2
-Nov 8,Bowling Green State University,Central Michigan University,0,4,Loss,-0.98,-0.52,-0.46,-0.163,4.6,0.98,4.52,0.163,W2
-Nov 8,Boston College,Northeastern University,1,3,Loss,-0.09,1.94,-2.03,-1.526,51,1.09,1.06,1.526,W2
-Nov 8,Iowa State University,University of Minnesota Duluth,4,3,Win,-4.4,-4.67,0.27,1.234,59.2,8.4,7.67,1.766,W2
-Nov 8,Miami University,Hope College,24,0,Win,13.35,-0.72,14.07,0,100,10.65,0.72,3,W2
-Nov 8,University of Delaware,University of Maryland,4,5,OT Loss,1.08,2.38,-1.31,-1.202,74.9,2.92,1.62,2.202,W2
-Nov 8,Mercyhurst University,West Virginia University ,6,2,Win,1.37,0.69,0.67,0.229,93.4,4.63,1.31,2.771,W2
-Nov 8,Michigan State University,Aurora University,0,2,Loss,-2.04,-1.08,-0.97,-0.964,31,2.04,3.08,0.964,W2
-Nov 9,Bowling Green State University,Central Michigan University,1,5,Loss,0.02,0.48,-0.46,-0.163,4.6,0.98,4.52,0.163,W2
-Nov 9,Miami University,Hope College,30,0,Win,19.35,-0.72,20.07,0,100,10.65,0.72,3,W2
-Nov 9,Mercyhurst University,West Virginia University ,3,4,Loss,-1.63,2.69,-4.33,-2.771,93.4,4.63,1.31,2.771,W2
-Nov 9,University of Minnesota Duluth,Assiniboine College,0,3,Loss,-3.43,-7.23,3.8,-0.028,0.8,3.43,10.23,0.028,W2
-Nov 9,Sault College,Lawrence Technological University,9,0,Win,2.8,-0.71,3.52,0.03,99.2,6.2,0.71,2.97,W2
-Nov 9,Robert Morris University,Brockport State University,3,2,Win,-0.3,0.17,-0.47,0.764,75.9,3.3,1.83,2.236,W2
-Nov 9,University of Wisconsin Eau Claire,University of Wisconsin,2,4,Loss,-1.54,-6.71,5.16,-0.016,0.4,3.54,10.71,0.016,W2
-Nov 9,University of Delaware,Rowan University,1,3,Loss,-0.83,0.83,-1.66,-1.297,42.7,1.83,2.17,1.297,W2
-Nov 9,Iowa State University,North Dakota State University,3,2,OT Win,-6.24,-4.28,-1.96,-0.172,73.2,8.24,6.28,2.172,W2
-Nov 9,Augustana University,Lake Region State College,5,4,OT Win,-4.36,-4.17,-0.19,0.427,52.5,8.36,8.17,1.573,W2
-Nov 9,United States Naval Academy,Villanova University,2,4,Loss,0.35,2.05,-1.7,-1.307,43,1.65,1.95,1.307,W2
-Nov 9,Michigan State University,Aurora University,1,1,Tie,-1.04,-2.08,1.03,0.536,31,2.04,3.08,0.964,W2
-Nov 9,Dakota College at Bottineau,University of Saint Thomas,3,6,Loss,-0.36,0.83,-1.19,-0.789,25.3,3.36,5.17,0.789,W2
-Nov 9,University of Wisconsin LaCrosse,Maryville University,0,3,Loss,-1.97,-6.64,4.67,-0.009,0.3,1.97,9.64,0.009,W2
-Nov 9,Georgetown University,George Washington University,13,0,Win,4.07,-2.08,6.15,0.025,99.3,8.93,2.08,2.975,W2
-Nov 10,Dakota College at Bottineau,University of Saint Thomas,5,8,Loss,1.64,2.83,-1.19,-0.789,25.3,3.36,5.17,0.789,W2
-Nov 10,Assiniboine College,Iowa State University,6,0,Win,-3.97,-3.97,0,0.068,98,9.97,3.97,2.932,W2
-Nov 10,United States Naval Academy,Villanova University,5,3,Win,3.35,1.05,2.3,1.693,43,1.65,1.95,1.307,W2
-Nov 10,University of Minnesota Duluth,North Dakota State University,3,2,OT Win,-5.59,-4.55,-1.03,0.134,62.7,7.59,6.55,1.866,W2
-Nov 10,University of Wisconsin Eau Claire,University of Wisconsin,0,7,Loss,-3.54,-3.71,0.16,-0.016,0.4,3.54,10.71,0.016,W2
-Nov 10,Boston University,University of Vermont,1,0,Win,0.08,-0.74,0.83,1.339,56.2,0.92,0.74,1.661,W2
-Nov 10,Bowling Green State University,Adrian College,2,1,OT Win,-1.27,-2.14,0.87,0.942,34.3,2.27,3.14,1.058,W2
-Nov 10,Robert Morris University,Rochester Institute Of Technology,3,3,Tie,-1.81,0.78,-2.58,-1.025,85.4,4.81,2.22,2.525,W2
-Nov 10,University Of Connecticut,Bentley University,7,3,Win,5.13,2.62,2.5,0.445,87.9,1.87,0.38,2.555,W2
-Nov 10,University of Wisconsin LaCrosse,Maryville University,1,5,Loss,-0.97,-4.64,3.67,-0.009,0.3,1.97,9.64,0.009,W2
-Nov 10,University of Pennsylvania,University of Maryland,4,8,Loss,3.01,5.39,-2.38,-0.57,17.1,0.99,2.61,0.57,W2
-Nov 10,Assumption University,Merrimack College,5,3,Win,3.57,1.86,1.71,1.286,57.9,1.43,1.14,1.714,W2
-Nov 10,Providence College,College of the Holy Cross,11,0,Win,8.35,-0.32,8.67,0.213,94.5,2.65,0.32,2.787,W2
-Nov 15,University of North Carolina,Liberty University,0,23,Loss,-0.13,11.98,-12.11,-0,0,0.13,11.02,0,W2
-Nov 15,Virginia Tech,Georgetown University,5,1,Win,1.58,-1.21,2.79,0.906,71,3.42,2.21,2.094,W2
-Nov 15,University of Maryland,Mercyhurst University,1,10,Loss,-0.71,5.79,-6.49,-0.433,13.1,1.71,4.21,0.433,W2
-Nov 15,Niagara University,University of Delaware,5,1,Win,2.47,-0.73,3.2,1.04,66.5,2.53,1.73,1.96,W2
-Nov 15,University of Wisconsin,Iowa State University,2,1,Win,-7.68,-3.84,-3.84,0.178,94.6,9.68,4.84,2.822,W2
-Nov 15,Miami University,Lawrence Technological University,1,2,OT Loss,-0.76,-2.38,1.63,0.305,21.7,1.76,3.38,0.695,W2
-Nov 15,West Virginia University ,West Chester University,9,4,Win,4.97,2.62,2.35,0.355,89.5,4.03,1.38,2.645,W2
-Nov 15,University of Pittsburgh,Bowling Green State University,5,3,Win,2.96,0.04,2.92,1.988,32.7,2.04,2.96,1.012,W2
-Nov 15,The Ohio State University,Aurora University,4,4,Tie,1.6,2.95,-1.35,-0.813,79,2.4,1.05,2.313,W2
-Nov 15,Adrian College,University of Illinois,4,3,Win,0.04,1.01,-0.97,0.613,80.9,3.96,1.99,2.387,W2
-Nov 16,Harvard University,Saint Anselm College,6,20,Loss,5.61,16.98,-11.37,-0.183,4.8,0.39,3.02,0.183,W2
-Nov 16,Georgetown University,Liberty University,0,9,Loss,-0.34,0.14,-0.49,-0.001,0,0.34,8.86,0.001,W2
-Nov 16,University of Delaware,Robert Morris University,7,5,Win,4.16,3.42,0.75,0.814,74.3,2.84,1.58,2.186,W2
-Nov 16,University of Virginia,George Washington University,13,0,Win,2.41,-1.37,3.78,0,100,10.59,1.37,3,W2
-Nov 16,United States Naval Academy,Mercyhurst University,4,2,Win,1.45,0.22,1.24,1.064,65.6,2.55,1.78,1.936,W2
-Nov 16,University of Pittsburgh,Bowling Green State University,1,2,Loss,-1.04,-0.96,-0.08,-1.012,32.7,2.04,2.96,1.012,W2
-Nov 16,Miami University,Lawrence Technological University,1,1,Tie,-0.76,-2.38,1.63,0.805,21.7,1.76,3.38,0.695,W2
-Nov 16,University of Wisconsin,Iowa State University,6,1,Win,-3.68,-3.84,0.16,0.178,94.6,9.68,4.84,2.822,W2
-Nov 16,Augustana University,University of Iowa,4,3,OT Win,-0.64,-3.87,3.23,1.56,13.7,3.64,6.87,0.44,W2
-Nov 16,Niagara University,University of Maryland,6,0,Win,1.72,-1.56,3.29,0.368,89,4.28,1.56,2.632,W2
-Nov 16,University of Vermont,Assumption University,7,2,Win,5.25,1.22,4.03,0.805,75.4,1.75,0.78,2.195,W2
-Nov 16,Central Michigan University,Eastern Michigan University,5,6,Loss,3.82,4.14,-0.31,-1.036,33.1,1.18,1.86,1.036,W2
-Nov 16,The Ohio State University,Aurora University,3,0,Win,0.6,-1.05,1.65,0.687,79,2.4,1.05,2.313,W2
-Nov 16,Michigan State University,Northern Michigan University,2,2,Tie,0.24,-1.23,1.47,0.746,23.7,1.76,3.23,0.754,W2
-Nov 16,Northeastern University,University Of Connecticut,3,2,Win,1.53,1.34,0.19,0.859,73.8,1.47,0.66,2.141,W2
-Nov 16,West Virginia University ,Liberty University,0,4,Loss,-0.55,-0.66,0.12,-0.07,1.8,0.55,4.66,0.07,W2
-Nov 16,Adrian College,Maryville University,3,2,Win,1.49,-0.74,2.23,2.185,25.7,1.51,2.74,0.815,W2
-Nov 16,Virginia Tech,University of Virginia,3,4,Loss,0.74,0.45,0.29,-0.88,28.2,2.26,3.55,0.88,W2
-Nov 16,Assiniboine College,University of Saint Thomas,2,3,Loss,-4.86,-2.66,-2.2,-1.929,64.9,6.86,5.66,1.929,W2
-Nov 17,United States Naval Academy,Niagara University,3,2,OT Win,-0.26,0.13,-0.39,0.27,58.3,2.26,1.87,1.73,W2
-Nov 17,Michigan State University,Northern Michigan University,1,1,Tie,-0.76,-2.23,1.47,0.746,23.7,1.76,3.23,0.754,W2
-Nov 17,Assiniboine College,University of Saint Thomas,1,0,Win,-5.86,-5.66,-0.2,1.071,64.9,6.86,5.66,1.929,W2
-Nov 17,Virginia Tech,West Chester University,2,7,Loss,-0.88,4.87,-5.75,-1.899,64.2,2.88,2.13,1.899,W2
-Nov 17,University of Delaware,Mercyhurst University,2,6,Loss,0.11,3.51,-3.39,-1.154,37.6,1.89,2.49,1.154,W2
-Nov 17,Augustana University,University of Iowa,4,3,OT Win,-0.64,-3.87,3.23,1.56,13.7,3.64,6.87,0.44,W2
-Nov 17,University of Maryland,Robert Morris University,1,4,Loss,-1.56,1.33,-2.89,-1.443,48,2.56,2.67,1.443,W2
-Nov 17,University of North Carolina,George Washington University,6,9,Loss,2.07,4.74,-2.67,-1.36,45.1,3.93,4.26,1.36,W2
-Nov 17,Adrian College,Maryville University,1,0,Win,-0.51,-2.74,2.23,2.185,25.7,1.51,2.74,0.815,W2
-Nov 17,Saint Anselm College,University of New Hampshire,3,1,Win,1.91,0.18,1.72,1.261,59.1,1.09,0.82,1.739,W2
-Nov 17,Army,Sacred Heart University,2,11,Loss,1.82,9.18,-7.36,-0.324,7.9,0.18,1.82,0.324,W2
-Nov 17,University of Virginia,Liberty University,2,11,Loss,1.45,4.47,-3.02,-0.015,0.4,0.55,6.53,0.015,W2
-Nov 17,Boston University,Harvard University,10,1,Win,7.2,0.72,6.48,0.172,95.7,2.8,0.28,2.828,W2
-Nov 17,Northeastern University,College of the Holy Cross,7,0,Win,3.1,-0.27,3.37,0.067,98.3,3.9,0.27,2.933,W2
-Nov 17,Assumption University,Providence College,3,1,Win,2.15,-0.94,3.09,2.241,23.2,0.85,1.94,0.759,W2
-Nov 17,Boston College,University Of Connecticut,5,4,Win,3.62,3.42,0.2,0.846,74.4,1.38,0.58,2.154,W2
-Nov 22,Montclair State University,Loyola University Maryland,11,3,Win,7.76,1.48,6.28,0.63,80.5,3.24,1.52,2.37,W2
-Nov 22,Liberty University,Rowan University,3,1,Win,0.51,-0.02,0.53,0.631,80.9,2.49,1.02,2.369,W2
-Nov 22,Brockport State University,Villanova University,1,9,Loss,0.23,3.17,-2.93,-0.044,1.2,0.77,5.83,0.044,W2
-Nov 22,Bowling Green State University,Aurora University,1,2,Loss,-0.33,-1.42,1.08,-0.487,14.7,1.33,3.42,0.487,W2
-Nov 23,Adrian College,Michigan State University,1,3,Loss,-1.73,-0.6,-1.13,-1.09,35.5,2.73,3.6,1.09,W2
-Nov 23,Providence College,Saint Anselm College,2,0,Win,0.88,-1.11,1.99,1.49,50.4,1.12,1.11,1.51,W2
-Nov 23,University of Maryland,Liberty University,0,3,Loss,-0.74,-1.1,0.37,-0.151,4.2,0.74,4.1,0.151,W2
-Nov 23,Brockport State University,Loyola University Maryland,10,1,Win,0.12,0.3,-0.18,0,100,9.88,0.7,3,W2
-Nov 23,Central Michigan University,Lawrence Technological University,9,1,Win,6.56,0,6.56,0.639,80.7,2.44,1,2.361,W2
-Nov 23,University of Pennsylvania,Villanova University,3,12,Loss,2.58,7.59,-5.01,-0.065,1.7,0.42,4.41,0.065,W2
-Nov 23,University of Wisconsin Eau Claire,Assiniboine College,0,4,Loss,-2.9,-6.86,3.96,-0.005,0.1,2.9,10.86,0.005,W2
-Nov 23,Niagara University,Rochester Institute Of Technology,10,3,Win,2.41,1.69,0.73,0.029,99.2,7.59,1.31,2.971,W2
-Nov 23,Bowling Green State University,Aurora University,2,2,Tie,0.67,-1.42,2.08,1.013,14.7,1.33,3.42,0.487,W2
-Nov 23,Hope College,University of Notre Dame,0,23,Loss,-0.53,13.14,-13.67,-0,0,0.53,9.86,0,W2
-Nov 23,Mercyhurst University,Robert Morris University,4,1,Win,0.04,-0.73,0.77,0.505,84.6,3.96,1.73,2.495,W2
-Nov 24,University of Wisconsin Eau Claire,Assiniboine College,0,4,Loss,-2.9,-6.86,3.96,-0.005,0.1,2.9,10.86,0.005,W2
-Nov 24,West Chester University,Brockport State University,4,7,Loss,2.5,3.1,-0.6,-0.429,12.9,1.5,3.9,0.429,W2
-Nov 24,University of Maryland,Rowan University,3,5,Loss,1.35,1.34,0.01,-0.558,17.1,1.65,3.66,0.558,W2
-Nov 24,Lawrence Technological University,Central Michigan University,5,6,OT Loss,4.03,2.48,1.55,0.411,17.7,0.97,2.52,0.589,W2
-Nov 24,Assumption University,Sacred Heart University,1,6,Loss,0.08,4.62,-4.54,-1.137,36.4,0.92,1.38,1.137,W2
-Nov 24,University of North Carolina,Virginia Tech,0,7,Loss,-0.82,-0.02,-0.8,-0.019,0.5,0.82,7.02,0.019,W2
-Nov 24,Michigan State University,Adrian College,3,2,OT Win,-1.48,-0.82,-0.66,0.185,61.1,3.48,2.82,1.815,W2
-Nov 24,Niagara University,Mercyhurst University,1,3,Loss,-1.77,0.58,-2.35,-1.687,56.7,2.77,2.42,1.687,W2
-Nov 30,Niagara University,Sault College,1,10,Loss,0.13,2.78,-2.65,-0.018,0.5,0.87,7.22,0.018,W2
-Dec 1,Niagara University,Sault College,2,3,Loss,1.13,-4.22,5.35,-0.018,0.5,0.87,7.22,0.018,W2
-Dec 6,West Chester University,Robert Morris University,1,5,Loss,-0.14,-0.48,0.34,-0.107,3,1.14,5.48,0.107,W2
-Dec 6,Central Michigan University,Niagara University,5,1,Win,2.19,-0.26,2.45,0.645,80.2,2.81,1.26,2.355,W2
-Dec 6,Maryville University,Aurora University,3,2,Win,1.44,0.3,1.15,1.597,46.5,1.56,1.7,1.403,W2
-Dec 7,University of Delaware,University of Pennsylvania,2,0,Win,-0.8,-0.61,-0.19,0.317,91.2,2.8,0.61,2.683,W2
-Dec 7,Sacred Heart University,University of Vermont,1,2,Loss,0.41,1.04,-0.63,-1.15,36.4,0.59,0.96,1.15,W2
-Dec 7,West Chester University,Robert Morris University,1,6,Loss,-0.14,0.52,-0.66,-0.107,3,1.14,5.48,0.107,W2
-Dec 7,Central Michigan University,Mercyhurst University,5,3,Win,1.82,1.8,0.03,0.496,85.1,3.18,1.2,2.504,W2
-Dec 7,Dakota College at Bottineau,University of Wisconsin,3,5,Loss,-0.36,-0,-0.36,-0.843,27.1,3.36,5,0.843,W2
-Dec 7,North Dakota State University,University of Saint Thomas,1,7,Loss,-2.3,-2.99,0.69,-0.033,1,3.3,9.99,0.033,W2
-Dec 7,Maryville University,Aurora University,1,3,Loss,-0.56,1.3,-1.85,-1.403,46.5,1.56,1.7,1.403,W2
-Dec 7,Adrian College,University of Notre Dame,1,0,Win,-1.49,-1.77,0.28,1.087,64.8,2.49,1.77,1.913,W2
-Dec 7,Rowan University,University of Maryland,2,3,OT Loss,-1.54,0.29,-1.83,-1.381,80.8,3.54,1.71,2.381,W2
-Dec 8,North Dakota State University,University of Saint Thomas,1,2,Loss,-2.3,-7.99,5.69,-0.033,1,3.3,9.99,0.033,W2
+Nov 3,Lawrence Technological University,University of Notre Dame,2,1,Win,-0.49,-0.34,-0.15,0.824,74.2,2.49,1.34,2.176,W2
+Nov 3,Brockport State University,Niagara University,1,8,Loss,-0.05,2.34,-2.4,-0.083,2.3,1.05,5.66,0.083,W2
+Nov 3,University of Delaware,Villanova University,0,4,Loss,-1.22,1.26,-2.48,-0.653,20,1.22,2.74,0.653,W2
+Nov 3,Bentley University,Sacred Heart University,2,7,Loss,1.64,5.28,-3.65,-0.493,13.5,0.36,1.72,0.493,W2
+Nov 3,Virginia Tech,University of North Carolina,7,0,Win,0.15,-0.86,1,0.023,99.4,6.85,0.86,2.977,W2
+Nov 3,Northeastern University,Harvard University,13,1,Win,9.27,0.72,8.56,0.081,98,3.73,0.28,2.919,W2
+Nov 3,University of Vermont,College of the Holy Cross,7,1,Win,4.52,0.72,3.81,0.229,94.2,2.48,0.28,2.771,W2
+Nov 3,University Of Connecticut,Providence College,1,5,Loss,0.25,3.96,-3.71,-1.243,40.1,0.75,1.04,1.243,W2
+Nov 4,Saint Anselm College,Sacred Heart University,1,0,Win,-0.15,-0.83,0.68,1.227,60.3,1.15,0.83,1.773,W2
+Nov 8,Augustana University,Lake Region State College,4,1,Win,-3.29,-6.05,2.76,1.415,52.9,7.29,7.05,1.585,W2
+Nov 8,Assiniboine College,North Dakota State University,6,1,Win,-4.17,-1.92,-2.24,0.017,99.5,10.17,2.92,2.983,W2
+Nov 8,Sault College,Lawrence Technological University,7,1,Win,0.77,0.28,0.49,0.029,99.2,6.23,0.72,2.971,W2
+Nov 8,Bowling Green State University,Central Michigan University,0,4,Loss,-0.98,-0.52,-0.45,-0.163,4.6,0.98,4.52,0.163,W2
+Nov 8,Boston College,Northeastern University,1,3,Loss,-0.09,1.94,-2.03,-1.525,51,1.09,1.06,1.525,W2
+Nov 8,Iowa State University,University of Minnesota Duluth,4,3,Win,-4.16,-4.9,0.74,1.405,53.3,8.16,7.9,1.595,W2
+Nov 8,Miami University,Hope College,24,0,Win,13.34,-0.72,14.06,0,100,10.66,0.72,3,W2
+Nov 8,University of Delaware,University of Maryland,4,5,OT Loss,1.06,2.38,-1.31,-1.204,74.9,2.94,1.62,2.204,W2
+Nov 8,Mercyhurst University,West Virginia University ,6,2,Win,1.33,0.68,0.65,0.226,93.4,4.67,1.32,2.774,W2
+Nov 8,Michigan State University,Aurora University,0,2,Loss,-2.04,-1.09,-0.94,-0.954,30.6,2.04,3.09,0.954,W2
+Nov 9,Bowling Green State University,Central Michigan University,1,5,Loss,0.02,0.48,-0.45,-0.163,4.6,0.98,4.52,0.163,W2
+Nov 9,Miami University,Hope College,30,0,Win,19.34,-0.72,20.06,0,100,10.66,0.72,3,W2
+Nov 9,Mercyhurst University,West Virginia University ,3,4,Loss,-1.67,2.68,-4.35,-2.774,93.4,4.67,1.32,2.774,W2
+Nov 9,University of Minnesota Duluth,Assiniboine College,0,3,Loss,-3.63,-7.38,3.75,-0.029,0.8,3.63,10.38,0.029,W2
+Nov 9,Sault College,Lawrence Technological University,9,0,Win,2.77,-0.72,3.49,0.029,99.2,6.23,0.72,2.971,W2
+Nov 9,Robert Morris University,Brockport State University,3,2,Win,-0.32,0.14,-0.46,0.769,75.8,3.32,1.86,2.231,W2
+Nov 9,University of Wisconsin Eau Claire,University of Wisconsin,2,4,Loss,-1.66,-6.86,5.2,-0.014,0.4,3.66,10.86,0.014,W2
+Nov 9,University of Delaware,Rowan University,1,3,Loss,-0.84,0.82,-1.66,-1.295,42.6,1.84,2.18,1.295,W2
+Nov 9,Iowa State University,North Dakota State University,3,2,OT Win,-5.94,-4.43,-1.51,-0.027,68.2,7.94,6.43,2.027,W2
+Nov 9,Augustana University,Lake Region State College,5,4,OT Win,-3.29,-3.05,-0.24,0.415,52.9,7.29,7.05,1.585,W2
+Nov 9,United States Naval Academy,Villanova University,2,4,Loss,0.35,2.04,-1.69,-1.306,42.9,1.65,1.96,1.306,W2
+Nov 9,Michigan State University,Aurora University,1,1,Tie,-1.04,-2.09,1.06,0.546,30.6,2.04,3.09,0.954,W2
+Nov 9,Dakota College at Bottineau,University of Saint Thomas,3,6,Loss,-0.58,0.74,-1.32,-0.844,27.2,3.58,5.26,0.844,W2
+Nov 9,University of Wisconsin LaCrosse,Maryville University,0,3,Loss,-2.14,-5.26,3.12,-0.05,1.4,2.14,8.26,0.05,W2
+Nov 9,Georgetown University,George Washington University,13,0,Win,4.03,-2.1,6.13,0.025,99.3,8.97,2.1,2.975,W2
+Nov 10,Dakota College at Bottineau,University of Saint Thomas,5,8,Loss,1.42,2.74,-1.32,-0.844,27.2,3.58,5.26,0.844,W2
+Nov 10,Assiniboine College,Iowa State University,6,0,Win,-4.18,-3.95,-0.23,0.052,98.5,10.18,3.95,2.948,W2
+Nov 10,United States Naval Academy,Villanova University,5,3,Win,3.35,1.04,2.31,1.694,42.9,1.65,1.96,1.306,W2
+Nov 10,University of Minnesota Duluth,North Dakota State University,3,2,OT Win,-5.66,-4.62,-1.04,0.132,62.8,7.66,6.62,1.868,W2
+Nov 10,University of Wisconsin Eau Claire,University of Wisconsin,0,7,Loss,-3.66,-3.86,0.2,-0.014,0.4,3.66,10.86,0.014,W2
+Nov 10,Boston University,University of Vermont,1,0,Win,0.08,-0.74,0.83,1.341,56.2,0.92,0.74,1.659,W2
+Nov 10,Bowling Green State University,Adrian College,2,1,OT Win,-1.28,-2.15,0.86,0.939,34.4,2.28,3.15,1.061,W2
+Nov 10,Robert Morris University,Rochester Institute Of Technology,3,3,Tie,-1.84,0.75,-2.6,-1.026,85.4,4.84,2.25,2.526,W2
+Nov 10,University Of Connecticut,Bentley University,7,3,Win,5.12,2.62,2.5,0.445,87.9,1.88,0.38,2.555,W2
+Nov 10,University of Wisconsin LaCrosse,Maryville University,1,5,Loss,-1.14,-3.26,2.12,-0.05,1.4,2.14,8.26,0.05,W2
+Nov 10,University of Pennsylvania,University of Maryland,4,8,Loss,3,5.37,-2.37,-0.566,17,1,2.63,0.566,W2
+Nov 10,Assumption University,Merrimack College,5,3,Win,3.57,1.85,1.72,1.289,57.8,1.43,1.15,1.711,W2
+Nov 10,Providence College,College of the Holy Cross,11,0,Win,8.34,-0.32,8.66,0.211,94.6,2.66,0.32,2.789,W2
+Nov 15,University of North Carolina,Liberty University,0,23,Loss,-0.13,11.97,-12.1,-0,0,0.13,11.03,0,W2
+Nov 15,Virginia Tech,Georgetown University,5,1,Win,1.56,-1.22,2.78,0.903,71,3.44,2.22,2.097,W2
+Nov 15,University of Maryland,Mercyhurst University,1,10,Loss,-0.72,5.76,-6.47,-0.429,13,1.72,4.24,0.429,W2
+Nov 15,Niagara University,University of Delaware,5,1,Win,2.46,-0.74,3.21,1.047,66.2,2.54,1.74,1.953,W2
+Nov 15,University of Wisconsin,Iowa State University,2,1,Win,-8.02,-3.57,-4.44,0.108,96.8,10.02,4.57,2.892,W2
+Nov 15,Miami University,Lawrence Technological University,1,2,OT Loss,-0.76,-2.41,1.65,0.314,21.4,1.76,3.41,0.686,W2
+Nov 15,West Virginia University ,West Chester University,9,4,Win,4.94,2.6,2.34,0.356,89.4,4.06,1.4,2.644,W2
+Nov 15,University of Pittsburgh,Bowling Green State University,5,3,Win,2.96,0.02,2.94,1.993,32.5,2.04,2.98,1.007,W2
+Nov 15,The Ohio State University,Aurora University,4,4,Tie,1.61,2.95,-1.33,-0.807,78.8,2.39,1.05,2.307,W2
+Nov 15,Adrian College,University of Illinois,4,3,Win,-0.06,1.03,-1.08,0.577,82.1,4.06,1.97,2.423,W2
+Nov 16,Harvard University,Saint Anselm College,6,20,Loss,5.61,16.97,-11.35,-0.181,4.7,0.39,3.03,0.181,W2
+Nov 16,Georgetown University,Liberty University,0,9,Loss,-0.34,0.11,-0.45,-0.001,0,0.34,8.89,0.001,W2
+Nov 16,University of Delaware,Robert Morris University,7,5,Win,4.14,3.41,0.73,0.808,74.6,2.86,1.59,2.192,W2
+Nov 16,University of Virginia,George Washington University,13,0,Win,2.39,-1.38,3.77,0,100,10.61,1.38,3,W2
+Nov 16,United States Naval Academy,Mercyhurst University,4,2,Win,1.44,0.21,1.23,1.061,65.7,2.56,1.79,1.939,W2
+Nov 16,University of Pittsburgh,Bowling Green State University,1,2,Loss,-1.04,-0.98,-0.06,-1.007,32.5,2.04,2.98,1.007,W2
+Nov 16,Miami University,Lawrence Technological University,1,1,Tie,-0.76,-2.41,1.65,0.814,21.4,1.76,3.41,0.686,W2
+Nov 16,University of Wisconsin,Iowa State University,6,1,Win,-4.02,-3.57,-0.44,0.108,96.8,10.02,4.57,2.892,W2
+Nov 16,Augustana University,University of Iowa,4,3,OT Win,-0.31,-3.19,2.88,1.502,15.6,3.31,6.19,0.498,W2
+Nov 16,Niagara University,University of Maryland,6,0,Win,1.71,-1.58,3.28,0.368,89,4.29,1.58,2.632,W2
+Nov 16,University of Vermont,Assumption University,7,2,Win,5.25,1.21,4.03,0.805,75.4,1.75,0.79,2.195,W2
+Nov 16,Central Michigan University,Eastern Michigan University,5,6,Loss,3.82,4.13,-0.31,-1.035,33,1.18,1.87,1.035,W2
+Nov 16,The Ohio State University,Aurora University,3,0,Win,0.61,-1.05,1.67,0.693,78.8,2.39,1.05,2.307,W2
+Nov 16,Michigan State University,Northern Michigan University,2,2,Tie,0.23,-1.24,1.47,0.747,23.7,1.77,3.24,0.753,W2
+Nov 16,Northeastern University,University Of Connecticut,3,2,Win,1.53,1.34,0.19,0.86,73.8,1.47,0.66,2.14,W2
+Nov 16,West Virginia University ,Liberty University,0,4,Loss,-0.55,-0.72,0.18,-0.067,1.8,0.55,4.72,0.067,W2
+Nov 16,Adrian College,Maryville University,3,2,Win,1.5,-0.81,2.31,2.22,24.4,1.5,2.81,0.78,W2
+Nov 16,Virginia Tech,University of Virginia,3,4,Loss,0.73,0.43,0.3,-0.876,28,2.27,3.57,0.876,W2
+Nov 16,Assiniboine College,University of Saint Thomas,2,3,Loss,-5.23,-2.99,-2.24,-1.937,65.1,7.23,5.99,1.937,W2
+Nov 17,United States Naval Academy,Niagara University,3,2,OT Win,-0.27,0.12,-0.39,0.269,58.3,2.27,1.88,1.731,W2
+Nov 17,Michigan State University,Northern Michigan University,1,1,Tie,-0.77,-2.24,1.47,0.747,23.7,1.77,3.24,0.753,W2
+Nov 17,Assiniboine College,University of Saint Thomas,1,0,Win,-6.23,-5.99,-0.24,1.063,65.1,7.23,5.99,1.937,W2
+Nov 17,Virginia Tech,West Chester University,2,7,Loss,-0.9,4.86,-5.77,-1.908,64.5,2.9,2.14,1.908,W2
+Nov 17,University of Delaware,Mercyhurst University,2,6,Loss,0.1,3.49,-3.39,-1.155,37.6,1.9,2.51,1.155,W2
+Nov 17,Augustana University,University of Iowa,4,3,OT Win,-0.31,-3.19,2.88,1.502,15.6,3.31,6.19,0.498,W2
+Nov 17,University of Maryland,Robert Morris University,1,4,Loss,-1.58,1.31,-2.9,-1.445,48,2.58,2.69,1.445,W2
+Nov 17,University of North Carolina,George Washington University,6,9,Loss,2.03,4.71,-2.68,-1.363,45.2,3.97,4.29,1.363,W2
+Nov 17,Adrian College,Maryville University,1,0,Win,-0.5,-2.81,2.31,2.22,24.4,1.5,2.81,0.78,W2
+Nov 17,Saint Anselm College,University of New Hampshire,3,1,Win,1.91,0.18,1.73,1.264,59,1.09,0.82,1.736,W2
+Nov 17,Army,Sacred Heart University,2,11,Loss,1.82,9.17,-7.36,-0.321,7.9,0.18,1.83,0.321,W2
+Nov 17,University of Virginia,Liberty University,2,11,Loss,1.45,4.44,-2.99,-0.015,0.4,0.55,6.56,0.015,W2
+Nov 17,Boston University,Harvard University,10,1,Win,7.19,0.72,6.47,0.172,95.7,2.81,0.28,2.828,W2
+Nov 17,Northeastern University,College of the Holy Cross,7,0,Win,3.08,-0.27,3.35,0.066,98.4,3.92,0.27,2.934,W2
+Nov 17,Assumption University,Providence College,3,1,Win,2.15,-0.95,3.1,2.245,23,0.85,1.95,0.755,W2
+Nov 17,Boston College,University Of Connecticut,5,4,Win,3.63,3.42,0.21,0.847,74.4,1.37,0.58,2.153,W2
+Nov 22,Montclair State University,Loyola University Maryland,11,3,Win,7.72,1.46,6.25,0.623,80.8,3.28,1.54,2.377,W2
+Nov 22,Liberty University,Rowan University,3,1,Win,0.5,-0.02,0.52,0.628,81,2.5,1.02,2.372,W2
+Nov 22,Brockport State University,Villanova University,1,9,Loss,0.23,3.12,-2.89,-0.043,1.1,0.77,5.88,0.043,W2
+Nov 22,Bowling Green State University,Aurora University,1,2,Loss,-0.33,-1.43,1.1,-0.483,14.5,1.33,3.43,0.483,W2
+Nov 23,Adrian College,Michigan State University,1,3,Loss,-1.74,-0.63,-1.11,-1.081,35.2,2.74,3.63,1.081,W2
+Nov 23,Providence College,Saint Anselm College,2,0,Win,0.88,-1.11,1.99,1.492,50.3,1.12,1.11,1.508,W2
+Nov 23,University of Maryland,Liberty University,0,3,Loss,-0.74,-1.14,0.41,-0.147,4,0.74,4.14,0.147,W2
+Nov 23,Brockport State University,Loyola University Maryland,10,1,Win,0.08,0.29,-0.21,0,100,9.92,0.71,3,W2
+Nov 23,Central Michigan University,Lawrence Technological University,9,1,Win,6.55,0,6.54,0.632,80.9,2.45,1,2.368,W2
+Nov 23,University of Pennsylvania,Villanova University,3,12,Loss,2.58,7.56,-4.98,-0.063,1.6,0.42,4.44,0.063,W2
+Nov 23,University of Wisconsin Eau Claire,Assiniboine College,0,4,Loss,-3.16,-6.95,3.79,-0.006,0.2,3.16,10.95,0.006,W2
+Nov 23,Niagara University,Rochester Institute Of Technology,10,3,Win,2.37,1.68,0.69,0.028,99.2,7.63,1.32,2.972,W2
+Nov 23,Bowling Green State University,Aurora University,2,2,Tie,0.67,-1.43,2.1,1.017,14.5,1.33,3.43,0.483,W2
+Nov 23,Hope College,University of Notre Dame,0,23,Loss,-0.53,13.1,-13.63,-0,0,0.53,9.9,0,W2
+Nov 23,Mercyhurst University,Robert Morris University,4,1,Win,0.01,-0.74,0.75,0.501,84.7,3.99,1.74,2.499,W2
+Nov 24,University of Wisconsin Eau Claire,Assiniboine College,0,4,Loss,-3.16,-6.95,3.79,-0.006,0.2,3.16,10.95,0.006,W2
+Nov 24,West Chester University,Brockport State University,4,7,Loss,2.49,3.05,-0.56,-0.423,12.7,1.51,3.95,0.423,W2
+Nov 24,University of Maryland,Rowan University,3,5,Loss,1.34,1.31,0.03,-0.551,16.9,1.66,3.69,0.551,W2
+Nov 24,Lawrence Technological University,Central Michigan University,5,6,OT Loss,4.04,2.46,1.58,0.423,17.3,0.96,2.54,0.577,W2
+Nov 24,Assumption University,Sacred Heart University,1,6,Loss,0.08,4.61,-4.53,-1.131,36.2,0.92,1.39,1.131,W2
+Nov 24,University of North Carolina,Virginia Tech,0,7,Loss,-0.83,-0.06,-0.76,-0.018,0.5,0.83,7.06,0.018,W2
+Nov 24,Michigan State University,Adrian College,3,2,OT Win,-1.5,-0.84,-0.66,0.185,61.1,3.5,2.84,1.815,W2
+Nov 24,Niagara University,Mercyhurst University,1,3,Loss,-1.78,0.57,-2.35,-1.684,56.6,2.78,2.43,1.684,W2
+Nov 30,Niagara University,Sault College,1,10,Loss,0.13,2.76,-2.63,-0.017,0.5,0.87,7.24,0.017,W2
+Dec 1,Niagara University,Sault College,2,3,Loss,1.13,-4.24,5.37,-0.017,0.5,0.87,7.24,0.017,W2
+Dec 6,West Chester University,Robert Morris University,1,5,Loss,-0.15,-0.53,0.38,-0.105,2.9,1.15,5.53,0.105,W2
+Dec 6,Central Michigan University,Niagara University,5,1,Win,2.18,-0.27,2.45,0.647,80.2,2.82,1.27,2.353,W2
+Dec 6,Maryville University,Aurora University,3,2,Win,1.43,0.31,1.11,1.576,47.2,1.57,1.69,1.424,W2
+Dec 7,University of Delaware,University of Pennsylvania,2,0,Win,-0.81,-0.61,-0.2,0.316,91.2,2.81,0.61,2.684,W2
+Dec 7,Sacred Heart University,University of Vermont,1,2,Loss,0.41,1.04,-0.63,-1.148,36.3,0.59,0.96,1.148,W2
+Dec 7,West Chester University,Robert Morris University,1,6,Loss,-0.15,0.47,-0.62,-0.105,2.9,1.15,5.53,0.105,W2
+Dec 7,Central Michigan University,Mercyhurst University,5,3,Win,1.82,1.79,0.02,0.496,85.1,3.18,1.21,2.504,W2
+Dec 7,Dakota College at Bottineau,University of Wisconsin,3,5,Loss,-0.48,-0.37,-0.11,-0.77,24.7,3.48,5.37,0.77,W2
+Dec 7,North Dakota State University,University of Saint Thomas,1,7,Loss,-2.37,-3.05,0.68,-0.034,1,3.37,10.05,0.034,W2
+Dec 7,Maryville University,Aurora University,1,3,Loss,-0.57,1.31,-1.89,-1.424,47.2,1.57,1.69,1.424,W2
+Dec 7,Adrian College,University of Notre Dame,1,0,Win,-1.52,-1.78,0.26,1.079,65.1,2.52,1.78,1.921,W2
+Dec 7,Assiniboine College,Lake Region State College,8,0,Win,-3,-2.78,-0.21,0.003,99.9,11,2.78,2.997,W2
+Dec 7,Rowan University,University of Maryland,2,3,OT Loss,-1.56,0.28,-1.84,-1.381,80.8,3.56,1.72,2.381,W2
+Dec 8,North Dakota State University,University of Saint Thomas,1,2,Loss,-2.37,-8.05,5.68,-0.034,1,3.37,10.05,0.034,W2
+Dec 8,Assiniboine College,Lake Region State College,8,1,Win,-3,-1.78,-1.21,0.003,99.9,11,2.78,2.997,W2
 Dec 8,Sacred Heart University,University of New Hampshire,1,2,Loss,0.33,1.27,-0.95,-1.447,47.9,0.67,0.73,1.447,W2
-Dec 8,Dakota College at Bottineau,University of Wisconsin,3,3,Tie,-0.36,-2,1.64,0.657,27.1,3.36,5,0.843,W2
-Dec 8,Brockport State University,Rochester Institute Of Technology,4,5,Loss,0.59,2.07,-1.48,-1.732,58.2,3.41,2.93,1.732,W2
-Dec 8,University of Vermont,Merrimack College,4,1,Win,2.55,0.5,2.06,0.737,78.3,1.45,0.5,2.263,W2
-Dec 8,University of Notre Dame,Adrian College,0,0,Tie,-1.72,-2.58,0.86,0.489,32.5,1.72,2.58,1.011,W2
+Dec 8,Dakota College at Bottineau,University of Wisconsin,3,3,Tie,-0.48,-2.37,1.89,0.73,24.7,3.48,5.37,0.77,W2
+Dec 8,Brockport State University,Rochester Institute Of Technology,4,5,Loss,0.56,2.05,-1.49,-1.733,58.2,3.44,2.95,1.733,W2
+Dec 8,University of Vermont,Merrimack College,4,1,Win,2.55,0.49,2.06,0.737,78.3,1.45,0.51,2.263,W2
+Dec 8,University of Notre Dame,Adrian College,0,0,Tie,-1.72,-2.61,0.89,0.504,32,1.72,2.61,0.996,W2
