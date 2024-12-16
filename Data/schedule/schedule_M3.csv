@@ -472,7 +472,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22861,8,3,Final,Wentworth_Institute_of_Technology,United_States_Coast_Guard_Academy,Regular,2024-11-9
 19844,4,1,Final,Xavier_University,Butler_University,Regular,2024-11-9
 19859,2,4,Final,Missouri_State_University,Central_Michigan_University,Regular,2024-11-9
-19610,6,2,00:24 2nd,Yeshiva_University,New_Jersey_Institute_of_Technology,Regular,2024-11-9
+19610,9,6,Unofficial Final,Yeshiva_University,New_Jersey_Institute_of_Technology,Regular,2024-11-9
 21339,1,7,Final,Duquesne_University,Kent_State_University,Regular,2024-11-9
 20317,5,4,Final,Case_Western_Reserve_University,Indiana_University_of_Pennsylvania,Regular,2024-11-9
 22103,2,7,Final,SUNY_Maritime_College,Saint_Thomas_Aquinas_College,Regular,2024-11-9
@@ -694,7 +694,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19334,4,2,Final,Oakland_University,University_of_Michigan_Flint,Regular,2024-12-13
 22862,-,-,8:10 pm EST,Wentworth_Institute_of_Technology,Springfield_College,Regular,2024-12-13
 21423,-,-,7:00 pm MST,Western_Colorado_University,Colorado_Mesa_University,Regular,2024-12-13
-20934,-,-,9:30 pm EST,Grand_Valley_State_University,Ferris_State_University,Regular,2024-12-13
+20934,15,1,Final,Grand_Valley_State_University,Ferris_State_University,Regular,2024-12-13
 21424,-,-,12:00 pm MST,Western_Colorado_University,Colorado_Mesa_University,Regular,2024-12-14
 21033,0,1,Final,University_of_Massachusetts,Central_Maine_Community_College,Regular,2024-12-14
 21642,-,-,7:30 pm EST,Ferris_State_University,Grand_Valley_State_University,Regular,2024-12-14
@@ -705,7 +705,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19302,-,-,10:15 pm EST,Merchant_Marine_Academy,Yeshiva_University,Regular,2024-12-14
 22002,-,-,9:45 pm MST,Grand_Canyon_University,Arizona_State_University,Regular,2024-12-14
 21034,-,-,12:00 pm EST,University_of_Massachusetts,Wentworth_Institute_of_Technology,Regular,2024-12-15
-21409,-,-,4:00 pm EST,Adrian_College,Central_Michigan_University,Regular,2024-12-15
+21409,4,3,Final,Adrian_College,Central_Michigan_University,Regular,2024-12-15
 18717,-,-,5:15 pm CST,Maryville_University,University_of_Missouri,Regular,2024-12-15
 19644,-,-,8:30 pm EST,Florida_Gulf_Coast_University,Dordt_University,Regular,2025-1-3
 22848,-,-,4:00 pm EST,Lawrence_Tech,Kent_State_University,Regular,2025-1-4
