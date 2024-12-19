@@ -227,13 +227,11 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21267,0,7,Final,Concordia_University_Ann_Arbor,Adrian_College,Regular,2024-12-6
 23288,1,2,Final,University_of_Jamestown,Minot_State_University,Regular,2024-12-6
 20555,1,4,Final,University_of_Utah,University_of_Massachusetts_Amherst,Regular,2024-12-6
-21257,-,-,10:15 pm EST,Miami_University,Aquinas_College,Regular,2024-12-6
 21163,9,0,Final,Adrian_College,Concordia_University_Ann_Arbor,Regular,2024-12-7
 21239,2,3,Final OT,University_of_Michigan_Dearborn,Lake_Superior_State_University,Regular,2024-12-7
 20629,8,0,Final,Indiana_Tech,Penn_State_University,Regular,2024-12-7
 23289,1,2,Final OT,University_of_Jamestown,Minot_State_University,Regular,2024-12-7
 20556,0,2,Final,University_of_Utah,University_of_Massachusetts_Amherst,Regular,2024-12-7
-21258,-,-,7:45 pm EST,Miami_University,Aquinas_College,Regular,2024-12-7
 21279,3,0,Final,University_of_Minnesota,Grand_Valley_State_University,Regular,2024-12-7
 21225,0,4,Final,Grand_Canyon_University,University_of_Arizona,Regular,2024-12-7
 21280,3,5,Final,University_of_Minnesota,Grand_Valley_State_University,Regular,2024-12-8
@@ -277,8 +275,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23302,-,-,9:00 am CST,University_of_Minnesota,University_of_Jamestown,Regular,2025-1-19
 21164,-,-,1:00 pm EST,Adrian_College,University_of_Rhode_Island,Regular,2025-1-19
 20631,-,-,2:00 pm EST,Indiana_Tech,University_of_Michigan_Dearborn,Regular,2025-1-19
+21257,-,-,2:45 pm EST,Miami_University,Aquinas_College,Regular,2025-1-19
 21311,-,-,2:00 pm CST,Lindenwood_University,Grand_Valley_State_University,Regular,2025-1-19
 18730,-,-,7:30 pm CST,Maryville_University,University_of_Michigan,Regular,2025-1-19
+21258,-,-,1:00 pm EST,Miami_University,Aquinas_College,Regular,2025-1-20
 18731,-,-,1:00 pm CST,Maryville_University,University_of_Michigan,Regular,2025-1-20
 21185,-,-,8:30 pm MST,University_of_Denver,Miami_University,Regular,2025-1-22
 23292,-,-,7:30 pm CST,University_of_Jamestown,Niagara_University,Regular,2025-1-23
