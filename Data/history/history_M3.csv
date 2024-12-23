@@ -211,9 +211,9 @@ Oct 18,Kent State University,Oakland University,2,5,Loss,0.36,-0.28,0.64,-0.221,
 Oct 18,Hope College,Arizona State University,5,2,Win,-0.6,-0.34,-0.26,0.344,89.5,5.6,2.34,2.656,M3
 Oct 18,Central Michigan University,Davenport University,10,0,Win,1.61,-1.36,2.97,0.015,99.6,8.39,1.36,2.985,M3
 Oct 18,Calvin University,Western Michigan University,10,2,Win,5.13,0.45,4.68,0.257,92.4,4.87,1.55,2.743,M3
-Oct 18,Dordt University,University of Kansas,7,6,Win,0.84,2.14,-1.29,0.677,78.4,6.16,3.86,2.323,M3
 Oct 18,Olivet Nazarene University,Saint Louis University,2,1,Win,-1.38,-2.19,0.81,1.408,53.3,3.38,3.19,1.592,M3
 Oct 18,Purdue University,Miami University,4,2,Win,0.6,-0.39,0.99,1.005,67.5,3.4,2.39,1.995,M3
+Oct 18,Dordt University,University of Kansas,7,6,Win,0.84,2.14,-1.29,0.677,78.4,6.16,3.86,2.323,M3
 Oct 18,University of Michigan Flint,Ferris State University,5,3,Win,1.43,0.04,1.39,1.214,60.1,3.57,2.96,1.786,M3
 Oct 18,Saint Thomas Aquinas College,New Jersey Institute of Technology,9,5,Win,5.28,4.09,1.19,0.253,92.8,3.72,0.91,2.747,M3
 Oct 18,United States Coast Guard Academy,Eastern Connecticut State University,6,2,Win,-0.22,0.86,-1.08,0.063,98.2,6.22,1.14,2.937,M3
@@ -230,16 +230,16 @@ Oct 19,Northwestern University,University of Wisconsin,0,8,Loss,-2.62,3.06,-5.67
 Oct 19,Purdue University,Miami University,3,2,Win,-0.4,-0.39,-0.01,1.005,67.5,3.4,2.39,1.995,M3
 Oct 19,Eastern Connecticut State University,Harvard University,2,11,Loss,0.36,5.85,-5.49,-0.24,7.1,1.64,5.15,0.24,M3
 Oct 19,Washington University in Saint Louis,Northern Illinois University,13,1,Win,6.57,-0.75,7.33,0.123,96.5,6.43,1.75,2.877,M3
-Oct 19,Missouri State University,Dallas Baptist University,4,3,OT Win,-0.01,0.95,-0.96,-0.002,67.8,3.01,2.05,2.002,M3
 Oct 19,Dordt University,University of Kansas,3,2,Win,-3.16,-1.86,-1.29,0.677,78.4,6.16,3.86,2.323,M3
+Oct 19,Missouri State University,Dallas Baptist University,4,3,OT Win,-0.01,0.95,-0.96,-0.002,67.8,3.01,2.05,2.002,M3
 Oct 19,University of Pittsburgh Johnstown,George Mason University,8,1,Win,0.95,-0.14,1.09,0.034,99.1,7.05,1.14,2.966,M3
 Oct 19,University of Arkansas,East Texas Baptist University,9,2,Win,3.97,-0.04,4.01,0.368,88.9,5.03,2.04,2.632,M3
 Oct 19,West Virginia University,Indiana University of Pennsylvania,2,4,Loss,-0.16,0.43,-0.59,-0.825,26.2,2.16,3.57,0.825,M3
 Oct 19,Oakland University,Kent State University,2,3,Loss,-3.5,1.43,-4.93,-2.82,94.8,5.5,1.57,2.82,M3
 Oct 19,Olivet Nazarene University,Saint Louis University,2,5,Loss,-1.38,1.81,-3.19,-1.592,53.3,3.38,3.19,1.592,M3
 Oct 19,Lawrence Tech,Grand Valley State University,2,3,OT Loss,-0.85,-0.82,-0.03,-0.514,50.5,2.85,2.82,1.514,M3
-Oct 19,Davenport University,Central Michigan University,2,9,Loss,0.58,0.84,-0.26,-0.02,0.6,1.42,8.16,0.02,M3
 Oct 19,University of Cincinnati,Xavier University,2,9,Loss,0.31,5.11,-4.8,-0.507,15.5,1.69,3.89,0.507,M3
+Oct 19,Davenport University,Central Michigan University,2,9,Loss,0.58,0.84,-0.26,-0.02,0.6,1.42,8.16,0.02,M3
 Oct 19,University of California Santa Cruz,Santa Clara University,2,12,Loss,0.05,1.92,-1.87,-0.005,0.1,1.95,10.08,0.005,M3
 Oct 19,Illinois State University,Drake University,1,0,Win,-4.32,-2.55,-1.77,0.464,85.6,5.32,2.55,2.536,M3
 Oct 19,Colorado Mesa University,Colorado School of Mines,1,3,Loss,-1.03,-0.17,-0.86,-0.917,29.4,2.03,3.17,0.917,M3
@@ -247,9 +247,9 @@ Oct 19,University of Wisconsin Stout,University of Wisconsin Platteville,5,1,Win
 Oct 19,Wentworth Institute of Technology,Curry College,6,2,Win,2.81,0.68,2.13,0.546,83.4,3.19,1.32,2.454,M3
 Oct 19,Ferris State University,University of Michigan Flint,2,2,Tie,-1.09,-1.42,0.33,0.157,44.5,3.09,3.42,1.343,M3
 Oct 19,Hope College,Arizona State University,7,0,Win,1.4,-2.34,3.74,0.344,89.5,5.6,2.34,2.656,M3
-Oct 19,Robert Morris University,Saint Vincent College,5,4,OT Win,1.48,-0.22,1.7,1.243,24,2.52,4.22,0.757,M3
 Oct 19,Florida Gulf Coast University,University of Michigan,1,3,Loss,-1.48,-0.63,-0.85,-0.957,30.9,2.48,3.63,0.957,M3
 Oct 19,Marian University,Loyola University Chicago,3,4,Loss,0.08,1.06,-0.98,-1.492,49.7,2.92,2.94,1.492,M3
+Oct 19,Robert Morris University,Saint Vincent College,5,4,OT Win,1.48,-0.22,1.7,1.243,24,2.52,4.22,0.757,M3
 Oct 19,Western Michigan University,Calvin University,3,8,Loss,1.39,3.33,-1.95,-0.309,9.2,1.61,4.67,0.309,M3
 Oct 19,West Chester University,York College of Pennsylvania,3,5,Loss,0.43,2.63,-2.2,-1.607,53.8,2.57,2.37,1.607,M3
 Oct 19,Duquesne University,University of Akron,5,1,Win,-0.07,-1.1,1.03,0.377,88.6,5.07,2.1,2.623,M3
@@ -263,14 +263,14 @@ Oct 25,Adrian College,Trine University,5,2,Win,-1.42,-0.66,-0.76,0.285,91.3,6.42
 Oct 25,Olivet Nazarene University,Northern Illinois University,4,1,Win,-1.27,-1.32,0.05,0.403,87.7,5.27,2.32,2.597,M3
 Oct 25,Hope College,Michigan State University,4,1,Win,0.02,-1.01,1.03,0.615,80.8,3.98,2.01,2.385,M3
 Oct 25,Central Michigan University,Calvin University,1,7,Loss,-0.8,2.21,-3,-0.34,10.2,1.8,4.79,0.34,M3
+Oct 25,Dordt University,Creighton University,6,1,Win,1.56,-2.35,3.92,1.04,66.1,4.44,3.35,1.96,M3
 Oct 25,Springfield College,Curry College,5,2,Win,3.2,-0.05,3.24,1.651,44.6,1.8,2.05,1.349,M3
 Oct 25,Indiana University of Pennsylvania,Kent State University,0,3,Loss,-2.46,-1.02,-1.45,-0.801,25.5,2.46,4.02,0.801,M3
 Oct 25,Xavier University,West Virginia University,5,3,Win,2.2,1.29,0.91,0.904,71.2,2.8,1.71,2.096,M3
 Oct 25,University of Michigan Flint,Illinois State University,1,4,Loss,-4.43,1.62,-6.05,-2.611,88.1,5.43,2.38,2.611,M3
 Oct 25,University of Wisconsin,University of Wisconsin Platteville,10,1,Win,1.75,-1.13,2.89,0.051,98.5,8.25,2.13,2.949,M3
-Oct 25,Dordt University,Creighton University,6,1,Win,1.56,-2.35,3.92,1.04,66.1,4.44,3.35,1.96,M3
-Oct 25,University of Massachusetts,Sacred Heart University,3,2,Win,-0.11,-0.51,0.4,1.198,60.7,3.11,2.51,1.802,M3
 Oct 25,Indiana University,Loyola University Chicago,9,0,Win,2.5,-0.95,3.45,0.037,99,6.5,0.95,2.963,M3
+Oct 25,University of Massachusetts,Sacred Heart University,3,2,Win,-0.11,-0.51,0.4,1.198,60.7,3.11,2.51,1.802,M3
 Oct 25,United States Air Force Academy,Colorado School of Mines,7,2,Win,2.86,-0.7,3.57,0.865,72.2,4.14,2.7,2.135,M3
 Oct 25,PennWest California,University of Akron,7,1,Win,0.31,-0.41,0.73,0.067,98.1,6.69,1.41,2.933,M3
 Oct 25,Duquesne University,Robert Morris University,1,6,Loss,-1.59,1.4,-2.99,-0.666,21,2.59,4.6,0.666,M3
@@ -286,14 +286,14 @@ Oct 26,University of Wisconsin,University of Wisconsin Platteville,7,2,Win,-1.25
 Oct 26,Xavier University,West Virginia University,4,3,OT Win,0.2,1.29,-1.09,-0.096,71.2,2.8,1.71,2.096,M3
 Oct 26,Massachusetts Institute of Technology,Curry College,4,12,Loss,1.86,5.47,-3.61,-0.171,5.1,2.14,6.53,0.171,M3
 Oct 26,Eastern Connecticut State University,Sacred Heart University,0,10,Loss,-0.96,1.75,-2.7,-0.008,0.2,0.96,8.25,0.008,M3
-Oct 26,University of Michigan Flint,Illinois State University,4,2,Win,-1.43,-0.38,-1.05,0.389,88.1,5.43,2.38,2.611,M3
 Oct 26,Washington University in Saint Louis,University of Kansas,2,7,Loss,-1.49,2.18,-3.67,-0.957,31,3.49,4.82,0.957,M3
 Oct 26,Missouri State University,University of Nebraska at Omaha,6,2,Win,2.91,0.07,2.84,0.899,71.3,3.09,1.93,2.101,M3
 Oct 26,Indiana University,Loyola University Chicago,12,1,Win,5.5,0.05,5.45,0.037,99,6.5,0.95,2.963,M3
+Oct 26,University of Michigan Flint,Illinois State University,4,2,Win,-1.43,-0.38,-1.05,0.389,88.1,5.43,2.38,2.611,M3
 Oct 26,Maryville University,Marian University,7,0,Win,-1.33,-0.76,-0.57,0.004,99.9,8.33,0.76,2.996,M3
-Oct 26,Calvin University,Central Michigan University,5,2,Win,0,0.28,-0.28,0.283,91.6,5,1.72,2.717,M3
 Oct 26,Indiana University of Pennsylvania,University of Akron,5,1,Win,-1.29,-0.56,-0.73,0.107,96.9,6.29,1.56,2.893,M3
 Oct 26,Olivet Nazarene University,Northern Illinois University,6,5,Win,0.73,2.68,-1.95,0.403,87.7,5.27,2.32,2.597,M3
+Oct 26,Calvin University,Central Michigan University,5,2,Win,0,0.28,-0.28,0.283,91.6,5,1.72,2.717,M3
 Oct 26,Dartmouth College,Central Maine Community College,3,2,Win,0.68,-2.24,2.92,2.334,20.9,2.32,4.24,0.666,M3
 Oct 26,Michigan State University,Hope College,0,3,Loss,-2.1,-0.82,-1.28,-0.707,22.2,2.1,3.82,0.707,M3
 Oct 26,University of Connecticut,Thomas College,5,6,OT Loss,3.13,2.93,0.2,-0.379,45.6,1.87,2.07,1.379,M3
@@ -837,9 +837,9 @@ Oct 18,Oakland University,Kent State University,5,2,Win,-0.28,0.36,-0.64,0.221,9
 Oct 18,Arizona State University,Hope College,2,5,Loss,-0.34,-0.6,0.26,-0.344,10.5,2.34,5.6,0.344,M3
 Oct 18,Davenport University,Central Michigan University,0,10,Loss,-1.36,1.61,-2.97,-0.015,0.4,1.36,8.39,0.015,M3
 Oct 18,Western Michigan University,Calvin University,2,10,Loss,0.45,5.13,-4.68,-0.257,7.6,1.55,4.87,0.257,M3
-Oct 18,University of Kansas,Dordt University,6,7,Loss,2.14,0.84,1.29,-0.677,21.6,3.86,6.16,0.677,M3
 Oct 18,Saint Louis University,Olivet Nazarene University,1,2,Loss,-2.19,-1.38,-0.81,-1.408,46.7,3.19,3.38,1.408,M3
 Oct 18,Miami University,Purdue University,2,4,Loss,-0.39,0.6,-0.99,-1.005,32.5,2.39,3.4,1.005,M3
+Oct 18,University of Kansas,Dordt University,6,7,Loss,2.14,0.84,1.29,-0.677,21.6,3.86,6.16,0.677,M3
 Oct 18,Ferris State University,University of Michigan Flint,3,5,Loss,0.04,1.43,-1.39,-1.214,39.9,2.96,3.57,1.214,M3
 Oct 18,New Jersey Institute of Technology,Saint Thomas Aquinas College,5,9,Loss,4.09,5.28,-1.19,-0.253,7.2,0.91,3.72,0.253,M3
 Oct 18,Eastern Connecticut State University,United States Coast Guard Academy,2,6,Loss,0.86,-0.22,1.08,-0.063,1.8,1.14,6.22,0.063,M3
@@ -856,16 +856,16 @@ Oct 19,University of Wisconsin,Northwestern University,8,0,Win,3.06,-2.62,5.67,0
 Oct 19,Miami University,Purdue University,2,3,Loss,-0.39,-0.4,0.01,-1.005,32.5,2.39,3.4,1.005,M3
 Oct 19,Harvard University,Eastern Connecticut State University,11,2,Win,5.85,0.36,5.49,0.24,92.9,5.15,1.64,2.76,M3
 Oct 19,Northern Illinois University,Washington University in Saint Louis,1,13,Loss,-0.75,6.57,-7.33,-0.123,3.5,1.75,6.43,0.123,M3
-Oct 19,Dallas Baptist University,Missouri State University,3,4,OT Loss,0.95,-0.01,0.96,0.002,32.2,2.05,3.01,0.998,M3
 Oct 19,University of Kansas,Dordt University,2,3,Loss,-1.86,-3.16,1.29,-0.677,21.6,3.86,6.16,0.677,M3
+Oct 19,Dallas Baptist University,Missouri State University,3,4,OT Loss,0.95,-0.01,0.96,0.002,32.2,2.05,3.01,0.998,M3
 Oct 19,George Mason University,University of Pittsburgh Johnstown,1,8,Loss,-0.14,0.95,-1.09,-0.034,0.9,1.14,7.05,0.034,M3
 Oct 19,East Texas Baptist University,University of Arkansas,2,9,Loss,-0.04,3.97,-4.01,-0.368,11.1,2.04,5.03,0.368,M3
 Oct 19,Indiana University of Pennsylvania,West Virginia University,4,2,Win,0.43,-0.16,0.59,0.825,73.8,3.57,2.16,2.175,M3
 Oct 19,Kent State University,Oakland University,3,2,Win,1.43,-3.5,4.93,2.82,5.2,1.57,5.5,0.18,M3
 Oct 19,Saint Louis University,Olivet Nazarene University,5,2,Win,1.81,-1.38,3.19,1.592,46.7,3.19,3.38,1.408,M3
 Oct 19,Grand Valley State University,Lawrence Tech,3,2,OT Win,-0.82,-0.85,0.03,0.514,49.5,2.82,2.85,1.486,M3
-Oct 19,Central Michigan University,Davenport University,9,2,Win,0.84,0.58,0.26,0.02,99.4,8.16,1.42,2.98,M3
 Oct 19,Xavier University,University of Cincinnati,9,2,Win,5.11,0.31,4.8,0.507,84.5,3.89,1.69,2.493,M3
+Oct 19,Central Michigan University,Davenport University,9,2,Win,0.84,0.58,0.26,0.02,99.4,8.16,1.42,2.98,M3
 Oct 19,Santa Clara University,University of California Santa Cruz,12,2,Win,1.92,0.05,1.87,0.005,99.9,10.08,1.95,2.995,M3
 Oct 19,Drake University,Illinois State University,0,1,Loss,-2.55,-4.32,1.77,-0.464,14.4,2.55,5.32,0.464,M3
 Oct 19,Colorado School of Mines,Colorado Mesa University,3,1,Win,-0.17,-1.03,0.86,0.917,70.6,3.17,2.03,2.083,M3
@@ -873,9 +873,9 @@ Oct 19,University of Wisconsin Platteville,University of Wisconsin Stout,1,5,Los
 Oct 19,Curry College,Wentworth Institute of Technology,2,6,Loss,0.68,2.81,-2.13,-0.546,16.6,1.32,3.19,0.546,M3
 Oct 19,University of Michigan Flint,Ferris State University,2,2,Tie,-1.42,-1.09,-0.33,-0.157,55.5,3.42,3.09,1.657,M3
 Oct 19,Arizona State University,Hope College,0,7,Loss,-2.34,1.4,-3.74,-0.344,10.5,2.34,5.6,0.344,M3
-Oct 19,Saint Vincent College,Robert Morris University,4,5,OT Loss,-0.22,1.48,-1.7,-1.243,76,4.22,2.52,2.243,M3
 Oct 19,University of Michigan,Florida Gulf Coast University,3,1,Win,-0.63,-1.48,0.85,0.957,69.1,3.63,2.48,2.043,M3
 Oct 19,Loyola University Chicago,Marian University,4,3,Win,1.06,0.08,0.98,1.492,50.3,2.94,2.92,1.508,M3
+Oct 19,Saint Vincent College,Robert Morris University,4,5,OT Loss,-0.22,1.48,-1.7,-1.243,76,4.22,2.52,2.243,M3
 Oct 19,Calvin University,Western Michigan University,8,3,Win,3.33,1.39,1.95,0.309,90.8,4.67,1.61,2.691,M3
 Oct 19,York College of Pennsylvania,West Chester University,5,3,Win,2.63,0.43,2.2,1.607,46.2,2.37,2.57,1.393,M3
 Oct 19,University of Akron,Duquesne University,1,5,Loss,-1.1,-0.07,-1.03,-0.377,11.4,2.1,5.07,0.377,M3
@@ -889,14 +889,14 @@ Oct 25,Trine University,Adrian College,2,5,Loss,-0.66,-1.42,0.76,-0.285,8.7,2.66
 Oct 25,Northern Illinois University,Olivet Nazarene University,1,4,Loss,-1.32,-1.27,-0.05,-0.403,12.3,2.32,5.27,0.403,M3
 Oct 25,Michigan State University,Hope College,1,4,Loss,-1.01,0.02,-1.03,-0.615,19.2,2.01,3.98,0.615,M3
 Oct 25,Calvin University,Central Michigan University,7,1,Win,2.21,-0.8,3,0.34,89.8,4.79,1.8,2.66,M3
+Oct 25,Creighton University,Dordt University,1,6,Loss,-2.35,1.56,-3.92,-1.04,33.9,3.35,4.44,1.04,M3
 Oct 25,Curry College,Springfield College,2,5,Loss,-0.05,3.2,-3.24,-1.651,55.4,2.05,1.8,1.651,M3
 Oct 25,Kent State University,Indiana University of Pennsylvania,3,0,Win,-1.02,-2.46,1.45,0.801,74.5,4.02,2.46,2.199,M3
 Oct 25,West Virginia University,Xavier University,3,5,Loss,1.29,2.2,-0.91,-0.904,28.8,1.71,2.8,0.904,M3
 Oct 25,Illinois State University,University of Michigan Flint,4,1,Win,1.62,-4.43,6.05,2.611,11.9,2.38,5.43,0.389,M3
 Oct 25,University of Wisconsin Platteville,University of Wisconsin,1,10,Loss,-1.13,1.75,-2.89,-0.051,1.5,2.13,8.25,0.051,M3
-Oct 25,Creighton University,Dordt University,1,6,Loss,-2.35,1.56,-3.92,-1.04,33.9,3.35,4.44,1.04,M3
-Oct 25,Sacred Heart University,University of Massachusetts,2,3,Loss,-0.51,-0.11,-0.4,-1.198,39.3,2.51,3.11,1.198,M3
 Oct 25,Loyola University Chicago,Indiana University,0,9,Loss,-0.95,2.5,-3.45,-0.037,1,0.95,6.5,0.037,M3
+Oct 25,Sacred Heart University,University of Massachusetts,2,3,Loss,-0.51,-0.11,-0.4,-1.198,39.3,2.51,3.11,1.198,M3
 Oct 25,Colorado School of Mines,United States Air Force Academy,2,7,Loss,-0.7,2.86,-3.57,-0.865,27.8,2.7,4.14,0.865,M3
 Oct 25,University of Akron,PennWest California,1,7,Loss,-0.41,0.31,-0.73,-0.067,1.9,1.41,6.69,0.067,M3
 Oct 25,Robert Morris University,Duquesne University,6,1,Win,1.4,-1.59,2.99,0.666,79,4.6,2.59,2.334,M3
@@ -912,14 +912,14 @@ Oct 26,University of Wisconsin Platteville,University of Wisconsin,2,7,Loss,-0.1
 Oct 26,West Virginia University,Xavier University,3,4,OT Loss,1.29,0.2,1.09,0.096,28.8,1.71,2.8,0.904,M3
 Oct 26,Curry College,Massachusetts Institute of Technology,12,4,Win,5.47,1.86,3.61,0.171,94.9,6.53,2.14,2.829,M3
 Oct 26,Sacred Heart University,Eastern Connecticut State University,10,0,Win,1.75,-0.96,2.7,0.008,99.8,8.25,0.96,2.992,M3
-Oct 26,Illinois State University,University of Michigan Flint,2,4,Loss,-0.38,-1.43,1.05,-0.389,11.9,2.38,5.43,0.389,M3
 Oct 26,University of Kansas,Washington University in Saint Louis,7,2,Win,2.18,-1.49,3.67,0.957,69,4.82,3.49,2.043,M3
 Oct 26,University of Nebraska at Omaha,Missouri State University,2,6,Loss,0.07,2.91,-2.84,-0.899,28.7,1.93,3.09,0.899,M3
 Oct 26,Loyola University Chicago,Indiana University,1,12,Loss,0.05,5.5,-5.45,-0.037,1,0.95,6.5,0.037,M3
+Oct 26,Illinois State University,University of Michigan Flint,2,4,Loss,-0.38,-1.43,1.05,-0.389,11.9,2.38,5.43,0.389,M3
 Oct 26,Marian University,Maryville University,0,7,Loss,-0.76,-1.33,0.57,-0.004,0.1,0.76,8.33,0.004,M3
-Oct 26,Central Michigan University,Calvin University,2,5,Loss,0.28,0,0.28,-0.283,8.4,1.72,5,0.283,M3
 Oct 26,University of Akron,Indiana University of Pennsylvania,1,5,Loss,-0.56,-1.29,0.73,-0.107,3.1,1.56,6.29,0.107,M3
 Oct 26,Northern Illinois University,Olivet Nazarene University,5,6,Loss,2.68,0.73,1.95,-0.403,12.3,2.32,5.27,0.403,M3
+Oct 26,Central Michigan University,Calvin University,2,5,Loss,0.28,0,0.28,-0.283,8.4,1.72,5,0.283,M3
 Oct 26,Central Maine Community College,Dartmouth College,2,3,Loss,-2.24,0.68,-2.92,-2.334,79.1,4.24,2.32,2.334,M3
 Oct 26,Hope College,Michigan State University,3,0,Win,-0.82,-2.1,1.28,0.707,77.8,3.82,2.1,2.293,M3
 Oct 26,Thomas College,University of Connecticut,6,5,OT Win,2.93,3.13,-0.2,0.379,54.4,2.07,1.87,1.621,M3
