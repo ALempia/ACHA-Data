@@ -303,7 +303,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19817,1,4,Final,Robert_Morris_University,Mercyhurst_University,Regular,2024-11-23
 20038,4,0,Final,Assiniboine_College,University_of_Wisconsin_Eau_Claire,Regular,2024-11-24
 22322,7,4,Final,Brockport_State_University,West_Chester_University,Regular,2024-11-24
-22676,3,4,00:00 1st OT,Bentley_University,Providence_College,Regular,2024-11-24
+22676,3,4,Final OT,Bentley_University,Providence_College,Regular,2024-11-24
 21846,5,3,Final,Rowan_University,University_of_Maryland,Regular,2024-11-24
 19810,6,5,Final OT,Central_Michigan_University,Lawrence_Technological_University,Regular,2024-11-24
 22798,6,1,Final,Sacred_Heart_University,Assumption_University,Regular,2024-11-24
@@ -332,7 +332,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23443,2,1,Final,University_of_Wisconsin_Eau_Claire,University_of_Wisconsin_LaCrosse,Regular,2024-12-8
 23567,2,1,Final,University_of_Saint_Thomas,North_Dakota_State_University,Regular,2024-12-8
 23959,1,8,Final,Lake_Region_State_College,Assiniboine_College,Regular,2024-12-8
-22677,3,7,00:00 3rd,Bentley_University,Boston_College,Regular,2024-12-8
+22677,3,7,Final,Bentley_University,Boston_College,Regular,2024-12-8
 22717,2,1,Final,University_of_New_Hampshire,Sacred_Heart_University,Regular,2024-12-8
 20326,3,3,Final OT,University_of_Wisconsin,Dakota_College_at_Bottineau,Regular,2024-12-8
 23400,5,4,Final,Rochester_Institute_Of_Technology,Brockport_State_University,Regular,2024-12-8
