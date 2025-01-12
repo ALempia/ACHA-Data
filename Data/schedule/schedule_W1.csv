@@ -240,16 +240,16 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23290,2,3,Final OT,University_of_Jamestown,Midland_University,Regular,2024-12-13
 21145,-,-,8:30 pm EST,Davenport_University,Aquinas_College,Regular,2024-12-13
 23291,0,4,Final,University_of_Jamestown,Midland_University,Regular,2024-12-14
-19216,-,-,1:00 pm MST,University_of_Arizona,Grand_Canyon_University,Regular,2025-1-10
-20630,-,-,4:00 pm EST,Indiana_Tech,Concordia_University_Ann_Arbor,Regular,2025-1-10
+19216,2,2,Final OT,University_of_Arizona,Grand_Canyon_University,Regular,2025-1-10
+20630,6,1,Final,Indiana_Tech,Concordia_University_Ann_Arbor,Regular,2025-1-10
 19275,3,2,Final OT,Minot_State_University,Maryville_University,Regular,2025-1-10
 21070,4,6,Final,Arizona_State_University,Michigan_State_University,Regular,2025-1-10
-21146,-,-,8:30 pm EST,Davenport_University,Grand_Valley_State_University,Regular,2025-1-10
-20281,-,-,12:00 pm EST,Aquinas_College,Davenport_University,Regular,2025-1-11
+21146,2,8,Final,Davenport_University,Grand_Valley_State_University,Regular,2025-1-10
+20281,6,2,Final,Aquinas_College,Davenport_University,Regular,2025-1-11
 19217,-,-,1:00 pm MST,University_of_Arizona,Michigan_State_University,Regular,2025-1-11
-19276,-,-,2:00 pm CST,Minot_State_University,Maryville_University,Regular,2025-1-11
-21268,-,-,5:00 pm EST,Concordia_University_Ann_Arbor,Indiana_Tech,Regular,2025-1-11
-21094,-,-,8:05 pm EST,University_of_Michigan,Penn_State_University,Regular,2025-1-11
+19276,3,1,Final,Minot_State_University,Maryville_University,Regular,2025-1-11
+21268,0,3,Final,Concordia_University_Ann_Arbor,Indiana_Tech,Regular,2025-1-11
+21094,5,1,Final,University_of_Michigan,Penn_State_University,Regular,2025-1-11
 21184,-,-,1:00 am MST,University_of_Denver,University_of_Washington,Regular,2025-1-12
 20296,-,-,1:30 pm EST,Grand_Valley_State_University,Aquinas_College,Regular,2025-1-12
 21226,-,-,11:30 am PST,Grand_Canyon_University,Michigan_State_University,Regular,2025-1-12

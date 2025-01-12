@@ -698,7 +698,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19645,7,2,Final,Florida_Gulf_Coast_University,Dordt_University,Regular,2025-1-4
 22849,7,0,Final,Lawrence_Tech,Kent_State_University,Regular,2025-1-5
 22535,-,-,3:00 pm PST,University_of_California_Santa_Cruz,Fresno_State_University,Regular,2025-1-8
-22850,-,-,5:00 pm EST,Lawrence_Tech,Calvin_University,Regular,2025-1-10
+22850,4,4,Final OT,Lawrence_Tech,Calvin_University,Regular,2025-1-10
 19646,5,2,Final,Florida_Gulf_Coast_University,Saint_Vincent_College,Regular,2025-1-10
 19593,16,1,Final,Hope_College,Davenport_University,Regular,2025-1-10
 21732,-,-,6:30 pm CST,University_of_Wisconsin,Illinois_State_University,Regular,2025-1-10
@@ -707,17 +707,17 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 24130,-,-,9:10 pm EST,Indiana_University,Loyola_Marymount_University,Regular,2025-1-10
 21464,-,-,9:10 pm CST,Loyola_University_Chicago,Grand_Canyon_University,Regular,2025-1-10
 21366,-,-,10:15 pm CST,Northwestern_University,Central_Michigan_University,Regular,2025-1-10
-19187,7,2,00:44 3rd,Arizona_State_University,Park_University,Regular,2025-1-10
+19187,7,2,Final,Arizona_State_University,Park_University,Regular,2025-1-10
 19660,-,-,8:45 pm PST,University_of_California_Irvine,University_of_California_Santa_Cruz,Regular,2025-1-10
 21733,-,-,10:00 am CST,University_of_Wisconsin,Illinois_State_University,Regular,2025-1-11
 21367,-,-,12:50 pm CST,Northwestern_University,Indiana_University,Regular,2025-1-11
 20905,-,-,3:00 pm EST,Davenport_University,Hope_College,Regular,2025-1-11
 22898,-,-,4:45 pm CST,Northern_Illinois_University,Olivet_Nazarene_University,Regular,2025-1-11
-19692,-,-,5:00 pm CST,University_of_Nebraska_at_Omaha,Colorado_School_of_Mines,Regular,2025-1-11
+19692,2,1,Final,University_of_Nebraska_at_Omaha,Colorado_School_of_Mines,Regular,2025-1-11
 22863,-,-,7:10 pm EST,Wentworth_Institute_of_Technology,Dartmouth_College,Regular,2025-1-11
 23237,-,-,7:30 pm EST,Calvin_University,Lawrence_Tech,Regular,2025-1-11
-19647,-,-,8:30 pm EST,Florida_Gulf_Coast_University,Saint_Vincent_College,Regular,2025-1-11
-19188,-,-,7:15 pm MST,Arizona_State_University,Park_University,Regular,2025-1-11
+19647,4,3,Final,Florida_Gulf_Coast_University,Saint_Vincent_College,Regular,2025-1-11
+19188,5,2,Final,Arizona_State_University,Park_University,Regular,2025-1-11
 21342,-,-,9:20 pm EST,Duquesne_University,University_of_Pittsburgh_Johnstown,Regular,2025-1-11
 21465,-,-,9:30 pm CST,Loyola_University_Chicago,Loyola_Marymount_University,Regular,2025-1-11
 19661,-,-,8:45 pm PST,University_of_California_Irvine,University_of_California_Santa_Cruz,Regular,2025-1-11
