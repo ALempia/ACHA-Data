@@ -704,25 +704,25 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21732,-,-,6:30 pm CST,University_of_Wisconsin,Illinois_State_University,Regular,2025-1-10
 19335,-,-,8:00 pm EST,Oakland_University,Michigan_State_University,Regular,2025-1-10
 22897,-,-,7:30 pm CST,Northern_Illinois_University,Olivet_Nazarene_University,Regular,2025-1-10
-24130,-,-,9:10 pm EST,Indiana_University,Loyola_Marymount_University,Regular,2025-1-10
+24130,5,4,Final OT,Indiana_University,Loyola_Marymount_University,Regular,2025-1-10
 21464,-,-,9:10 pm CST,Loyola_University_Chicago,Grand_Canyon_University,Regular,2025-1-10
-21366,-,-,10:15 pm CST,Northwestern_University,Central_Michigan_University,Regular,2025-1-10
+21366,2,6,Final,Northwestern_University,Central_Michigan_University,Regular,2025-1-10
 19187,7,2,Final,Arizona_State_University,Park_University,Regular,2025-1-10
-19660,-,-,8:45 pm PST,University_of_California_Irvine,University_of_California_Santa_Cruz,Regular,2025-1-10
+19660,12,2,Final,University_of_California_Irvine,University_of_California_Santa_Cruz,Regular,2025-1-10
 21733,-,-,10:00 am CST,University_of_Wisconsin,Illinois_State_University,Regular,2025-1-11
-21367,-,-,12:50 pm CST,Northwestern_University,Indiana_University,Regular,2025-1-11
+21367,5,8,Final,Northwestern_University,Indiana_University,Regular,2025-1-11
 20905,-,-,3:00 pm EST,Davenport_University,Hope_College,Regular,2025-1-11
 22898,-,-,4:45 pm CST,Northern_Illinois_University,Olivet_Nazarene_University,Regular,2025-1-11
 19692,2,1,Final,University_of_Nebraska_at_Omaha,Colorado_School_of_Mines,Regular,2025-1-11
 22863,-,-,7:10 pm EST,Wentworth_Institute_of_Technology,Dartmouth_College,Regular,2025-1-11
-23237,-,-,7:30 pm EST,Calvin_University,Lawrence_Tech,Regular,2025-1-11
+23237,1,4,Final,Calvin_University,Lawrence_Tech,Regular,2025-1-11
 19647,4,3,Final,Florida_Gulf_Coast_University,Saint_Vincent_College,Regular,2025-1-11
 19188,5,2,Final,Arizona_State_University,Park_University,Regular,2025-1-11
 21342,-,-,9:20 pm EST,Duquesne_University,University_of_Pittsburgh_Johnstown,Regular,2025-1-11
 21465,-,-,9:30 pm CST,Loyola_University_Chicago,Loyola_Marymount_University,Regular,2025-1-11
-19661,-,-,8:45 pm PST,University_of_California_Irvine,University_of_California_Santa_Cruz,Regular,2025-1-11
-24131,-,-,8:00 am EST,Indiana_University,Grand_Canyon_University,Regular,2025-1-12
-19693,-,-,10:00 am CST,University_of_Nebraska_at_Omaha,Colorado_School_of_Mines,Regular,2025-1-12
+19661,8,3,Final,University_of_California_Irvine,University_of_California_Santa_Cruz,Regular,2025-1-11
+24131,2,5,Final,Indiana_University,Grand_Canyon_University,Regular,2025-1-12
+19693,6,3,Final,University_of_Nebraska_at_Omaha,Colorado_School_of_Mines,Regular,2025-1-12
 23207,-,-,12:30 pm EST,Michigan_State_University,Oakland_University,Regular,2025-1-12
 22880,-,-,1:00 pm EST,Bates_College,Colby_Sawyer_College,Regular,2025-1-12
 21526,-,-,2:30 pm EST,University_of_Pittsburgh_Johnstown,Duquesne_University,Regular,2025-1-12
