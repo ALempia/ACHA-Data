@@ -1456,7 +1456,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23602,4,5,Final,Williston_State_College,Lake_Region_State_College,Regular,2025-1-4
 22069,-,-,7:00 pm EST,University_of_North_Carolina_Chapel_Hill,Virginia_Tech,Regular,2025-1-4
 22176,6,1,Final,University_of_Montana,Eastern_Washington_University,Regular,2025-1-4
-21859,-,-,7:25 pm MST,Utah_Valley_University,University_of_Utah,Regular,2025-1-9
+21859,1,7,Final,Utah_Valley_University,University_of_Utah,Regular,2025-1-9
 22213,6,1,Final,Montana_State_University,Williston_State_College,Regular,2025-1-9
 19935,4,1,Final,University_of_Jamestown,Waldorf_University,Regular,2025-1-10
 22300,4,3,Final,Ohio_State_University,Bowling_Green_State_University,Regular,2025-1-10
@@ -1494,7 +1494,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21826,4,2,Final,Virginia_Tech,University_of_North_Carolina_Chapel_Hill,Regular,2025-1-11
 23134,6,1,Final,Sault_College,University_of_Wisconsin_Eau_Claire,Regular,2025-1-11
 20251,5,3,Final,University_of_Louisville,Miami_University,Regular,2025-1-11
-21715,0,0,19:58 1st,Southern_New_Hampshire_University,Roger_Williams_University,Regular,2025-1-11
+21715,0,10,Final,Southern_New_Hampshire_University,Roger_Williams_University,Regular,2025-1-11
 23194,4,1,Final,Purdue_University_Northwest,Roosevelt_University,Regular,2025-1-11
 23214,5,2,Final,Rowan_University,Saint_Josephs_University,Regular,2025-1-11
 21595,10,0,Final,Concordia_University_of_Wisconsin,University_of_Wisconsin_Milwaukee,Regular,2025-1-11
@@ -1527,7 +1527,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18699,-,-,8:15 pm CST,Maryville_University,University_of_Missouri,Regular,2025-1-16
 21861,-,-,7:25 pm MST,Utah_Valley_University,Idaho_State_University,Regular,2025-1-16
 21805,-,-,9:30 pm EST,Liberty_University,North_Carolina_State_University,Regular,2025-1-16
-20847,-,-,8:45 pm MST,University_of_Denver,Dakota_College_Bottineau,Regular,2025-1-16
+20847,5,4,Final OT,University_of_Denver,Dakota_College_Bottineau,Regular,2025-1-16
 20165,-,-,10:00 pm CST,University_of_North_Texas,University_of_Wyoming,Regular,2025-1-16
 20306,-,-,9:00 pm PST,University_of_Southern_California,Western_Washington_University,Regular,2025-1-16
 22085,-,-,1:00 am EST,Northern_Michigan_University,Lake_Superior_State_University,Regular,2025-1-17

@@ -254,8 +254,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20296,10,0,Final,Grand_Valley_State_University,Aquinas_College,Regular,2025-1-12
 21226,6,5,Final,Grand_Canyon_University,Michigan_State_University,Regular,2025-1-12
 21095,2,3,Final,University_of_Michigan,Penn_State_University,Regular,2025-1-12
-20282,-,-,1:00 am EST,Aquinas_College,University_of_Wyoming,Regular,2025-1-16
-21269,-,-,9:00 pm EST,Concordia_University_Ann_Arbor,University_of_Massachusetts_Amherst,Regular,2025-1-16
+20282,8,2,Final,Aquinas_College,University_of_Wyoming,Regular,2025-1-16
+21269,2,3,Final,Concordia_University_Ann_Arbor,University_of_Massachusetts_Amherst,Regular,2025-1-16
 19793,-,-,9:15 pm MST,Montana_State_University,University_of_Denver,Regular,2025-1-16
 21242,-,-,3:00 pm EST,University_of_Michigan_Dearborn,University_of_Massachusetts_Amherst,Regular,2025-1-17
 19783,-,-,5:00 pm CST,Midland_University,Minot_State_University,Regular,2025-1-17
@@ -263,7 +263,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21270,-,-,8:30 pm EST,Concordia_University_Ann_Arbor,University_of_Rhode_Island,Regular,2025-1-17
 20647,-,-,7:45 pm CST,McKendree_University,Grand_Valley_State_University,Regular,2025-1-17
 19794,-,-,8:00 pm MST,Montana_State_University,University_of_Denver,Regular,2025-1-17
-21125,-,-,10:00 am EST,Michigan_State_University,University_of_Massachusetts_Amherst,Regular,2025-1-18
+21125,-,-,2:15 pm EST,Michigan_State_University,University_of_Massachusetts_Amherst,Regular,2025-1-18
 21243,-,-,3:00 pm EST,University_of_Michigan_Dearborn,Indiana_Tech,Regular,2025-1-18
 23301,-,-,3:30 pm CST,University_of_Minnesota,University_of_Jamestown,Regular,2025-1-18
 21271,-,-,4:30 pm EST,Concordia_University_Ann_Arbor,University_of_Rhode_Island,Regular,2025-1-18
