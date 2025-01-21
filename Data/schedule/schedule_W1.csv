@@ -278,7 +278,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21257,4,1,Final,Miami_University,Aquinas_College,Regular,2025-1-19
 21311,4,1,Final,Lindenwood_University,Grand_Valley_State_University,Regular,2025-1-19
 18730,8,1,Final,Maryville_University,University_of_Michigan,Regular,2025-1-19
-21258,-,-,1:00 pm EST,Miami_University,Aquinas_College,Regular,2025-1-20
+21258,9,0,Final,Miami_University,Aquinas_College,Regular,2025-1-20
 18731,-,-,1:00 pm CST,Maryville_University,University_of_Michigan,Regular,2025-1-20
 21185,-,-,8:30 pm MST,University_of_Denver,Miami_University,Regular,2025-1-22
 23292,-,-,7:30 pm CST,University_of_Jamestown,Niagara_University,Regular,2025-1-23
@@ -328,7 +328,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21075,-,-,7:35 pm MST,Arizona_State_University,University_of_Arizona,Regular,2025-2-1
 21187,-,-,7:40 pm MST,University_of_Denver,Grand_Canyon_University,Regular,2025-2-1
 21192,-,-,8:30 pm MST,University_of_Washington,Colorado_State_University,Regular,2025-2-1
-21127,-,-,10:30 am EST,Michigan_State_University,Penn_State_University,Regular,2025-2-2
+21127,-,-,9:30 am EST,Michigan_State_University,Penn_State_University,Regular,2025-2-2
 23304,-,-,12:00 pm CST,Midland_University,University_of_Jamestown,Regular,2025-2-2
 21283,-,-,1:00 pm CST,University_of_Minnesota,Minot_State_University,Regular,2025-2-2
 21188,-,-,12:30 pm MST,University_of_Denver,Grand_Canyon_University,Regular,2025-2-2

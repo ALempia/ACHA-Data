@@ -349,9 +349,9 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23526,0,5,Final,Dakota_College_at_Bottineau,Sault_College,Regular,2025-1-17
 22487,18,0,Final,Lawrence_Technological_University,Hope_College,Regular,2025-1-17
 21900,0,4,Final,West_Virginia_University_,Rowan_University,Regular,2025-1-17
-21574,-,-,9:45 pm EST,United_States_Naval_Academy,University_of_Pittsburgh,Regular,2025-1-17
-21575,-,-,11:00 am EST,United_States_Naval_Academy,University_of_Pittsburgh,Regular,2025-1-18
-23709,-,-,12:00 pm EST,Sacred_Heart_University,Providence_College,Regular,2025-1-18
+21574,8,1,Final,United_States_Naval_Academy,University_of_Pittsburgh,Regular,2025-1-17
+21575,6,2,Final,United_States_Naval_Academy,University_of_Pittsburgh,Regular,2025-1-18
+23709,10,1,Final,Providence_College,Sacred_Heart_University,Regular,2025-1-18
 20039,3,2,Final,Assiniboine_College,Sault_College,Regular,2025-1-18
 21901,1,2,Final,West_Virginia_University_,Rowan_University,Regular,2025-1-18
 21655,4,1,Final,Eastern_Michigan_University,Michigan_State_University,Regular,2025-1-18
@@ -360,8 +360,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20040,1,1,Final,Assiniboine_College,Sault_College,Regular,2025-1-19
 23528,12,3,Final,Dakota_College_at_Bottineau,University_of_Minnesota_Duluth,Regular,2025-1-19
 23422,-,-,3:10 pm EST,Niagara_University,Rochester_Institute_Of_Technology,Regular,2025-1-19
-22799,-,-,3:15 pm EST,Sacred_Heart_University,Northeastern_University,Regular,2025-1-19
-20060,-,-,5:30 pm EST,University_of_Pennsylvania,Villanova_University,Regular,2025-1-19
+22799,-,-,Postponed,Sacred_Heart_University,Northeastern_University,Regular,2025-1-19
+20060,-,-,Postponed,University_of_Pennsylvania,Villanova_University,Regular,2025-1-19
 23960,-,-,7:30 pm CST,Lake_Region_State_College,Dakota_College_at_Bottineau,Regular,2025-1-23
 23556,-,-,3:00 pm EST,Adrian_College,Hope_College,Regular,2025-1-24
 20984,-,-,6:00 pm EST,Liberty_University,University_of_Pennsylvania,Regular,2025-1-24
