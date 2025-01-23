@@ -1644,12 +1644,12 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20870,7,5,Final,Dakota_College_Bottineau,Grand_Canyon_University,Regular,2025-1-19
 22358,9,3,Final,Gustavus_Adolphus_College,Saint_Cloud_State_University,Regular,2025-1-19
 20766,6,3,Final,University_of_California_Los_Angeles,North_Dakota_State_University,Regular,2025-1-19
-20371,2,5,Final,Stockton_University,Georgetown_University,Regular,2025-1-19
 20871,5,8,Final,Weber_State_University,Sault_College,Regular,2025-1-19
-23215,-,-,3:00 pm EST,Rowan_University,Southern_Methodist_University,Regular,2025-1-19
+20371,2,5,Final,Stockton_University,Georgetown_University,Regular,2025-1-19
+23215,1,3,Final,Rowan_University,Southern_Methodist_University,Regular,2025-1-19
 23681,-,-,12:00 pm PST,University_of_California_San_Diego,Western_Washington_University,Regular,2025-1-19
 23545,9,4,Final,Connecticut_College,Bryant_University,Regular,2025-1-19
-20692,-,-,3:30 pm EST,Bentley_University,Army_(West_Point),Regular,2025-1-19
+20692,4,5,Final SO,Bentley_University,Army_(West_Point),Regular,2025-1-19
 23433,6,0,Final,Adrian_College,Purdue_University_Northwest,Regular,2025-1-19
 20835,0,2,Final,University_of_Colorado,University_of_Cincinnati,Regular,2025-1-19
 20820,6,1,Final,Metropolitan_State_University_Denver,Northern_Arizona_University,Regular,2025-1-19
@@ -1658,17 +1658,17 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23491,-,-,Postponed,Sacred_Heart_University,Montclair_State_University,Regular,2025-1-19
 20850,5,7,Final,University_of_Denver,Utah_State_University_,Regular,2025-1-19
 20872,-,-,7:00 pm MST,University_of_Texas,Bowling_Green_State_University,Regular,2025-1-19
-20874,1,2,Final,Weber_State_University,University_of_Texas,Regular,2025-1-20
 20873,2,6,00:00 2nd,Northern_Arizona_University,Sault_College,Regular,2025-1-20
+20874,1,2,Final,Weber_State_University,University_of_Texas,Regular,2025-1-20
 24122,6,1,Final,University_of_New_Mexico,Texas_State_University,Regular,2025-1-20
-20875,0,0,20:00 1st,Boise_State_University,Grand_Canyon_University,Regular,2025-1-20
+20875,7,4,Final,Boise_State_University,Grand_Canyon_University,Regular,2025-1-20
 20836,2,0,Final,University_of_Colorado,Loyola_Marymount_University,Regular,2025-1-20
 20811,0,6,Final,Colorado_State_University,University_of_Cincinnati,Regular,2025-1-20
 20821,0,6,Final,Metropolitan_State_University_Denver,Michigan_State_University,Regular,2025-1-20
 20372,4,1,Final,Stockton_University,Bryn_Athyn_College,Regular,2025-1-20
 20876,3,1,Final,Utah_State_University_,Bowling_Green_State_University,Regular,2025-1-20
 23733,-,-,7:00 pm CST,Dakota_College_Bottineau,Williston_State_College,Regular,2025-1-22
-22956,-,-,7:00 pm CST,Saint_Johns_University,Gustavus_Adolphus_College,Regular,2025-1-22
+22956,3,7,Final,Saint_Johns_University,Gustavus_Adolphus_College,Regular,2025-1-22
 23434,-,-,7:30 pm EST,Adrian_College,Northern_Michigan_University,Regular,2025-1-23
 21863,-,-,7:25 pm MST,Utah_Valley_University,Montana_Tech,Regular,2025-1-23
 22944,-,-,1:00 am CST,University_of_North_Dakota,University_of_Jamestown,Regular,2025-1-24

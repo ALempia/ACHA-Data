@@ -65,7 +65,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18707,4,1,Final,Maryville_University,Drury_University,Regular,2024-9-27
 21992,0,6,Final,Grand_Canyon_University,Arizona_State_University,Regular,2024-9-27
 22145,3,4,Final,Drake_University,Northern_Illinois_University,Regular,2024-9-27
-23387,-,-,7:30 pm MDT,Colorado_College,University_of_Colorado_Colorado_Springs,Regular,2024-9-27
+23387,0,3,00:00 1st,Colorado_College,University_of_Colorado_Colorado_Springs,Regular,2024-9-27
 19471,8,2,Final,Washington_University_in_Saint_Louis,Olivet_Nazarene_University,Regular,2024-9-27
 21682,1,6,Final,Indiana_University_of_Pennsylvania,Lawrence_Tech,Regular,2024-9-27
 19684,1,4,Final,University_of_Nebraska_at_Omaha,Dallas_Baptist_University,Regular,2024-9-27
@@ -516,7 +516,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21566,1,0,Visiting Forfeit,California_State_University_Long_Beach,University_of_San_Diego,Regular,2024-11-15
 19689,2,1,Final,University_of_Nebraska_at_Omaha,University_of_Kansas,Regular,2024-11-15
 21463,1,2,Final OT,Loyola_University_Chicago,Olivet_Nazarene_University,Regular,2024-11-15
-19626,-,-,10:55 pm EST,George_Mason_University,Loyola_University_Maryland,Regular,2024-11-15
+19626,2,5,Final,George_Mason_University,Loyola_University_Maryland,Regular,2024-11-15
 19185,10,2,Final,Arizona_State_University,University_of_California_Irvine,Regular,2024-11-15
 23995,0,4,Final,Loyola_Marymount_University,Santa_Clara_University,Regular,2024-11-15
 23887,-,-,1:00 am MST,University_of_Colorado_Colorado_Springs,Park_University,Regular,2024-11-16
