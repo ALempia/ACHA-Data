@@ -393,12 +393,12 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21695,8,2,Final,Schoolcraft_College,Davenport_University,Regular,2024-10-11
 22991,6,3,Final,West_Virginia_University,Saint_Josephs_University,Regular,2024-10-11
 22539,4,0,Final,Roosevelt_University,University_of_Wisconsin_Milwaukee,Regular,2024-10-11
-23022,6,1,Final,Keene_State_College,Southern_New_Hampshire_University,Regular,2024-10-11
 23739,5,3,Final,Lewis_University,Milwaukee_School_of_Engineering,Regular,2024-10-11
 22441,4,2,Final,University_of_Minnesota_Crookston,University_of_Jamestown,Regular,2024-10-11
 22349,7,8,Final,Gustavus_Adolphus_College,Bethel_University,Regular,2024-10-11
 22681,5,2,Final,Army_(West_Point),Montclair_State_University,Regular,2024-10-11
 20705,0,5,Final,University_of_Nebraska,Minnesota_State_University_Moorhead,Regular,2024-10-11
+23022,6,1,Final,Keene_State_College,Southern_New_Hampshire_University,Regular,2024-10-11
 23944,11,0,Final,Stevenson_University,Drexel_University,Regular,2024-10-11
 22324,3,10,Final,Rider_University,Virginia_Tech,Regular,2024-10-11
 22229,4,3,Final,University_of_Wisconsin_Oshkosh,Southern_Illinois_University_Edwardsville,Regular,2024-10-11
@@ -1553,7 +1553,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23074,3,2,Final,Indiana_Tech,Roosevelt_University,Regular,2025-1-17
 22290,7,4,Final,Florida_Gulf_Coast_University,University_of_New_Hampshire,Regular,2025-1-17
 22922,6,5,Final,University_of_Delaware,Denison_University,Regular,2025-1-17
-23512,-,-,9:00 pm EST,Penn_State_University,Southern_Methodist_University,Regular,2025-1-17
+23512,10,3,Final,Penn_State_University,Southern_Methodist_University,Regular,2025-1-17
 22189,0,9,Final,Montana_Tech,University_of_Utah,Regular,2025-1-17
 20226,5,3,Final,Lindenwood_University,Miami_University,Regular,2025-1-17
 20818,4,6,Final,Metropolitan_State_University_Denver,Weber_State_University,Regular,2025-1-17
@@ -1579,14 +1579,14 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22759,4,2,Final,South_Dakota_State_University,Augustana_University,Regular,2025-1-18
 22943,3,8,Final,University_of_North_Dakota,Minnesota_State_University_Mankato,Regular,2025-1-18
 23315,3,2,Final OT,Lake_Region_State_College,Waldorf_University,Regular,2025-1-18
-23513,-,-,10:00 am EST,Penn_State_University,Rowan_University,Regular,2025-1-18
+23513,6,2,Final,Penn_State_University,Rowan_University,Regular,2025-1-18
 22643,3,1,Final,University_of_Vermont,Norwich_University,Regular,2025-1-18
 23229,3,5,Final,Saint_Cloud_State_University,Gustavus_Adolphus_College,Regular,2025-1-18
 22451,7,2,Final,University_of_Minnesota_Crookston,University_of_Minnesota_Duluth,Regular,2025-1-18
 19938,4,8,Final,University_of_Jamestown,University_of_Saint_Thomas,Regular,2025-1-18
 22248,3,2,Final,University_of_Illinois,University_of_Iowa,Regular,2025-1-18
 20865,3,4,Final,Michigan_State_University,University_of_Texas,Regular,2025-1-18
-23586,-,-,2:00 pm EST,Ohio_University,Central_Michigan_University,Regular,2025-1-18
+23586,4,2,Final,Ohio_University,Central_Michigan_University,Regular,2025-1-18
 22302,1,7,Final,Ohio_State_University,Indiana_University,Regular,2025-1-18
 19495,8,5,Final,East_Texas_Baptist_University,University_of_Wyoming,Regular,2025-1-18
 22789,1,8,Final,Davenport_University,University_of_Louisville,Regular,2025-1-18
@@ -1644,8 +1644,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20870,7,5,Final,Dakota_College_Bottineau,Grand_Canyon_University,Regular,2025-1-19
 22358,9,3,Final,Gustavus_Adolphus_College,Saint_Cloud_State_University,Regular,2025-1-19
 20766,6,3,Final,University_of_California_Los_Angeles,North_Dakota_State_University,Regular,2025-1-19
-20371,2,5,Final,Stockton_University,Georgetown_University,Regular,2025-1-19
 20871,5,8,Final,Weber_State_University,Sault_College,Regular,2025-1-19
+20371,2,5,Final,Stockton_University,Georgetown_University,Regular,2025-1-19
 23215,1,3,Final,Rowan_University,Southern_Methodist_University,Regular,2025-1-19
 23681,-,-,12:00 pm PST,University_of_California_San_Diego,Western_Washington_University,Regular,2025-1-19
 23545,9,4,Final,Connecticut_College,Bryant_University,Regular,2025-1-19
@@ -1658,8 +1658,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23491,-,-,Postponed,Sacred_Heart_University,Montclair_State_University,Regular,2025-1-19
 20850,5,7,Final,University_of_Denver,Utah_State_University_,Regular,2025-1-19
 20872,-,-,7:00 pm MST,University_of_Texas,Bowling_Green_State_University,Regular,2025-1-19
+20873,3,9,Final,Northern_Arizona_University,Sault_College,Regular,2025-1-20
 20874,1,2,Final,Weber_State_University,University_of_Texas,Regular,2025-1-20
-20873,2,6,00:00 2nd,Northern_Arizona_University,Sault_College,Regular,2025-1-20
 24122,6,1,Final,University_of_New_Mexico,Texas_State_University,Regular,2025-1-20
 20875,7,4,Final,Boise_State_University,Grand_Canyon_University,Regular,2025-1-20
 20836,2,0,Final,University_of_Colorado,Loyola_Marymount_University,Regular,2025-1-20
@@ -1678,7 +1678,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22735,-,-,3:00 pm EST,Miami_University,Liberty_University,Regular,2025-1-24
 22924,-,-,5:30 pm EST,University_of_Delaware,University_of_Maryland,Regular,2025-1-24
 22303,-,-,6:30 pm EST,Ohio_State_University,Ohio_University,Regular,2025-1-24
-23254,-,-,7:00 pm EST,Rensselaer_Polytechnic_Institute,Clarkson_University,Regular,2025-1-24
+23254,7,3,Final,Rensselaer_Polytechnic_Institute,Clarkson_University,Regular,2025-1-24
 23366,-,-,6:00 pm CST,Augustana_University,Minnesota_State_University_Moorhead,Regular,2025-1-24
 22671,-,-,7:00 pm EST,Saint_Anselm_College,University_of_Vermont,Regular,2025-1-24
 22249,-,-,6:00 pm CST,University_of_Illinois,University_of_Nebraska,Regular,2025-1-24
@@ -1693,11 +1693,11 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21454,-,-,8:00 pm EST,Denison_University,Stevenson_University,Regular,2025-1-24
 22790,-,-,8:00 pm EST,Davenport_University,Indiana_Tech,Regular,2025-1-24
 22933,-,-,8:00 pm EST,Marist_College,Millersville_University,Regular,2025-1-24
-22736,-,-,8:00 pm EST,Lindenwood_University,Florida_Gulf_Coast_University,Regular,2025-1-24
+22736,7,4,Final,Lindenwood_University,Florida_Gulf_Coast_University,Regular,2025-1-24
 21514,-,-,8:00 pm EST,Siena_College,Westfield_State_University,Regular,2025-1-24
 23745,-,-,7:00 pm CST,Lewis_University,Marquette_University,Regular,2025-1-24
-22452,-,-,7:00 pm CST,University_of_Minnesota_Crookston,Saint_Cloud_State_University,Regular,2025-1-24
-22359,-,-,7:00 pm CST,Gustavus_Adolphus_College,University_of_Wisconsin,Regular,2025-1-24
+22452,15,0,Final,University_of_Minnesota_Crookston,Saint_Cloud_State_University,Regular,2025-1-24
+22359,1,10,Final,Gustavus_Adolphus_College,University_of_Wisconsin,Regular,2025-1-24
 22811,-,-,8:10 pm EST,Northeastern_University,Bentley_University,Regular,2025-1-24
 20737,-,-,8:15 pm EST,North_Carolina_State_University,Virginia_Tech,Regular,2025-1-24
 23862,-,-,7:15 pm CST,University_of_Wisconsin_LaCrosse,University_of_Wisconsin_Oshkosh,Regular,2025-1-24
@@ -1708,13 +1708,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21025,-,-,9:00 pm EST,University_of_Cincinnati,Bowling_Green_State_University,Regular,2025-1-24
 23514,-,-,9:00 pm EST,Penn_State_University,Rider_University,Regular,2025-1-24
 21940,-,-,7:00 pm MST,Utah_State_University_,Boise_State_University,Regular,2025-1-24
-22177,-,-,7:00 pm MST,University_of_Montana,University_of_Providence,Regular,2025-1-24
+22177,2,3,Final OT,University_of_Montana,University_of_Providence,Regular,2025-1-24
 21483,-,-,7:15 pm MST,Weber_State_University,Montana_Tech,Regular,2025-1-24
 23961,-,-,7:25 pm MST,Utah_Valley_University,University_of_Nevada_Reno,Regular,2025-1-24
 20177,-,-,8:30 pm CST,University_of_Texas,Texas_A&M_University,Regular,2025-1-24
-22219,-,-,7:30 pm MST,Montana_State_University,Eastern_Washington_University,Regular,2025-1-24
-21762,-,-,9:30 pm EST,West_Chester_University,Millersville_University,Regular,2025-1-24
-22129,-,-,8:30 pm CST,DePaul_University,Purdue_University_Northwest,Regular,2025-1-24
+22219,13,0,Final,Montana_State_University,Eastern_Washington_University,Regular,2025-1-24
+21762,3,5,Final,West_Chester_University,Millersville_University,Regular,2025-1-24
+22129,1,3,20:00 3rd,DePaul_University,Purdue_University_Northwest,Regular,2025-1-24
 22709,-,-,8:45 pm CST,Marian_University,Sault_College,Regular,2025-1-24
 22998,-,-,9:45 pm EST,West_Virginia_University,James_Madison_University,Regular,2025-1-24
 22594,-,-,10:00 pm EST,Georgetown_University,Saint_Josephs_University,Regular,2025-1-24
@@ -1723,10 +1723,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22072,-,-,10:15 pm EST,University_of_North_Carolina_Chapel_Hill,University_of_North_Carolina_Wilmington,Regular,2025-1-24
 24109,-,-,9:15 pm CST,Bethel_University,Saint_Johns_University,Regular,2025-1-24
 21987,-,-,8:30 pm MST,Grand_Canyon_University,University_of_New_Mexico,Regular,2025-1-24
-19738,-,-,8:40 pm MST,Northern_Arizona_University,California_State_University_Northridge,Regular,2025-1-24
+19738,11,3,Final,Northern_Arizona_University,California_State_University_Northridge,Regular,2025-1-24
 20308,-,-,8:30 pm PST,University_of_Southern_California,Washington_State_University,Regular,2025-1-24
 20157,-,-,10:45 pm CST,Texas_State_University,Baylor_University,Regular,2025-1-24
-19565,-,-,8:45 pm PST,University_of_Washington,University_of_California_San_Diego,Regular,2025-1-24
+19565,9,1,Final,University_of_Washington,University_of_California_San_Diego,Regular,2025-1-24
 23669,-,-,8:45 pm PST,San_Jose_State_University,University_of_California_Santa_Barbara,Regular,2025-1-24
 21052,-,-,11:55 pm EST,University_of_Kentucky,University_of_Louisville,Regular,2025-1-24
 22100,-,-,9:00 pm PST,California_State_University_Fullerton,Loyola_Marymount_University,Regular,2025-1-24
@@ -1982,8 +1982,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23154,-,-,12:00 pm EST,Elon_University,Wake_Forest_University,Regular,2025-2-8
 23138,-,-,12:00 pm EST,Sault_College,Central_Michigan_University,Regular,2025-2-8
 21807,-,-,1:30 pm EST,Liberty_University,Elon_University,Regular,2025-2-8
-22792,-,-,3:00 pm EST,Davenport_University,Lake_Superior_State_University,Regular,2025-2-8
 20254,-,-,3:00 pm EST,University_of_Louisville,Ohio_State_University,Regular,2025-2-8
+22792,-,-,3:00 pm EST,Davenport_University,Lake_Superior_State_University,Regular,2025-2-8
 23865,-,-,2:15 pm CST,University_of_Wisconsin_LaCrosse,Northern_Michigan_University,Regular,2025-2-8
 21840,-,-,3:30 pm EST,University_of_Michigan,University_of_Kentucky,Regular,2025-2-8
 21517,-,-,4:30 pm EST,Siena_College,Norwich_University,Regular,2025-2-8
