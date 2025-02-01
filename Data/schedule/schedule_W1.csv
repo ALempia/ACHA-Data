@@ -210,7 +210,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21083,3,2,Final OT,University_of_Colorado,University_of_Minnesota,Regular,2024-11-23
 20554,2,5,Final,University_of_Utah,Midland_University,Regular,2024-11-23
 21162,8,2,Final,Adrian_College,Miami_University,Regular,2024-11-23
-20295,-,-,7:30 pm EST,Grand_Valley_State_University,Aquinas_College,Regular,2024-11-23
+20295,1,0,Visiting Forfeit,Grand_Valley_State_University,Aquinas_College,Regular,2024-11-23
 21059,1,2,Final,Liberty_University,Minot_State_University,Regular,2024-11-23
 21308,2,7,Final,Lindenwood_University,Maryville_University,Regular,2024-11-23
 21183,2,5,Final,University_of_Denver,University_of_Minnesota,Regular,2024-11-24
@@ -237,7 +237,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19790,1,2,Final OT,Montana_State_University,University_of_Massachusetts_Amherst,Regular,2024-12-8
 18729,5,4,Final,Maryville_University,Lindenwood_University,Regular,2024-12-8
 23290,2,3,Final OT,University_of_Jamestown,Midland_University,Regular,2024-12-13
-21145,-,-,8:30 pm EST,Davenport_University,Aquinas_College,Regular,2024-12-13
+21145,1,0,Visiting Forfeit,Davenport_University,Aquinas_College,Regular,2024-12-13
 23291,0,4,Final,University_of_Jamestown,Midland_University,Regular,2024-12-14
 19216,2,2,Final OT,University_of_Arizona,Grand_Canyon_University,Regular,2025-1-10
 20630,6,1,Final,Indiana_Tech,Concordia_University_Ann_Arbor,Regular,2025-1-10
@@ -309,12 +309,12 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21166,3,2,Final,Adrian_College,Indiana_Tech,Regular,2025-1-30
 18734,3,1,Final,Maryville_University,Liberty_University,Regular,2025-1-30
 21191,-,-,11:30 am MST,University_of_Washington,Colorado_State_University,Regular,2025-1-31
-20381,-,-,12:30 pm MST,University_of_Wyoming,Grand_Canyon_University,Regular,2025-1-31
-20649,-,-,2:00 pm CST,McKendree_University,Liberty_University,Regular,2025-1-31
+20381,1,14,00:00 3rd,University_of_Wyoming,Grand_Canyon_University,Regular,2025-1-31
+20649,1,2,Final,McKendree_University,Liberty_University,Regular,2025-1-31
 21259,-,-,6:45 pm EST,Miami_University,Lindenwood_University,Regular,2025-1-31
-20632,-,-,7:00 pm EST,Indiana_Tech,Adrian_College,Regular,2025-1-31
+20632,0,4,Final,Indiana_Tech,Adrian_College,Regular,2025-1-31
 21245,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Aquinas_College,Regular,2025-1-31
-21273,-,-,8:30 pm EST,Concordia_University_Ann_Arbor,Grand_Valley_State_University,Regular,2025-1-31
+21273,2,1,Final,Concordia_University_Ann_Arbor,Grand_Valley_State_University,Regular,2025-1-31
 20382,-,-,8:00 pm MST,University_of_Wyoming,Grand_Canyon_University,Regular,2025-1-31
 19796,-,-,8:30 pm MST,Montana_State_University,Colorado_State_University,Regular,2025-1-31
 21260,-,-,12:30 pm EST,Miami_University,Lindenwood_University,Regular,2025-2-1
