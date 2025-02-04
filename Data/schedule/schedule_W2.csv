@@ -411,15 +411,15 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23972,4,1,Final,Assiniboine_College,University_of_Wisconsin,Regular,2025-1-31
 22907,-,-,12:30 pm EST,University_of_Vermont,University_Of_Connecticut,Regular,2025-2-1
 22778,6,4,Final,Miami_University,University_of_Notre_Dame,Regular,2025-2-1
-23444,-,-,12:15 pm CST,University_of_Wisconsin_Eau_Claire,Assiniboine_College,Regular,2025-2-1
-23414,1,1,Final,The_Ohio_State_University,Central_Michigan_University,Regular,2025-2-1
-21728,-,-,2:00 pm EST,Brockport_State_University,Rochester_Institute_Of_Technology,Regular,2025-2-1
+23444,0,2,Final,University_of_Wisconsin_Eau_Claire,Assiniboine_College,Regular,2025-2-1
+23414,1,4,Final,The_Ohio_State_University,Central_Michigan_University,Regular,2025-2-1
+21728,1,3,Final,Brockport_State_University,Rochester_Institute_Of_Technology,Regular,2025-2-1
 20941,5,1,Final,Mercyhurst_University,Robert_Morris_University,Regular,2025-2-1
 19680,0,20,Final,Hope_College,Michigan_State_University,Regular,2025-2-1
 24125,3,0,Final,Northeastern_University,Providence_College,Regular,2025-2-1
 20988,4,0,Final,Liberty_University,West_Virginia_University_,Regular,2025-2-1
 22489,3,1,Final,Lawrence_Technological_University,Adrian_College,Regular,2025-2-1
-23445,-,-,4:45 pm CST,University_of_Wisconsin_Eau_Claire,North_Dakota_State_University,Regular,2025-2-1
+23445,0,2,Final,University_of_Wisconsin_Eau_Claire,North_Dakota_State_University,Regular,2025-2-1
 22475,2,7,Final,Assumption_University,Saint_Anselm_College,Regular,2025-2-1
 19670,12,1,Final,Villanova_University,Army,Regular,2025-2-1
 23937,3,0,Final,Aurora_University,Northern_Michigan_University,Regular,2025-2-1
@@ -435,10 +435,10 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19671,8,2,Final,Villanova_University,Army,Regular,2025-2-2
 18749,7,1,Final,Maryville_University,University_of_Nebraska,Regular,2025-2-2
 21738,3,7,Final,University_of_Virginia,West_Virginia_University_,Regular,2025-2-2
-23415,-,-,2:30 pm EST,The_Ohio_State_University,Central_Michigan_University,Regular,2025-2-2
+23415,4,1,Final,The_Ohio_State_University,Central_Michigan_University,Regular,2025-2-2
 23938,1,0,Final,Aurora_University,Northern_Michigan_University,Regular,2025-2-2
 23557,5,0,Final,Adrian_College,Lawrence_Technological_University,Regular,2025-2-2
-24307,-,-,6:15 pm EST,University_Of_Connecticut,College_of_the_Holy_Cross,Regular,2025-2-2
+24307,8,3,Final,University_Of_Connecticut,College_of_the_Holy_Cross,Regular,2025-2-2
 22876,0,3,Final,Merrimack_College,Boston_College,Regular,2025-2-2
 21577,-,-,7:00 pm EST,United_States_Naval_Academy,University_of_Maryland,Regular,2025-2-7
 22490,-,-,8:00 pm EST,Lawrence_Technological_University,Aurora_University,Regular,2025-2-7
