@@ -409,7 +409,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22777,6,4,Final,Miami_University,University_of_Notre_Dame,Regular,2025-1-31
 20987,7,0,Final,Liberty_University,West_Virginia_University_,Regular,2025-1-31
 23972,4,1,Final,Assiniboine_College,University_of_Wisconsin,Regular,2025-1-31
-22907,-,-,12:30 pm EST,University_of_Vermont,University_Of_Connecticut,Regular,2025-2-1
+22907,5,1,Final,University_of_Vermont,University_Of_Connecticut,Regular,2025-2-1
 22778,6,4,Final,Miami_University,University_of_Notre_Dame,Regular,2025-2-1
 23444,0,2,Final,University_of_Wisconsin_Eau_Claire,Assiniboine_College,Regular,2025-2-1
 23414,1,4,Final,The_Ohio_State_University,Central_Michigan_University,Regular,2025-2-1
@@ -431,7 +431,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22818,5,4,Final OT,University_of_Minnesota_Duluth,University_of_Iowa,Regular,2025-2-2
 23569,4,1,Final,University_of_Saint_Thomas,University_of_Wisconsin_LaCrosse,Regular,2025-2-2
 24302,6,0,Final,Dakota_College_at_Bottineau,Lake_Region_State_College,Regular,2025-2-2
-22908,-,-,12:30 pm EST,University_of_Vermont,Saint_Anselm_College,Regular,2025-2-2
+22908,1,2,Final,University_of_Vermont,Saint_Anselm_College,Regular,2025-2-2
 19671,8,2,Final,Villanova_University,Army,Regular,2025-2-2
 18749,7,1,Final,Maryville_University,University_of_Nebraska,Regular,2025-2-2
 21738,3,7,Final,University_of_Virginia,West_Virginia_University_,Regular,2025-2-2
