@@ -403,7 +403,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23272,2,2,Final OT,Boston_University,Northeastern_University,Regular,2025-1-26
 24110,13,12,Final OT,Harvard_University,College_of_the_Holy_Cross,Regular,2025-1-29
 21576,-,-,7:00 pm EST,United_States_Naval_Academy,Rowan_University,Regular,2025-1-31
-22718,-,-,7:00 pm EST,University_of_New_Hampshire,Assumption_University,Regular,2025-1-31
+22718,7,1,Final,University_of_New_Hampshire,Assumption_University,Regular,2025-1-31
 22875,-,-,8:00 pm EST,Merrimack_College,Bentley_University,Regular,2025-1-31
 20348,7,3,Final,University_of_Maryland,Georgetown_University,Regular,2025-1-31
 22777,6,4,Final,Miami_University,University_of_Notre_Dame,Regular,2025-1-31
@@ -427,7 +427,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22817,2,1,Final,University_of_Minnesota_Duluth,University_of_Iowa,Regular,2025-2-1
 18748,21,0,Final,Maryville_University,University_of_Nebraska,Regular,2025-2-1
 20061,4,8,Final,University_of_Pennsylvania,Rowan_University,Regular,2025-2-1
-23536,-,-,10:10 pm EST,George_Washington_University,West_Chester_University,Regular,2025-2-1
+23536,3,8,Final,George_Washington_University,West_Chester_University,Regular,2025-2-1
 22818,5,4,Final OT,University_of_Minnesota_Duluth,University_of_Iowa,Regular,2025-2-2
 23569,4,1,Final,University_of_Saint_Thomas,University_of_Wisconsin_LaCrosse,Regular,2025-2-2
 24302,6,0,Final,Dakota_College_at_Bottineau,Lake_Region_State_College,Regular,2025-2-2
@@ -445,7 +445,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23334,-,-,8:00 pm EST,University_of_New_England,Merrimack_College,Regular,2025-2-7
 20970,-,-,9:00 pm EST,University_of_Pittsburgh,Robert_Morris_University,Regular,2025-2-7
 18750,-,-,8:30 pm CST,Maryville_University,University_of_Arkansas,Regular,2025-2-7
-20062,-,-,10:15 pm EST,University_of_Pennsylvania,United_States_Air_Force_Academy,Regular,2025-2-7
+20062,0,0,Suspended [22:15:00 EST],University_of_Pennsylvania,United_States_Air_Force_Academy,Regular,2025-2-7
 22769,-,-,1:00 am EST,Michigan_State_University,The_Ohio_State_University,Regular,2025-2-8
 21578,-,-,11:00 am EST,United_States_Naval_Academy,University_of_Pennsylvania,Regular,2025-2-8
 18751,-,-,2:15 pm CST,Maryville_University,University_of_Arkansas,Regular,2025-2-8
