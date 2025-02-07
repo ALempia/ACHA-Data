@@ -471,7 +471,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23786,-,-,9:00 pm EST,Bowling_Green_State_University,Northern_Michigan_University,Regular,2025-2-8
 20971,-,-,9:00 pm EST,University_of_Pittsburgh,West_Virginia_University_,Regular,2025-2-8
 22770,-,-,1:00 am EST,Michigan_State_University,The_Ohio_State_University,Regular,2025-2-9
-21658,-,-,7:05 am EST,Eastern_Michigan_University,University_of_Notre_Dame,Regular,2025-2-9
+21658,1,0,Visiting Forfeit,Eastern_Michigan_University,University_of_Notre_Dame,Regular,2025-2-9
 22820,-,-,9:00 am CST,University_of_Minnesota_Duluth,University_of_Wisconsin_LaCrosse,Regular,2025-2-9
 19673,0,0,Suspended [11:00:00 EST],Villanova_University,United_States_Air_Force_Academy,Regular,2025-2-9
 22035,-,-,10:00 am CST,Northern_Michigan_University,University_of_Wisconsin_Eau_Claire,Regular,2025-2-9
