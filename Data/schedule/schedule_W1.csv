@@ -334,15 +334,15 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21188,1,2,Final,University_of_Denver,Grand_Canyon_University,Regular,2025-2-2
 21097,0,6,Final,University_of_Michigan,Adrian_College,Regular,2025-2-2
 18735,1,3,Final,Maryville_University,McKendree_University,Regular,2025-2-2
-18736,-,-,8:15 pm CST,Maryville_University,University_of_Arizona,Regular,2025-2-6
-21178,-,-,1:00 am EST,Penn_State_University,Grand_Valley_State_University,Regular,2025-2-7
-20286,-,-,2:30 pm EST,Aquinas_College,Indiana_Tech,Regular,2025-2-7
-20651,-,-,2:00 pm CST,McKendree_University,University_of_Arizona,Regular,2025-2-7
+18736,5,1,Final,Maryville_University,University_of_Arizona,Regular,2025-2-6
+21178,6,5,Final OT,Penn_State_University,Grand_Valley_State_University,Regular,2025-2-7
+20286,0,6,Final,Aquinas_College,Indiana_Tech,Regular,2025-2-7
+20651,3,0,Final,McKendree_University,University_of_Arizona,Regular,2025-2-7
 21107,-,-,6:20 pm EST,University_of_Massachusetts_Amherst,University_of_Rhode_Island,Regular,2025-2-7
 21261,-,-,6:45 pm EST,Miami_University,University_of_Michigan_Dearborn,Regular,2025-2-7
-21312,-,-,8:20 pm CST,Lindenwood_University,Lake_Superior_State_University,Regular,2025-2-7
+21312,1,8,Final,Lindenwood_University,Lake_Superior_State_University,Regular,2025-2-7
 19798,1,0,Visiting Forfeit,Montana_State_University,University_of_Wyoming,Regular,2025-2-7
-21189,-,-,8:30 pm MST,University_of_Denver,University_of_Utah,Regular,2025-2-7
+21189,0,7,Final,University_of_Denver,University_of_Utah,Regular,2025-2-7
 21229,-,-,9:15 pm PST,Grand_Canyon_University,University_of_Colorado,Regular,2025-2-7
 21179,-,-,1:00 am EST,Penn_State_University,Grand_Valley_State_University,Regular,2025-2-8
 21108,-,-,11:20 am EST,University_of_Massachusetts_Amherst,University_of_Rhode_Island,Regular,2025-2-8
@@ -362,7 +362,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21292,-,-,1:00 pm EST,Niagara_University,University_of_Michigan,Regular,2025-2-9
 19437,-,-,12:00 pm CST,Midland_University,University_of_Minnesota,Regular,2025-2-9
 21169,-,-,7:00 pm EST,Adrian_College,Arizona_State_University,Regular,2025-2-12
-21098,-,-,8:05 pm EST,University_of_Michigan,Arizona_State_University,Regular,2025-2-13
+21098,-,-,7:30 pm EST,University_of_Michigan,Arizona_State_University,Regular,2025-2-13
 21062,-,-,1:30 pm EST,Liberty_University,Adrian_College,Regular,2025-2-14
 23305,-,-,3:45 pm CST,Minot_State_University,University_of_Jamestown,Regular,2025-2-14
 20653,-,-,4:30 pm CST,McKendree_University,Lindenwood_University,Regular,2025-2-14
