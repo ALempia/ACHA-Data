@@ -338,24 +338,24 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21178,6,5,Final OT,Penn_State_University,Grand_Valley_State_University,Regular,2025-2-7
 20286,0,6,Final,Aquinas_College,Indiana_Tech,Regular,2025-2-7
 20651,3,0,Final,McKendree_University,University_of_Arizona,Regular,2025-2-7
-21107,-,-,6:20 pm EST,University_of_Massachusetts_Amherst,University_of_Rhode_Island,Regular,2025-2-7
-21261,-,-,6:45 pm EST,Miami_University,University_of_Michigan_Dearborn,Regular,2025-2-7
+21107,4,1,Final,University_of_Massachusetts_Amherst,University_of_Rhode_Island,Regular,2025-2-7
+21261,3,2,Final OT,Miami_University,University_of_Michigan_Dearborn,Regular,2025-2-7
 21312,1,8,Final,Lindenwood_University,Lake_Superior_State_University,Regular,2025-2-7
 19798,1,0,Visiting Forfeit,Montana_State_University,University_of_Wyoming,Regular,2025-2-7
 21189,0,7,Final,University_of_Denver,University_of_Utah,Regular,2025-2-7
-21229,-,-,9:15 pm PST,Grand_Canyon_University,University_of_Colorado,Regular,2025-2-7
-21179,-,-,1:00 am EST,Penn_State_University,Grand_Valley_State_University,Regular,2025-2-8
-21108,-,-,11:20 am EST,University_of_Massachusetts_Amherst,University_of_Rhode_Island,Regular,2025-2-8
+21229,2,6,Final,Grand_Canyon_University,University_of_Colorado,Regular,2025-2-7
+21179,3,4,Final,Penn_State_University,Grand_Valley_State_University,Regular,2025-2-8
+21108,2,4,Final,University_of_Massachusetts_Amherst,University_of_Rhode_Island,Regular,2025-2-8
 19799,1,0,Visiting Forfeit,Montana_State_University,University_of_Wyoming,Regular,2025-2-8
-20633,-,-,4:00 pm EST,Indiana_Tech,Aquinas_College,Regular,2025-2-8
-19436,-,-,4:00 pm CST,Midland_University,University_of_Minnesota,Regular,2025-2-8
+20633,16,0,Final,Indiana_Tech,Aquinas_College,Regular,2025-2-8
+19436,5,1,Final,Midland_University,University_of_Minnesota,Regular,2025-2-8
 21291,-,-,6:00 pm EST,Niagara_University,University_of_Michigan,Regular,2025-2-8
-20652,-,-,5:00 pm CST,McKendree_University,Lake_Superior_State_University,Regular,2025-2-8
+20652,5,0,Final,McKendree_University,Lake_Superior_State_University,Regular,2025-2-8
 21246,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Miami_University,Regular,2025-2-8
-21168,-,-,7:00 pm EST,Adrian_College,Michigan_State_University,Regular,2025-2-8
-21190,-,-,5:15 pm MST,University_of_Denver,University_of_Utah,Regular,2025-2-8
+21168,2,0,Final,Adrian_College,Michigan_State_University,Regular,2025-2-8
+21190,3,2,Final OT,University_of_Denver,University_of_Utah,Regular,2025-2-8
 21230,-,-,6:30 pm PST,Grand_Canyon_University,University_of_Colorado,Regular,2025-2-8
-21313,-,-,9:10 pm CST,Lindenwood_University,University_of_Arizona,Regular,2025-2-8
+21313,3,5,Final,Lindenwood_University,University_of_Arizona,Regular,2025-2-8
 21314,-,-,8:30 am CST,Lindenwood_University,University_of_Arizona,Regular,2025-2-9
 21128,-,-,12:30 pm EST,Michigan_State_University,Adrian_College,Regular,2025-2-9
 18737,-,-,11:45 am CST,Maryville_University,Lake_Superior_State_University,Regular,2025-2-9
