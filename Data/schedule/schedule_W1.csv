@@ -349,18 +349,18 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19799,1,0,Visiting Forfeit,Montana_State_University,University_of_Wyoming,Regular,2025-2-8
 20633,16,0,Final,Indiana_Tech,Aquinas_College,Regular,2025-2-8
 19436,5,1,Final,Midland_University,University_of_Minnesota,Regular,2025-2-8
-21291,-,-,6:00 pm EST,Niagara_University,University_of_Michigan,Regular,2025-2-8
+21291,2,0,Final,Niagara_University,University_of_Michigan,Regular,2025-2-8
 20652,5,0,Final,McKendree_University,Lake_Superior_State_University,Regular,2025-2-8
-21246,-,-,7:00 pm EST,University_of_Michigan_Dearborn,Miami_University,Regular,2025-2-8
+21246,3,1,Final,University_of_Michigan_Dearborn,Miami_University,Regular,2025-2-8
 21168,2,0,Final,Adrian_College,Michigan_State_University,Regular,2025-2-8
 21190,3,2,Final OT,University_of_Denver,University_of_Utah,Regular,2025-2-8
-21230,-,-,6:30 pm PST,Grand_Canyon_University,University_of_Colorado,Regular,2025-2-8
+21230,2,0,Final,Grand_Canyon_University,University_of_Colorado,Regular,2025-2-8
 21313,3,5,Final,Lindenwood_University,University_of_Arizona,Regular,2025-2-8
-21314,-,-,8:30 am CST,Lindenwood_University,University_of_Arizona,Regular,2025-2-9
-21128,-,-,12:30 pm EST,Michigan_State_University,Adrian_College,Regular,2025-2-9
-18737,-,-,11:45 am CST,Maryville_University,Lake_Superior_State_University,Regular,2025-2-9
-21292,-,-,1:00 pm EST,Niagara_University,University_of_Michigan,Regular,2025-2-9
-19437,-,-,12:00 pm CST,Midland_University,University_of_Minnesota,Regular,2025-2-9
+21314,4,2,Final,Lindenwood_University,University_of_Arizona,Regular,2025-2-9
+21128,3,5,Final,Michigan_State_University,Adrian_College,Regular,2025-2-9
+18737,3,1,Final,Maryville_University,Lake_Superior_State_University,Regular,2025-2-9
+21292,3,0,Final,Niagara_University,University_of_Michigan,Regular,2025-2-9
+19437,8,0,Final,Midland_University,University_of_Minnesota,Regular,2025-2-9
 21169,-,-,7:00 pm EST,Adrian_College,Arizona_State_University,Regular,2025-2-12
 21098,-,-,7:30 pm EST,University_of_Michigan,Arizona_State_University,Regular,2025-2-13
 21062,-,-,1:30 pm EST,Liberty_University,Adrian_College,Regular,2025-2-14
