@@ -488,12 +488,14 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 24466,-,-,12:00 am EST,Boston_College,Boston_University,Regular,2025-2-14
 22385,-,-,5:00 pm CST,University_of_Nebraska,Augustana_University,Regular,2025-2-14
 21723,-,-,6:15 pm EST,Hope_College,Loyola_University_Chicago,Regular,2025-2-14
-22875,-,-,8:00 pm EST,Merrimack_College,Bentley_University,Regular,2025-2-14
+22875,4,5,Final OT,Merrimack_College,Bentley_University,Regular,2025-2-14
 22492,-,-,8:00 pm EST,Lawrence_Technological_University,Liberty_University,Regular,2025-2-14
 23416,-,-,9:00 pm EST,The_Ohio_State_University,University_of_Pittsburgh,Regular,2025-2-14
-20349,-,-,9:50 pm EST,University_of_Maryland,Villanova_University,Regular,2025-2-14
+20349,1,7,Final,University_of_Maryland,Villanova_University,Regular,2025-2-14
 23788,-,-,11:00 am EST,Bowling_Green_State_University,Eastern_Michigan_University,Regular,2025-2-15
+24482,1,0,Visiting Forfeit,Worcester_Polytechnic_Institute,University_Of_Connecticut,Regular,2025-2-15
 22493,-,-,1:00 pm EST,Lawrence_Technological_University,Liberty_University,Regular,2025-2-15
+24481,-,-,2:45 pm EST,Boston_College,College_of_the_Holy_Cross,Regular,2025-2-15
 20053,-,-,3:15 pm EST,University_of_Delaware,United_States_Naval_Academy,Regular,2025-2-15
 23039,-,-,2:30 pm CST,University_of_Iowa,Iowa_State_University,Regular,2025-2-15
 22384,-,-,3:00 pm CST,University_of_Nebraska,Augustana_University,Regular,2025-2-15

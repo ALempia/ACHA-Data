@@ -363,15 +363,15 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19437,8,0,Final,Midland_University,University_of_Minnesota,Regular,2025-2-9
 21169,4,2,Final,Adrian_College,Arizona_State_University,Regular,2025-2-12
 21098,2,5,Final,University_of_Michigan,Arizona_State_University,Regular,2025-2-13
-21062,-,-,1:30 pm EST,Liberty_University,Adrian_College,Regular,2025-2-14
-23305,-,-,3:45 pm CST,Minot_State_University,University_of_Jamestown,Regular,2025-2-14
-20653,-,-,4:30 pm CST,McKendree_University,Lindenwood_University,Regular,2025-2-14
+21062,7,2,Final,Liberty_University,Adrian_College,Regular,2025-2-14
+23305,1,0,Final OT,Minot_State_University,University_of_Jamestown,Regular,2025-2-14
+20653,10,2,Final,McKendree_University,Lindenwood_University,Regular,2025-2-14
 21109,-,-,6:20 pm EST,University_of_Massachusetts_Amherst,Niagara_University,Regular,2025-2-14
-20557,-,-,4:30 pm MST,University_of_Utah,Grand_Canyon_University,Regular,2025-2-14
+20557,6,3,Final,University_of_Utah,Grand_Canyon_University,Regular,2025-2-14
 21214,-,-,7:00 pm EST,Lake_Superior_State_University,Aquinas_College,Regular,2025-2-14
-21129,-,-,7:00 pm EST,Michigan_State_University,University_of_Michigan_Dearborn,Regular,2025-2-14
-21086,-,-,5:00 pm MST,University_of_Colorado,University_of_Denver,Regular,2025-2-14
-20634,-,-,7:00 pm EST,Indiana_Tech,University_of_Rhode_Island,Regular,2025-2-14
+21129,1,2,Final OT,Michigan_State_University,University_of_Michigan_Dearborn,Regular,2025-2-14
+21086,5,2,Final,University_of_Colorado,University_of_Denver,Regular,2025-2-14
+20634,8,1,Final,Indiana_Tech,University_of_Rhode_Island,Regular,2025-2-14
 20299,-,-,7:30 pm EST,Grand_Valley_State_University,Arizona_State_University,Regular,2025-2-14
 21149,-,-,8:30 pm EST,Davenport_University,Concordia_University_Ann_Arbor,Regular,2025-2-14
 21110,-,-,12:20 pm EST,University_of_Massachusetts_Amherst,Niagara_University,Regular,2025-2-15
@@ -391,7 +391,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19439,-,-,12:00 pm CST,Midland_University,Maryville_University,Regular,2025-2-16
 21099,-,-,4:05 pm EST,University_of_Michigan,University_of_Rhode_Island,Regular,2025-2-16
 21121,-,-,8:00 pm MST,Colorado_State_University,University_of_Wyoming,Regular,2025-2-16
+19222,-,-,1:00 pm MST,University_of_Arizona,Arizona_State_University,Regular,2025-2-20
 19221,-,-,1:00 pm MST,University_of_Arizona,Arizona_State_University,Regular,2025-2-21
 21140,-,-,7:00 pm EST,University_of_Rhode_Island,University_of_Massachusetts_Amherst,Regular,2025-2-21
-19222,-,-,1:00 pm MST,University_of_Arizona,Arizona_State_University,Regular,2025-2-22
 21111,-,-,4:20 pm EST,University_of_Massachusetts_Amherst,University_of_Rhode_Island,Regular,2025-2-22
