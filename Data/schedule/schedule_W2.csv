@@ -496,12 +496,12 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 24482,1,0,Visiting Forfeit,Worcester_Polytechnic_Institute,University_Of_Connecticut,Regular,2025-2-15
 22493,-,-,1:00 pm EST,Lawrence_Technological_University,Liberty_University,Regular,2025-2-15
 24481,-,-,2:45 pm EST,Boston_College,College_of_the_Holy_Cross,Regular,2025-2-15
-20053,-,-,3:15 pm EST,University_of_Delaware,United_States_Naval_Academy,Regular,2025-2-15
+20053,3,5,Final,University_of_Delaware,United_States_Naval_Academy,Regular,2025-2-15
 23039,-,-,2:30 pm CST,University_of_Iowa,Iowa_State_University,Regular,2025-2-15
 22384,-,-,3:00 pm CST,University_of_Nebraska,Augustana_University,Regular,2025-2-15
 22799,-,-,5:45 pm EST,Sacred_Heart_University,Northeastern_University,Regular,2025-2-15
 19813,-,-,7:00 pm EST,Central_Michigan_University,Michigan_State_University,Regular,2025-2-15
-19802,-,-,7:00 pm EST,Sault_College,University_of_Illinois,Regular,2025-2-15
+19802,10,0,Final,Sault_College,University_of_Illinois,Regular,2025-2-15
 24098,-,-,7:55 pm EST,Robert_Morris_University,Slippery_Rock_University,Regular,2025-2-15
 22925,-,-,8:00 pm EST,Saint_Anselm_College,University_Of_Connecticut,Regular,2025-2-15
 22632,-,-,7:00 pm CST,North_Dakota_State_University,Dakota_College_at_Bottineau,Regular,2025-2-15
