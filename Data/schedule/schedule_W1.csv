@@ -368,29 +368,29 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20653,10,2,Final,McKendree_University,Lindenwood_University,Regular,2025-2-14
 21109,1,2,Final OT,University_of_Massachusetts_Amherst,Niagara_University,Regular,2025-2-14
 20557,6,3,Final,University_of_Utah,Grand_Canyon_University,Regular,2025-2-14
-21214,-,-,7:00 pm EST,Lake_Superior_State_University,Aquinas_College,Regular,2025-2-14
+21214,5,0,Final,Lake_Superior_State_University,Aquinas_College,Regular,2025-2-14
 21129,1,2,Final OT,Michigan_State_University,University_of_Michigan_Dearborn,Regular,2025-2-14
 21086,5,2,Final,University_of_Colorado,University_of_Denver,Regular,2025-2-14
 20634,8,1,Final,Indiana_Tech,University_of_Rhode_Island,Regular,2025-2-14
 20299,2,4,Final,Grand_Valley_State_University,Arizona_State_University,Regular,2025-2-14
 21149,0,6,Final,Davenport_University,Concordia_University_Ann_Arbor,Regular,2025-2-14
 21110,2,5,Final,University_of_Massachusetts_Amherst,Niagara_University,Regular,2025-2-15
-21215,-,-,1:00 pm EST,Lake_Superior_State_University,Aquinas_College,Regular,2025-2-15
-21063,5,2,00:00 3rd,Liberty_University,Adrian_College,Regular,2025-2-15
-20635,-,-,3:00 pm EST,Indiana_Tech,University_of_Rhode_Island,Regular,2025-2-15
-20300,-,-,4:30 pm EST,Grand_Valley_State_University,Arizona_State_University,Regular,2025-2-15
+21215,7,0,Final,Lake_Superior_State_University,Aquinas_College,Regular,2025-2-15
+21063,5,2,Final,Liberty_University,Adrian_College,Regular,2025-2-15
+20635,4,1,Final,Indiana_Tech,University_of_Rhode_Island,Regular,2025-2-15
+20300,2,5,Final,Grand_Valley_State_University,Arizona_State_University,Regular,2025-2-15
 20654,9,0,Final,McKendree_University,Lindenwood_University,Regular,2025-2-15
-21247,-,-,5:00 pm EST,University_of_Michigan_Dearborn,Michigan_State_University,Regular,2025-2-15
+21247,4,3,Final,University_of_Michigan_Dearborn,Michigan_State_University,Regular,2025-2-15
 19438,6,2,Final,Midland_University,Maryville_University,Regular,2025-2-15
 23306,3,0,Final,Minot_State_University,University_of_Jamestown,Regular,2025-2-15
-21087,-,-,4:00 pm MST,University_of_Colorado,University_of_Denver,Regular,2025-2-15
+21087,4,2,Final,University_of_Colorado,University_of_Denver,Regular,2025-2-15
 21274,8,0,Final,Concordia_University_Ann_Arbor,Davenport_University,Regular,2025-2-15
 20558,4,0,Final,University_of_Utah,Grand_Canyon_University,Regular,2025-2-15
-21120,-,-,8:00 pm MST,Colorado_State_University,University_of_Wyoming,Regular,2025-2-15
-21248,-,-,12:00 pm EST,University_of_Michigan_Dearborn,Arizona_State_University,Regular,2025-2-16
-19439,-,-,12:00 pm CST,Midland_University,Maryville_University,Regular,2025-2-16
-21099,-,-,4:05 pm EST,University_of_Michigan,University_of_Rhode_Island,Regular,2025-2-16
-21121,-,-,8:00 pm MST,Colorado_State_University,University_of_Wyoming,Regular,2025-2-16
+21120,13,4,Final,Colorado_State_University,University_of_Wyoming,Regular,2025-2-15
+21248,1,0,Final,University_of_Michigan_Dearborn,Arizona_State_University,Regular,2025-2-16
+19439,1,3,Final,Midland_University,Maryville_University,Regular,2025-2-16
+21099,6,2,Final,University_of_Michigan,University_of_Rhode_Island,Regular,2025-2-16
+21121,10,2,Final,Colorado_State_University,University_of_Wyoming,Regular,2025-2-16
 19222,-,-,1:00 pm MST,University_of_Arizona,Arizona_State_University,Regular,2025-2-20
 19221,-,-,1:00 pm MST,University_of_Arizona,Arizona_State_University,Regular,2025-2-21
 21140,-,-,7:00 pm EST,University_of_Rhode_Island,University_of_Massachusetts_Amherst,Regular,2025-2-21
