@@ -1989,7 +1989,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 24402,7,2,Final,San_Jose_State_University,Western_Washington_University,Regular,2025-2-7
 24359,7,3,Final,Stockton_University,University_of_Pennsylvania,Regular,2025-2-7
 21026,6,0,Final,University_of_Cincinnati,University_of_Dayton,Regular,2025-2-7
-21706,1,5,Final,Schoolcraft_College,Adrian_College,Regular,2025-2-7
+21706,-,-,7:35 pm EST,Schoolcraft_College,Adrian_College,Regular,2025-2-7
 24390,8,1,Final,Grand_Canyon_University,University_of_California_Santa_Barbara,Regular,2025-2-7
 23030,4,5,Final SO,Keene_State_College,Bryant_University,Regular,2025-2-7
 23317,3,2,Final,Lake_Region_State_College,Williston_State_College,Regular,2025-2-7
@@ -2039,7 +2039,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23949,8,1,Final,Stevenson_University,George_Washington_University,Regular,2025-2-8
 24357,0,1,Final,Montana_State_University,University_of_Utah,Regular,2025-2-8
 24421,7,2,Final,Maryville_University,University_of_Missouri,Regular,2025-2-8
-24382,6,3,Final,University_of_Jamestown,Minnesota_State_University_Mankato,Regular,2025-2-8
+24382,-,-,5:15 pm CST,University_of_Jamestown,Minnesota_State_University_Mankato,Regular,2025-2-8
 24436,3,2,Final OT,University_of_California_Berkeley,University_of_Southern_California,Regular,2025-2-8
 24439,5,4,Final,Grand_Canyon_University,University_of_California_Los_Angeles,Regular,2025-2-8
 24410,3,4,Final OT,University_of_Texas,Texas_Christian_University,Regular,2025-2-8
@@ -2059,7 +2059,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 24394,2,1,Final OT,Grand_Canyon_University,Arizona_State_University,Regular,2025-2-9
 24383,5,3,Final,University_of_Saint_Thomas,University_of_Minnesota_Crookston,Regular,2025-2-9
 23256,-,-,Postponed,Rensselaer_Polytechnic_Institute,University_of_New_Hampshire,Regular,2025-2-9
-24384,3,4,Final,University_of_Jamestown,Bethel_University,Regular,2025-2-9
+24384,-,-,11:00 am CST,University_of_Jamestown,Bethel_University,Regular,2025-2-9
 23318,1,4,Final,Lake_Region_State_College,Dakota_College_Bottineau,Regular,2025-2-9
 23437,3,6,Final,Adrian_College,Schoolcraft_College,Regular,2025-2-9
 24374,5,2,Final,Penn_State_University,Virginia_Tech,Regular,2025-2-9
