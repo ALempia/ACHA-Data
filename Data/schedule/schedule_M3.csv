@@ -980,7 +980,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22014,5,2,Final,University_of_Notre_Dame,Miami_University,Regular,2025-2-8
 22865,7,4,Final,Wentworth_Institute_of_Technology,Central_Maine_Community_College,Regular,2025-2-8
 21666,2,7,Final,Curry_College,Thomas_College,Regular,2025-2-8
-21037,-,-,Postponed,University_of_Massachusetts,Worcester_Polytechnic_Institute,Regular,2025-2-8
+21037,1,0,Visiting Forfeit,University_of_Massachusetts,Worcester_Polytechnic_Institute,Regular,2025-2-8
 24478,4,2,Final,Arizona_State_University,University_of_California_Davis,Regular,2025-2-8
 20719,6,1,Final,University_of_Nebraska,University_of_Nebraska_at_Omaha,Regular,2025-2-8
 20032,4,1,Final,Western_Michigan_University,Adrian_College,Regular,2025-2-8
@@ -1018,7 +1018,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19730,6,3,Final,Northern_Arizona_University,Park_University,Regular,2025-2-14
 19698,0,6,Final,University_of_Nebraska_at_Omaha,United_States_Air_Force_Academy,Regular,2025-2-14
 22622,12,3,Final,Marian_University,"Wheaton_College,_IL.",Regular,2025-2-14
-21386,-,-,11:00 am EST,Central_Michigan_University,University_of_Cincinnati,Regular,2025-2-15
+21386,9,1,Final,Central_Michigan_University,University_of_Cincinnati,Regular,2025-2-15
 22148,4,3,Final,Drake_University,University_of_Nebraska,Regular,2025-2-15
 21426,-,-,12:00 pm MST,Western_Colorado_University,University_of_Colorado_Colorado_Springs,Regular,2025-2-15
 19039,5,8,Final,Drury_University,University_of_Kansas,Regular,2025-2-15
@@ -1043,7 +1043,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21469,3,5,Final,Loyola_University_Chicago,Northwestern_University,Regular,2025-2-15
 21634,-,-,8:30 pm MST,Park_University,Northern_Arizona_University,Regular,2025-2-15
 24471,7,1,Final,Adrian_College,University_of_Akron,Regular,2025-2-16
-21960,-,-,2:00 pm EST,Saint_Vincent_College,West_Virginia_University,Regular,2025-2-16
+21960,4,1,Final,Saint_Vincent_College,West_Virginia_University,Regular,2025-2-16
 19616,4,13,Final,Yeshiva_University,SUNY_Maritime_College,Regular,2025-2-16
 20720,2,4,Final,University_of_Nebraska,United_States_Air_Force_Academy,Regular,2025-2-16
 24300,-,-,4:40 pm EST,Dartmouth_College,University_of_New_Hampshire,Regular,2025-2-16

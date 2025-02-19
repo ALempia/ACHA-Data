@@ -485,7 +485,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22801,-,-,Postponed,Sacred_Heart_University,Boston_University,Regular,2025-2-9
 20041,6,1,Final,Assiniboine_College,Dakota_College_at_Bottineau,Regular,2025-2-9
 23530,0,3,Final,Dakota_College_at_Bottineau,Assiniboine_College,Regular,2025-2-12
-24466,-,-,12:00 am EST,Boston_College,Boston_University,Regular,2025-2-14
+24466,6,4,Final,Boston_College,Boston_University,Regular,2025-2-14
 22385,1,7,Final,University_of_Nebraska,Augustana_University,Regular,2025-2-14
 21723,-,-,6:15 pm EST,Hope_College,Loyola_University_Chicago,Regular,2025-2-14
 22875,4,5,Final OT,Merrimack_College,Bentley_University,Regular,2025-2-14
@@ -517,7 +517,6 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19803,12,0,Final,Sault_College,University_of_Illinois,Regular,2025-2-16
 23402,-,-,12:00 pm EST,Rochester_Institute_Of_Technology,Brockport_State_University,Regular,2025-2-16
 19772,4,3,Final OT,West_Chester_University,University_of_Virginia,Regular,2025-2-16
-22909,-,-,Postponed,University_of_Vermont,Northeastern_University,Regular,2025-2-16
 20942,-,-,2:00 pm EST,Mercyhurst_University,University_of_Pittsburgh,Regular,2025-2-16
 23040,1,3,Final,University_of_Iowa,Iowa_State_University,Regular,2025-2-16
 18753,1,0,Visiting Forfeit,Maryville_University,University_of_Wisconsin_Eau_Claire,Regular,2025-2-16
@@ -547,6 +546,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22440,-,-,9:00 pm EST,Slippery_Rock_University,Loyola_University_Maryland,Regular,2025-2-22
 24305,-,-,9:00 am CST,University_of_Wisconsin_Eau_Claire,University_of_Saint_Thomas,Regular,2025-2-23
 20044,-,-,10:00 am CST,Assiniboine_College,North_Dakota_State_University,Regular,2025-2-23
+24504,-,-,12:00 pm EST,University_of_Vermont,Northeastern_University,Regular,2025-2-23
 20979,-,-,11:00 am CST,Iowa_State_University,University_of_Minnesota_Duluth,Regular,2025-2-23
 23278,-,-,11:00 am CST,University_of_Wisconsin_LaCrosse,University_of_Nebraska,Regular,2025-2-23
 22585,-,-,3:00 pm EST,Harvard_University,Bentley_University,Regular,2025-2-23

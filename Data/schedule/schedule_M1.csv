@@ -1083,7 +1083,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20576,-,-,Postponed,Robert_Morris_University,Mercyhurst_University,Regular,2025-2-16
 20620,6,2,Final,Kent_State_University,Rochester_Institute_of_Technology,Regular,2025-2-16
 19013,4,2,Final,University_of_Delaware,Drexel_University,Regular,2025-2-16
-24445,-,-,5:00 pm EST,West_Chester_University,Lehigh_University,Regular,2025-2-18
+24445,4,1,Final,West_Chester_University,Lehigh_University,Regular,2025-2-18
 18995,-,-,7:30 pm EST,Adrian_College,Grand_Valley_State_University,Regular,2025-2-20
 18631,-,-,8:00 pm EST,Syracuse_University,University_of_Rhode_Island,Regular,2025-2-20
 19209,-,-,7:30 pm MST,University_of_Arizona,Arizona_State_University,Regular,2025-2-20
@@ -1093,6 +1093,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 24453,-,-,2:00 pm CST,Cleary_University,Aquinas_College,Regular,2025-2-21
 24452,-,-,5:00 pm CST,University_of_Michigan_Dearborn,Rochester_Christian_University,Regular,2025-2-21
 24484,-,-,5:00 pm CST,McKendree_University,Midland_University,Regular,2025-2-21
+24492,-,-,6:20 pm EST,Kent_State_University,Robert_Morris_University,Regular,2025-2-21
 24447,-,-,6:30 pm EST,Rutgers_University,The_College_of_New_Jersey,Regular,2025-2-21
 18630,-,-,7:00 pm EST,Syracuse_University,University_of_Rhode_Island,Regular,2025-2-21
 19456,-,-,7:00 pm EST,Niagara_University,University_of_Delaware,Regular,2025-2-21
@@ -1105,10 +1106,12 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18975,-,-,7:00 pm MST,Grand_Canyon_University,University_of_Nevada_Las_Vegas,Regular,2025-2-21
 24454,-,-,8:00 pm CST,Lawrence_Tech,Concordia_University_Ann_Arbor,Regular,2025-2-21
 20517,-,-,7:15 pm MST,Colorado_State_University,University_of_Colorado,Regular,2025-2-21
+24496,-,-,9:20 pm EST,West_Virginia_University,Duquesne_University,Regular,2025-2-21
 20544,-,-,7:30 pm MST,University_of_Utah,University_of_Oregon,Regular,2025-2-21
 24485,-,-,8:30 pm CST,Illinois_State_University,University_of_Mary,Regular,2025-2-21
 19210,-,-,7:30 pm MST,University_of_Arizona,Arizona_State_University,Regular,2025-2-21
 24490,-,-,10:30 am EST,United_States_Naval_Academy,Temple_University,Regular,2025-2-22
+24497,-,-,1:30 pm EST,Villanova_University,William_Paterson_University,Regular,2025-2-22
 19457,-,-,1:30 pm EST,Niagara_University,University_of_Delaware,Regular,2025-2-22
 18815,-,-,Postponed,University_of_Alabama,Drury_University,Regular,2025-2-22
 24491,-,-,4:30 pm EST,George_Mason_University,Lehigh_University,Regular,2025-2-22
