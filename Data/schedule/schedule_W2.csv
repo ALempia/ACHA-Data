@@ -289,8 +289,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22766,3,1,Final,Michigan_State_University,Adrian_College,Regular,2024-11-23
 22136,0,2,Final,Saint_Anselm_College,Providence_College,Regular,2024-11-23
 21845,3,0,Final,Liberty_University,University_of_Maryland,Regular,2024-11-23
-21844,1,10,Final,Loyola_University_Maryland,Brockport_State_University,Regular,2024-11-23
 23988,0,7,Final,University_of_Arkansas,Maryville_University,Regular,2024-11-23
+21844,1,10,Final,Loyola_University_Maryland,Brockport_State_University,Regular,2024-11-23
 22485,1,9,Final,Lawrence_Technological_University,Central_Michigan_University,Regular,2024-11-23
 22321,12,3,Final,Villanova_University,University_of_Pennsylvania,Regular,2024-11-23
 20037,4,0,Final,Assiniboine_College,University_of_Wisconsin_Eau_Claire,Regular,2024-11-23
@@ -438,9 +438,9 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 24307,8,3,Final,University_Of_Connecticut,College_of_the_Holy_Cross,Regular,2025-2-2
 22876,0,3,Final,Merrimack_College,Boston_College,Regular,2025-2-2
 21577,4,1,Final,United_States_Naval_Academy,University_of_Maryland,Regular,2025-2-7
-22490,5,2,Final,Lawrence_Technological_University,Aurora_University,Regular,2025-2-7
 24465,0,0,Suspended [20:00:00 EST],Harvard_University,Boston_College,Regular,2025-2-7
 23334,4,1,Final,University_of_New_England,Merrimack_College,Regular,2025-2-7
+22490,5,2,Final,Lawrence_Technological_University,Aurora_University,Regular,2025-2-7
 20970,0,3,Final,University_of_Pittsburgh,Robert_Morris_University,Regular,2025-2-7
 18750,9,0,Final,Maryville_University,University_of_Arkansas,Regular,2025-2-7
 20062,0,0,Suspended [22:15:00 EST],University_of_Pennsylvania,United_States_Air_Force_Academy,Regular,2025-2-7
@@ -533,21 +533,25 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 24514,3,2,Final,Aurora_University,Lawrence_Technological_University,Regular,2025-2-21
 24515,3,1,Final,Central_Michigan_University,Adrian_College,Regular,2025-2-21
 23041,-,-,6:00 pm CST,University_of_Iowa,United_States_Air_Force_Academy,Regular,2025-2-21
-19674,-,-,7:20 pm EST,Villanova_University,Rowan_University,Regular,2025-2-21
+19674,1,2,Final OT,Villanova_University,Rowan_University,Regular,2025-2-21
 24516,2,1,Final,The_Ohio_State_University,Northern_Michigan_University,Regular,2025-2-21
 24529,5,0,Final,Sault_College,Michigan_State_University,Regular,2025-2-21
 23531,9,4,Final,Dakota_College_at_Bottineau,Lake_Region_State_College,Regular,2025-2-21
 19822,-,-,8:25 pm EST,Robert_Morris_University,West_Virginia_University_,Regular,2025-2-21
 23121,5,2,Final,University_of_Illinois,University_of_Notre_Dame,Regular,2025-2-21
+24550,-,-,9:20 am EST,Northeastern_University,Boston_University,Regular,2025-2-22
 23042,-,-,8:30 am CST,University_of_Iowa,United_States_Air_Force_Academy,Regular,2025-2-22
 24536,-,-,9:40 am EST,Boston_College,Providence_College,Regular,2025-2-22
 21579,-,-,11:00 am EST,United_States_Naval_Academy,University_of_Maryland,Regular,2025-2-22
-23532,-,-,2:00 pm CST,Dakota_College_at_Bottineau,Lake_Region_State_College,Regular,2025-2-22
-20055,-,-,3:15 pm EST,University_of_Delaware,Villanova_University,Regular,2025-2-22
+24547,0,2,Final,The_Ohio_State_University,Central_Michigan_University,Regular,2025-2-22
+23532,9,5,Final,Dakota_College_at_Bottineau,Lake_Region_State_College,Regular,2025-2-22
+20055,1,2,Final,University_of_Delaware,Villanova_University,Regular,2025-2-22
+24549,-,-,3:50 pm EST,Northeastern_University,Providence_College,Regular,2025-2-22
+24548,5,0,Final,Sault_College,Aurora_University,Regular,2025-2-22
 23122,-,-,4:30 pm CST,University_of_Illinois,University_of_Notre_Dame,Regular,2025-2-22
 20978,-,-,7:00 pm CST,Iowa_State_University,University_of_Minnesota_Duluth,Regular,2025-2-22
 23277,-,-,7:00 pm CST,University_of_Wisconsin_LaCrosse,University_of_Nebraska,Regular,2025-2-22
-20043,-,-,7:15 pm CST,Assiniboine_College,North_Dakota_State_University,Regular,2025-2-22
+20043,5,0,Final,Assiniboine_College,North_Dakota_State_University,Regular,2025-2-22
 24304,-,-,8:00 pm CST,University_of_Wisconsin_Eau_Claire,University_of_Saint_Thomas,Regular,2025-2-22
 22440,-,-,9:00 pm EST,Slippery_Rock_University,Loyola_University_Maryland,Regular,2025-2-22
 24305,-,-,9:00 am CST,University_of_Wisconsin_Eau_Claire,University_of_Saint_Thomas,Regular,2025-2-23
