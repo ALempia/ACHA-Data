@@ -424,7 +424,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 18748,21,0,Final,Maryville_University,University_of_Nebraska,Regular,2025-2-1
 20061,4,8,Final,University_of_Pennsylvania,Rowan_University,Regular,2025-2-1
 23536,3,8,Final,George_Washington_University,West_Chester_University,Regular,2025-2-1
-24460,-,-,8:00 am CST,University_of_Wisconsin,North_Dakota_State_University,Regular,2025-2-2
+24460,6,1,Final,University_of_Wisconsin,North_Dakota_State_University,Regular,2025-2-2
 22818,5,4,Final OT,University_of_Minnesota_Duluth,University_of_Iowa,Regular,2025-2-2
 23569,4,1,Final,University_of_Saint_Thomas,University_of_Wisconsin_LaCrosse,Regular,2025-2-2
 24302,6,0,Final,Dakota_College_at_Bottineau,Lake_Region_State_College,Regular,2025-2-2
@@ -488,7 +488,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23530,0,3,Final,Dakota_College_at_Bottineau,Assiniboine_College,Regular,2025-2-12
 24466,6,4,Final,Boston_College,Boston_University,Regular,2025-2-14
 22385,1,7,Final,University_of_Nebraska,Augustana_University,Regular,2025-2-14
-21723,-,-,6:15 pm EST,Hope_College,Loyola_University_Chicago,Regular,2025-2-14
+21723,1,0,Visiting Forfeit,Hope_College,Loyola_University_Chicago,Regular,2025-2-14
 22492,0,0,Suspended [20:00:00 EST],Lawrence_Technological_University,Liberty_University,Regular,2025-2-14
 22875,4,5,Final OT,Merrimack_College,Bentley_University,Regular,2025-2-14
 23416,5,3,Final,The_Ohio_State_University,University_of_Pittsburgh,Regular,2025-2-14
@@ -568,5 +568,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22585,12,4,Final,Harvard_University,Bentley_University,Regular,2025-2-23
 24303,-,-,12:00 am EST,Boston_College,Army,Regular,2025-2-28
 22387,-,-,5:00 pm CST,University_of_Nebraska,University_of_Iowa,Regular,2025-2-28
+24577,-,-,6:45 pm EST,Villanova_University,University_of_Maryland,Regular,2025-2-28
+24578,-,-,9:00 pm EST,Rowan_University,University_of_Delaware,Regular,2025-2-28
 22386,-,-,3:00 pm CST,University_of_Nebraska,University_of_Iowa,Regular,2025-3-1
 24065,-,-,12:30 pm EST,Bentley_University,Army,Regular,2025-3-2
