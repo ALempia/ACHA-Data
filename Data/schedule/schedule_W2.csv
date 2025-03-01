@@ -27,13 +27,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20046,0,2,Final,University_of_Delaware,United_States_Naval_Academy,Regular,2024-9-29
 21736,11,2,Final,University_of_Virginia,George_Washington_University,Regular,2024-9-29
 22774,4,2,Final,Miami_University,University_of_Illinois,Regular,2024-9-29
-22579,5,4,Home Forfeit OT,Harvard_University,University_of_Pennsylvania,Regular,2024-9-29
+22579,0,1,Home Forfeit OT,Harvard_University,University_of_Pennsylvania,Regular,2024-9-29
 22131,2,4,Final,Saint_Anselm_College,Boston_University,Regular,2024-9-29
 22712,1,4,Final,University_of_New_Hampshire,University_Of_Connecticut,Regular,2024-9-29
 19815,0,5,Final,Robert_Morris_University,Lawrence_Technological_University,Regular,2024-9-29
 22573,2,4,Final,College_of_the_Holy_Cross,Sacred_Heart_University,Regular,2024-9-29
 20980,2,1,Final OT,Liberty_University,University_of_Delaware,Regular,2024-10-4
-23412,6,0,Visiting Forfeit,The_Ohio_State_University,Bowling_Green_State_University,Regular,2024-10-4
+23412,1,0,Visiting Forfeit,The_Ohio_State_University,Bowling_Green_State_University,Regular,2024-10-4
 21725,1,0,Final,Brockport_State_University,Niagara_University,Regular,2024-10-4
 21892,3,0,Final,West_Virginia_University_,Robert_Morris_University,Regular,2024-10-4
 23533,15,2,Final,George_Washington_University,University_of_North_Carolina,Regular,2024-10-4
@@ -92,7 +92,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20982,2,0,Final,Liberty_University,Rowan_University,Regular,2024-10-18
 21569,12,1,Final,United_States_Naval_Academy,United_States_Air_Force_Academy,Regular,2024-10-18
 23380,3,4,Final,Augustana_University,Lake_Region_State_College,Regular,2024-10-18
-23782,0,2,Home Forfeit,Bowling_Green_State_University,Miami_University,Regular,2024-10-18
+23782,0,1,Home Forfeit,Bowling_Green_State_University,Miami_University,Regular,2024-10-18
 22793,0,6,Final,Sacred_Heart_University,Boston_College,Regular,2024-10-18
 21893,2,1,Final,West_Virginia_University_,Brockport_State_University,Regular,2024-10-18
 21610,6,1,Final,University_Of_Connecticut,Merrimack_College,Regular,2024-10-18
@@ -105,7 +105,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23116,14,0,Final,University_of_Illinois,Hope_College,Regular,2024-10-19
 20938,7,2,Final,Mercyhurst_University,Brockport_State_University,Regular,2024-10-19
 20049,11,1,Final,University_of_Delaware,University_of_Pennsylvania,Regular,2024-10-19
-23783,3,5,Home Forfeit,Bowling_Green_State_University,Miami_University,Regular,2024-10-19
+23783,0,1,Home Forfeit,Bowling_Green_State_University,Miami_University,Regular,2024-10-19
 18741,6,5,Final,Maryville_University,Aurora_University,Regular,2024-10-19
 19805,3,0,Final,Central_Michigan_University,Adrian_College,Regular,2024-10-19
 22471,4,5,Final OT,Assumption_University,Sacred_Heart_University,Regular,2024-10-19
@@ -125,7 +125,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23705,1,2,Final,Providence_College,University_of_New_Hampshire,Regular,2024-10-20
 22580,3,6,Final,Harvard_University,Merrimack_College,Regular,2024-10-23
 21894,0,10,Final,West_Virginia_University_,Liberty_University,Regular,2024-10-24
-23413,9,1,Visiting Forfeit,The_Ohio_State_University,Bowling_Green_State_University,Regular,2024-10-25
+23413,1,0,Visiting Forfeit,The_Ohio_State_University,Bowling_Green_State_University,Regular,2024-10-25
 20943,0,1,Final,Robert_Morris_University,Adrian_College,Regular,2024-10-25
 20944,1,6,Final,Niagara_University,Liberty_University,Regular,2024-10-25
 23953,4,7,Final,Lake_Region_State_College,North_Dakota_State_University,Regular,2024-10-25
@@ -568,7 +568,9 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 22585,12,4,Final,Harvard_University,Bentley_University,Regular,2025-2-23
 24303,-,-,12:00 am EST,Boston_College,Army,Regular,2025-2-28
 22387,-,-,5:00 pm CST,University_of_Nebraska,University_of_Iowa,Regular,2025-2-28
-24577,-,-,6:45 pm EST,Villanova_University,University_of_Maryland,Regular,2025-2-28
+24577,5,0,Final,Villanova_University,University_of_Maryland,Regular,2025-2-28
 24578,-,-,9:00 pm EST,Rowan_University,University_of_Delaware,Regular,2025-2-28
 22386,-,-,3:00 pm CST,University_of_Nebraska,University_of_Iowa,Regular,2025-3-1
+24587,-,-,6:30 pm EST,Niagara_University,Robert_Morris_University,Regular,2025-3-1
+24588,-,-,7:00 pm EST,Mercyhurst_University,West_Virginia_University_,Regular,2025-3-1
 24065,-,-,12:30 pm EST,Bentley_University,Army,Regular,2025-3-2
