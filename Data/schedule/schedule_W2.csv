@@ -557,8 +557,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 20978,1,2,Final,Iowa_State_University,University_of_Minnesota_Duluth,Regular,2025-2-22
 23277,5,6,Final,University_of_Wisconsin_LaCrosse,University_of_Nebraska,Regular,2025-2-22
 20043,5,0,Final,Assiniboine_College,North_Dakota_State_University,Regular,2025-2-22
-24304,1,8,Final,University_of_Wisconsin_Eau_Claire,University_of_Saint_Thomas,Regular,2025-2-22
 22440,10,0,Final,Slippery_Rock_University,Loyola_University_Maryland,Regular,2025-2-22
+24304,1,8,Final,University_of_Wisconsin_Eau_Claire,University_of_Saint_Thomas,Regular,2025-2-22
 24305,0,5,Final,University_of_Wisconsin_Eau_Claire,University_of_Saint_Thomas,Regular,2025-2-23
 20044,9,1,Final,Assiniboine_College,North_Dakota_State_University,Regular,2025-2-23
 24504,0,0,Suspended [12:00:00 EST],University_of_Vermont,Northeastern_University,Regular,2025-2-23
@@ -567,10 +567,14 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 24558,6,0,Final,Sault_College,Central_Michigan_University,Regular,2025-2-23
 22585,12,4,Final,Harvard_University,Bentley_University,Regular,2025-2-23
 24303,-,-,12:00 am EST,Boston_College,Army,Regular,2025-2-28
-22387,-,-,5:00 pm CST,University_of_Nebraska,University_of_Iowa,Regular,2025-2-28
+22387,1,9,Final,University_of_Nebraska,University_of_Iowa,Regular,2025-2-28
 24577,5,0,Final,Villanova_University,University_of_Maryland,Regular,2025-2-28
-24578,-,-,9:00 pm EST,Rowan_University,University_of_Delaware,Regular,2025-2-28
-22386,-,-,3:00 pm CST,University_of_Nebraska,University_of_Iowa,Regular,2025-3-1
+24578,5,2,Final,Rowan_University,University_of_Delaware,Regular,2025-2-28
+24605,2,1,Final,Liberty_University,Rowan_University,Regular,2025-3-1
+22386,0,1,06:52 3rd,University_of_Nebraska,University_of_Iowa,Regular,2025-3-1
 24587,-,-,6:30 pm EST,Niagara_University,Robert_Morris_University,Regular,2025-3-1
 24588,-,-,7:00 pm EST,Mercyhurst_University,West_Virginia_University_,Regular,2025-3-1
+24606,-,-,7:15 pm EST,United_States_Naval_Academy,Villanova_University,Regular,2025-3-1
+24608,-,-,11:15 am EST,Liberty_University,Villanova_University,Regular,2025-3-2
 24065,-,-,12:30 pm EST,Bentley_University,Army,Regular,2025-3-2
+24609,-,-,2:30 pm EST,Niagara_University,Mercyhurst_University,Regular,2025-3-2
