@@ -1096,9 +1096,9 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 24525,4,5,Final OT,Missouri_State_University,Dordt_University,Regular,2025-2-24
 24589,-,-,5:30 pm EST,Michigan_State_University,Western_Michigan_University,Regular,2025-2-28
 24594,4,3,Final OT,University_of_Michigan,Adrian_College,Regular,2025-2-28
-24590,-,-,7:30 pm EST,Calvin_University,Ferris_State_University,Regular,2025-2-28
+24590,6,1,Final,Calvin_University,Ferris_State_University,Regular,2025-2-28
 19040,3,10,Final,Drury_University,Missouri_State_University,Regular,2025-2-28
-24591,-,-,8:30 pm EST,Grand_Valley_State_University,Davenport_University,Regular,2025-2-28
+24591,10,3,Final,Grand_Valley_State_University,Davenport_University,Regular,2025-2-28
 24595,-,-,9:00 pm EST,Central_Michigan_University,University_of_Michigan_Flint,Regular,2025-2-28
 24582,-,-,9:00 pm EST,University_of_Pittsburgh_Johnstown,Indiana_University_of_Pennsylvania,Regular,2025-2-28
 24583,-,-,9:00 pm EST,Kent_State_University,Robert_Morris_University,Regular,2025-2-28
@@ -1108,13 +1108,13 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 21430,-,-,Postponed,Western_Colorado_University,Colorado_School_of_Mines,Regular,2025-3-1
 19485,-,-,2:00 pm CST,Washington_University_in_Saint_Louis,University_of_Missouri,Regular,2025-3-1
 24584,-,-,4:00 pm EST,Saint_Vincent_College,Robert_Morris_University,Regular,2025-3-1
-24592,-,-,4:30 pm EST,Hope_College,Michigan_State_University,Regular,2025-3-1
+24592,3,1,Final,Hope_College,Michigan_State_University,Regular,2025-3-1
 24585,-,-,4:30 pm EST,PennWest_California,University_of_Pittsburgh_Johnstown,Regular,2025-3-1
 23394,-,-,Postponed,Colorado_College,United_States_Air_Force_Academy,Regular,2025-3-1
-24596,-,-,6:30 pm EST,Lawrence_Tech,University_of_Michigan_Flint,Regular,2025-3-1
+24596,7,0,Final,Lawrence_Tech,University_of_Michigan_Flint,Regular,2025-3-1
 19041,3,6,Final,Drury_University,Missouri_State_University,Regular,2025-3-1
-24593,-,-,7:30 pm EST,Grand_Valley_State_University,Calvin_University,Regular,2025-3-1
-24597,-,-,9:00 pm EST,Oakland_University,University_of_Michigan,Regular,2025-3-1
+24593,3,2,Final,Grand_Valley_State_University,Calvin_University,Regular,2025-3-1
+24597,6,0,Final,Oakland_University,University_of_Michigan,Regular,2025-3-1
 24586,-,-,2:00 pm EST,Saint_Vincent_College,PennWest_California,Regular,2025-3-2
 23781,8,1,Final,Worcester_Polytechnic_Institute,Tufts_University,Regular,2025-3-2
 24598,-,-,7:30 pm EST,Lawrence_Tech,Grand_Valley_State_University,Regular,2025-3-7
