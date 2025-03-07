@@ -2075,7 +2075,7 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23158,-,-,7:00 pm EST,Princeton_University,Saint_Josephs_University,Regular,2025-2-10
 22948,-,-,1:00 am CST,University_of_North_Dakota,South_Dakota_State_University,Regular,2025-2-14
 23838,-,-,1:00 am PST,Gonzaga_University,University_of_Idaho,Regular,2025-2-14
-24612,-,-,7:15 pm EST,Siena_College,Montclair_State_University,Regular,2025-2-14
+24612,2,0,Final,Siena_College,Montclair_State_University,Regular,2025-2-14
 23319,6,5,Final OT,Lake_Region_State_College,University_of_Minnesota_Crookston,Regular,2025-2-14
 23866,9,1,Final,University_of_Wisconsin_LaCrosse,Waldorf_University,Regular,2025-2-14
 21485,2,3,Final OT,Weber_State_University,Utah_State_University_,Regular,2025-2-14
