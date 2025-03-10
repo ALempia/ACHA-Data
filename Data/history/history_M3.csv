@@ -678,8 +678,8 @@ Jan 10,Oakland University,Michigan State University,4,5,OT Loss,-0.91,1.5,-2.4,-
 Jan 10,Northern Illinois University,Olivet Nazarene University,1,7,Loss,-1.71,0.75,-2.47,-0.327,10,2.71,6.25,0.327,M3
 Jan 10,Indiana University,Loyola Marymount University,5,4,OT Win,0.8,1.35,-0.55,0.227,59.7,3.2,2.65,1.773,M3
 Jan 10,Loyola University Chicago,Grand Canyon University,0,5,Loss,-1.61,-2.01,0.4,-0.069,2,1.61,7.01,0.069,M3
-Jan 10,Northwestern University,Central Michigan University,2,6,Loss,-0.39,-0.06,-0.33,-0.281,8.5,2.39,6.06,0.281,M3
 Jan 10,Arizona State University,Park University,7,2,Win,-1.91,0.27,-2.18,0.016,99.6,8.91,1.73,2.984,M3
+Jan 10,Northwestern University,Central Michigan University,2,6,Loss,-0.39,-0.06,-0.33,-0.281,8.5,2.39,6.06,0.281,M3
 Jan 10,University of California Irvine,University of California Santa Cruz,12,2,Win,4.34,0.21,4.13,0.053,98.5,7.66,1.79,2.947,M3
 Jan 11,University of Wisconsin,Illinois State University,3,5,Loss,-2.1,2.57,-4.67,-2.525,85.3,5.1,2.43,2.525,M3
 Jan 11,Northwestern University,Indiana University,5,8,Loss,2.29,3.63,-1.34,-0.789,25.2,2.71,4.37,0.789,M3
@@ -705,8 +705,8 @@ Jan 16,Grand Canyon University,Arizona State University,1,5,Loss,-1.95,-1.75,-0.
 Jan 17,University of Michigan,University of Notre Dame,2,3,OT Loss,-0.67,-2.18,1.51,0.165,26.7,2.67,4.18,0.835,M3
 Jan 17,Indiana University of Pennsylvania,Loyola University Maryland,8,2,Win,1,0.36,0.64,0.072,97.9,7,1.64,2.928,M3
 Jan 17,Florida Gulf Coast University,Indiana University,9,1,Win,4.13,-1,5.14,0.389,88.2,4.87,2,2.611,M3
-Jan 17,Grand Valley State University,Western Michigan University,6,2,Win,0.79,-0.08,0.88,0.347,89.5,5.21,2.08,2.653,M3
 Jan 17,Calvin University,Olivet Nazarene University,3,0,Win,-5.59,-1.44,-4.15,0.014,99.6,8.59,1.44,2.986,M3
+Jan 17,Grand Valley State University,Western Michigan University,6,2,Win,0.79,-0.08,0.88,0.347,89.5,5.21,2.08,2.653,M3
 Jan 17,"Wheaton College, IL.",Northern Illinois University,3,15,Loss,1.33,6.04,-4.72,-0.013,0.4,1.67,8.96,0.013,M3
 Jan 17,University of Arkansas,Missouri State University,2,4,Loss,-0.28,-1.25,0.97,-0.396,12.1,2.28,5.25,0.396,M3
 Jan 17,University of Pittsburgh Johnstown,University of Michigan Flint,3,2,OT Win,-1.5,-1.43,-0.07,0.466,51.2,3.5,3.43,1.534,M3
@@ -776,9 +776,9 @@ Jan 24,Trine University,Butler University,5,2,Win,1.07,-1.76,2.82,1.423,52.7,3.9
 Jan 24,University of Cincinnati,Duquesne University,1,2,OT Loss,-1.97,-2.97,1,-0.05,34.2,2.97,3.97,1.05,M3
 Jan 24,George Mason University,University of Pittsburgh Johnstown,1,8,Loss,-0.19,0.57,-0.76,-0.027,0.7,1.19,7.43,0.027,M3
 Jan 24,Western Connecticut State University,Merchant Marine Academy,4,1,Win,0.05,-0.99,1.04,0.617,80.8,3.95,1.99,2.383,M3
-Jan 24,Park University,Grand Canyon University,0,7,Loss,-2.4,1.47,-3.87,-0.375,11.5,2.4,5.53,0.375,M3
 Jan 24,University of Nebraska at Omaha,Washington University in Saint Louis,3,7,Loss,-0.58,3.99,-4.58,-1.77,59.5,3.58,3.01,1.77,M3
 Jan 24,Drury University,Northern Illinois University,5,2,Win,-1.21,0.16,-1.37,0.155,95.5,6.21,1.84,2.845,M3
+Jan 24,Park University,Grand Canyon University,0,7,Loss,-2.4,1.47,-3.87,-0.375,11.5,2.4,5.53,0.375,M3
 Jan 24,Marian University,Saint Louis University,3,6,Loss,0.79,-0.33,1.12,-0.208,6.2,2.21,6.33,0.208,M3
 Jan 25,University of California Davis,California State University Long Beach,5,3,Win,0.32,0.02,0.3,0.797,74.5,4.68,2.98,2.203,M3
 Jan 25,University of Wisconsin,Loyola University Chicago,13,3,Win,4.88,1.79,3.09,0.015,99.6,8.12,1.21,2.985,M3
@@ -798,14 +798,14 @@ Jan 25,Springfield College,United States Coast Guard Academy,3,8,Loss,0.54,3.8,-
 Jan 25,PennWest California,West Virginia University,4,0,Win,-0.54,-2.37,1.83,0.599,81.3,4.54,2.37,2.401,M3
 Jan 25,University of Connecticut,Worcester Polytechnic Institute,2,4,Loss,-0.19,0.08,-0.27,-0.714,22.5,2.19,3.92,0.714,M3
 Jan 25,University of Notre Dame,Davenport University,8,0,Win,-1.15,-1,-0.15,0.003,99.9,9.15,1,2.997,M3
-Jan 25,Central Maine Community College,Curry College,8,1,Win,3.07,-0.7,3.76,0.287,91.5,4.93,1.7,2.713,M3
 Jan 25,Ferris State University,Hope College,0,9,Loss,-1.51,2.21,-3.73,-0.072,2,1.51,6.79,0.072,M3
 Jan 25,University of Massachusetts,Sacred Heart University,4,1,Win,0.59,-1.82,2.41,1.216,60,3.41,2.82,1.784,M3
+Jan 25,Central Maine Community College,Curry College,8,1,Win,3.07,-0.7,3.76,0.287,91.5,4.93,1.7,2.713,M3
 Jan 25,Thomas College,Dartmouth College,0,2,Loss,-3.25,-1.6,-1.64,-1.336,44.2,3.25,3.6,1.336,M3
 Jan 25,Saint Thomas Aquinas College,Yeshiva University,12,2,Win,4.65,0.71,3.94,0.034,99.1,7.35,1.29,2.966,M3
 Jan 25,University of Michigan,University of Michigan Flint,11,5,Win,6.36,2.03,4.33,0.804,74.3,4.64,2.97,2.196,M3
-Jan 25,Marian University,Saint Louis University,0,6,Loss,-2.21,-0.33,-1.88,-0.208,6.2,2.21,6.33,0.208,M3
 Jan 25,Western Michigan University,Central Michigan University,6,4,Win,2.61,0.81,1.81,1.409,53.2,3.39,3.19,1.591,M3
+Jan 25,Marian University,Saint Louis University,0,6,Loss,-2.21,-0.33,-1.88,-0.208,6.2,2.21,6.33,0.208,M3
 Jan 25,Robert Morris University,Indiana University of Pennsylvania,1,4,Loss,-3.48,0.02,-3.5,-1.708,57.3,4.48,3.98,1.708,M3
 Jan 25,University of Cincinnati,Duquesne University,5,3,Win,2.03,-0.97,3,1.95,34.2,2.97,3.97,1.05,M3
 Jan 25,Colorado School of Mines,Colorado College,6,2,Win,-2.54,0.16,-2.7,0.027,99.3,8.54,1.84,2.973,M3
@@ -976,10 +976,10 @@ Feb 14,University of Nebraska at Omaha,United States Air Force Academy,0,6,Loss,
 Feb 14,Marian University,"Wheaton College, IL.",12,3,Win,3.27,0.98,2.29,0.028,99.2,8.73,2.02,2.972,M3
 Feb 15,Central Michigan University,University of Cincinnati,9,1,Win,2.75,-0.67,3.42,0.126,96.4,6.25,1.67,2.874,M3
 Feb 15,Drake University,University of Nebraska,4,3,Win,2.19,-4.09,6.28,2.916,2.4,1.81,7.09,0.084,M3
-Feb 15,Adrian College,University of Akron,9,3,Win,1.81,0.93,0.88,0.105,97,7.19,2.07,2.895,M3
 Feb 15,Drury University,University of Kansas,5,8,Loss,1.85,2.71,-0.86,-0.674,21.4,3.15,5.29,0.674,M3
 Feb 15,Oakland University,Lawrence Tech,3,4,Loss,-0.59,0.81,-1.4,-1.686,56.6,3.59,3.19,1.686,M3
 Feb 15,Dordt University,University of Arkansas,7,1,Win,-0.53,-1.71,1.18,0.155,95.4,7.53,2.71,2.845,M3
+Feb 15,Adrian College,University of Akron,9,3,Win,1.81,0.93,0.88,0.105,97,7.19,2.07,2.895,M3
 Feb 15,Indiana University,Purdue University,2,5,Loss,0.16,1.27,-1.12,-0.621,19.3,1.84,3.73,0.621,M3
 Feb 15,PennWest California,Duquesne University,6,1,Win,0.77,-1.3,2.07,0.404,87.6,5.23,2.3,2.596,M3
 Feb 15,Indiana University of Pennsylvania,University of Pittsburgh Johnstown,5,4,OT Win,0.65,0.16,0.49,0.719,42.3,3.35,3.84,1.281,M3
@@ -1009,14 +1009,14 @@ Feb 21,Maryville University,Dallas Baptist University,2,1,OT Win,-2.71,-1.65,-1.
 Feb 21,Miami University,University of Cincinnati,5,2,Win,-2.22,0.33,-2.55,0.064,98.2,7.22,1.67,2.936,M3
 Feb 21,University of Wisconsin Stout,University of Wisconsin,4,5,Loss,-0.15,-0.87,0.71,-0.863,27.9,4.15,5.87,0.863,M3
 Feb 21,Hope College,University of Pittsburgh Johnstown,5,1,Win,-1.19,-0.56,-0.63,0.114,96.7,6.19,1.56,2.886,M3
-Feb 21,Oakland University,Davenport University,17,2,Win,6.68,1.2,5.48,0,100,10.32,0.8,3,M3
 Feb 21,Indiana University of Pennsylvania,Duquesne University,6,2,Win,0.73,-0.8,1.53,0.558,82.5,5.27,2.8,2.442,M3
+Feb 21,Oakland University,Davenport University,17,2,Win,6.68,1.2,5.48,0,100,10.32,0.8,3,M3
 Feb 21,York College of Pennsylvania,Loyola University Maryland,6,5,Win,1.76,2.57,-0.81,0.711,77.5,4.24,2.43,2.289,M3
 Feb 21,PennWest California,Saint Vincent College,0,1,Loss,-2.84,-3.11,0.27,-0.935,30.2,2.84,4.11,0.935,M3
 Feb 21,Missouri State University,Northwestern University,2,1,Win,-4.44,-0.95,-3.49,0.151,95.6,6.44,1.95,2.849,M3
 Feb 21,Xavier University,Butler University,6,0,Win,0.39,-2.64,3.03,0.428,86.8,5.61,2.64,2.572,M3
-Feb 21,Colorado Mesa University,Northern Arizona University,2,4,Loss,-1.95,0.71,-2.66,-1.793,60.3,3.95,3.29,1.793,M3
 Feb 21,Drake University,"Wheaton College, IL.",14,0,Win,3.82,-1.38,5.21,0.001,100,10.18,1.38,2.999,M3
+Feb 21,Colorado Mesa University,Northern Arizona University,2,4,Loss,-1.95,0.71,-2.66,-1.793,60.3,3.95,3.29,1.793,M3
 Feb 22,Massachusetts Institute of Technology,Tufts University,2,4,Loss,-0.68,-1.7,1.02,-0.42,13,2.68,5.7,0.42,M3
 Feb 22,Drake University,"Wheaton College, IL.",11,0,Win,0.82,-1.38,2.21,0.001,100,10.18,1.38,2.999,M3
 Feb 22,University of Wisconsin Stout,University of Wisconsin,2,11,Loss,-2.15,5.13,-7.29,-0.863,27.9,4.15,5.87,0.863,M3
@@ -1033,8 +1033,8 @@ Feb 22,Central Maine Community College,Wentworth Institute of Technology,6,4,Win
 Feb 22,Saint Thomas Aquinas College,SUNY Maritime College,6,1,Win,1.74,-0.7,2.43,0.418,87.4,4.26,1.7,2.582,M3
 Feb 22,Missouri State University,University of Nebraska,3,2,Win,-0.25,-0.85,0.6,1.303,57,3.25,2.85,1.697,M3
 Feb 23,Miami University,Indiana University,8,3,Win,3.63,0.74,2.89,0.602,81.2,4.37,2.26,2.398,M3
-Feb 23,Colby College,Central Maine Community College,4,0,Win,-0.15,-3.54,3.39,1.236,59.3,4.15,3.54,1.764,M3
 Feb 23,Adrian College,Western Michigan University,0,3,Loss,-3.23,-1.74,-1.49,-0.878,28.3,3.23,4.74,0.878,M3
+Feb 23,Colby College,Central Maine Community College,4,0,Win,-0.15,-3.54,3.39,1.236,59.3,4.15,3.54,1.764,M3
 Feb 23,Sacred Heart University,Saint Thomas Aquinas College,13,2,Win,8.89,-0.04,8.93,0.589,81.7,4.11,2.04,2.411,M3
 Feb 23,Colorado Mesa University,Northern Arizona University,4,3,OT Win,-0.95,-0.29,-0.66,0.207,60.3,3.95,3.29,1.793,M3
 Feb 23,Duquesne University,University of Pittsburgh Johnstown,0,8,Loss,-2.31,3.15,-5.45,-0.492,15.2,2.31,4.85,0.492,M3
@@ -1044,8 +1044,8 @@ Feb 28,University of Michigan,Adrian College,4,3,OT Win,-2.46,0.02,-2.48,-0.432,
 Feb 28,Calvin University,Ferris State University,6,1,Win,-0.2,-0.53,0.33,0.11,96.9,6.2,1.53,2.89,M3
 Feb 28,Drury University,Missouri State University,3,10,Loss,0.92,5.62,-4.7,-0.528,16.3,2.08,4.38,0.528,M3
 Feb 28,Grand Valley State University,Davenport University,10,3,Win,0.26,2.1,-1.84,0.001,100,9.74,0.9,2.999,M3
-Mar 1,PennWest California,University of Pittsburgh Johnstown,4,3,Win,0.67,-0.15,0.82,1.416,53,3.33,3.15,1.584,M3
 Mar 1,Hope College,Michigan State University,3,1,Win,-1.5,-1.47,-0.03,0.647,79.7,4.5,2.47,2.353,M3
+Mar 1,PennWest California,University of Pittsburgh Johnstown,4,3,Win,0.67,-0.15,0.82,1.416,53,3.33,3.15,1.584,M3
 Mar 1,Lawrence Tech,University of Michigan Flint,7,0,Win,0.1,-1.8,1.9,0.095,97.3,6.9,1.8,2.905,M3
 Mar 1,Drury University,Missouri State University,3,6,Loss,0.92,1.62,-0.7,-0.528,16.3,2.08,4.38,0.528,M3
 Mar 1,Grand Valley State University,Calvin University,3,2,Win,0,-1.09,1.1,1.547,48.3,3,3.09,1.453,M3
@@ -1730,8 +1730,8 @@ Jan 10,Michigan State University,Oakland University,5,4,OT Win,1.5,-0.91,2.4,1.4
 Jan 10,Olivet Nazarene University,Northern Illinois University,7,1,Win,0.75,-1.71,2.47,0.327,90,6.25,2.71,2.673,M3
 Jan 10,Loyola Marymount University,Indiana University,4,5,OT Loss,1.35,0.8,0.55,-0.227,40.3,2.65,3.2,1.227,M3
 Jan 10,Grand Canyon University,Loyola University Chicago,5,0,Win,-2.01,-1.61,-0.4,0.069,98,7.01,1.61,2.931,M3
-Jan 10,Central Michigan University,Northwestern University,6,2,Win,-0.06,-0.39,0.33,0.281,91.5,6.06,2.39,2.719,M3
 Jan 10,Park University,Arizona State University,2,7,Loss,0.27,-1.91,2.18,-0.016,0.4,1.73,8.91,0.016,M3
+Jan 10,Central Michigan University,Northwestern University,6,2,Win,-0.06,-0.39,0.33,0.281,91.5,6.06,2.39,2.719,M3
 Jan 10,University of California Santa Cruz,University of California Irvine,2,12,Loss,0.21,4.34,-4.13,-0.053,1.5,1.79,7.66,0.053,M3
 Jan 11,Illinois State University,University of Wisconsin,5,3,Win,2.57,-2.1,4.67,2.525,14.7,2.43,5.1,0.475,M3
 Jan 11,Indiana University,Northwestern University,8,5,Win,3.63,2.29,1.34,0.789,74.8,4.37,2.71,2.211,M3
@@ -1757,8 +1757,8 @@ Jan 16,Arizona State University,Grand Canyon University,5,1,Win,-1.75,-1.95,0.2,
 Jan 17,University of Notre Dame,University of Michigan,3,2,OT Win,-2.18,-0.67,-1.51,-0.165,73.3,4.18,2.67,2.165,M3
 Jan 17,Loyola University Maryland,Indiana University of Pennsylvania,2,8,Loss,0.36,1,-0.64,-0.072,2.1,1.64,7,0.072,M3
 Jan 17,Indiana University,Florida Gulf Coast University,1,9,Loss,-1,4.13,-5.14,-0.389,11.8,2,4.87,0.389,M3
-Jan 17,Western Michigan University,Grand Valley State University,2,6,Loss,-0.08,0.79,-0.88,-0.347,10.5,2.08,5.21,0.347,M3
 Jan 17,Olivet Nazarene University,Calvin University,0,3,Loss,-1.44,-5.59,4.15,-0.014,0.4,1.44,8.59,0.014,M3
+Jan 17,Western Michigan University,Grand Valley State University,2,6,Loss,-0.08,0.79,-0.88,-0.347,10.5,2.08,5.21,0.347,M3
 Jan 17,Northern Illinois University,"Wheaton College, IL.",15,3,Win,6.04,1.33,4.72,0.013,99.6,8.96,1.67,2.987,M3
 Jan 17,Missouri State University,University of Arkansas,4,2,Win,-1.25,-0.28,-0.97,0.396,87.9,5.25,2.28,2.604,M3
 Jan 17,University of Michigan Flint,University of Pittsburgh Johnstown,2,3,OT Loss,-1.43,-1.5,0.07,-0.466,48.8,3.43,3.5,1.466,M3
@@ -1828,9 +1828,9 @@ Jan 24,Butler University,Trine University,2,5,Loss,-1.76,1.07,-2.82,-1.423,47.3,
 Jan 24,Duquesne University,University of Cincinnati,2,1,OT Win,-2.97,-1.97,-1,0.05,65.8,3.97,2.97,1.95,M3
 Jan 24,University of Pittsburgh Johnstown,George Mason University,8,1,Win,0.57,-0.19,0.76,0.027,99.3,7.43,1.19,2.973,M3
 Jan 24,Merchant Marine Academy,Western Connecticut State University,1,4,Loss,-0.99,0.05,-1.04,-0.617,19.2,1.99,3.95,0.617,M3
-Jan 24,Grand Canyon University,Park University,7,0,Win,1.47,-2.4,3.87,0.375,88.5,5.53,2.4,2.625,M3
 Jan 24,Washington University in Saint Louis,University of Nebraska at Omaha,7,3,Win,3.99,-0.58,4.58,1.77,40.5,3.01,3.58,1.23,M3
 Jan 24,Northern Illinois University,Drury University,2,5,Loss,0.16,-1.21,1.37,-0.155,4.5,1.84,6.21,0.155,M3
+Jan 24,Grand Canyon University,Park University,7,0,Win,1.47,-2.4,3.87,0.375,88.5,5.53,2.4,2.625,M3
 Jan 24,Saint Louis University,Marian University,6,3,Win,-0.33,0.79,-1.12,0.208,93.8,6.33,2.21,2.792,M3
 Jan 25,California State University Long Beach,University of California Davis,3,5,Loss,0.02,0.32,-0.3,-0.797,25.5,2.98,4.68,0.797,M3
 Jan 25,Loyola University Chicago,University of Wisconsin,3,13,Loss,1.79,4.88,-3.09,-0.015,0.4,1.21,8.12,0.015,M3
@@ -1850,14 +1850,14 @@ Jan 25,United States Coast Guard Academy,Springfield College,8,3,Win,3.8,0.54,3.
 Jan 25,West Virginia University,PennWest California,0,4,Loss,-2.37,-0.54,-1.83,-0.599,18.7,2.37,4.54,0.599,M3
 Jan 25,Worcester Polytechnic Institute,University of Connecticut,4,2,Win,0.08,-0.19,0.27,0.714,77.5,3.92,2.19,2.286,M3
 Jan 25,Davenport University,University of Notre Dame,0,8,Loss,-1,-1.15,0.15,-0.003,0.1,1,9.15,0.003,M3
-Jan 25,Curry College,Central Maine Community College,1,8,Loss,-0.7,3.07,-3.76,-0.287,8.5,1.7,4.93,0.287,M3
 Jan 25,Hope College,Ferris State University,9,0,Win,2.21,-1.51,3.73,0.072,98,6.79,1.51,2.928,M3
 Jan 25,Sacred Heart University,University of Massachusetts,1,4,Loss,-1.82,0.59,-2.41,-1.216,40,2.82,3.41,1.216,M3
+Jan 25,Curry College,Central Maine Community College,1,8,Loss,-0.7,3.07,-3.76,-0.287,8.5,1.7,4.93,0.287,M3
 Jan 25,Dartmouth College,Thomas College,2,0,Win,-1.6,-3.25,1.64,1.336,55.8,3.6,3.25,1.664,M3
 Jan 25,Yeshiva University,Saint Thomas Aquinas College,2,12,Loss,0.71,4.65,-3.94,-0.034,0.9,1.29,7.35,0.034,M3
 Jan 25,University of Michigan Flint,University of Michigan,5,11,Loss,2.03,6.36,-4.33,-0.804,25.7,2.97,4.64,0.804,M3
-Jan 25,Saint Louis University,Marian University,6,0,Win,-0.33,-2.21,1.88,0.208,93.8,6.33,2.21,2.792,M3
 Jan 25,Central Michigan University,Western Michigan University,4,6,Loss,0.81,2.61,-1.81,-1.409,46.8,3.19,3.39,1.409,M3
+Jan 25,Saint Louis University,Marian University,6,0,Win,-0.33,-2.21,1.88,0.208,93.8,6.33,2.21,2.792,M3
 Jan 25,Indiana University of Pennsylvania,Robert Morris University,4,1,Win,0.02,-3.48,3.5,1.708,42.7,3.98,4.48,1.292,M3
 Jan 25,Duquesne University,University of Cincinnati,3,5,Loss,-0.97,2.03,-3,-1.95,65.8,3.97,2.97,1.95,M3
 Jan 25,Colorado College,Colorado School of Mines,2,6,Loss,0.16,-2.54,2.7,-0.027,0.7,1.84,8.54,0.027,M3
@@ -2028,10 +2028,10 @@ Feb 14,United States Air Force Academy,University of Nebraska at Omaha,6,0,Win,-
 Feb 14,"Wheaton College, IL.",Marian University,3,12,Loss,0.98,3.27,-2.29,-0.028,0.8,2.02,8.73,0.028,M3
 Feb 15,University of Cincinnati,Central Michigan University,1,9,Loss,-0.67,2.75,-3.42,-0.126,3.6,1.67,6.25,0.126,M3
 Feb 15,University of Nebraska,Drake University,3,4,Loss,-4.09,2.19,-6.28,-2.916,97.6,7.09,1.81,2.916,M3
-Feb 15,University of Akron,Adrian College,3,9,Loss,0.93,1.81,-0.88,-0.105,3,2.07,7.19,0.105,M3
 Feb 15,University of Kansas,Drury University,8,5,Win,2.71,1.85,0.86,0.674,78.6,5.29,3.15,2.326,M3
 Feb 15,Lawrence Tech,Oakland University,4,3,Win,0.81,-0.59,1.4,1.686,43.4,3.19,3.59,1.314,M3
 Feb 15,University of Arkansas,Dordt University,1,7,Loss,-1.71,-0.53,-1.18,-0.155,4.6,2.71,7.53,0.155,M3
+Feb 15,University of Akron,Adrian College,3,9,Loss,0.93,1.81,-0.88,-0.105,3,2.07,7.19,0.105,M3
 Feb 15,Purdue University,Indiana University,5,2,Win,1.27,0.16,1.12,0.621,80.7,3.73,1.84,2.379,M3
 Feb 15,Duquesne University,PennWest California,1,6,Loss,-1.3,0.77,-2.07,-0.404,12.4,2.3,5.23,0.404,M3
 Feb 15,University of Pittsburgh Johnstown,Indiana University of Pennsylvania,4,5,OT Loss,0.16,0.65,-0.49,-0.719,57.7,3.84,3.35,1.719,M3
@@ -2061,14 +2061,14 @@ Feb 21,Dallas Baptist University,Maryville University,1,2,OT Loss,-1.65,-2.71,1.
 Feb 21,University of Cincinnati,Miami University,2,5,Loss,0.33,-2.22,2.55,-0.064,1.8,1.67,7.22,0.064,M3
 Feb 21,University of Wisconsin,University of Wisconsin Stout,5,4,Win,-0.87,-0.15,-0.71,0.863,72.1,5.87,4.15,2.137,M3
 Feb 21,University of Pittsburgh Johnstown,Hope College,1,5,Loss,-0.56,-1.19,0.63,-0.114,3.3,1.56,6.19,0.114,M3
-Feb 21,Davenport University,Oakland University,2,17,Loss,1.2,6.68,-5.48,-0,0,0.8,10.32,0,M3
 Feb 21,Duquesne University,Indiana University of Pennsylvania,2,6,Loss,-0.8,0.73,-1.53,-0.558,17.5,2.8,5.27,0.558,M3
+Feb 21,Davenport University,Oakland University,2,17,Loss,1.2,6.68,-5.48,-0,0,0.8,10.32,0,M3
 Feb 21,Loyola University Maryland,York College of Pennsylvania,5,6,Loss,2.57,1.76,0.81,-0.711,22.5,2.43,4.24,0.711,M3
 Feb 21,Saint Vincent College,PennWest California,1,0,Win,-3.11,-2.84,-0.27,0.935,69.8,4.11,2.84,2.065,M3
 Feb 21,Northwestern University,Missouri State University,1,2,Loss,-0.95,-4.44,3.49,-0.151,4.4,1.95,6.44,0.151,M3
 Feb 21,Butler University,Xavier University,0,6,Loss,-2.64,0.39,-3.03,-0.428,13.2,2.64,5.61,0.428,M3
-Feb 21,Northern Arizona University,Colorado Mesa University,4,2,Win,0.71,-1.95,2.66,1.793,39.7,3.29,3.95,1.207,M3
 Feb 21,"Wheaton College, IL.",Drake University,0,14,Loss,-1.38,3.82,-5.21,-0.001,0,1.38,10.18,0.001,M3
+Feb 21,Northern Arizona University,Colorado Mesa University,4,2,Win,0.71,-1.95,2.66,1.793,39.7,3.29,3.95,1.207,M3
 Feb 22,Tufts University,Massachusetts Institute of Technology,4,2,Win,-1.7,-0.68,-1.02,0.42,87,5.7,2.68,2.58,M3
 Feb 22,"Wheaton College, IL.",Drake University,0,11,Loss,-1.38,0.82,-2.21,-0.001,0,1.38,10.18,0.001,M3
 Feb 22,University of Wisconsin,University of Wisconsin Stout,11,2,Win,5.13,-2.15,7.29,0.863,72.1,5.87,4.15,2.137,M3
@@ -2085,8 +2085,8 @@ Feb 22,Wentworth Institute of Technology,Central Maine Community College,4,6,Los
 Feb 22,SUNY Maritime College,Saint Thomas Aquinas College,1,6,Loss,-0.7,1.74,-2.43,-0.418,12.6,1.7,4.26,0.418,M3
 Feb 22,University of Nebraska,Missouri State University,2,3,Loss,-0.85,-0.25,-0.6,-1.303,43,2.85,3.25,1.303,M3
 Feb 23,Indiana University,Miami University,3,8,Loss,0.74,3.63,-2.89,-0.602,18.8,2.26,4.37,0.602,M3
-Feb 23,Central Maine Community College,Colby College,0,4,Loss,-3.54,-0.15,-3.39,-1.236,40.7,3.54,4.15,1.236,M3
 Feb 23,Western Michigan University,Adrian College,3,0,Win,-1.74,-3.23,1.49,0.878,71.7,4.74,3.23,2.122,M3
+Feb 23,Central Maine Community College,Colby College,0,4,Loss,-3.54,-0.15,-3.39,-1.236,40.7,3.54,4.15,1.236,M3
 Feb 23,Saint Thomas Aquinas College,Sacred Heart University,2,13,Loss,-0.04,8.89,-8.93,-0.589,18.3,2.04,4.11,0.589,M3
 Feb 23,Northern Arizona University,Colorado Mesa University,3,4,OT Loss,-0.29,-0.95,0.66,-0.207,39.7,3.29,3.95,1.207,M3
 Feb 23,University of Pittsburgh Johnstown,Duquesne University,8,0,Win,3.15,-2.31,5.45,0.492,84.8,4.85,2.31,2.508,M3
@@ -2096,8 +2096,8 @@ Feb 28,Adrian College,University of Michigan,3,4,OT Loss,0.02,-2.46,2.48,0.432,1
 Feb 28,Ferris State University,Calvin University,1,6,Loss,-0.53,-0.2,-0.33,-0.11,3.1,1.53,6.2,0.11,M3
 Feb 28,Missouri State University,Drury University,10,3,Win,5.62,0.92,4.7,0.528,83.7,4.38,2.08,2.472,M3
 Feb 28,Davenport University,Grand Valley State University,3,10,Loss,2.1,0.26,1.84,-0.001,0,0.9,9.74,0.001,M3
-Mar 1,University of Pittsburgh Johnstown,PennWest California,3,4,Loss,-0.15,0.67,-0.82,-1.416,47,3.15,3.33,1.416,M3
 Mar 1,Michigan State University,Hope College,1,3,Loss,-1.47,-1.5,0.03,-0.647,20.3,2.47,4.5,0.647,M3
+Mar 1,University of Pittsburgh Johnstown,PennWest California,3,4,Loss,-0.15,0.67,-0.82,-1.416,47,3.15,3.33,1.416,M3
 Mar 1,University of Michigan Flint,Lawrence Tech,0,7,Loss,-1.8,0.1,-1.9,-0.095,2.7,1.8,6.9,0.095,M3
 Mar 1,Missouri State University,Drury University,6,3,Win,1.62,0.92,0.7,0.528,83.7,4.38,2.08,2.472,M3
 Mar 1,Calvin University,Grand Valley State University,2,3,Loss,-1.09,0,-1.1,-1.547,51.7,3.09,3,1.547,M3
