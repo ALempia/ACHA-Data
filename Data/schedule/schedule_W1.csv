@@ -12,8 +12,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19429,2,0,Final,Midland_University,Minot_State_University,Regular,2024-9-27
 21076,3,2,Final,University_of_Colorado,University_of_Utah,Regular,2024-9-27
 21262,2,5,Final,Concordia_University_Ann_Arbor,Miami_University,Regular,2024-9-27
-18720,4,3,Final,Maryville_University,Niagara_University,Regular,2024-9-27
 21113,3,2,Final,Colorado_State_University,Montana_State_University,Regular,2024-9-27
+18720,4,3,Final,Maryville_University,Niagara_University,Regular,2024-9-27
 21263,0,1,Final,Concordia_University_Ann_Arbor,Miami_University,Regular,2024-9-28
 19430,3,0,Final,Midland_University,Minot_State_University,Regular,2024-9-28
 21077,3,1,Final,University_of_Colorado,University_of_Utah,Regular,2024-9-28
@@ -91,8 +91,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 23296,4,0,Final,McKendree_University,University_of_Jamestown,Regular,2024-10-25
 21264,0,4,Final,Concordia_University_Ann_Arbor,Indiana_Tech,Regular,2024-10-25
 18723,4,1,Final,Maryville_University,Miami_University,Regular,2024-10-25
-21285,6,2,Final,Niagara_University,University_of_Massachusetts_Amherst,Regular,2024-10-25
 21158,1,0,Final,Adrian_College,Liberty_University,Regular,2024-10-25
+21285,6,2,Final,Niagara_University,University_of_Massachusetts_Amherst,Regular,2024-10-25
 19786,2,3,Final,Montana_State_University,Grand_Canyon_University,Regular,2024-10-25
 21174,7,1,Final,Penn_State_University,Aquinas_College,Regular,2024-10-25
 21117,2,2,Final OT,Colorado_State_University,University_of_Utah,Regular,2024-10-25
@@ -409,8 +409,8 @@ game_id,homeG,awayG,status,home,away,phase,prop_date
 19221,1,5,Final,University_of_Arizona,Arizona_State_University,Regular,2025-2-21
 24532,7,0,Final,Liberty_University,University_of_Jamestown,Regular,2025-2-21
 24543,3,2,Final OT,University_of_Colorado,Grand_Canyon_University,Regular,2025-2-21
-21140,2,3,Final OT,University_of_Rhode_Island,University_of_Massachusetts_Amherst,Regular,2025-2-21
 24533,2,3,Final,Maryville_University,Minot_State_University,Regular,2025-2-21
+21140,2,3,Final OT,University_of_Rhode_Island,University_of_Massachusetts_Amherst,Regular,2025-2-21
 24544,2,4,Final,Colorado_State_University,University_of_Utah,Regular,2025-2-21
 24534,1,0,Final,University_of_Michigan_Dearborn,Miami_University,Regular,2025-2-22
 24541,2,1,Final,Liberty_University,Minot_State_University,Regular,2025-2-22
